@@ -1,0 +1,3367 @@
+[
+    {
+        "crc32": "58805709",
+        "mapper": 32,
+        "name": "3-D Tic-Tac-Toe"
+    },
+    {
+        "crc32": "7322EBC6",
+        "mapper": 32,
+        "name": "3-D Tic-Tac-Toe"
+    },
+    {
+        "crc32": "0",
+        "mapper": 240,
+        "name": "32 in 1"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "AKA Space Adventure"
+    },
+    {
+        "crc32": "14CDDAC7",
+        "mapper": 246,
+        "name": "Acid Drop"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Action Force"
+    },
+    {
+        "crc32": "A6DB4B3A",
+        "mapper": 64,
+        "name": "Adventure"
+    },
+    {
+        "crc32": "18DC23F9",
+        "mapper": 64,
+        "name": "Adventure"
+    },
+    {
+        "crc32": "1B8019D6",
+        "mapper": 64,
+        "name": "Adventures of TRON"
+    },
+    {
+        "crc32": "B0E53814",
+        "mapper": 64,
+        "name": "Air Raid"
+    },
+    {
+        "crc32": "BB16539D",
+        "mapper": 64,
+        "name": "Air Raiders"
+    },
+    {
+        "crc32": "42395399",
+        "mapper": 64,
+        "name": "Air Raiders"
+    },
+    {
+        "crc32": "CF7F8944",
+        "mapper": 32,
+        "name": "Air-Sea Battle"
+    },
+    {
+        "crc32": "25C90CE7",
+        "mapper": 64,
+        "name": "Airlock"
+    },
+    {
+        "crc32": "A2D4390B",
+        "mapper": 64,
+        "name": "Airlock"
+    },
+    {
+        "crc32": "B6AE31C6",
+        "mapper": 64,
+        "name": "Airlock"
+    },
+    {
+        "crc32": "6D61059F",
+        "mapper": 64,
+        "name": "Alien"
+    },
+    {
+        "crc32": "E61021EC",
+        "mapper": 64,
+        "name": "Alien"
+    },
+    {
+        "crc32": "27C6B897",
+        "mapper": 248,
+        "name": "Alpha Beam with Ernie"
+    },
+    {
+        "crc32": "D1ED3112",
+        "mapper": 248,
+        "name": "Alpha Beam with Ernie"
+    },
+    {
+        "crc32": "943E8E12",
+        "mapper": 248,
+        "name": "Alpha Beam with Ernie"
+    },
+    {
+        "crc32": "8EB5BD72",
+        "mapper": 64,
+        "name": "Amidar"
+    },
+    {
+        "crc32": "E9B05565",
+        "mapper": 64,
+        "name": "Amidar"
+    },
+    {
+        "crc32": "74FE8262",
+        "mapper": 64,
+        "name": "Angriff der Luftflotten"
+    },
+    {
+        "crc32": "FC35704B",
+        "mapper": 64,
+        "name": "Armor Ambush"
+    },
+    {
+        "crc32": "C974C21A",
+        "mapper": 64,
+        "name": "Armor Ambush"
+    },
+    {
+        "crc32": "1D0F7E8D",
+        "mapper": 248,
+        "name": "Artillery Duel"
+    },
+    {
+        "crc32": "1708647C",
+        "mapper": 248,
+        "name": "Artillery Duel"
+    },
+    {
+        "crc32": "CB6BB2AF",
+        "mapper": 248,
+        "name": "Artillery Duel"
+    },
+    {
+        "crc32": "AB3A2B77",
+        "mapper": 64,
+        "name": "Assault"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Asterix"
+    },
+    {
+        "crc32": "C7D64C94",
+        "mapper": 248,
+        "name": "Asteroids"
+    },
+    {
+        "crc32": "A2F8288",
+        "mapper": 248,
+        "name": "Asteroids"
+    },
+    {
+        "crc32": "70A59647",
+        "mapper": 248,
+        "name": "Asteroids"
+    },
+    {
+        "crc32": "6B2A18AB",
+        "mapper": 248,
+        "name": "Asteroids"
+    },
+    {
+        "crc32": "1DE25331",
+        "mapper": 64,
+        "name": "Astroblast"
+    },
+    {
+        "crc32": "A1DF435E",
+        "mapper": 64,
+        "name": "Astroblast"
+    },
+    {
+        "crc32": "D214F241",
+        "mapper": 64,
+        "name": "Astroblast"
+    },
+    {
+        "crc32": "272AE37F",
+        "mapper": 64,
+        "name": "Atari Video Cube"
+    },
+    {
+        "crc32": "8172299E",
+        "mapper": 64,
+        "name": "Atari Video Cube"
+    },
+    {
+        "crc32": "92560498",
+        "mapper": 64,
+        "name": "Atlantis"
+    },
+    {
+        "crc32": "85706802",
+        "mapper": 64,
+        "name": "Atlantis"
+    },
+    {
+        "crc32": "BA5566AA",
+        "mapper": 64,
+        "name": "Atlantis II"
+    },
+    {
+        "crc32": "26A3C844",
+        "mapper": 64,
+        "name": "BASIC Programming"
+    },
+    {
+        "crc32": "C207F43E",
+        "mapper": 64,
+        "name": "BASIC Programming"
+    },
+    {
+        "crc32": "B4017EE3",
+        "mapper": 246,
+        "name": "BMX Air Master"
+    },
+    {
+        "crc32": "DB722DD7",
+        "mapper": 246,
+        "name": "BMX Air Master"
+    },
+    {
+        "crc32": "2838B54",
+        "mapper": 246,
+        "name": "BMX Air Master"
+    },
+    {
+        "crc32": "D9CD6C95",
+        "mapper": 64,
+        "name": "Bachelor Party"
+    },
+    {
+        "crc32": "E8189EEB",
+        "mapper": 64,
+        "name": "Bachelorette Party"
+    },
+    {
+        "crc32": "E2A7FFA6",
+        "mapper": 64,
+        "name": "Backgammon"
+    },
+    {
+        "crc32": "A3D119C6",
+        "mapper": 64,
+        "name": "Backgammon"
+    },
+    {
+        "crc32": "7AA79D1E",
+        "mapper": 64,
+        "name": "Bank Heist"
+    },
+    {
+        "crc32": "47D4B652",
+        "mapper": 64,
+        "name": "Bank Heist"
+    },
+    {
+        "crc32": "4A005181",
+        "mapper": 64,
+        "name": "Barnstorming"
+    },
+    {
+        "crc32": "F866DBF7",
+        "mapper": 64,
+        "name": "Barnstorming"
+    },
+    {
+        "crc32": "281736D6",
+        "mapper": 64,
+        "name": "Barnstorming"
+    },
+    {
+        "crc32": "81F1E5DD",
+        "mapper": 64,
+        "name": "Base Attack"
+    },
+    {
+        "crc32": "D48EBAC0",
+        "mapper": 32,
+        "name": "Basic Math"
+    },
+    {
+        "crc32": "5456CDCA",
+        "mapper": 32,
+        "name": "Basic Math"
+    },
+    {
+        "crc32": "B31D49F0",
+        "mapper": 32,
+        "name": "Basketball"
+    },
+    {
+        "crc32": "711A2340",
+        "mapper": 32,
+        "name": "Basketball"
+    },
+    {
+        "crc32": "9155DD1D",
+        "mapper": 248,
+        "name": "Battlezone"
+    },
+    {
+        "crc32": "5CC921F6",
+        "mapper": 248,
+        "name": "Battlezone"
+    },
+    {
+        "crc32": "C1E6D7CF",
+        "mapper": 248,
+        "name": "Battlezone"
+    },
+    {
+        "crc32": "63F31AF6",
+        "mapper": 248,
+        "name": "Battlezone"
+    },
+    {
+        "crc32": "1618565B",
+        "mapper": 248,
+        "name": "Beamrider"
+    },
+    {
+        "crc32": "6ED2E636",
+        "mapper": 248,
+        "name": "Beamrider"
+    },
+    {
+        "crc32": "B722BC8F",
+        "mapper": 64,
+        "name": "Beany Bopper"
+    },
+    {
+        "crc32": "624C9345",
+        "mapper": 64,
+        "name": "Beany Bopper"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Beat 'Em & Eat 'Em"
+    },
+    {
+        "crc32": "29D28BAF",
+        "mapper": 248,
+        "name": "Berenstain Bears"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Bermuda"
+    },
+    {
+        "crc32": "FCB5B94",
+        "mapper": 64,
+        "name": "Bermuda Triangle"
+    },
+    {
+        "crc32": "A8C0AEC9",
+        "mapper": 64,
+        "name": "Bermuda Triangle"
+    },
+    {
+        "crc32": "2E8B4B5F",
+        "mapper": 64,
+        "name": "Berzerk"
+    },
+    {
+        "crc32": "D7F66624",
+        "mapper": 64,
+        "name": "Berzerk"
+    },
+    {
+        "crc32": "F973D708",
+        "mapper": 64,
+        "name": "Berzerk"
+    },
+    {
+        "crc32": "0",
+        "mapper": 244,
+        "name": "Berzerk Enhanced"
+    },
+    {
+        "crc32": "96DC9A9C",
+        "mapper": 248,
+        "name": "Big Bird's Egg Catch"
+    },
+    {
+        "crc32": "B0555578",
+        "mapper": 248,
+        "name": "Big Bird's Egg Catch"
+    },
+    {
+        "crc32": "9DE03520",
+        "mapper": 248,
+        "name": "Big Bird's Egg Catch"
+    },
+    {
+        "crc32": "EEB65EFA",
+        "mapper": 248,
+        "name": "Big Bird's Egg Catch"
+    },
+    {
+        "crc32": "3A4038AC",
+        "mapper": 248,
+        "name": "Big Bird's Egg Catch"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Blackjack"
+    },
+    {
+        "crc32": "DA7B9DFA",
+        "mapper": 248,
+        "name": "Blueprint"
+    },
+    {
+        "crc32": "71139A5E",
+        "mapper": 248,
+        "name": "Blueprint"
+    },
+    {
+        "crc32": "5A95A4F4",
+        "mapper": 248,
+        "name": "Blueprint"
+    },
+    {
+        "crc32": "D5CFA0A7",
+        "mapper": 248,
+        "name": "Blueprint"
+    },
+    {
+        "crc32": "F061E27F",
+        "mapper": 64,
+        "name": "Bobby Is Going Home"
+    },
+    {
+        "crc32": "99A2A654",
+        "mapper": 64,
+        "name": "Bobby Is Going Home"
+    },
+    {
+        "crc32": "3E662128",
+        "mapper": 64,
+        "name": "Bobby Is Going Home"
+    },
+    {
+        "crc32": "358940E3",
+        "mapper": 64,
+        "name": "Bobby Is Going Home"
+    },
+    {
+        "crc32": "5C4A04C8",
+        "mapper": 64,
+        "name": "Bobby Is Going Home"
+    },
+    {
+        "crc32": "5D61B833",
+        "mapper": 64,
+        "name": "Bogey Blaster"
+    },
+    {
+        "crc32": "AD380487",
+        "mapper": 64,
+        "name": "Boing!"
+    },
+    {
+        "crc32": "D2F06299",
+        "mapper": 64,
+        "name": "Boing!"
+    },
+    {
+        "crc32": "3BEDA93B",
+        "mapper": 64,
+        "name": "Boom Bang"
+    },
+    {
+        "crc32": "FEA0D6D5",
+        "mapper": 32,
+        "name": "Bowling"
+    },
+    {
+        "crc32": "C7BC1BCA",
+        "mapper": 32,
+        "name": "Bowling"
+    },
+    {
+        "crc32": "9ECE0021",
+        "mapper": 32,
+        "name": "Boxing"
+    },
+    {
+        "crc32": "515036F1",
+        "mapper": 32,
+        "name": "Boxing"
+    },
+    {
+        "crc32": "411AE6B",
+        "mapper": 32,
+        "name": "Boxing"
+    },
+    {
+        "crc32": "150709C2",
+        "mapper": 32,
+        "name": "Brain Games"
+    },
+    {
+        "crc32": "EA630E68",
+        "mapper": 32,
+        "name": "Brain Games"
+    },
+    {
+        "crc32": "AE897E53",
+        "mapper": 32,
+        "name": "Breakout"
+    },
+    {
+        "crc32": "33717471",
+        "mapper": 32,
+        "name": "Breakout"
+    },
+    {
+        "crc32": "8DB95D1E",
+        "mapper": 64,
+        "name": "Bridge"
+    },
+    {
+        "crc32": "63CEEB81",
+        "mapper": 64,
+        "name": "Bridge"
+    },
+    {
+        "crc32": "9C71D175",
+        "mapper": 64,
+        "name": "Bridge"
+    },
+    {
+        "crc32": "2030F686",
+        "mapper": 248,
+        "name": "Buck Rogers - Planet of Zoom"
+    },
+    {
+        "crc32": "F8B140FA",
+        "mapper": 248,
+        "name": "Buck Rogers - Planet of Zoom"
+    },
+    {
+        "crc32": "1202427C",
+        "mapper": 64,
+        "name": "Bugs"
+    },
+    {
+        "crc32": "D1DDB571",
+        "mapper": 64,
+        "name": "Bugs"
+    },
+    {
+        "crc32": "209C0E5",
+        "mapper": 231,
+        "name": "Bump 'n' Jump"
+    },
+    {
+        "crc32": "194F3576",
+        "mapper": 231,
+        "name": "Bump 'n' Jump"
+    },
+    {
+        "crc32": "B1A6A23E",
+        "mapper": 64,
+        "name": "Bumper Bash"
+    },
+    {
+        "crc32": "863248FC",
+        "mapper": 64,
+        "name": "Bumper Bash"
+    },
+    {
+        "crc32": "C183FBBC",
+        "mapper": 231,
+        "name": "BurgerTime"
+    },
+    {
+        "crc32": "92F91D36",
+        "mapper": 64,
+        "name": "Burning Desire"
+    },
+    {
+        "crc32": "F2593D9B",
+        "mapper": 64,
+        "name": "Burning Desire"
+    },
+    {
+        "crc32": "73494211",
+        "mapper": 64,
+        "name": "Cakewalk"
+    },
+    {
+        "crc32": "26C5B6BD",
+        "mapper": 64,
+        "name": "Cakewalk"
+    },
+    {
+        "crc32": "E9A3FDC3",
+        "mapper": 246,
+        "name": "California Games"
+    },
+    {
+        "crc32": "C53D0352",
+        "mapper": 246,
+        "name": "California Games"
+    },
+    {
+        "crc32": "E914B8CA",
+        "mapper": 32,
+        "name": "Canyon Bomber"
+    },
+    {
+        "crc32": "7AC3C700",
+        "mapper": 64,
+        "name": "Carnival"
+    },
+    {
+        "crc32": "FB7E75A1",
+        "mapper": 64,
+        "name": "Carnival"
+    },
+    {
+        "crc32": "675C7F84",
+        "mapper": 64,
+        "name": "Casino"
+    },
+    {
+        "crc32": "C847E5EC",
+        "mapper": 64,
+        "name": "Cat Trax"
+    },
+    {
+        "crc32": "3C4E3F41",
+        "mapper": 64,
+        "name": "Cathouse Blues"
+    },
+    {
+        "crc32": "0",
+        "mapper": 246,
+        "name": "Caverns of Mars"
+    },
+    {
+        "crc32": "77396102",
+        "mapper": 248,
+        "name": "Centipede"
+    },
+    {
+        "crc32": "44D16280",
+        "mapper": 248,
+        "name": "Centipede"
+    },
+    {
+        "crc32": "AAE78B7F",
+        "mapper": 248,
+        "name": "Centipede"
+    },
+    {
+        "crc32": "1F19AA5D",
+        "mapper": 248,
+        "name": "Challenge"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Challenge of.... Nexar"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Chase the Chuckwagon"
+    },
+    {
+        "crc32": "E74F1B59",
+        "mapper": 32,
+        "name": "Checkers"
+    },
+    {
+        "crc32": "6B71B32D",
+        "mapper": 64,
+        "name": "Chess"
+    },
+    {
+        "crc32": "A714E79C",
+        "mapper": 64,
+        "name": "China Syndrome"
+    },
+    {
+        "crc32": "7690B0C3",
+        "mapper": 64,
+        "name": "China Syndrome"
+    },
+    {
+        "crc32": "1DFA64DF",
+        "mapper": 64,
+        "name": "Chopper Command"
+    },
+    {
+        "crc32": "6BE865A5",
+        "mapper": 64,
+        "name": "Chopper Command"
+    },
+    {
+        "crc32": "96210C6C",
+        "mapper": 248,
+        "name": "Chuck Norris Superkicks"
+    },
+    {
+        "crc32": "D2A330A3",
+        "mapper": 64,
+        "name": "Circus Atari"
+    },
+    {
+        "crc32": "95C9FE2B",
+        "mapper": 64,
+        "name": "Circus Atari"
+    },
+    {
+        "crc32": "B3E44E5C",
+        "mapper": 64,
+        "name": "Coco Nuts"
+    },
+    {
+        "crc32": "947EDB18",
+        "mapper": 32,
+        "name": "Codebreaker"
+    },
+    {
+        "crc32": "B1CB7CDC",
+        "mapper": 32,
+        "name": "Codebreaker"
+    },
+    {
+        "crc32": "7BEE5800",
+        "mapper": 32,
+        "name": "Combat"
+    },
+    {
+        "crc32": "D64A9C5",
+        "mapper": 32,
+        "name": "Combat"
+    },
+    {
+        "crc32": "8D3025DC",
+        "mapper": 246,
+        "name": "Commando"
+    },
+    {
+        "crc32": "B898762D",
+        "mapper": 246,
+        "name": "Commando"
+    },
+    {
+        "crc32": "2C698B31",
+        "mapper": 246,
+        "name": "Commando"
+    },
+    {
+        "crc32": "E46583E6",
+        "mapper": 64,
+        "name": "Commando Raid"
+    },
+    {
+        "crc32": "A3EE754E",
+        "mapper": 64,
+        "name": "Commando Raid"
+    },
+    {
+        "crc32": "B6C582EB",
+        "mapper": 64,
+        "name": "Condor Attack"
+    },
+    {
+        "crc32": "C2DBCEFE",
+        "mapper": 64,
+        "name": "Confrontation"
+    },
+    {
+        "crc32": "3F6E7E0C",
+        "mapper": 248,
+        "name": "Congo Bongo"
+    },
+    {
+        "crc32": "97BA488F",
+        "mapper": 248,
+        "name": "Cookie Monster Munch"
+    },
+    {
+        "crc32": "CB377C19",
+        "mapper": 248,
+        "name": "Cookie Monster Munch"
+    },
+    {
+        "crc32": "CB374F0E",
+        "mapper": 64,
+        "name": "Cosmic Ark"
+    },
+    {
+        "crc32": "F1421B2F",
+        "mapper": 64,
+        "name": "Cosmic Ark"
+    },
+    {
+        "crc32": "4939BA40",
+        "mapper": 64,
+        "name": "Cosmic Commuter"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Cosmic Corridor"
+    },
+    {
+        "crc32": "47AAA2DD",
+        "mapper": 64,
+        "name": "Cosmic Creeps"
+    },
+    {
+        "crc32": "27F1AE48",
+        "mapper": 32,
+        "name": "Cosmic Swarm"
+    },
+    {
+        "crc32": "ECD891B3",
+        "mapper": 64,
+        "name": "Crackpots"
+    },
+    {
+        "crc32": "59FE4666",
+        "mapper": 64,
+        "name": "Crash Dive"
+    },
+    {
+        "crc32": "A3A3C009",
+        "mapper": 248,
+        "name": "Crazy Climber"
+    },
+    {
+        "crc32": "41B0D615",
+        "mapper": 64,
+        "name": "Cross Force"
+    },
+    {
+        "crc32": "5C042596",
+        "mapper": 64,
+        "name": "Cross Force"
+    },
+    {
+        "crc32": "1F233140",
+        "mapper": 246,
+        "name": "Crossbow"
+    },
+    {
+        "crc32": "C5B29962",
+        "mapper": 64,
+        "name": "Crypts of Chaos"
+    },
+    {
+        "crc32": "9007B5AC",
+        "mapper": 246,
+        "name": "Crystal Castles"
+    },
+    {
+        "crc32": "D5622D0B",
+        "mapper": 246,
+        "name": "Crystal Castles"
+    },
+    {
+        "crc32": "D5D43A7A",
+        "mapper": 64,
+        "name": "Cubicolor"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Cubo Magico"
+    },
+    {
+        "crc32": "21283941",
+        "mapper": 64,
+        "name": "Custer's Revenge"
+    },
+    {
+        "crc32": "250C4E3F",
+        "mapper": 64,
+        "name": "Dancing Plate"
+    },
+    {
+        "crc32": "481078C",
+        "mapper": 64,
+        "name": "Dark Cavern"
+    },
+    {
+        "crc32": "83900281",
+        "mapper": 6,
+        "name": "Dark Chambers"
+    },
+    {
+        "crc32": "A138B73A",
+        "mapper": 6,
+        "name": "Dark Chambers"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Dark Mage"
+    },
+    {
+        "crc32": "F33A9A2D",
+        "mapper": 64,
+        "name": "Deadly Duck"
+    },
+    {
+        "crc32": "FDF79A60",
+        "mapper": 64,
+        "name": "Death Trap"
+    },
+    {
+        "crc32": "0",
+        "mapper": 254,
+        "name": "Decathlon"
+    },
+    {
+        "crc32": "DF43D8E",
+        "mapper": 64,
+        "name": "Defender"
+    },
+    {
+        "crc32": "B1722FB0",
+        "mapper": 64,
+        "name": "Defender"
+    },
+    {
+        "crc32": "93217704",
+        "mapper": 248,
+        "name": "Defender II"
+    },
+    {
+        "crc32": "E9305AE2",
+        "mapper": 64,
+        "name": "Demolition Herby"
+    },
+    {
+        "crc32": "31C9DF5E",
+        "mapper": 64,
+        "name": "Demon Attack"
+    },
+    {
+        "crc32": "42B2DFA9",
+        "mapper": 64,
+        "name": "Demon Attack"
+    },
+    {
+        "crc32": "9B97C3DA",
+        "mapper": 64,
+        "name": "Demons to Diamonds"
+    },
+    {
+        "crc32": "CAA0054E",
+        "mapper": 246,
+        "name": "Desert Falcon"
+    },
+    {
+        "crc32": "F691B853",
+        "mapper": 64,
+        "name": "Dice Puzzle"
+    },
+    {
+        "crc32": "8D05D61B",
+        "mapper": 64,
+        "name": "Dice Puzzle"
+    },
+    {
+        "crc32": "EE7B80D1",
+        "mapper": 246,
+        "name": "Dig Dug"
+    },
+    {
+        "crc32": "C8150316",
+        "mapper": 64,
+        "name": "Dishaster"
+    },
+    {
+        "crc32": "10CFC6C0",
+        "mapper": 64,
+        "name": "Dodge 'Em"
+    },
+    {
+        "crc32": "2FBC59CD",
+        "mapper": 64,
+        "name": "Dodge 'Em"
+    },
+    {
+        "crc32": "9E38A7B9",
+        "mapper": 64,
+        "name": "Dolphin"
+    },
+    {
+        "crc32": "8DB92C76",
+        "mapper": 248,
+        "name": "Donald Duck's Speedboat"
+    },
+    {
+        "crc32": "F331B069",
+        "mapper": 64,
+        "name": "Donkey Kong"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Donkey Kong Jr"
+    },
+    {
+        "crc32": "8320BB37",
+        "mapper": 246,
+        "name": "Double Dragon"
+    },
+    {
+        "crc32": "208F6C20",
+        "mapper": 246,
+        "name": "Double Dunk"
+    },
+    {
+        "crc32": "C22CD3BC",
+        "mapper": 246,
+        "name": "Double Dunk"
+    },
+    {
+        "crc32": "D57E23D",
+        "mapper": 64,
+        "name": "Dragon Defender"
+    },
+    {
+        "crc32": "BA5DC02C",
+        "mapper": 64,
+        "name": "Dragonfire"
+    },
+    {
+        "crc32": "4042D3AB",
+        "mapper": 32,
+        "name": "Dragster"
+    },
+    {
+        "crc32": "D26B820B",
+        "mapper": 32,
+        "name": "Dragster"
+    },
+    {
+        "crc32": "AA168AAA",
+        "mapper": 64,
+        "name": "Dschungel Boy"
+    },
+    {
+        "crc32": "2DB406DC",
+        "mapper": 246,
+        "name": "Dukes of Hazzard"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "E.T."
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Earth Dies Screaming"
+    },
+    {
+        "crc32": "C78EC927",
+        "mapper": 64,
+        "name": "Eggomania"
+    },
+    {
+        "crc32": "DC5A9D77",
+        "mapper": 248,
+        "name": "Elevator Action"
+    },
+    {
+        "crc32": "2C5E6932",
+        "mapper": 64,
+        "name": "Eli's Ladder"
+    },
+    {
+        "crc32": "E78FE552",
+        "mapper": 64,
+        "name": "Encounter at L-5"
+    },
+    {
+        "crc32": "2EF17B2E",
+        "mapper": 64,
+        "name": "Enduro"
+    },
+    {
+        "crc32": "FC2D83AC",
+        "mapper": 64,
+        "name": "Enduro"
+    },
+    {
+        "crc32": "D3E48AFE",
+        "mapper": 64,
+        "name": "Ente und der Wolf, Die"
+    },
+    {
+        "crc32": "E48EC9DC",
+        "mapper": 64,
+        "name": "Entombed"
+    },
+    {
+        "crc32": "1F95351A",
+        "mapper": 63,
+        "name": "Espial"
+    },
+    {
+        "crc32": "5CC39028",
+        "mapper": 64,
+        "name": "Exocet"
+    },
+    {
+        "crc32": "D5BFA09B",
+        "mapper": 64,
+        "name": "Exocet"
+    },
+    {
+        "crc32": "3889D018",
+        "mapper": 64,
+        "name": "Extra Terrestrials"
+    },
+    {
+        "crc32": "A60E153F",
+        "mapper": 64,
+        "name": "Fantastic Voyage"
+    },
+    {
+        "crc32": "73474B03",
+        "mapper": 64,
+        "name": "Farmyard Fun"
+    },
+    {
+        "crc32": "C0A7A02",
+        "mapper": 64,
+        "name": "Fast Eddie"
+    },
+    {
+        "crc32": "62388455",
+        "mapper": 64,
+        "name": "Fast Food"
+    },
+    {
+        "crc32": "991D2348",
+        "mapper": 244,
+        "name": "Fatal Run"
+    },
+    {
+        "crc32": "60B08497",
+        "mapper": 244,
+        "name": "Fatal Run"
+    },
+    {
+        "crc32": "861C4ACA",
+        "mapper": 244,
+        "name": "Fatal Run"
+    },
+    {
+        "crc32": "93DA13CC",
+        "mapper": 248,
+        "name": "Fathom"
+    },
+    {
+        "crc32": "C6B6BCE5",
+        "mapper": 64,
+        "name": "Feuerwehr im Einsatz"
+    },
+    {
+        "crc32": "0",
+        "mapper": 246,
+        "name": "Fighter Pilot"
+    },
+    {
+        "crc32": "FF23F469",
+        "mapper": 64,
+        "name": "Final Approach"
+    },
+    {
+        "crc32": "AA4D1492",
+        "mapper": 64,
+        "name": "Fire Birds"
+    },
+    {
+        "crc32": "E361FB42",
+        "mapper": 64,
+        "name": "Fire Fighter"
+    },
+    {
+        "crc32": "1174CB1F",
+        "mapper": 64,
+        "name": "Fire Fighter"
+    },
+    {
+        "crc32": "7A8E4EC7",
+        "mapper": 64,
+        "name": "Fire Fly"
+    },
+    {
+        "crc32": "204C928F",
+        "mapper": 32,
+        "name": "Fishing Derby"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Flag Capture"
+    },
+    {
+        "crc32": "D61CE7D",
+        "mapper": 64,
+        "name": "Flash Gordon"
+    },
+    {
+        "crc32": "3B73EE02",
+        "mapper": 32,
+        "name": "Football"
+    },
+    {
+        "crc32": "1AAAB749",
+        "mapper": 64,
+        "name": "Forest"
+    },
+    {
+        "crc32": "AD44DFF9",
+        "mapper": 64,
+        "name": "Frankenstein's Monster"
+    },
+    {
+        "crc32": "B13EC413",
+        "mapper": 32,
+        "name": "Freeway"
+    },
+    {
+        "crc32": "C4F16D4D",
+        "mapper": 64,
+        "name": "Frisco"
+    },
+    {
+        "crc32": "5874385A",
+        "mapper": 248,
+        "name": "Frog Pond"
+    },
+    {
+        "crc32": "F5E1AF92",
+        "mapper": 64,
+        "name": "Frogger"
+    },
+    {
+        "crc32": "0",
+        "mapper": 224,
+        "name": "Frogger II"
+    },
+    {
+        "crc32": "6476C136",
+        "mapper": 64,
+        "name": "Frogs and Flies"
+    },
+    {
+        "crc32": "C352F290",
+        "mapper": 248,
+        "name": "Front Line"
+    },
+    {
+        "crc32": "B61BE7A3",
+        "mapper": 64,
+        "name": "Frostbite"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "G.I. Joe"
+    },
+    {
+        "crc32": "4E9FE271",
+        "mapper": 248,
+        "name": "Galaxian"
+    },
+    {
+        "crc32": "E7AF7D8E",
+        "mapper": 248,
+        "name": "Galaxian"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Gamma Attack"
+    },
+    {
+        "crc32": "3C2452C",
+        "mapper": 64,
+        "name": "Gangster Alley"
+    },
+    {
+        "crc32": "D485E58C",
+        "mapper": 64,
+        "name": "Gangster Alley"
+    },
+    {
+        "crc32": "40699CA5",
+        "mapper": 64,
+        "name": "Gas Hog"
+    },
+    {
+        "crc32": "C7AC23C7",
+        "mapper": 64,
+        "name": "Gauntlet"
+    },
+    {
+        "crc32": "6FC46219",
+        "mapper": 248,
+        "name": "Ghost Manor"
+    },
+    {
+        "crc32": "5B6A81D1",
+        "mapper": 248,
+        "name": "Ghost Manor"
+    },
+    {
+        "crc32": "45443D13",
+        "mapper": 248,
+        "name": "Ghostbusters"
+    },
+    {
+        "crc32": "39846E3F",
+        "mapper": 248,
+        "name": "Ghostbusters"
+    },
+    {
+        "crc32": "A3C342B8",
+        "mapper": 246,
+        "name": "Ghostbusters II"
+    },
+    {
+        "crc32": "4E16A8DC",
+        "mapper": 64,
+        "name": "Gigolo"
+    },
+    {
+        "crc32": "44E77FD6",
+        "mapper": 64,
+        "name": "Glacier Patrol"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Glib"
+    },
+    {
+        "crc32": "46A9F200",
+        "mapper": 32,
+        "name": "Golf"
+    },
+    {
+        "crc32": "AC8321D8",
+        "mapper": 64,
+        "name": "Gopher"
+    },
+    {
+        "crc32": "9BD137AA",
+        "mapper": 64,
+        "name": "Gorf"
+    },
+    {
+        "crc32": "DEE8E883",
+        "mapper": 64,
+        "name": "Gorf"
+    },
+    {
+        "crc32": "E855273D",
+        "mapper": 246,
+        "name": "Grand Prix"
+    },
+    {
+        "crc32": "C87FCCBE",
+        "mapper": 248,
+        "name": "Gravitar"
+    },
+    {
+        "crc32": "58010BE3",
+        "mapper": 64,
+        "name": "Great Escape"
+    },
+    {
+        "crc32": "99C240C1",
+        "mapper": 64,
+        "name": "Great Escape"
+    },
+    {
+        "crc32": "48D5991F",
+        "mapper": 248,
+        "name": "Gremlins"
+    },
+    {
+        "crc32": "121738F5",
+        "mapper": 64,
+        "name": "Guardian"
+    },
+    {
+        "crc32": "D78E8A9",
+        "mapper": 224,
+        "name": "Gyruss"
+    },
+    {
+        "crc32": "721E95B7",
+        "mapper": 248,
+        "name": "H.E.R.O."
+    },
+    {
+        "crc32": "27FFD4E6",
+        "mapper": 248,
+        "name": "H.E.R.O."
+    },
+    {
+        "crc32": "B1B11806",
+        "mapper": 64,
+        "name": "Halloween"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Hangman"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Harbor Escape"
+    },
+    {
+        "crc32": "AA62D961",
+        "mapper": 64,
+        "name": "Haunted House"
+    },
+    {
+        "crc32": "95E14DB7",
+        "mapper": 64,
+        "name": "Haunted House"
+    },
+    {
+        "crc32": "66D5CE67",
+        "mapper": 64,
+        "name": "Hole Hunter"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Home Run"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Human Cannonball"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Hunt & Score"
+    },
+    {
+        "crc32": "57908550",
+        "mapper": 64,
+        "name": "I Want My Mommy"
+    },
+    {
+        "crc32": "5EA5D7E3",
+        "mapper": 64,
+        "name": "IQ 180"
+    },
+    {
+        "crc32": "ADAB8CDF",
+        "mapper": 64,
+        "name": "Ice Hockey"
+    },
+    {
+        "crc32": "5B7CE555",
+        "mapper": 246,
+        "name": "Ikari Warriors"
+    },
+    {
+        "crc32": "7F77AFC9",
+        "mapper": 32,
+        "name": "Indy 500"
+    },
+    {
+        "crc32": "612BD4DA",
+        "mapper": 64,
+        "name": "Infiltrate"
+    },
+    {
+        "crc32": "B9D549A2",
+        "mapper": 64,
+        "name": "International Soccer"
+    },
+    {
+        "crc32": "34D3FFC8",
+        "mapper": 224,
+        "name": "James Bond 007"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Jaw Breaker"
+    },
+    {
+        "crc32": "52FF8027",
+        "mapper": 64,
+        "name": "Journey Escape"
+    },
+    {
+        "crc32": "A07B3304",
+        "mapper": 248,
+        "name": "Joust"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "JoustPong"
+    },
+    {
+        "crc32": "5C345BAC",
+        "mapper": 246,
+        "name": "Jr. Pac-Man"
+    },
+    {
+        "crc32": "123617B",
+        "mapper": 64,
+        "name": "Jungle Fever"
+    },
+    {
+        "crc32": "9C3E8734",
+        "mapper": 248,
+        "name": "Jungle Hunt"
+    },
+    {
+        "crc32": "EF6686C8",
+        "mapper": 248,
+        "name": "Jungle Hunt"
+    },
+    {
+        "crc32": "813F00F6",
+        "mapper": 32,
+        "name": "Kaboom!"
+    },
+    {
+        "crc32": "B9AB57E6",
+        "mapper": 248,
+        "name": "Kangaroo"
+    },
+    {
+        "crc32": "AC0A9CE0",
+        "mapper": 64,
+        "name": "Karate"
+    },
+    {
+        "crc32": "3E55F3A1",
+        "mapper": 64,
+        "name": "Keystone Kapers"
+    },
+    {
+        "crc32": "CB6F5617",
+        "mapper": 64,
+        "name": "King Kong"
+    },
+    {
+        "crc32": "8DD9E5D9",
+        "mapper": 6,
+        "name": "Klax"
+    },
+    {
+        "crc32": "6BC47721",
+        "mapper": 6,
+        "name": "Klax"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Kleine Baer, Der"
+    },
+    {
+        "crc32": "ACEA70A6",
+        "mapper": 64,
+        "name": "Knight on the Town"
+    },
+    {
+        "crc32": "D9BD009B",
+        "mapper": 64,
+        "name": "Kool-Aid Man"
+    },
+    {
+        "crc32": "1A67E6ED",
+        "mapper": 248,
+        "name": "Krull"
+    },
+    {
+        "crc32": "B3091531",
+        "mapper": 248,
+        "name": "Kung Fu Superkicks"
+    },
+    {
+        "crc32": "5FEA6E51",
+        "mapper": 248,
+        "name": "Kung-Fu Master"
+    },
+    {
+        "crc32": "4F2BC502",
+        "mapper": 64,
+        "name": "Labyrinth"
+    },
+    {
+        "crc32": "F197BBCC",
+        "mapper": 64,
+        "name": "Lady in Wading"
+    },
+    {
+        "crc32": "99365F26",
+        "mapper": 32,
+        "name": "Laser Blast"
+    },
+    {
+        "crc32": "4B7865AF",
+        "mapper": 64,
+        "name": "Laser Gates"
+    },
+    {
+        "crc32": "1785047A",
+        "mapper": 64,
+        "name": "Laser Gates"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Lilly Advenure"
+    },
+    {
+        "crc32": "B2A2FF31",
+        "mapper": 64,
+        "name": "Lochjaw"
+    },
+    {
+        "crc32": "7994BF16",
+        "mapper": 64,
+        "name": "Lock 'n' Chase"
+    },
+    {
+        "crc32": "D23CD66C",
+        "mapper": 64,
+        "name": "London Blitz"
+    },
+    {
+        "crc32": "551BDD37",
+        "mapper": 64,
+        "name": "Lost Luggage"
+    },
+    {
+        "crc32": "5CB68FE5",
+        "mapper": 64,
+        "name": "M.A.D."
+    },
+    {
+        "crc32": "13E1C83D",
+        "mapper": 64,
+        "name": "M.A.S.H"
+    },
+    {
+        "crc32": "14F126C0",
+        "mapper": 192,
+        "name": "MagiCard"
+    },
+    {
+        "crc32": "65790EF9",
+        "mapper": 64,
+        "name": "Malagai"
+    },
+    {
+        "crc32": "B807B775",
+        "mapper": 64,
+        "name": "Mangia'"
+    },
+    {
+        "crc32": "F8A8B470",
+        "mapper": 64,
+        "name": "Marauder"
+    },
+    {
+        "crc32": "4D281EE3",
+        "mapper": 64,
+        "name": "Marine Wars"
+    },
+    {
+        "crc32": "229512E4",
+        "mapper": 64,
+        "name": "Marineflieger"
+    },
+    {
+        "crc32": "8FBF7E90",
+        "mapper": 248,
+        "name": "Mario Bros."
+    },
+    {
+        "crc32": "DD196D6C",
+        "mapper": 64,
+        "name": "Master Builder"
+    },
+    {
+        "crc32": "0",
+        "mapper": 231,
+        "name": "Masters of the Universe"
+    },
+    {
+        "crc32": "CCC90C98",
+        "mapper": 64,
+        "name": "Math Gran Prix"
+    },
+    {
+        "crc32": "4EEFE843",
+        "mapper": 64,
+        "name": "Math Gran Prix"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Maze Craze"
+    },
+    {
+        "crc32": "9E6AE8C2",
+        "mapper": 64,
+        "name": "Mega Force"
+    },
+    {
+        "crc32": "26914CE0",
+        "mapper": 240,
+        "name": "MegaBoy"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "MegaMania"
+    },
+    {
+        "crc32": "BB47D5AF",
+        "mapper": 64,
+        "name": "Meteor Defense"
+    },
+    {
+        "crc32": "5C5447B9",
+        "mapper": 246,
+        "name": "Midnight Magic"
+    },
+    {
+        "crc32": "6CF038FA",
+        "mapper": 246,
+        "name": "Midnight Magic"
+    },
+    {
+        "crc32": "CCC82DD0",
+        "mapper": 246,
+        "name": "Millipede"
+    },
+    {
+        "crc32": "7CC6C991",
+        "mapper": 248,
+        "name": "Mind Maze"
+    },
+    {
+        "crc32": "0",
+        "mapper": 63,
+        "name": "Miner 2049er"
+    },
+    {
+        "crc32": "71E814E9",
+        "mapper": 63,
+        "name": "Miner 2049er Volume II"
+    },
+    {
+        "crc32": "C799E944",
+        "mapper": 64,
+        "name": "Mines of Minos"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Miniature Golf"
+    },
+    {
+        "crc32": "B1497E10",
+        "mapper": 248,
+        "name": "Miss Piggy's Wedding"
+    },
+    {
+        "crc32": "CFF14904",
+        "mapper": 64,
+        "name": "Missile Command"
+    },
+    {
+        "crc32": "DBDFEFB7",
+        "mapper": 64,
+        "name": "Missile Command"
+    },
+    {
+        "crc32": "AC80976B",
+        "mapper": 64,
+        "name": "Missile Control"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Mission 3000 A.D."
+    },
+    {
+        "crc32": "B70F52DC",
+        "mapper": 64,
+        "name": "Mission Survive"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Moderne Ritter, Der"
+    },
+    {
+        "crc32": "50AFE04B",
+        "mapper": 64,
+        "name": "Mogul Maniac"
+    },
+    {
+        "crc32": "0",
+        "mapper": 224,
+        "name": "Montezuma's Revenge"
+    },
+    {
+        "crc32": "D641EF2D",
+        "mapper": 248,
+        "name": "Moon Patrol"
+    },
+    {
+        "crc32": "72EF8582",
+        "mapper": 248,
+        "name": "Moon Patrol"
+    },
+    {
+        "crc32": "450B5C57",
+        "mapper": 248,
+        "name": "Moonsweeper"
+    },
+    {
+        "crc32": "89998E29",
+        "mapper": 246,
+        "name": "MotoRodeo"
+    },
+    {
+        "crc32": "36FEB44C",
+        "mapper": 64,
+        "name": "Motocross"
+    },
+    {
+        "crc32": "B0AE97EC",
+        "mapper": 64,
+        "name": "Motocross"
+    },
+    {
+        "crc32": "D1BC1CB",
+        "mapper": 248,
+        "name": "Motocross Racer"
+    },
+    {
+        "crc32": "ED778991",
+        "mapper": 250,
+        "name": "Mountain King"
+    },
+    {
+        "crc32": "5F6C51C5",
+        "mapper": 64,
+        "name": "Mountain Man"
+    },
+    {
+        "crc32": "9DDD45D3",
+        "mapper": 64,
+        "name": "Mouse Trap"
+    },
+    {
+        "crc32": "18B3C907",
+        "mapper": 64,
+        "name": "Mouse Trap"
+    },
+    {
+        "crc32": "860A47A1",
+        "mapper": 248,
+        "name": "Mr. Do!"
+    },
+    {
+        "crc32": "2CBBF3FE",
+        "mapper": 224,
+        "name": "Mr. Do!'s Castle"
+    },
+    {
+        "crc32": "16980CB8",
+        "mapper": 64,
+        "name": "Mr. Postman"
+    },
+    {
+        "crc32": "A7B03AA5",
+        "mapper": 64,
+        "name": "Mr. Postman"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Mr. T"
+    },
+    {
+        "crc32": "B2D08FC9",
+        "mapper": 248,
+        "name": "Ms. Pac-Man"
+    },
+    {
+        "crc32": "CBC01134",
+        "mapper": 248,
+        "name": "Ms. Pac-Man"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Music Machine"
+    },
+    {
+        "crc32": "D2CBD53",
+        "mapper": 248,
+        "name": "My Golf"
+    },
+    {
+        "crc32": "A86E1AD8",
+        "mapper": 64,
+        "name": "Name This Game"
+    },
+    {
+        "crc32": "600D8A96",
+        "mapper": 32,
+        "name": "Night Driver"
+    },
+    {
+        "crc32": "B028E338",
+        "mapper": 32,
+        "name": "Night Driver"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Night Stalker"
+    },
+    {
+        "crc32": "B733F921",
+        "mapper": 64,
+        "name": "Nightmare"
+    },
+    {
+        "crc32": "8941CAEA",
+        "mapper": 64,
+        "name": "No Escape!"
+    },
+    {
+        "crc32": "D76D5F14",
+        "mapper": 64,
+        "name": "Nuts"
+    },
+    {
+        "crc32": "9B443896",
+        "mapper": 64,
+        "name": "Nuts"
+    },
+    {
+        "crc32": "29A51EA4",
+        "mapper": 248,
+        "name": "Obelix"
+    },
+    {
+        "crc32": "A09779EA",
+        "mapper": 6,
+        "name": "Off the Wall"
+    },
+    {
+        "crc32": "3D59E3D2",
+        "mapper": 6,
+        "name": "Off the Wall"
+    },
+    {
+        "crc32": "86F99B5E",
+        "mapper": 64,
+        "name": "Oink!"
+    },
+    {
+        "crc32": "E9876116",
+        "mapper": 250,
+        "name": "Omega Race"
+    },
+    {
+        "crc32": "D01B5A1F",
+        "mapper": 64,
+        "name": "Open Sesame"
+    },
+    {
+        "crc32": "34721D7B",
+        "mapper": 248,
+        "name": "Oscar's Trash Race"
+    },
+    {
+        "crc32": "171AE72F",
+        "mapper": 32,
+        "name": "Othello"
+    },
+    {
+        "crc32": "5C341787",
+        "mapper": 32,
+        "name": "Othello"
+    },
+    {
+        "crc32": "CA4D03FB",
+        "mapper": 64,
+        "name": "Out of Control"
+    },
+    {
+        "crc32": "64F136D2",
+        "mapper": 32,
+        "name": "Outlaw"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Pac-Kong"
+    },
+    {
+        "crc32": "DDC9A881",
+        "mapper": 64,
+        "name": "Pac-Man"
+    },
+    {
+        "crc32": "AF417A00",
+        "mapper": 64,
+        "name": "Panda Chase"
+    },
+    {
+        "crc32": "40E4BC6A",
+        "mapper": 64,
+        "name": "Parachute"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Pele's Soccer"
+    },
+    {
+        "crc32": "7667E739",
+        "mapper": 248,
+        "name": "Pengo"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Pepsi Invaders"
+    },
+    {
+        "crc32": "D0C6FC32",
+        "mapper": 246,
+        "name": "Pete Rose Baseball"
+    },
+    {
+        "crc32": "9213493B",
+        "mapper": 64,
+        "name": "Phantom Tank"
+    },
+    {
+        "crc32": "C6B82FC6",
+        "mapper": 64,
+        "name": "Pharaoh's Curse"
+    },
+    {
+        "crc32": "C17C5F64",
+        "mapper": 64,
+        "name": "Pharaoh's Curse"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Philly Flasher"
+    },
+    {
+        "crc32": "6AE1B66C",
+        "mapper": 248,
+        "name": "Phoenix"
+    },
+    {
+        "crc32": "9B3718D4",
+        "mapper": 248,
+        "name": "Phoenix"
+    },
+    {
+        "crc32": "CB76A9D4",
+        "mapper": 246,
+        "name": "Pick 'n' Pile"
+    },
+    {
+        "crc32": "1D507A61",
+        "mapper": 64,
+        "name": "Picnic"
+    },
+    {
+        "crc32": "40355166",
+        "mapper": 64,
+        "name": "Piece o' Cake"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Pigs in Space"
+    },
+    {
+        "crc32": "0",
+        "mapper": 208,
+        "name": "Pitfall II"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Pitfall!"
+    },
+    {
+        "crc32": "1E8EBB51",
+        "mapper": 64,
+        "name": "Planet Patrol"
+    },
+    {
+        "crc32": "D5A5EB9E",
+        "mapper": 64,
+        "name": "Plaque Attack"
+    },
+    {
+        "crc32": "25B78F89",
+        "mapper": 63,
+        "name": "Polaris"
+    },
+    {
+        "crc32": "BD822518",
+        "mapper": 248,
+        "name": "Pole Position"
+    },
+    {
+        "crc32": "2A8053CE",
+        "mapper": 248,
+        "name": "Pole Position"
+    },
+    {
+        "crc32": "8C0B57D9",
+        "mapper": 32,
+        "name": "Polo"
+    },
+    {
+        "crc32": "83D8A362",
+        "mapper": 64,
+        "name": "Pompeii"
+    },
+    {
+        "crc32": "FE24BE60",
+        "mapper": 64,
+        "name": "Pooyan"
+    },
+    {
+        "crc32": "7D287F20",
+        "mapper": 224,
+        "name": "Popeye"
+    },
+    {
+        "crc32": "742AC749",
+        "mapper": 224,
+        "name": "Popeye"
+    },
+    {
+        "crc32": "ADD0B98A",
+        "mapper": 248,
+        "name": "Porky's"
+    },
+    {
+        "crc32": "CCF597D8",
+        "mapper": 248,
+        "name": "Pressure Cooker"
+    },
+    {
+        "crc32": "EA3BFF1C",
+        "mapper": 248,
+        "name": "Private Eye"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Punch Chess"
+    },
+    {
+        "crc32": "6F22448D",
+        "mapper": 64,
+        "name": "Pygmy"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Pyramid War"
+    },
+    {
+        "crc32": "54142E3E",
+        "mapper": 64,
+        "name": "Q-bert"
+    },
+    {
+        "crc32": "541FBE98",
+        "mapper": 64,
+        "name": "Q-bert"
+    },
+    {
+        "crc32": "D9F499C5",
+        "mapper": 224,
+        "name": "Q-bert's Qubes"
+    },
+    {
+        "crc32": "8D3C887B",
+        "mapper": 248,
+        "name": "Quadrun"
+    },
+    {
+        "crc32": "35592D43",
+        "mapper": 248,
+        "name": "Quadrun"
+    },
+    {
+        "crc32": "F9F58DD3",
+        "mapper": 248,
+        "name": "Quest for Quintana Roo"
+    },
+    {
+        "crc32": "57440FE",
+        "mapper": 64,
+        "name": "Quick Step!"
+    },
+    {
+        "crc32": "517E5561",
+        "mapper": 248,
+        "name": "Rabbit Transit"
+    },
+    {
+        "crc32": "F78489B0",
+        "mapper": 64,
+        "name": "Racing Car"
+    },
+    {
+        "crc32": "7EEF9AC0",
+        "mapper": 64,
+        "name": "Racquetball"
+    },
+    {
+        "crc32": "C29F7285",
+        "mapper": 6,
+        "name": "Radar Lock"
+    },
+    {
+        "crc32": "F2B43EF2",
+        "mapper": 6,
+        "name": "Radar Lock"
+    },
+    {
+        "crc32": "3D1292F8",
+        "mapper": 64,
+        "name": "Raft Rider"
+    },
+    {
+        "crc32": "E05FE273",
+        "mapper": 248,
+        "name": "Raiders of the Lost Ark"
+    },
+    {
+        "crc32": "582D5B62",
+        "mapper": 64,
+        "name": "Ram It"
+    },
+    {
+        "crc32": "F0B446AC",
+        "mapper": 246,
+        "name": "Rampage!"
+    },
+    {
+        "crc32": "3DFEE54B",
+        "mapper": 64,
+        "name": "Raumpatrouille"
+    },
+    {
+        "crc32": "1619E222",
+        "mapper": 64,
+        "name": "Reactor"
+    },
+    {
+        "crc32": "3C5A1B5F",
+        "mapper": 248,
+        "name": "RealSports Baseball"
+    },
+    {
+        "crc32": "F0DEFF2B",
+        "mapper": 248,
+        "name": "RealSports Baseball"
+    },
+    {
+        "crc32": "3398A1B2",
+        "mapper": 246,
+        "name": "RealSports Boxing"
+    },
+    {
+        "crc32": "36F5B4BB",
+        "mapper": 246,
+        "name": "RealSports Boxing"
+    },
+    {
+        "crc32": "F89F64EF",
+        "mapper": 248,
+        "name": "RealSports Football"
+    },
+    {
+        "crc32": "2D89819",
+        "mapper": 248,
+        "name": "RealSports Soccer"
+    },
+    {
+        "crc32": "379001A0",
+        "mapper": 248,
+        "name": "RealSports Tennis"
+    },
+    {
+        "crc32": "C7F53997",
+        "mapper": 248,
+        "name": "RealSports Tennis"
+    },
+    {
+        "crc32": "54FC9EB2",
+        "mapper": 64,
+        "name": "RealSports Volleyball"
+    },
+    {
+        "crc32": "A509AD53",
+        "mapper": 64,
+        "name": "Rescue Terra I"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Resgate Espacial"
+    },
+    {
+        "crc32": "243A36DF",
+        "mapper": 64,
+        "name": "Revenge of the Beefsteak Tomatoes"
+    },
+    {
+        "crc32": "183A87E3",
+        "mapper": 64,
+        "name": "Riddle of the Sphinx"
+    },
+    {
+        "crc32": "E9E19A63",
+        "mapper": 64,
+        "name": "Riddle of the Sphinx"
+    },
+    {
+        "crc32": "C820BD75",
+        "mapper": 63,
+        "name": "River Patrol"
+    },
+    {
+        "crc32": "C3EB7E1E",
+        "mapper": 64,
+        "name": "River Raid"
+    },
+    {
+        "crc32": "9AEE6E8E",
+        "mapper": 64,
+        "name": "River Raid"
+    },
+    {
+        "crc32": "27D2DF2C",
+        "mapper": 246,
+        "name": "River Raid II"
+    },
+    {
+        "crc32": "CB79C061",
+        "mapper": 246,
+        "name": "Road Runner"
+    },
+    {
+        "crc32": "DF96102B",
+        "mapper": 248,
+        "name": "Robin Hood"
+    },
+    {
+        "crc32": "859EFF2B",
+        "mapper": 248,
+        "name": "Robin Hood"
+    },
+    {
+        "crc32": "E127C012",
+        "mapper": 254,
+        "name": "Robot Tank"
+    },
+    {
+        "crc32": "9D51C969",
+        "mapper": 248,
+        "name": "Roc 'n Rope"
+    },
+    {
+        "crc32": "F27FC3BE",
+        "mapper": 64,
+        "name": "Room of Doom"
+    },
+    {
+        "crc32": "63A5EDD5",
+        "mapper": 64,
+        "name": "Room of Doom"
+    },
+    {
+        "crc32": "37F23CB8",
+        "mapper": 64,
+        "name": "Rubik's Cube"
+    },
+    {
+        "crc32": "C422160A",
+        "mapper": 64,
+        "name": "Save Our Ship"
+    },
+    {
+        "crc32": "C15A66E7",
+        "mapper": 64,
+        "name": "Save Our Ship"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Scuba Diver"
+    },
+    {
+        "crc32": "5224DC7B",
+        "mapper": 64,
+        "name": "Sea Hawk"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Sea Hunt"
+    },
+    {
+        "crc32": "D6490BF3",
+        "mapper": 64,
+        "name": "Sea Monster"
+    },
+    {
+        "crc32": "8658E8D9",
+        "mapper": 64,
+        "name": "Seaquest"
+    },
+    {
+        "crc32": "93C9EB47",
+        "mapper": 246,
+        "name": "Secret Quest"
+    },
+    {
+        "crc32": "D457B245",
+        "mapper": 246,
+        "name": "Sentinel"
+    },
+    {
+        "crc32": "D12FD9B",
+        "mapper": 64,
+        "name": "Sesam Offne Dich!"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Shark Attack"
+    },
+    {
+        "crc32": "B89AFF8B",
+        "mapper": 64,
+        "name": "Shootin' Gallery"
+    },
+    {
+        "crc32": "5E98494",
+        "mapper": 64,
+        "name": "Shootin' Gallery"
+    },
+    {
+        "crc32": "253D6396",
+        "mapper": 64,
+        "name": "Shuttle Orbiter"
+    },
+    {
+        "crc32": "EB792891",
+        "mapper": 248,
+        "name": "Sir Lancelot"
+    },
+    {
+        "crc32": "BB4D1430",
+        "mapper": 248,
+        "name": "Sir Lancelot"
+    },
+    {
+        "crc32": "6EE721F7",
+        "mapper": 248,
+        "name": "Skate Boardin'"
+    },
+    {
+        "crc32": "49739144",
+        "mapper": 248,
+        "name": "Skate Boardin'"
+    },
+    {
+        "crc32": "57D69B13",
+        "mapper": 32,
+        "name": "Skeet Shoot"
+    },
+    {
+        "crc32": "5DF00A09",
+        "mapper": 64,
+        "name": "Ski Hunt"
+    },
+    {
+        "crc32": "E20A00B3",
+        "mapper": 64,
+        "name": "Ski Run"
+    },
+    {
+        "crc32": "D6634A09",
+        "mapper": 64,
+        "name": "Ski Run"
+    },
+    {
+        "crc32": "35F80A22",
+        "mapper": 32,
+        "name": "Skiing"
+    },
+    {
+        "crc32": "6A84EC3F",
+        "mapper": 32,
+        "name": "Sky Diver"
+    },
+    {
+        "crc32": "96F8CF59",
+        "mapper": 32,
+        "name": "Sky Jinks"
+    },
+    {
+        "crc32": "CC6E0F22",
+        "mapper": 64,
+        "name": "Sky Skipper"
+    },
+    {
+        "crc32": "21E1A9C7",
+        "mapper": 64,
+        "name": "Sky Skipper"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Slot Machine"
+    },
+    {
+        "crc32": "CBC87A48",
+        "mapper": 32,
+        "name": "Slot Racers"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Smurf Rescue in Gargamels Castle"
+    },
+    {
+        "crc32": "AD89C697",
+        "mapper": 248,
+        "name": "Smurfs Save the Day"
+    },
+    {
+        "crc32": "5C5B9E1A",
+        "mapper": 64,
+        "name": "Snail Against Squirrel"
+    },
+    {
+        "crc32": "93B17C39",
+        "mapper": 64,
+        "name": "Sneak 'n Peek"
+    },
+    {
+        "crc32": "D1039967",
+        "mapper": 248,
+        "name": "Snoopy and the Red Baron"
+    },
+    {
+        "crc32": "D2CA6CE8",
+        "mapper": 248,
+        "name": "Solar Fox"
+    },
+    {
+        "crc32": "A970B3E3",
+        "mapper": 64,
+        "name": "Solar Storm"
+    },
+    {
+        "crc32": "2B87850E",
+        "mapper": 246,
+        "name": "Solaris"
+    },
+    {
+        "crc32": "C7734BE6",
+        "mapper": 64,
+        "name": "Sorcerer"
+    },
+    {
+        "crc32": "E5DBFED1",
+        "mapper": 248,
+        "name": "Sorcerer's Apprentice"
+    },
+    {
+        "crc32": "B34A3E57",
+        "mapper": 64,
+        "name": "Space Attack"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Space Canyon"
+    },
+    {
+        "crc32": "3B0FFD89",
+        "mapper": 64,
+        "name": "Space Cavern"
+    },
+    {
+        "crc32": "A6E867B3",
+        "mapper": 64,
+        "name": "Space Invaders"
+    },
+    {
+        "crc32": "4840D2B7",
+        "mapper": 64,
+        "name": "Space Invaders"
+    },
+    {
+        "crc32": "71627B6D",
+        "mapper": 64,
+        "name": "Space Invaders"
+    },
+    {
+        "crc32": "AB24D73E",
+        "mapper": 32,
+        "name": "Space Jockey"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Space Shuttle"
+    },
+    {
+        "crc32": "1B62E1B8",
+        "mapper": 64,
+        "name": "Space Tunnel"
+    },
+    {
+        "crc32": "C84BE58",
+        "mapper": 32,
+        "name": "Space War"
+    },
+    {
+        "crc32": "E554D7D0",
+        "mapper": 64,
+        "name": "SpaceMaster X-7"
+    },
+    {
+        "crc32": "2954D22D",
+        "mapper": 64,
+        "name": "Spacechase"
+    },
+    {
+        "crc32": "BF0941F6",
+        "mapper": 64,
+        "name": "Spider Fighter"
+    },
+    {
+        "crc32": "FBC1911D",
+        "mapper": 64,
+        "name": "Spider Maze"
+    },
+    {
+        "crc32": "4DFEA848",
+        "mapper": 64,
+        "name": "Spider-Man"
+    },
+    {
+        "crc32": "8FEAAA0D",
+        "mapper": 64,
+        "name": "Spider-Man"
+    },
+    {
+        "crc32": "50EFEA8D",
+        "mapper": 248,
+        "name": "Spike's Peak"
+    },
+    {
+        "crc32": "7EF3236A",
+        "mapper": 248,
+        "name": "Spike's Peak"
+    },
+    {
+        "crc32": "93507D8",
+        "mapper": 64,
+        "name": "Spitfire Attack"
+    },
+    {
+        "crc32": "DD183A4F",
+        "mapper": 63,
+        "name": "Springer"
+    },
+    {
+        "crc32": "C495904E",
+        "mapper": 246,
+        "name": "Sprint Master"
+    },
+    {
+        "crc32": "4F804E49",
+        "mapper": 248,
+        "name": "Spy Hunter"
+    },
+    {
+        "crc32": "D37F3FB3",
+        "mapper": 64,
+        "name": "Squeeze Box"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Squirrel"
+    },
+    {
+        "crc32": "1B5B0212",
+        "mapper": 64,
+        "name": "Sssnake"
+    },
+    {
+        "crc32": "740800F3",
+        "mapper": 32,
+        "name": "Stampede"
+    },
+    {
+        "crc32": "915EC040",
+        "mapper": 64,
+        "name": "Star Fox"
+    },
+    {
+        "crc32": "2AE193EE",
+        "mapper": 248,
+        "name": "Star Raiders"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Star Ship"
+    },
+    {
+        "crc32": "936A596D",
+        "mapper": 64,
+        "name": "Star Strike"
+    },
+    {
+        "crc32": "0",
+        "mapper": 248,
+        "name": "Star Trek"
+    },
+    {
+        "crc32": "4FE8477F",
+        "mapper": 64,
+        "name": "Star Voyager"
+    },
+    {
+        "crc32": "AFF3B46E",
+        "mapper": 64,
+        "name": "Star Voyager"
+    },
+    {
+        "crc32": "0",
+        "mapper": 224,
+        "name": "Star Wars - Arcade Game"
+    },
+    {
+        "crc32": "0",
+        "mapper": 224,
+        "name": "Star Wars - Death Star Battle"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Star Wars - Empire Strikes Back"
+    },
+    {
+        "crc32": "9E36D347",
+        "mapper": 64,
+        "name": "Star Wars - Jedi Arena"
+    },
+    {
+        "crc32": "25248B4B",
+        "mapper": 64,
+        "name": "StarMaster"
+    },
+    {
+        "crc32": "CDE3530E",
+        "mapper": 6,
+        "name": "Stargate"
+    },
+    {
+        "crc32": "D3F6A968",
+        "mapper": 6,
+        "name": "Stargate"
+    },
+    {
+        "crc32": "FF72CC58",
+        "mapper": 6,
+        "name": "Stargate"
+    },
+    {
+        "crc32": "FCA9C17B",
+        "mapper": 64,
+        "name": "Stargunner"
+    },
+    {
+        "crc32": "6AAD3F22",
+        "mapper": 32,
+        "name": "Steeplechase"
+    },
+    {
+        "crc32": "5F6C32C3",
+        "mapper": 32,
+        "name": "Steeplechase"
+    },
+    {
+        "crc32": "A76E93BF",
+        "mapper": 64,
+        "name": "Stellar Track"
+    },
+    {
+        "crc32": "2CFE4A3",
+        "mapper": 64,
+        "name": "Strahlen der Teufelsvogel"
+    },
+    {
+        "crc32": "2AF91A81",
+        "mapper": 64,
+        "name": "Strategy X"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Strawberry Shortcake"
+    },
+    {
+        "crc32": "0",
+        "mapper": 32,
+        "name": "Street Racer"
+    },
+    {
+        "crc32": "BB91FFA6",
+        "mapper": 64,
+        "name": "Stronghold"
+    },
+    {
+        "crc32": "EA30CDD5",
+        "mapper": 64,
+        "name": "Stunt Man"
+    },
+    {
+        "crc32": "5069D7DA",
+        "mapper": 64,
+        "name": "Sub-Scan"
+    },
+    {
+        "crc32": "3262960A",
+        "mapper": 64,
+        "name": "Submarine Commander"
+    },
+    {
+        "crc32": "2AB951F7",
+        "mapper": 248,
+        "name": "Subterranea"
+    },
+    {
+        "crc32": "B9CD3F86",
+        "mapper": 246,
+        "name": "Summer Games"
+    },
+    {
+        "crc32": "C3C5BA9",
+        "mapper": 246,
+        "name": "Summer Games"
+    },
+    {
+        "crc32": "C3704B73",
+        "mapper": 246,
+        "name": "Super Baseball"
+    },
+    {
+        "crc32": "2245F170",
+        "mapper": 246,
+        "name": "Super Baseball"
+    },
+    {
+        "crc32": "B0F20D31",
+        "mapper": 64,
+        "name": "Super Breakout"
+    },
+    {
+        "crc32": "171DBE92",
+        "mapper": 64,
+        "name": "Super Breakout"
+    },
+    {
+        "crc32": "79EC7688",
+        "mapper": 64,
+        "name": "Super Breakout"
+    },
+    {
+        "crc32": "F7E88EC2",
+        "mapper": 64,
+        "name": "Super Challenge Baseball"
+    },
+    {
+        "crc32": "55F02EFE",
+        "mapper": 64,
+        "name": "Super Challenge Football"
+    },
+    {
+        "crc32": "DE97103D",
+        "mapper": 224,
+        "name": "Super Cobra"
+    },
+    {
+        "crc32": "C9B16F3C",
+        "mapper": 8,
+        "name": "Super Football"
+    },
+    {
+        "crc32": "AFD7317B",
+        "mapper": 64,
+        "name": "Superman"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Surfer's Paradise"
+    },
+    {
+        "crc32": "876D3BB5",
+        "mapper": 32,
+        "name": "Surround"
+    },
+    {
+        "crc32": "8E888F3E",
+        "mapper": 64,
+        "name": "Survival Run"
+    },
+    {
+        "crc32": "8C0EEA30",
+        "mapper": 64,
+        "name": "Survival Run"
+    },
+    {
+        "crc32": "9031A479",
+        "mapper": 248,
+        "name": "SwordQuest - EarthWorld"
+    },
+    {
+        "crc32": "D5E21B79",
+        "mapper": 248,
+        "name": "SwordQuest - EarthWorld"
+    },
+    {
+        "crc32": "6AE46A0C",
+        "mapper": 248,
+        "name": "SwordQuest - FireWorld"
+    },
+    {
+        "crc32": "CA7B4685",
+        "mapper": 248,
+        "name": "SwordQuest - WaterWorld"
+    },
+    {
+        "crc32": "D35B22F9",
+        "mapper": 64,
+        "name": "TRON - Deadly Discs"
+    },
+    {
+        "crc32": "A2A42BEC",
+        "mapper": 64,
+        "name": "Tac-Scan"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Tanks But No Tanks"
+    },
+    {
+        "crc32": "D63474B3",
+        "mapper": 64,
+        "name": "Tapeworm"
+    },
+    {
+        "crc32": "D28AFB2C",
+        "mapper": 248,
+        "name": "Tapper"
+    },
+    {
+        "crc32": "468D734C",
+        "mapper": 248,
+        "name": "Tax Avoiders"
+    },
+    {
+        "crc32": "C9D7EC9B",
+        "mapper": 248,
+        "name": "Taz"
+    },
+    {
+        "crc32": "711647F6",
+        "mapper": 248,
+        "name": "Tempest"
+    },
+    {
+        "crc32": "E6DABC1B",
+        "mapper": 248,
+        "name": "Tempest"
+    },
+    {
+        "crc32": "A42515B",
+        "mapper": 32,
+        "name": "Tennis"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Texas Chainsaw Massacre"
+    },
+    {
+        "crc32": "CE5097FD",
+        "mapper": 64,
+        "name": "Threshold"
+    },
+    {
+        "crc32": "9E67C699",
+        "mapper": 64,
+        "name": "Thunderground"
+    },
+    {
+        "crc32": "21EE7DB4",
+        "mapper": 249,
+        "name": "Time Pilot"
+    },
+    {
+        "crc32": "551E2144",
+        "mapper": 64,
+        "name": "Time Warp"
+    },
+    {
+        "crc32": "E5BC054D",
+        "mapper": 64,
+        "name": "Time Warp"
+    },
+    {
+        "crc32": "EF708C03",
+        "mapper": 248,
+        "name": "Title Match Pro Wrestling"
+    },
+    {
+        "crc32": "B6F28C18",
+        "mapper": 248,
+        "name": "Title Match Pro Wrestling"
+    },
+    {
+        "crc32": "A2943D1B",
+        "mapper": 248,
+        "name": "Title Match Pro Wrestling"
+    },
+    {
+        "crc32": "B5B5AC84",
+        "mapper": 248,
+        "name": "Tomarc the Barbarian"
+    },
+    {
+        "crc32": "CB5D1C42",
+        "mapper": 246,
+        "name": "Tomcat - The F-14 Fighter Simulator"
+    },
+    {
+        "crc32": "FD8C81E5",
+        "mapper": 224,
+        "name": "Tooth Protectors"
+    },
+    {
+        "crc32": "2C7B86B8",
+        "mapper": 64,
+        "name": "Towering Inferno"
+    },
+    {
+        "crc32": "21827056",
+        "mapper": 246,
+        "name": "Track and Field"
+    },
+    {
+        "crc32": "D2CEA797",
+        "mapper": 64,
+        "name": "Treasure Below"
+    },
+    {
+        "crc32": "907F1D90",
+        "mapper": 64,
+        "name": "Treasure Island"
+    },
+    {
+        "crc32": "D1CE4634",
+        "mapper": 64,
+        "name": "Trick Shot"
+    },
+    {
+        "crc32": "4D84E90B",
+        "mapper": 64,
+        "name": "Trick Shot"
+    },
+    {
+        "crc32": "A02745F8",
+        "mapper": 250,
+        "name": "Tunnel Runner"
+    },
+    {
+        "crc32": "8C65298A",
+        "mapper": 64,
+        "name": "Turmoil"
+    },
+    {
+        "crc32": "EC959BF2",
+        "mapper": 224,
+        "name": "Tutankham"
+    },
+    {
+        "crc32": "25EFA169",
+        "mapper": 64,
+        "name": "Universal Chaos"
+    },
+    {
+        "crc32": "2F10950C",
+        "mapper": 64,
+        "name": "Universal Chaos"
+    },
+    {
+        "crc32": "C04C2B58",
+        "mapper": 248,
+        "name": "Up 'n Down"
+    },
+    {
+        "crc32": "C4BEC521",
+        "mapper": 248,
+        "name": "Vanguard"
+    },
+    {
+        "crc32": "AA7648F3",
+        "mapper": 248,
+        "name": "Vanguard"
+    },
+    {
+        "crc32": "85E0CA62",
+        "mapper": 64,
+        "name": "Venture"
+    },
+    {
+        "crc32": "67D41CA8",
+        "mapper": 64,
+        "name": "Venture"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Video Checkers"
+    },
+    {
+        "crc32": "B6226A54",
+        "mapper": 64,
+        "name": "Video Chess"
+    },
+    {
+        "crc32": "28FA8D77",
+        "mapper": 64,
+        "name": "Video Jogger"
+    },
+    {
+        "crc32": "34B0B5C2",
+        "mapper": 32,
+        "name": "Video Life"
+    },
+    {
+        "crc32": "CC6A454A",
+        "mapper": 32,
+        "name": "Video Olympics"
+    },
+    {
+        "crc32": "49249EB3",
+        "mapper": 64,
+        "name": "Video Pinball"
+    },
+    {
+        "crc32": "77B8B0D1",
+        "mapper": 64,
+        "name": "Video Reflex"
+    },
+    {
+        "crc32": "1CA034CA",
+        "mapper": 64,
+        "name": "Vogel Flieh"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Vulture Attack"
+    },
+    {
+        "crc32": "2D07ED77",
+        "mapper": 64,
+        "name": "Wabbit"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Walker"
+    },
+    {
+        "crc32": "9AC6A295",
+        "mapper": 64,
+        "name": "Wall Ball"
+    },
+    {
+        "crc32": "727408CD",
+        "mapper": 64,
+        "name": "Wall Break"
+    },
+    {
+        "crc32": "6841D2A7",
+        "mapper": 64,
+        "name": "Wall-Defender"
+    },
+    {
+        "crc32": "CF174B57",
+        "mapper": 64,
+        "name": "Warlords"
+    },
+    {
+        "crc32": "6531D4E1",
+        "mapper": 64,
+        "name": "Warplock"
+    },
+    {
+        "crc32": "CFEBEF9E",
+        "mapper": 248,
+        "name": "Wing War"
+    },
+    {
+        "crc32": "5E89B8AF",
+        "mapper": 250,
+        "name": "Wings"
+    },
+    {
+        "crc32": "DDFF6850",
+        "mapper": 246,
+        "name": "Winter Games"
+    },
+    {
+        "crc32": "964FF099",
+        "mapper": 246,
+        "name": "Winter Games"
+    },
+    {
+        "crc32": "926F6F11",
+        "mapper": 64,
+        "name": "Wizard of Wor"
+    },
+    {
+        "crc32": "A11EEEAB",
+        "mapper": 64,
+        "name": "Word Zapper"
+    },
+    {
+        "crc32": "DCC36508",
+        "mapper": 64,
+        "name": "World End"
+    },
+    {
+        "crc32": "9BE88ADA",
+        "mapper": 64,
+        "name": "World End"
+    },
+    {
+        "crc32": "97B83A54",
+        "mapper": 64,
+        "name": "Worm War I"
+    },
+    {
+        "crc32": "0",
+        "mapper": 64,
+        "name": "Wuestenschlacht"
+    },
+    {
+        "crc32": "91659AF1",
+        "mapper": 64,
+        "name": "X-Man"
+    },
+    {
+        "crc32": "F875C406",
+        "mapper": 246,
+        "name": "Xenophobe"
+    },
+    {
+        "crc32": "DFA1C825",
+        "mapper": 64,
+        "name": "Yars' Revenge"
+    },
+    {
+        "crc32": "317F7D0C",
+        "mapper": 64,
+        "name": "Yars' Revenge"
+    },
+    {
+        "crc32": "42A76F54",
+        "mapper": 64,
+        "name": "Z-Tack"
+    },
+    {
+        "crc32": "265AA87F",
+        "mapper": 248,
+        "name": "Zaxxon"
+    },
+    {
+        "crc32": "C1DA05F6",
+        "mapper": 64,
+        "name": "Zoo Fun"
+    }
+]

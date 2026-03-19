@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "sizeLow": 4,
+    "sizeHigh": 32,
+    "name": "Standard"
+  },
+  {
+    "id": 1,
+    "sizeLow": 16,
+    "sizeHigh": 16,
+    "name": "Two Chip (16K)"
+  },
+  {
+    "id": 2,
+    "sizeLow": 40,
+    "sizeHigh": 40,
+    "name": "Bounty Bob Strikes Back (40K)"
+  }
+]

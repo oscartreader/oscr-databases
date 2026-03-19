@@ -1,0 +1,242 @@
+[
+    {
+        "crc32": "F3C08E19",
+        "size": 1,
+        "name": "3D Bowling (USA, Europe)"
+    },
+    {
+        "crc32": "4DA68DF8",
+        "size": 3,
+        "name": "3D Soccer (Europe)"
+    },
+    {
+        "crc32": "1F65B21E",
+        "size": 1,
+        "name": "Alien Invaders (USA, Europe)"
+    },
+    {
+        "crc32": "22624414",
+        "size": 2,
+        "name": "American Football (USA, Europe)"
+    },
+    {
+        "crc32": "DF0BF3FB",
+        "size": 3,
+        "name": "Astro Invader (Europe)"
+    },
+    {
+        "crc32": "28AD5BCF",
+        "size": 3,
+        "name": "Autorace (Europe)"
+    },
+    {
+        "crc32": "1CF08155",
+        "size": 0,
+        "name": "Baseball"
+    },
+    {
+        "crc32": "E93938F6",
+        "size": 1,
+        "name": "Basketball (Europe)"
+    },
+    {
+        "crc32": "930CE04",
+        "size": 1,
+        "name": "Blackjack and Poker (Europe)"
+    },
+    {
+        "crc32": "9240891B",
+        "size": 1,
+        "name": "Boxing (Europe)"
+    },
+    {
+        "crc32": "CA58B3F8",
+        "size": 1,
+        "name": "Brain Quiz (USA, Europe)"
+    },
+    {
+        "crc32": "33C348C1",
+        "size": 1,
+        "name": "Breakaway (USA, Europe)"
+    },
+    {
+        "crc32": "AEB803E4",
+        "size": 0,
+        "name": "Capture (USA, Europe)"
+    },
+    {
+        "crc32": "FD2CF496",
+        "size": 1,
+        "name": "Cat Trax (USA, Europe)"
+    },
+    {
+        "crc32": "86EBC8C",
+        "size": 1,
+        "name": "Circus (Europe)"
+    },
+    {
+        "crc32": "82D049D7",
+        "size": 3,
+        "name": "Combat (Europe)"
+    },
+    {
+        "crc32": "76E773FA",
+        "size": 1,
+        "name": "Crazy Climber (Europe)"
+    },
+    {
+        "crc32": "E84DF2EF",
+        "size": 0,
+        "name": "Crazy Gobbler (Europe)"
+    },
+    {
+        "crc32": "FC7EBA76",
+        "size": 1,
+        "name": "Escape (USA, Europe)"
+    },
+    {
+        "crc32": "77C19320",
+        "size": 3,
+        "name": "Funky Fish (Europe)"
+    },
+    {
+        "crc32": "9DA024D3",
+        "size": 3,
+        "name": "Golf (Europe)"
+    },
+    {
+        "crc32": "8BF2DFA9",
+        "size": 3,
+        "name": "Grand Slam Tennis (USA, Europe)"
+    },
+    {
+        "crc32": "1CEC4B21",
+        "size": 3,
+        "name": "Hobo (Europe)"
+    },
+    {
+        "crc32": "560DAA7F",
+        "size": 1,
+        "name": "Horse Racing (Europe)"
+    },
+    {
+        "crc32": "97060A54",
+        "size": 3,
+        "name": "Jump Bug (Europe)"
+    },
+    {
+        "crc32": "DFB5DD55",
+        "size": 3,
+        "name": "Jungler (USA, Europe)"
+    },
+    {
+        "crc32": "A615F068",
+        "size": 1,
+        "name": "Missile War (USA, Europe)"
+    },
+    {
+        "crc32": "5E033F9C",
+        "size": 1,
+        "name": "Monaco Grand Prix (Europe)"
+    },
+    {
+        "crc32": "7832F7AD",
+        "size": 1,
+        "name": "Nibblemen (Europe)"
+    },
+    {
+        "crc32": "449E80CB",
+        "size": 1,
+        "name": "Ocean Battle (USA, Europe)"
+    },
+    {
+        "crc32": "4F538848",
+        "size": 1,
+        "name": "Parashooter (Europe)"
+    },
+    {
+        "crc32": "4F19FD9B",
+        "size": 3,
+        "name": "Pleiades (Europe)"
+    },
+    {
+        "crc32": "A0626E23",
+        "size": 1,
+        "name": "R2D Tank (Europe)"
+    },
+    {
+        "crc32": "6A86F4A",
+        "size": 3,
+        "name": "Red Clash (USA, Europe)"
+    },
+    {
+        "crc32": "4671B7F7",
+        "size": 1,
+        "name": "Robot Killer (Europe)"
+    },
+    {
+        "crc32": "8169864E",
+        "size": 3,
+        "name": "Route 16 (Europe)"
+    },
+    {
+        "crc32": "8C0C456E",
+        "size": 3,
+        "name": "Soccer (USA, Europe)"
+    },
+    {
+        "crc32": "E3794A2C",
+        "size": 1,
+        "name": "Space Attack (USA, Europe)"
+    },
+    {
+        "crc32": "3FF224E5",
+        "size": 1,
+        "name": "Space Mission (USA, Europe)"
+    },
+    {
+        "crc32": "88DEFACF",
+        "size": 1,
+        "name": "Space Raiders (USA, Europe)"
+    },
+    {
+        "crc32": "CAA5F449",
+        "size": 1,
+        "name": "Space Squadron (Europe)"
+    },
+    {
+        "crc32": "7666A712",
+        "size": 2,
+        "name": "Space Vultures (USA, Europe)"
+    },
+    {
+        "crc32": "F9D9EC5B",
+        "size": 3,
+        "name": "Spiders (USA, Europe)"
+    },
+    {
+        "crc32": "83E6E40B",
+        "size": 1,
+        "name": "Star Chess (USA, Europe)"
+    },
+    {
+        "crc32": "8D8B186",
+        "size": 1,
+        "name": "Super Gobbler (Europe)"
+    },
+    {
+        "crc32": "76422E",
+        "size": 1,
+        "name": "Tanks a Lot (USA, Europe)"
+    },
+    {
+        "crc32": "E66F362D",
+        "size": 1,
+        "name": "The End (Europe)"
+    },
+    {
+        "crc32": "306E39C1",
+        "size": 3,
+        "name": "Turtles (Europe)"
+    }
+]

@@ -1,0 +1,7205 @@
+[
+    {
+        "name": "007 - The World Is Not Enough (Europe) (En,Fr,De)",
+        "crc32": "002C3B2A",
+        "crc1": "3B941695",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "007 - The World Is Not Enough (USA)",
+        "crc32": "26360987",
+        "crc1": "033F4C13",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "007 - The World Is Not Enough (USA) (v2) (Beta)",
+        "crc32": "6C180FEF",
+        "crc1": "7BD65F9E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "007 - The World Is Not Enough (USA) (v21) (Beta)",
+        "crc32": "F0B6BF59",
+        "crc1": "A92E0966",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "1080 Snowboarding (Europe) (En,Ja,Fr,De)",
+        "crc32": "75A21679",
+        "crc1": "58FD3F25",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "1080 Snowboarding (Japan, USA) (En,Ja)",
+        "crc32": "08FE81C7",
+        "crc1": "1FBAF161",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "40 Winks (Europe) (En,Es,It) (Proto) (1999-10-07)",
+        "crc32": "7E718143",
+        "crc1": "ABA51D09",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "40 Winks (Europe) (En,Fr,Es) (Aftermarket) (Unl)",
+        "crc32": "93C57D0B",
+        "crc1": "4B0612E3",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "40 Winks (USA) (Aftermarket) (Unl)",
+        "crc32": "31C19633",
+        "crc1": "5EF44642",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "40 Winks (USA) (Proto)",
+        "crc32": "3A674026",
+        "crc1": "AA94493C",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "64 Hanafuda - Tenshi no Yakusoku (Japan)",
+        "crc32": "60A680E7",
+        "crc1": "36F22FBF",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "64 Oozumou (Japan)",
+        "crc32": "742E31FB",
+        "crc1": "9C961069",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "64 Oozumou 2 (Japan)",
+        "crc32": "C1BC6FD8",
+        "crc1": "85C18B16",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "64 Trump Collection - Alice no Wakuwaku Trump World (Japan)",
+        "crc32": "DCA7F4EB",
+        "crc1": "7A6081FC",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World (Japan)",
+        "crc32": "67A789E5",
+        "crc1": "B98BA456",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "AI Shougi 3 (Japan)",
+        "crc32": "86DF90E6",
+        "crc1": "8CC182A6",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "AeroFighters Assault (Europe) (En,Fr,De)",
+        "crc32": "6A2B08DA",
+        "crc1": "62F6BE95",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "AeroFighters Assault (USA)",
+        "crc32": "4370D7E3",
+        "crc1": "1B598BF1",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "AeroGauge (Europe) (En,Fr,De)",
+        "crc32": "040B0046",
+        "crc1": "D83045C8",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "AeroGauge (Japan) (Demo) (Kiosk)",
+        "crc32": "6EE3B932",
+        "crc1": "B00903C9",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "AeroGauge (Japan) (Rev 1)",
+        "crc32": "F322B641",
+        "crc1": "80F41131",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "AeroGauge (USA)",
+        "crc32": "198B9E0E",
+        "crc1": "AEBE463E",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Aidyn Chronicles - The First Mage (Europe)",
+        "crc32": "BE7E230D",
+        "crc1": "2DC4FFCC",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Aidyn Chronicles - The First Mage (USA)",
+        "crc32": "B1F18186",
+        "crc1": "E6A95A4F",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-02-10)",
+        "crc32": "C46D84A0",
+        "crc1": "40066883",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Aidyn Chronicles - The First Mage (USA) (Beta) (2000-05-09)",
+        "crc32": "ABD43F3F",
+        "crc1": "FC8BED44",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Aidyn Chronicles - The First Mage (USA) (Rev 1)",
+        "crc32": "D5051096",
+        "crc1": "112051D2",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Air Boarder 64 (Japan)",
+        "crc32": "58FCB771",
+        "crc1": "6C45B60C",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Airboarder 64 (Europe)",
+        "crc32": "C14D45AC",
+        "crc1": "27C425D0",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Akumajou Dracula Mokushiroku - Real Action Adventure (Japan)",
+        "crc32": "E349CFEC",
+        "crc1": "B6951A94",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell (Japan)",
+        "crc32": "FF009C21",
+        "crc1": "A5533106",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "All Star Tennis '99 (Europe) (En,Fr,De,Es,It)",
+        "crc32": "996E845F",
+        "crc1": "DFD784AD",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "All Star Tennis 99 (USA)",
+        "crc32": "A7DCF638",
+        "crc1": "E185E291",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "All-Star Baseball 2000 (Europe)",
+        "crc32": "D3C29AA4",
+        "crc1": "A19F8089",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "All-Star Baseball 2000 (USA)",
+        "crc32": "69E88471",
+        "crc1": "5E547A4D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "All-Star Baseball 2001 (USA)",
+        "crc32": "4D659E85",
+        "crc1": "5446C6EF",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "All-Star Baseball 99 (Europe)",
+        "crc32": "D0DE3584",
+        "crc1": "D9EDD54D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "All-Star Baseball 99 (USA)",
+        "crc32": "6D25B36F",
+        "crc1": "C43E23A7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Armorines - Project S.W.A.R.M. (Europe)",
+        "crc32": "600BC49E",
+        "crc1": "3CC77150",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Armorines - Project S.W.A.R.M. (Germany)",
+        "crc32": "5BAB9100",
+        "crc1": "C0F6DB17",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Armorines - Project S.W.A.R.M. (USA)",
+        "crc32": "630A19E2",
+        "crc1": "1FB5D932",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Army Men - Air Combat (USA)",
+        "crc32": "1952CC87",
+        "crc1": "4C52BBB2",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Army Men - Sarge's Heroes (Europe) (En,Fr,De)",
+        "crc32": "E79048E2",
+        "crc1": "B210DF19",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Army Men - Sarge's Heroes (USA)",
+        "crc32": "2FE786F6",
+        "crc1": "862C0657",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Army Men - Sarge's Heroes 2 (USA)",
+        "crc32": "79A71608",
+        "crc1": "B20F73B6",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Asteroids Hyper 64 (USA)",
+        "crc32": "F5CE3D91",
+        "crc1": "D1F7D8AB",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Automobili Lamborghini (Europe)",
+        "crc32": "3BAF58D5",
+        "crc1": "FC7797BF",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Automobili Lamborghini (USA)",
+        "crc32": "A4374EAC",
+        "crc1": "41B25DC4",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Baku Bomberman (Japan)",
+        "crc32": "22F54A52",
+        "crc1": "E340A49C",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Baku Bomberman 2 (Japan)",
+        "crc32": "86BBC278",
+        "crc1": "E73C7C4F",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Bakuretsu Muteki Bangaioh (Japan)",
+        "crc32": "6AB7FEC6",
+        "crc1": "DF98B95D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)",
+        "crc32": "EF8C2F34",
+        "crc1": "88CF980A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Banjo to Kazooie no Daibouken (Japan)",
+        "crc32": "8F7C9324",
+        "crc1": "5168D520",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Banjo to Kazooie no Daibouken 2 (Japan)",
+        "crc32": "258C58D0",
+        "crc1": "514B6900",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Banjo-Kazooie (Europe) (En,Fr,De)",
+        "crc32": "525899C9",
+        "crc1": "733FCCB1",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Banjo-Kazooie (USA)",
+        "crc32": "AD429961",
+        "crc1": "A4BF9306",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Banjo-Kazooie (USA) (Rev 1)",
+        "crc32": "FB7FFB10",
+        "crc1": "CD7559AC",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Banjo-Tooie (Australia)",
+        "crc32": "2736266A",
+        "crc1": "155B7CDF",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Banjo-Tooie (Europe) (En,Fr,De,Es)",
+        "crc32": "1EC12F5A",
+        "crc1": "C9176D39",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Banjo-Tooie (USA)",
+        "crc32": "BAB803EF",
+        "crc1": "C2E9AA9A",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Bass Rush - ECOGEAR PowerWorm Championship (Japan)",
+        "crc32": "383B86EF",
+        "crc1": "D76333AC",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Bassmasters 2000 (USA)",
+        "crc32": "6B09092E",
+        "crc1": "BCFACCAA",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bassmasters 2000 (USA) (Beta)",
+        "crc32": "86F8E439",
+        "crc1": "67DD8AAB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Batman Beyond - Return of the Joker (USA)",
+        "crc32": "35299F9C",
+        "crc1": "204489C1",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Batman of the Future - Return of the Joker (Europe) (En,Fr,De)",
+        "crc32": "82A4BB8A",
+        "crc1": "259F7F84",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "BattleTanx (USA)",
+        "crc32": "6C230765",
+        "crc1": "6AA4DDE7",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "BattleTanx - Global Assault (Europe) (En,Fr,De)",
+        "crc32": "C99C6030",
+        "crc1": "0CAD17E6",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "BattleTanx - Global Assault (USA)",
+        "crc32": "31BEB053",
+        "crc1": "75A4E247",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Battlezone - Rise of the Black Dogs (USA)",
+        "crc32": "736F9D5C",
+        "crc1": "55D4C4CE",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Beetle Adventure Racing! (Europe) (En,Fr,De)",
+        "crc32": "5B6C6E4C",
+        "crc1": "A1B64A61",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Beetle Adventure Racing! (Japan)",
+        "crc32": "49E75825",
+        "crc1": "9C7318D2",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Beetle Adventure Racing! (USA) (En,Fr,De)",
+        "crc32": "F4A97C73",
+        "crc1": "EDF419A8",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Big Mountain 2000 (USA)",
+        "crc32": "3AC924BC",
+        "crc1": "08FFA4B7",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Big2Small (World) (Aftermarket) (Unl)",
+        "crc32": "35B5C0C9",
+        "crc1": "18F66A4A",
+        "size": 1,
+        "saveType": 0
+    },
+    {
+        "name": "Bio F.R.E.A.K.S. (Europe)",
+        "crc32": "2C4EB906",
+        "crc1": "AB7C101D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Bio F.R.E.A.K.S. (USA)",
+        "crc32": "DFBF448C",
+        "crc1": "08123595",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Biohazard 2 (Japan)",
+        "crc32": "4F9D569F",
+        "crc1": "7EAE2488",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Blast Corps (Europe) (En,De)",
+        "crc32": "4C820695",
+        "crc1": "7C64E6DB",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Blast Corps (USA)",
+        "crc32": "767A95E7",
+        "crc1": "7C647C25",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Blast Corps (USA) (Rev 1)",
+        "crc32": "9CBBCCF1",
+        "crc1": "7C647E65",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Blastdozer (Japan)",
+        "crc32": "081A3641",
+        "crc1": "65234451",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "8FB41658",
+        "crc1": "D571C883",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#20)",
+        "crc32": "1AC60460",
+        "crc1": "B669C3CF",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Blues Brothers 2000 (Europe) (En,Fr,De,Es,It,Nl) (Beta) (2000-01-15) (#53)",
+        "crc32": "BB1CA04D",
+        "crc1": "B669C3CF",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Blues Brothers 2000 (USA)",
+        "crc32": "C6F49764",
+        "crc1": "7CD08B12",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Body Harvest (Europe) (En,Fr,De)",
+        "crc32": "6A04CDAE",
+        "crc1": "0B58B8CD",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Body Harvest (USA)",
+        "crc32": "FABBDF02",
+        "crc1": "5326696F",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Bokujou Monogatari 2 (Japan)",
+        "crc32": "F97237C7",
+        "crc1": "B3D451C6",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Bokujou Monogatari 2 (Japan) (Rev 1)",
+        "crc32": "20FD2939",
+        "crc1": "7365D8F8",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Bokujou Monogatari 2 (Japan) (Rev 2)",
+        "crc32": "9181C1B7",
+        "crc1": "736657F6",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Bomberman 64 (Europe)",
+        "crc32": "525339C5",
+        "crc1": "5A160336",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman 64 (Japan)",
+        "crc32": "CB9BD3F5",
+        "crc1": "DF6FF0F4",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman 64 (USA)",
+        "crc32": "3ED0E0DC",
+        "crc1": "F568D51E",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman 64 - The Second Attack! (USA)",
+        "crc32": "57550007",
+        "crc1": "237E73B4",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman Hero (Europe)",
+        "crc32": "59E39947",
+        "crc1": "D85C4E29",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman Hero (USA)",
+        "crc32": "2CC2E634",
+        "crc1": "4446FDD6",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Bomberman Hero - Mirian Oujo o Sukue! (Japan)",
+        "crc32": "69CEABCC",
+        "crc1": "67FF12CC",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Bottom of the 9th (USA)",
+        "crc32": "1844C8CA",
+        "crc1": "D72FD14D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Brunswick Circuit Pro Bowling (USA)",
+        "crc32": "80D70173",
+        "crc1": "1E22CF2E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Buck Bumble (Europe) (En,Fr,De,Es,It)",
+        "crc32": "E26192AB",
+        "crc1": "D5B2339C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Buck Bumble (Japan)",
+        "crc32": "2ED81A65",
+        "crc1": "D7C762B6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Buck Bumble (USA)",
+        "crc32": "8EC937DB",
+        "crc1": "85AE781A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bug's Life, A (Europe)",
+        "crc32": "791881D4",
+        "crc1": "8F12C096",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bug's Life, A (France)",
+        "crc32": "E5429094",
+        "crc1": "2B38AEC0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bug's Life, A (Germany)",
+        "crc32": "15A32836",
+        "crc1": "DFF227D9",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bug's Life, A (Italy)",
+        "crc32": "2D118764",
+        "crc1": "F63B89CE",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bug's Life, A (USA)",
+        "crc32": "CF2EA0B6",
+        "crc1": "82DC04FD",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Bust-A-Move '99 (USA)",
+        "crc32": "C285FC69",
+        "crc1": "4222D89F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Bust-A-Move 2 - Arcade Edition (Europe)",
+        "crc32": "04731BAB",
+        "crc1": "CEDCDE1E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Bust-A-Move 2 - Arcade Edition (USA)",
+        "crc32": "9F54CD2D",
+        "crc1": "8A86F073",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Bust-A-Move 3 DX (Europe)",
+        "crc32": "95595889",
+        "crc1": "E328B4FA",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "California Speed (Europe) (Proto)",
+        "crc32": "D913B95F",
+        "crc1": "CA2A7444",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "California Speed (USA)",
+        "crc32": "6F6262CB",
+        "crc1": "AC16400E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Carmageddon 64 (Europe) (En,Fr,De,Es)",
+        "crc32": "8569F1A0",
+        "crc1": "580162EC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Carmageddon 64 (Europe) (En,Fr,Es,It)",
+        "crc32": "8036F999",
+        "crc1": "E48E01F5",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Carmageddon 64 (USA)",
+        "crc32": "10C6A0A1",
+        "crc1": "F00F2D4E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Carnivale - Cenzo's Adventure (USA) (Proto)",
+        "crc32": "3D9F8D32",
+        "crc1": "0CA6AEDA",
+        "size": 64,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania (Europe) (En,Fr,De)",
+        "crc32": "D9D76235",
+        "crc1": "64F1B7CA",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania (USA)",
+        "crc32": "8B0D3C00",
+        "crc1": "F35D5F95",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania (USA) (Rev 1)",
+        "crc32": "274D3493",
+        "crc1": "F35D5335",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania (USA) (Rev 2)",
+        "crc32": "83032D97",
+        "crc1": "4BCDFF47",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania - Legacy of Darkness (Europe) (En,Fr,De)",
+        "crc32": "12AB9B45",
+        "crc1": "A2C54BE7",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Castlevania - Legacy of Darkness (USA)",
+        "crc32": "AB13028C",
+        "crc1": "1CC06338",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Centre Court Tennis (Europe)",
+        "crc32": "B1D26F39",
+        "crc1": "DCCF2134",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Chameleon Twist (Europe)",
+        "crc32": "587DD983",
+        "crc1": "B9AF8CC6",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Chameleon Twist (Japan)",
+        "crc32": "6395C475",
+        "crc1": "A4F2F521",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Chameleon Twist (USA)",
+        "crc32": "7FE024C9",
+        "crc1": "6420535A",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Chameleon Twist (USA) (Rev 1)",
+        "crc32": "7FF42FD0",
+        "crc1": "D81963C7",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Chameleon Twist 2 (Europe)",
+        "crc32": "3B53519F",
+        "crc1": "07A69D01",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Chameleon Twist 2 (Japan)",
+        "crc32": "08287CC8",
+        "crc1": "0549765A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Chameleon Twist 2 (USA)",
+        "crc32": "CDF26D67",
+        "crc1": "CD538CE4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Charlie Blast's Territory (Europe)",
+        "crc32": "82C1D9E1",
+        "crc1": "FB3C48D0",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Charlie Blast's Territory (USA)",
+        "crc32": "BA4E65A8",
+        "crc1": "1E0E96E8",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Chopper Attack (Europe)",
+        "crc32": "C1DCD7AB",
+        "crc1": "2E359339",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Chopper Attack (USA)",
+        "crc32": "AA5D76A9",
+        "crc1": "214CAD94",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Choro Q 64 (Japan)",
+        "crc32": "231F9284",
+        "crc1": "2BCCF9C4",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Choro Q 64 2 - Hacha Mecha Grand Prix Race (Japan)",
+        "crc32": "5C565AD6",
+        "crc1": "26CD0F54",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Chou Kuukan Nighter Pro Yakyuu King (Japan)",
+        "crc32": "5F75634E",
+        "crc1": "8ACE6683",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Chou Kuukan Nighter Pro Yakyuu King 2 (Japan)",
+        "crc32": "479643E2",
+        "crc1": "3A180FF4",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Chou Snobo Kids (Japan)",
+        "crc32": "DD4E84E4",
+        "crc1": "A7941528",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "City-Tour GP - Zen-Nihon GT Senshuken (Japan)",
+        "crc32": "E272BDF6",
+        "crc1": "F8009DB0",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Clay Fighter - Sculptor's Cut (USA)",
+        "crc32": "434DE656",
+        "crc1": "FA5A3DFF",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Clay Fighter 63 1-3 (Europe)",
+        "crc32": "82263E5D",
+        "crc1": "8E9692B3",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Clay Fighter 63 1-3 (USA)",
+        "crc32": "3FA647DD",
+        "crc1": "F03C24CA",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Clay Fighter 63 1-3 (USA) (Beta) (1997-08-21)",
+        "crc32": "18F4166A",
+        "crc1": "2B6FA7C0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Command & Conquer (Europe) (En,Fr)",
+        "crc32": "F3DA8A26",
+        "crc1": "AE5B9465",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Command & Conquer (Germany)",
+        "crc32": "6CD0FC99",
+        "crc1": "B5025BAD",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Command & Conquer (USA)",
+        "crc32": "3E9069EF",
+        "crc1": "95286EB4",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Conker's Bad Fur Day (Europe)",
+        "crc32": "4667CFE9",
+        "crc1": "373F5889",
+        "size": 64,
+        "saveType": 6
+    },
+    {
+        "name": "Conker's Bad Fur Day (USA)",
+        "crc32": "CE8CC172",
+        "crc1": "30C7AC50",
+        "size": 64,
+        "saveType": 6
+    },
+    {
+        "name": "Conker's Bad Fur Day (USA) (Beta) (2000-10-25)",
+        "crc32": "4F73408C",
+        "crc1": "8BC3A47A",
+        "size": 64,
+        "saveType": 6
+    },
+    {
+        "name": "Conker's Bad Fur Day (USA) (Beta) (ECTS 2000) (2000-08-26)",
+        "crc32": "E1CDA95A",
+        "crc1": "A08D0F77",
+        "size": 64,
+        "saveType": 6
+    },
+    {
+        "name": "Controller Kensa-ki NUS-yo N Cassette (Japan) (Test Program)",
+        "crc32": "E5828A7F",
+        "crc1": "D6355E14",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Controller Pak Test (Unknown)",
+        "crc32": "3504DBD5",
+        "crc1": "449F60CC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Cruis'n Exotica (USA)",
+        "crc32": "867A2CED",
+        "crc1": "46A3F7AF",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n USA (Europe)",
+        "crc32": "8935A8D9",
+        "crc1": "503EA760",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n USA (USA)",
+        "crc32": "5238B727",
+        "crc1": "FF2F2FB4",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n USA (USA) (Rev 1)",
+        "crc32": "4655BA2D",
+        "crc1": "5306CF45",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n USA (USA) (Rev 2)",
+        "crc32": "C3B52701",
+        "crc1": "B3402554",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n USA (USA) (Wii Virtual Console)",
+        "crc32": "8FC564F9",
+        "crc1": "FF2F2FB4",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Cruis'n World (Europe)",
+        "crc32": "E46CE079",
+        "crc1": "83F3931E",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Cruis'n World (Europe) (Rev 1)",
+        "crc32": "EBAED1F9",
+        "crc1": "33E61153",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Cruis'n World (USA)",
+        "crc32": "A123769F",
+        "crc1": "DFE61153",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Custom Robo (Japan)",
+        "crc32": "F2FAE693",
+        "crc1": "83CB0B87",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Custom Robo V2 (Japan)",
+        "crc32": "C8201454",
+        "crc1": "079501B9",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "CyberTiger (Europe)",
+        "crc32": "7319D9AF",
+        "crc1": "D1A78A07",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "CyberTiger (USA)",
+        "crc32": "10CC5F15",
+        "crc1": "E8FC8EA1",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Daffy Duck Starring as Duck Dodgers (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "C61F6BB9",
+        "crc1": "0AA0055B",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Dance Dance Revolution - Disney Dancing Museum (Japan)",
+        "crc32": "43EE0117",
+        "crc1": "7188F445",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Dark Rift (Europe)",
+        "crc32": "D2A19C71",
+        "crc1": "7ED67CD4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Dark Rift (USA)",
+        "crc32": "83FD222F",
+        "crc1": "A4A52B58",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Deadly Arts (USA)",
+        "crc32": "3DB8130E",
+        "crc1": "F5363349",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Defi au Tetris Magique (France)",
+        "crc32": "E7EF60E8",
+        "crc1": "3F66A9D9",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Densha de Go! 64 (Japan)",
+        "crc32": "7BFC71E0",
+        "crc1": "17C54A61",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Derby Stallion 64 (Japan)",
+        "crc32": "A9417994",
+        "crc1": "A5F667E1",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Derby Stallion 64 (Japan) (Beta) [b]",
+        "crc32": "8EC950A9",
+        "crc1": "96BA4EFB",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Destruction Derby 64 (Europe) (En,Fr,De)",
+        "crc32": "7AD9E429",
+        "crc1": "630AA37D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Destruction Derby 64 (USA)",
+        "crc32": "38F1B5D9",
+        "crc1": "DEE584A2",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Dezaemon 3D (Japan)",
+        "crc32": "9E978488",
+        "crc1": "8979169C",
+        "size": 16,
+        "saveType": 2
+    },
+    {
+        "name": "Diddy Kong Racing (Europe) (En,Fr,De)",
+        "crc32": "4A13323C",
+        "crc1": "FD73F775",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Diddy Kong Racing (Europe) (En,Fr,De) (Rev 1)",
+        "crc32": "B1E87639",
+        "crc1": "596E145B",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Diddy Kong Racing (Japan)",
+        "crc32": "B566FB94",
+        "crc1": "7435C9BB",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Diddy Kong Racing (USA) (En,Fr)",
+        "crc32": "EB759206",
+        "crc1": "53D440E7",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Diddy Kong Racing (USA) (En,Fr) (Rev 1)",
+        "crc32": "5ACCA298",
+        "crc1": "E402430D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Die Hard 64 (USA) (Proto) (Level 1)",
+        "crc32": "5E826037",
+        "crc1": "870611BA",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Die Hard 64 (USA) (Proto) (Level 2)",
+        "crc32": "D1D593CF",
+        "crc1": "08D49262",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Die Hard 64 (USA) (Proto) (Level 3)",
+        "crc32": "70943925",
+        "crc1": "A1F51C25",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Dinosaur Planet (USA) (Proto) (2000-12-01)",
+        "crc32": "A7DAF9FA",
+        "crc1": "D0F6A741",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)",
+        "crc32": "0075D32B",
+        "crc1": "C16C421B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Donald Duck - Quack Attack (Europe) (En,Fr,De,Es,It)",
+        "crc32": "E6220482",
+        "crc1": "3DF17480",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Donkey Kong 64 (Europe) (En,Fr,De,Es)",
+        "crc32": "A28C71C6",
+        "crc1": "11936D8C",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Donkey Kong 64 (Japan)",
+        "crc32": "919F7E74",
+        "crc1": "053C89A7",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Donkey Kong 64 (USA)",
+        "crc32": "D44B4FC6",
+        "crc1": "EC58EABF",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Donkey Kong 64 (USA) (Demo) (Kiosk)",
+        "crc32": "C83DFA15",
+        "crc1": "0DD4ABAB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Doom 64 (Europe)",
+        "crc32": "D985C356",
+        "crc1": "2C739EAC",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Doom 64 (Japan)",
+        "crc32": "C8F3AF5B",
+        "crc1": "7AA65B36",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Doom 64 (USA)",
+        "crc32": "5CC1ADE6",
+        "crc1": "A83E101A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Doom 64 (USA) (Rev 1)",
+        "crc32": "1D3A17B5",
+        "crc1": "423E96F4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Doraemon - Nobita to 3tsu no Seireiseki (Japan)",
+        "crc32": "154E8B33",
+        "crc1": "BFF7B1C2",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Doraemon 2 - Nobita to Hikari no Shinden (Japan)",
+        "crc32": "0C1A0C38",
+        "crc1": "B6306E99",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Doraemon 3 - Nobita no Machi SOS! (Japan)",
+        "crc32": "D3B68BE4",
+        "crc1": "A8275140",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Doubutsu Banchou (Japan) (Proto)",
+        "crc32": "6F8E3E71",
+        "crc1": "EB85EBC9",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Doubutsu no Mori (Japan)",
+        "crc32": "9503E3F1",
+        "crc1": "BD8E206D",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Dr. Mario 64 (USA)",
+        "crc32": "A4701927",
+        "crc1": "769D4D13",
+        "size": 4,
+        "saveType": 5
+    },
+    {
+        "name": "Dragon Sword 64 (Europe) (Proto)",
+        "crc32": "55DED416",
+        "crc1": "40DFEDA0",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Dragon Sword 64 (USA) (Proto) (1999-08-25)",
+        "crc32": "2296B50D",
+        "crc1": "AE6B1E11",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Dual Heroes (Europe)",
+        "crc32": "5A7E226B",
+        "crc1": "B6524461",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Dual Heroes (Japan)",
+        "crc32": "20F23DDE",
+        "crc1": "056EAB63",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Dual Heroes (USA)",
+        "crc32": "D09F4DA8",
+        "crc1": "A62230C3",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es)",
+        "crc32": "3177A905",
+        "crc1": "FBB9F1FA",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Duck Dodgers Starring Daffy Duck (USA) (En,Fr,Es) (Beta) (2000-03-07)",
+        "crc32": "1E48D155",
+        "crc1": "59B4F567",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Duke Nukem - Zero Hour (Europe)",
+        "crc32": "EA82F037",
+        "crc1": "DC36626A",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem - Zero Hour (France)",
+        "crc32": "7ECDFB28",
+        "crc1": "32CA974B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem - Zero Hour (USA)",
+        "crc32": "9A3258D7",
+        "crc1": "04DAF07F",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem 64 (Europe)",
+        "crc32": "3275ADB0",
+        "crc1": "57BFF74D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem 64 (Europe) (Beta)",
+        "crc32": "4A82D036",
+        "crc1": "FF14C1DA",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem 64 (France)",
+        "crc32": "B9C9F07A",
+        "crc1": "1E12883D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Duke Nukem 64 (USA)",
+        "crc32": "DBFD5A53",
+        "crc1": "A273AB56",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "ECW Hardcore Revolution (Europe)",
+        "crc32": "BE8FEEAD",
+        "crc1": "8C38E5DB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "ECW Hardcore Revolution (Germany)",
+        "crc32": "E9CF3D9F",
+        "crc1": "2138A076",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "ECW Hardcore Revolution (USA)",
+        "crc32": "36D368EF",
+        "crc1": "BDF9766D",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "ECW Hardcore Revolution (USA) (Beta)",
+        "crc32": "0A239818",
+        "crc1": "8107C330",
+        "size": 128,
+        "saveType": 0
+    },
+    {
+        "name": "Earthworm Jim 3D (Europe) (En,Fr,De,Es,It)",
+        "crc32": "61A56330",
+        "crc1": "492B9DE8",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Earthworm Jim 3D (USA)",
+        "crc32": "9E6579C5",
+        "crc1": "DF574191",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Eikou no Saint Andrews (Japan)",
+        "crc32": "1699D2D6",
+        "crc1": "0DED0568",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Eltale Monsters (Japan)",
+        "crc32": "24D937BF",
+        "crc1": "E13AE2DC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Excitebike 64 (Europe)",
+        "crc32": "0B881E60",
+        "crc1": "202A8EE4",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Excitebike 64 (Japan)",
+        "crc32": "03BFD065",
+        "crc1": "861C3519",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Excitebike 64 (USA)",
+        "crc32": "FC459192",
+        "crc1": "07861842",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Excitebike 64 (USA) (Demo) (Kiosk)",
+        "crc32": "BE6298B0",
+        "crc1": "AF754F7B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Excitebike 64 (USA) (Rev 1)",
+        "crc32": "143926CE",
+        "crc1": "F9D411E3",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Extreme-G (Europe) (En,Fr,De,Es,It)",
+        "crc32": "0B71B1EA",
+        "crc1": "8E9D834E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Extreme-G (Japan)",
+        "crc32": "750DC9A7",
+        "crc1": "EE802DC4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Extreme-G (USA)",
+        "crc32": "04CB74EC",
+        "crc1": "FDA245D2",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Extreme-G XG2 (Europe) (En,Fr,De,Es,It)",
+        "crc32": "1A57F416",
+        "crc1": "1185EC85",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Extreme-G XG2 (Japan)",
+        "crc32": "7C8A36DA",
+        "crc1": "399B9B81",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Extreme-G XG2 (USA)",
+        "crc32": "81A4C28B",
+        "crc1": "5CD4150B",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "F-1 World Grand Prix (Europe)",
+        "crc32": "1F4E651A",
+        "crc1": "C006E3C0",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix (Europe) (Beta)",
+        "crc32": "BEBBC6C8",
+        "crc1": "CC3CC8B3",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix (France)",
+        "crc32": "57CD299D",
+        "crc1": "B70BAEE5",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix (Germany)",
+        "crc32": "0F1984DC",
+        "crc1": "38442634",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix (Japan)",
+        "crc32": "F7BACBC3",
+        "crc1": "64BF47C4",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix (USA)",
+        "crc32": "7DC9EF2C",
+        "crc1": "CC3CC8B3",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-1 World Grand Prix II (Europe) (En,Fr,De,Es)",
+        "crc32": "803D33DF",
+        "crc1": "07C1866E",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "F-Zero X (Europe)",
+        "crc32": "2D6F7E8B",
+        "crc1": "776646F6",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "F-Zero X (Japan)",
+        "crc32": "6B1CEF83",
+        "crc1": "4D3E622E",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "F-Zero X (USA)",
+        "crc32": "0B561FBA",
+        "crc1": "B30ED978",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "F-Zero X (USA) (Beta) (The Legend of Zelda Ocarina of Time Overdump)",
+        "crc32": "68FE1CEC",
+        "crc1": "B30ED978",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "F1 Pole Position 64 (Europe) (En,Fr,De)",
+        "crc32": "ED750623",
+        "crc1": "FDD248B2",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "F1 Pole Position 64 (USA) (En,Fr,De)",
+        "crc32": "30A24D89",
+        "crc1": "AE82687A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "F1 Racing Championship (Brazil) (En,Fr)",
+        "crc32": "C05B9184",
+        "crc1": "53CCAD28",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "F1 Racing Championship (Europe) (En,Fr,De,Es,It)",
+        "crc32": "2DA744F5",
+        "crc1": "3CECBCB8",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "F1 Racing Championship (Unknown) (Beta)",
+        "crc32": "5A55B4C2",
+        "crc1": "20EC5CAB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA - Road to World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv)",
+        "crc32": "137CB3CC",
+        "crc1": "0E31EDF0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv)",
+        "crc32": "28B1221C",
+        "crc1": "CB1ACDDE",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA - Road to World Cup 98 - World Cup e no Michi (Japan)",
+        "crc32": "AE346DF6",
+        "crc1": "F5733C67",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA 64 (Europe) (En,Fr,De)",
+        "crc32": "AE2583FB",
+        "crc1": "C3F19159",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA 99 (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+        "crc32": "6EAE1E6E",
+        "crc1": "0198A651",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+        "crc32": "6B2473A9",
+        "crc1": "7613A630",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "FIFA Soccer 64 (USA) (En,Fr,De)",
+        "crc32": "57DE7CAB",
+        "crc1": "C3F19159",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Famista 64 (Japan)",
+        "crc32": "9FB0E6C9",
+        "crc1": "6DFF4C37",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Fighter Destiny 2 (USA)",
+        "crc32": "BB2563C6",
+        "crc1": "AEEF2F45",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Fighters Destiny (Europe)",
+        "crc32": "C9225511",
+        "crc1": "36F1C74B",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Fighters Destiny (France)",
+        "crc32": "B3A034D6",
+        "crc1": "0C41F9C2",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Fighters Destiny (Germany)",
+        "crc32": "5052168C",
+        "crc1": "FE94E570",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Fighters Destiny (USA)",
+        "crc32": "F45EA789",
+        "crc1": "52F78805",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Fighting Cup (Japan)",
+        "crc32": "8A1C261E",
+        "crc1": "49E46C2D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Fighting Force 64 (Europe)",
+        "crc32": "4052C176",
+        "crc1": "66CF0FFE",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Fighting Force 64 (USA)",
+        "crc32": "8456841E",
+        "crc1": "32EFC7CB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Flying Dragon (Europe)",
+        "crc32": "C3066E59",
+        "crc1": "22E9623F",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Flying Dragon (USA)",
+        "crc32": "91BC9AEB",
+        "crc1": "A92D52E5",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Forsaken (Europe) (En,Fr,Es,It)",
+        "crc32": "5ED736D9",
+        "crc1": "142A17AA",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Forsaken (Germany)",
+        "crc32": "9793ABC2",
+        "crc1": "C3CD76FF",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Forsaken 64 (USA)",
+        "crc32": "76C4333D",
+        "crc1": "9E330C01",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Fox Sports College Hoops '99 (USA)",
+        "crc32": "67EAF0F3",
+        "crc1": "3261D479",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Freak Boy (Unknown) (Proto)",
+        "crc32": "40632BEC",
+        "crc1": "4471C13E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Frogger 2 (USA) (Proto 1)",
+        "crc32": "8D62268E",
+        "crc1": "AD19A172",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Frogger 2 (USA) (Proto 2)",
+        "crc32": "A8F81F39",
+        "crc1": "E8E5B179",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)",
+        "crc32": "2AA6D2A1",
+        "crc1": "F774EAEE",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "G.A.S.P!! Fighters' NEXTream (Europe)",
+        "crc32": "5AA63B04",
+        "crc1": "68FCF726",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "G.A.S.P!! Fighters' NEXTream (Japan)",
+        "crc32": "6EAD2D89",
+        "crc1": "AF8679B6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "GT 64 - Championship Edition (Europe) (En,Fr,De)",
+        "crc32": "6DFB4747",
+        "crc1": "EE4A0E33",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "GT 64 - Championship Edition (USA)",
+        "crc32": "BC627DA7",
+        "crc1": "C49ADCA2",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "GT 64 - Championship Edition (USA) (Beta) (1998-05-25)",
+        "crc32": "191BF504",
+        "crc1": "99D5CF89",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori (Japan)",
+        "crc32": "08C41E0E",
+        "crc1": "457B9CD9",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Ganbare Goemon - Neo Momoyama Bakufu no Odori (Japan)",
+        "crc32": "2E91EFC9",
+        "crc1": "832C168B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Ganbare! Nippon! Olympics 2000 (Japan)",
+        "crc32": "73133CD2",
+        "crc1": "21FFFD0A",
+        "size": 12,
+        "saveType": 1
+    },
+    {
+        "name": "Gauntlet Legends (Europe)",
+        "crc32": "B7B3A489",
+        "crc1": "D543BCD6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Gauntlet Legends (Japan)",
+        "crc32": "8D133DB0",
+        "crc1": "70B0260E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Gauntlet Legends (USA)",
+        "crc32": "64765E82",
+        "crc1": "729B5E32",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Getter Love!! - Cho Renai Party Game Tanjou (Japan)",
+        "crc32": "724ECAE7",
+        "crc1": "489C84E6",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Gex 3 - Deep Cover Gecko (Europe) (En,Es,It)",
+        "crc32": "6BC4A056",
+        "crc1": "99179359",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Gex 3 - Deep Cover Gecko (Europe) (Fr,De)",
+        "crc32": "A43CB8E4",
+        "crc1": "874733A4",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Gex 3 - Deep Cover Gecko (USA)",
+        "crc32": "87A7D099",
+        "crc1": "3EDC7E12",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Gex 64 - Enter the Gecko (Europe)",
+        "crc32": "A7C92BEA",
+        "crc1": "E68A000E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Gex 64 - Enter the Gecko (USA)",
+        "crc32": "C545CE80",
+        "crc1": "89FED774",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Glover (Europe) (En,Fr,De)",
+        "crc32": "90ECEB4A",
+        "crc1": "F5237301",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Glover (USA)",
+        "crc32": "F874571C",
+        "crc1": "8E6E01FF",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Glover (USA) (Beta) (1998-07-16) [b]",
+        "crc32": "7A866221",
+        "crc1": "254CC736",
+        "size": 64,
+        "saveType": 5
+    },
+    {
+        "name": "Glover (USA) (En,Fr,Es) (Aftermarket) (Unl)",
+        "crc32": "9FB6A52B",
+        "crc1": "869A5D37",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Glover (USA) (Proto) (1998-09-04)",
+        "crc32": "5E091E8F",
+        "crc1": "396ABCEC",
+        "size": 24,
+        "saveType": 5
+    },
+    {
+        "name": "Glover 2 (USA) (Proto 1)",
+        "crc32": "D0809AFB",
+        "crc1": "8E9F21D2",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Glover 2 (USA) (Proto 2)",
+        "crc32": "29966555",
+        "crc1": "B7F40BCF",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Goemon - Mononoke Sugoroku (Japan)",
+        "crc32": "965C4575",
+        "crc1": "B2C6D27F",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Goemon's Great Adventure (USA)",
+        "crc32": "52D418E1",
+        "crc1": "4252A5AD",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Golden Nugget 64 (USA)",
+        "crc32": "70594D3C",
+        "crc1": "4690FB1C",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "GoldenEye 007 (Europe)",
+        "crc32": "9EC14AEB",
+        "crc1": "0414CA61",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "GoldenEye 007 (Japan)",
+        "crc32": "A6BE19DD",
+        "crc1": "A24F4CF1",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "GoldenEye 007 (USA)",
+        "crc32": "B6330846",
+        "crc1": "DCBC50D1",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "HSV Adventure Racing! (Australia)",
+        "crc32": "C0BA9440",
+        "crc1": "72611D7D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hamster Monogatari 64 (Japan)",
+        "crc32": "C1D98B78",
+        "crc1": "95A80114",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Harukanaru Augusta - Masters '98 (Japan)",
+        "crc32": "51228F0C",
+        "crc1": "09AE57B1",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Harvest Moon 64 (USA)",
+        "crc32": "DECDC0AD",
+        "crc1": "98DF9DFC",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Heiwa Pachinko World 64 (Japan)",
+        "crc32": "99A427FA",
+        "crc1": "3E70E866",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Hercules - The Legendary Journeys (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "B1954B08",
+        "crc1": "AE90DBEB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hercules - The Legendary Journeys (USA)",
+        "crc32": "4948892B",
+        "crc1": "7F3CEB77",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hercules - The Legendary Journeys (Unknown) (Beta)",
+        "crc32": "A7759499",
+        "crc1": "59C92A8D",
+        "size": 24,
+        "saveType": 0
+    },
+    {
+        "name": "Hexen (Europe)",
+        "crc32": "5369EFB4",
+        "crc1": "95B2B30B",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hexen (France)",
+        "crc32": "E373FA31",
+        "crc1": "5C1B5FBD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hexen (Germany)",
+        "crc32": "E4821C4B",
+        "crc1": "9AB3B50A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hexen (Japan)",
+        "crc32": "571DA09A",
+        "crc1": "66751A57",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hexen (USA)",
+        "crc32": "1D35E110",
+        "crc1": "9CAB6AEA",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hey You, Pikachu! (USA)",
+        "crc32": "B18B2734",
+        "crc1": "D3F10E5D",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Hiryuu no Ken Twin (Japan)",
+        "crc32": "BA6A687E",
+        "crc1": "35FF8F1A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Holy Magic Century (Europe)",
+        "crc32": "84FF9890",
+        "crc1": "277B129D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Holy Magic Century (France)",
+        "crc32": "284170ED",
+        "crc1": "B35FEBB0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Holy Magic Century (Germany)",
+        "crc32": "D1934CF6",
+        "crc1": "75FA0E14",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hoshi no Kirby 64 (Japan)",
+        "crc32": "AE7CB69D",
+        "crc1": "C1D702BD",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Hoshi no Kirby 64 (Japan) (Rev 1)",
+        "crc32": "A263C1B9",
+        "crc1": "CA1BB86F",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Hoshi no Kirby 64 (Japan) (Rev 2)",
+        "crc32": "F4589AA8",
+        "crc1": "0C581C7A",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Hoshi no Kirby 64 (Japan) (Rev 3)",
+        "crc32": "6D5E1332",
+        "crc1": "BCB1F89F",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Hot Wheels - Turbo Racing (Europe) (En,Fr,De)",
+        "crc32": "850633A7",
+        "crc1": "E7D20193",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hot Wheels - Turbo Racing (USA)",
+        "crc32": "A5C92148",
+        "crc1": "C7C98F8E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Human Grand Prix - The New Generation (Japan)",
+        "crc32": "31E102E3",
+        "crc1": "5535972E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Hybrid Heaven (Europe) (En,Fr,De)",
+        "crc32": "E76627FF",
+        "crc1": "641D3A7F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hybrid Heaven (Japan)",
+        "crc32": "E769DE96",
+        "crc1": "0DE2CE36",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Hybrid Heaven (USA)",
+        "crc32": "15B57EF8",
+        "crc1": "102888BF",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Hydro Thunder (Europe)",
+        "crc32": "863AB8F3",
+        "crc1": "B58988E9",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Hydro Thunder (France)",
+        "crc32": "010F6242",
+        "crc1": "29A045CE",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Hydro Thunder (USA)",
+        "crc32": "E744456F",
+        "crc1": "C8DC65EB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Hyper Olympics in Nagano 64 (Japan)",
+        "crc32": "C1EA5D33",
+        "crc1": "2FC5C34C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Ide Yosuke no Mahjong Juku (Japan)",
+        "crc32": "DBD96DEB",
+        "crc1": "77DA3B8D",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Iggy's Reckin' Balls (Europe)",
+        "crc32": "9BF26065",
+        "crc1": "D692CC5E",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Iggy's Reckin' Balls (USA)",
+        "crc32": "6A6FBD5D",
+        "crc1": "E616B5BC",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Iggy-kun no Bura Bura Poyon (Japan)",
+        "crc32": "26CC1266",
+        "crc1": "69458B9E",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "In-Fisherman - Bass Hunter 64 (Europe)",
+        "crc32": "00DA3704",
+        "crc1": "B088FBB4",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "In-Fisherman - Bass Hunter 64 (USA)",
+        "crc32": "D8EB5E6E",
+        "crc1": "8C138BE0",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Indiana Jones and the Infernal Machine (Australia) (Proto)",
+        "crc32": "337219BE",
+        "crc1": "3A6F8C6B",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Indiana Jones and the Infernal Machine (USA)",
+        "crc32": "4978EB57",
+        "crc1": "AF9DCC15",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Indy Racing 2000 (USA)",
+        "crc32": "A5163F29",
+        "crc1": "E436467A",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "International Superstar Soccer '98 (Europe)",
+        "crc32": "BF23945D",
+        "crc1": "F41B6343",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer '98 (Europe) (Beta) (1998-03-02)",
+        "crc32": "A63DCB66",
+        "crc1": "CAF12C9E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer '98 (USA)",
+        "crc32": "B85FA721",
+        "crc1": "7F0FDA09",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 2000 (Europe) (En,De)",
+        "crc32": "69572558",
+        "crc1": "336364A0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 2000 (Europe) (Fr,It)",
+        "crc32": "8A16A6A9",
+        "crc1": "BAE8E871",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 2000 (USA) (En,Es)",
+        "crc32": "DCD0538F",
+        "crc1": "8E835437",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 2000 (USA) (En,Es) (Rev 1)",
+        "crc32": "4C433FDD",
+        "crc1": "96816CCD",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 64 (Europe)",
+        "crc32": "8C839268",
+        "crc1": "E2D37CF0",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "International Superstar Soccer 64 (USA)",
+        "crc32": "0EA249B9",
+        "crc1": "5F2763C4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "International Track & Field - Summer Games (Europe) (En,Fr,De)",
+        "crc32": "B3181EE0",
+        "crc1": "6712C779",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "International Track & Field 2000 (USA)",
+        "crc32": "DA443F0B",
+        "crc1": "20073BC7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban! (Japan)",
+        "crc32": "576915D4",
+        "crc1": "D137A2CA",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "J.League Dynamite Soccer 64 (Japan)",
+        "crc32": "DC0B2C8F",
+        "crc1": "87766747",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "J.League Eleven Beat 1997 (Japan)",
+        "crc32": "7D0EED6A",
+        "crc1": "4FBFA429",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "J.League Live 64 (Japan)",
+        "crc32": "4C536DD7",
+        "crc1": "54554A42",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "J.League Tactics Soccer (Japan)",
+        "crc32": "976A2D12",
+        "crc1": "E8D29DA0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "J.League Tactics Soccer (Japan) (Rev 1)",
+        "crc32": "156E705E",
+        "crc1": "C6CE0AAA",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Jangou Simulation Mahjong Dou 64 (Japan)",
+        "crc32": "D1C1681E",
+        "crc1": "C73AD016",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Jeopardy! (USA)",
+        "crc32": "E739947C",
+        "crc1": "69256460",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Jeremy McGrath Supercross 2000 (Europe)",
+        "crc32": "5BF42EC4",
+        "crc1": "21F7ABFB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jeremy McGrath Supercross 2000 (USA)",
+        "crc32": "2A5C9A06",
+        "crc1": "BB30B1A5",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jet Force Gemini (Europe) (En,Fr,De,Es)",
+        "crc32": "CFBED88C",
+        "crc1": "68D7A1DE",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Jet Force Gemini (USA)",
+        "crc32": "6753D5A3",
+        "crc1": "8A6009B6",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Jet Force Gemini (USA) (Demo) (Kiosk)",
+        "crc32": "FA061B96",
+        "crc1": "DFD8AB47",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Jikkyou G1 Stable (Japan)",
+        "crc32": "0A796C3E",
+        "crc1": "AF19D9F5",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou G1 Stable (Japan) (Rev 1)",
+        "crc32": "6FC0A31B",
+        "crc1": "575F340B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan)",
+        "crc32": "2EF647D3",
+        "crc1": "63112A53",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou J.League 1999 - Perfect Striker 2 (Japan) (Rev 1)",
+        "crc32": "F96C2BE1",
+        "crc1": "6309FC17",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou J.League Perfect Striker (Japan)",
+        "crc32": "8ED60DEA",
+        "crc1": "146C4366",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan)",
+        "crc32": "6A9E24D7",
+        "crc1": "6EDD4766",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001 (Japan) (Rev 1)",
+        "crc32": "BC7EF5C1",
+        "crc1": "B00E3829",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 2000 (Japan)",
+        "crc32": "351CDE48",
+        "crc1": "0AC244D1",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 2000 (Japan) (Rev 1)",
+        "crc32": "753706EF",
+        "crc1": "4264DF23",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan)",
+        "crc32": "480B953E",
+        "crc1": "34495BAD",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Beta) (1996-11-30)",
+        "crc32": "1B8B9A68",
+        "crc1": "C56BC5F8",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 4 (Japan) (Rev 1)",
+        "crc32": "40E3AC61",
+        "crc1": "D7891F1C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan)",
+        "crc32": "FEEC34F6",
+        "crc1": "D22943DA",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 1)",
+        "crc32": "7994C2FE",
+        "crc1": "1C8CDF74",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 5 (Japan) (Rev 2)",
+        "crc32": "C02FD9BE",
+        "crc1": "AC173077",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan)",
+        "crc32": "1E53A7BA",
+        "crc1": "B75E20B7",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 1)",
+        "crc32": "7AB7EBF4",
+        "crc1": "3C084040",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou Powerful Pro Yakyuu 6 (Japan) (Rev 2)",
+        "crc32": "FCC10356",
+        "crc1": "438E6026",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Jikkyou World Soccer - World Cup France '98 (Japan)",
+        "crc32": "5C721850",
+        "crc1": "3FEA5620",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 1)",
+        "crc32": "68DBCC04",
+        "crc1": "C954B38C",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou World Soccer - World Cup France '98 (Japan) (Rev 2)",
+        "crc32": "F63F9A5E",
+        "crc1": "E1C7ABD6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Jikkyou World Soccer 3 (Japan)",
+        "crc32": "3BA9E644",
+        "crc1": "E0A79F8C",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Jikuu Senshi Turok (Japan)",
+        "crc32": "E6BD65D5",
+        "crc1": "916AE6B8",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Jinsei Game 64 (Japan)",
+        "crc32": "67A1A22C",
+        "crc1": "4AAAF6ED",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "John Romero's Daikatana (Europe) (En,Fr,De)",
+        "crc32": "F88AC3CE",
+        "crc1": "0F743195",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "John Romero's Daikatana (Japan)",
+        "crc32": "44B80FD7",
+        "crc1": "9D7E3C4B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "John Romero's Daikatana (USA)",
+        "crc32": "494950C6",
+        "crc1": "D0151AB0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Kakutou Denshou - F-Cup Maniax (Japan)",
+        "crc32": "DB40A155",
+        "crc1": "4F29474F",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Ken Griffey Jr.'s Slugfest (USA)",
+        "crc32": "12D8F3E9",
+        "crc1": "36281F23",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Killer Instinct Gold (Europe)",
+        "crc32": "5D0EE5D2",
+        "crc1": "979B263E",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Killer Instinct Gold (USA)",
+        "crc32": "31C76BE7",
+        "crc1": "9E8FE2BA",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Killer Instinct Gold (USA) (Rev 1)",
+        "crc32": "49EF8F2B",
+        "crc1": "9E8FCDFA",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Killer Instinct Gold (USA) (Rev 2)",
+        "crc32": "0B5B5DF8",
+        "crc1": "F908CA4C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "King Hill 64 - Extreme Snowboarding (Japan)",
+        "crc32": "F120CC52",
+        "crc1": "519EA4E1",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Kiratto Kaiketsu! 64 Tanteidan (Japan)",
+        "crc32": "7FDC3784",
+        "crc1": "75BC6AD6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Kirby 64 - The Crystal Shards (Europe)",
+        "crc32": "5B8B89EF",
+        "crc1": "0D93BA11",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Kirby 64 - The Crystal Shards (USA)",
+        "crc32": "20A1C120",
+        "crc1": "46039FB4",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Knife Edge - Nose Gunner (Europe)",
+        "crc32": "B77783BE",
+        "crc1": "4A997C74",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Knife Edge - Nose Gunner (Japan)",
+        "crc32": "3BC93017",
+        "crc1": "931AEF3F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Knife Edge - Nose Gunner (USA)",
+        "crc32": "255EE1DD",
+        "crc1": "FCE0D799",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Knockout Kings 2000 (Europe)",
+        "crc32": "58CE7D80",
+        "crc1": "E3D6A795",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Knockout Kings 2000 (USA)",
+        "crc32": "074690D6",
+        "crc1": "0894909C",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Kobe Bryant in NBA Courtside (Europe)",
+        "crc32": "1355A826",
+        "crc1": "1739EFBA",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Kobe Bryant in NBA Courtside (USA)",
+        "crc32": "86360BFB",
+        "crc1": "616B8494",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "LEGO Racers (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+        "crc32": "C7D9B21C",
+        "crc1": "F478D8B3",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "LEGO Racers (USA) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi)",
+        "crc32": "4D1E1897",
+        "crc1": "096A40EA",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Last Legion UX (Japan)",
+        "crc32": "9DB99881",
+        "crc1": "7F304099",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es)",
+        "crc32": "9EAD1608",
+        "crc1": "E97955C6",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1)",
+        "crc32": "E2E6823D",
+        "crc1": "0A5D8F83",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Debug)",
+        "crc32": "04EA55EA",
+        "crc1": "9FC385E5",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (Europe) (En,Fr,De,Es) (Rev 1) (Wii Virtual Console)",
+        "crc32": "A83ABF72",
+        "crc1": "0A5D8F83",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (Europe) (GameCube)",
+        "crc32": "12836E19",
+        "crc1": "6AECEC4F",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (USA)",
+        "crc32": "B428D8A7",
+        "crc1": "5354631C",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (USA) (Demo) (Kiosk)",
+        "crc32": "DCC110A0",
+        "crc1": "BF799345",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Majora's Mask (USA) (GameCube)",
+        "crc32": "B008458F",
+        "crc1": "B443EB08",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Beta) (2003-02-13) (GameCube)",
+        "crc32": "C188ACDA",
+        "crc1": "87121EFE",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (Europe) (Debug) (GameCube)",
+        "crc32": "5D1B2996",
+        "crc1": "871E1C92",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De)",
+        "crc32": "946FD0F7",
+        "crc1": "B044B569",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (Europe) (En,Fr,De) (Rev 1)",
+        "crc32": "A108F6E3",
+        "crc1": "B2055FBD",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (Europe) (GameCube)",
+        "crc32": "3FBD519F",
+        "crc1": "09465AC3",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (USA)",
+        "crc32": "CD16C529",
+        "crc1": "EC7011B7",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (USA) (Beta)",
+        "crc32": "6C348AA8",
+        "crc1": "48CA05F4",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (USA) (GameCube)",
+        "crc32": "346DE3AE",
+        "crc1": "F3DD35BA",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 1)",
+        "crc32": "3FD2151E",
+        "crc1": "D43DA81F",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)",
+        "crc32": "32120C23",
+        "crc1": "693BA2AE",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)",
+        "crc32": "A1D34E08",
+        "crc1": "917D18F6",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (GameCube)",
+        "crc32": "832D6449",
+        "crc1": "1D4136F3",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)",
+        "crc32": "C744C4DB",
+        "crc1": "F034001A",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Let's Smash (Japan)",
+        "crc32": "455A1770",
+        "crc1": "3D67C62B",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Lode Runner 3-D (Europe) (En,Fr,De,Es,It)",
+        "crc32": "7148251D",
+        "crc1": "60460680",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Lode Runner 3-D (Japan)",
+        "crc32": "1D4FB466",
+        "crc1": "964ADD0B",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Lode Runner 3-D (USA)",
+        "crc32": "4EA07453",
+        "crc1": "255018DF",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Lylat Wars (Australia) (En,Fr,De)",
+        "crc32": "9A3425DA",
+        "crc1": "2483F22B",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Lylatwars (Europe) (En,Fr,De)",
+        "crc32": "50A9C0B1",
+        "crc1": "F4CBE92C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "MRC - Multi-Racing Championship (Europe) (En,Fr,De)",
+        "crc32": "BC966B10",
+        "crc1": "B8F0BD03",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "MRC - Multi-Racing Championship (Japan)",
+        "crc32": "BEA43300",
+        "crc1": "A6B6B413",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "MRC - Multi-Racing Championship (USA)",
+        "crc32": "1DC1C812",
+        "crc1": "2AF9B65C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mace - The Dark Age (Europe)",
+        "crc32": "57DDEDE1",
+        "crc1": "1145443D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mace - The Dark Age (USA)",
+        "crc32": "D2A363A6",
+        "crc1": "6B700750",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mace - The Dark Age (Unknown) (Beta)",
+        "crc32": "2B23212F",
+        "crc1": "06335838",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden Football 64 (Europe)",
+        "crc32": "FAB3E50D",
+        "crc1": "A197CB52",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden Football 64 (USA)",
+        "crc32": "42E5FAFA",
+        "crc1": "13836389",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 2000 (USA)",
+        "crc32": "EF5F997B",
+        "crc1": "0CB81686",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 2001 (USA)",
+        "crc32": "245EAEE8",
+        "crc1": "EB38F792",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 2002 (USA)",
+        "crc32": "F573F107",
+        "crc1": "D7134F8D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 99 (Europe)",
+        "crc32": "D0929942",
+        "crc1": "3925D625",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 99 (USA)",
+        "crc32": "2EB64FC2",
+        "crc1": "DEB78BBA",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 99 (USA) (Beta) (1998-08-05)",
+        "crc32": "033A2CA6",
+        "crc1": "076F8FB3",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Madden NFL 99 (USA) (Rev 1)",
+        "crc32": "56769A44",
+        "crc1": "DF09D625",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Magical Tetris Challenge (Europe)",
+        "crc32": "AF3B099E",
+        "crc1": "E4906679",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Magical Tetris Challenge (Germany)",
+        "crc32": "377F18E9",
+        "crc1": "E1EF93F7",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Magical Tetris Challenge (USA)",
+        "crc32": "22FE979C",
+        "crc1": "75B61647",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Magical Tetris Challenge featuring Mickey (Japan)",
+        "crc32": "7EFB2F1E",
+        "crc1": "80C8564A",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mahjong 64 (Japan)",
+        "crc32": "DBE7D51A",
+        "crc1": "C53EDC41",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Mahjong Hourouki Classic (Japan)",
+        "crc32": "990A8E54",
+        "crc1": "CCCC821E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mahjong Master (Japan)",
+        "crc32": "B68D596F",
+        "crc1": "0FC42C70",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Major League Baseball Featuring Ken Griffey Jr. (Australia)",
+        "crc32": "E08F7578",
+        "crc1": "CDB998BE",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Major League Baseball Featuring Ken Griffey Jr. (USA)",
+        "crc32": "2EF1EA20",
+        "crc1": "80C1C05C",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Mario Golf (Europe)",
+        "crc32": "A5071A77",
+        "crc1": "62E957D0",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Mario Golf (USA)",
+        "crc32": "2FC4C216",
+        "crc1": "664BA3D4",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Mario Golf 64 (Japan)",
+        "crc32": "BB03A1A6",
+        "crc1": "D48944D1",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Mario Golf 64 (Japan) (Rev 1)",
+        "crc32": "AD1758AC",
+        "crc1": "734F816B",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Mario Kart 64 (Europe)",
+        "crc32": "FAA6B083",
+        "crc1": "C3B6DE9D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Kart 64 (Europe) (Rev 1)",
+        "crc32": "0248F6C3",
+        "crc1": "2577C7D4",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Kart 64 (Japan)",
+        "crc32": "5D9696DF",
+        "crc1": "6BFF4758",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Kart 64 (Japan) (Rev 1)",
+        "crc32": "6CED6472",
+        "crc1": "C9C3A987",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Kart 64 (USA)",
+        "crc32": "434389C1",
+        "crc1": "3E5055B6",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party (Europe) (En,Fr,De)",
+        "crc32": "DA98A5D3",
+        "crc1": "9C663069",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party (Japan)",
+        "crc32": "4F1ADC7B",
+        "crc1": "ADA815BE",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party (USA)",
+        "crc32": "4D60ABE5",
+        "crc1": "2829657E",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It)",
+        "crc32": "DC00357A",
+        "crc1": "82380387",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)",
+        "crc32": "DCA66040",
+        "crc1": "82380387",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (Japan)",
+        "crc32": "7457B081",
+        "crc1": "ED567D0F",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (Japan) (Wii Virtual Console)",
+        "crc32": "FDC89220",
+        "crc1": "ED567D0F",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (USA)",
+        "crc32": "E58A1955",
+        "crc1": "9EA95858",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 2 (USA) (Wii Virtual Console)",
+        "crc32": "6F45853E",
+        "crc1": "9EA95858",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mario Party 3 (Europe) (En,Fr,De,Es)",
+        "crc32": "813B13F2",
+        "crc1": "C5674160",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Party 3 (Japan)",
+        "crc32": "3FC04053",
+        "crc1": "0B0AB4CD",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Party 3 (USA)",
+        "crc32": "B7445DDC",
+        "crc1": "7C3829D9",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Party 3 (USA) (Beta)",
+        "crc32": "697C1777",
+        "crc1": "3734932E",
+        "size": 64,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Story (Japan)",
+        "crc32": "BD60CA66",
+        "crc1": "3BA7CDDC",
+        "size": 40,
+        "saveType": 4
+    },
+    {
+        "name": "Mario Tennis (Europe)",
+        "crc32": "29AA5DF4",
+        "crc1": "839F3AD5",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Tennis (Europe) (Wii Virtual Console)",
+        "crc32": "E9BA8E6B",
+        "crc1": "839F3AD5",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Tennis (USA)",
+        "crc32": "4E9560F6",
+        "crc1": "5001CF4F",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Tennis (USA) (Wii Virtual Console)",
+        "crc32": "8E85B369",
+        "crc1": "5001CF4F",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Tennis 64 (Japan)",
+        "crc32": "C665301D",
+        "crc1": "3A6C42B5",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario Tennis 64 (Japan) (Wii Virtual Console)",
+        "crc32": "32C58AF3",
+        "crc1": "3A6C42B5",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Mario no Photopie (Japan)",
+        "crc32": "176B3683",
+        "crc1": "9A9890AC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mega Man 64 (USA)",
+        "crc32": "1BFC71F0",
+        "crc1": "0EC158F5",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Mega Man 64 (USA) (Beta)",
+        "crc32": "D3562B57",
+        "crc1": "27C985A8",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Mia Hamm Soccer 64 (USA) (En,Es)",
+        "crc32": "2DB3D3D6",
+        "crc1": "1001F10C",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Michael Owen's WLS 2000 (Europe)",
+        "crc32": "BB680CBE",
+        "crc1": "E36166C2",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mickey no Racing Challenge USA (Japan)",
+        "crc32": "1AECFC56",
+        "crc1": "736AE6AF",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mickey's Speedway USA (Europe) (En,Fr,De,Es,It)",
+        "crc32": "0AE51EA5",
+        "crc1": "DED0DD9A",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Mickey's Speedway USA (USA)",
+        "crc32": "2D4F8F1B",
+        "crc1": "FA8C4571",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Micro Machines 64 Turbo (Europe) (En,Fr,De,Es,It)",
+        "crc32": "10B9FF1F",
+        "crc1": "2A49018D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Micro Machines 64 Turbo (USA)",
+        "crc32": "A62A2763",
+        "crc1": "F1850C35",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Midway's Greatest Arcade Hits - Volume 1 (USA)",
+        "crc32": "E5C1FEDC",
+        "crc1": "E4B35E4C",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Mike Piazza's Strike Zone (USA)",
+        "crc32": "CC253CAB",
+        "crc1": "09D53E16",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Milo's Astro Lanes (Europe)",
+        "crc32": "C08CE624",
+        "crc1": "9A490D9D",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Milo's Astro Lanes (USA)",
+        "crc32": "172FCA97",
+        "crc1": "2E955ECD",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Mini Racers (USA) (Ja) (Proto)",
+        "crc32": "F59F881B",
+        "crc1": "21548CA9",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mischief Makers (Europe)",
+        "crc32": "68A4F072",
+        "crc1": "418BDA98",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Mischief Makers (USA)",
+        "crc32": "7D222D3F",
+        "crc1": "0B93051B",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Mischief Makers (USA) (Rev 1)",
+        "crc32": "C3300CEF",
+        "crc1": "BFA526B4",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (Europe)",
+        "crc32": "2C7131D6",
+        "crc1": "2256ECDA",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (France)",
+        "crc32": "282A350D",
+        "crc1": "20095B34",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (Germany)",
+        "crc32": "67C30A2D",
+        "crc1": "93EB3F7E",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (Italy)",
+        "crc32": "2D789D98",
+        "crc1": "EBA949DC",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (Spain)",
+        "crc32": "EBB060DC",
+        "crc1": "5F6A04E2",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (Spain) (Rev 1)",
+        "crc32": "E1C470FD",
+        "crc1": "5F6DDEA2",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Mission - Impossible (USA)",
+        "crc32": "3677A8B8",
+        "crc1": "26035CF8",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Monaco Grand Prix (USA)",
+        "crc32": "E2BBEAC1",
+        "crc1": "28768D6D",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Monaco Grand Prix - Racing Simulation 2 (Europe) (En,Fr,Es,It)",
+        "crc32": "3F5E5830",
+        "crc1": "28705FA5",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Monopoly (USA)",
+        "crc32": "C8CAD8F6",
+        "crc1": "5AC383E1",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Monster Truck Madness 64 (Europe) (En,Fr,De,Es,It)",
+        "crc32": "4731DF5C",
+        "crc1": "D3D806FC",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Monster Truck Madness 64 (USA)",
+        "crc32": "3FD0604D",
+        "crc1": "B19AD999",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Morita Shougi 64 (Japan)",
+        "crc32": "88C83511",
+        "crc1": "E8E8DD70",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Mortal Kombat 4 (Europe)",
+        "crc32": "635ADECA",
+        "crc1": "73036F3B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat 4 (USA)",
+        "crc32": "B7F46516",
+        "crc1": "417DD4F4",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Mythologies - Sub-Zero (Europe)",
+        "crc32": "EA21015A",
+        "crc1": "FF44EDC4",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Mythologies - Sub-Zero (USA)",
+        "crc32": "51A07FD9",
+        "crc1": "C34304AC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Trilogy (Europe)",
+        "crc32": "BC04C62F",
+        "crc1": "8C3D1192",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Trilogy (USA)",
+        "crc32": "50A99D60",
+        "crc1": "D9F75C12",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Trilogy (USA) (Rev 1)",
+        "crc32": "BA64F824",
+        "crc1": "19F55D46",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mortal Kombat Trilogy (USA) (Rev 2)",
+        "crc32": "0F323D00",
+        "crc1": "83F33AA9",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Ms. Pac-Man - Maze Madness (USA)",
+        "crc32": "E34C7060",
+        "crc1": "1938525C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Mystical Ninja 2 Starring Goemon (Europe) (En,Fr,De)",
+        "crc32": "3502DBBE",
+        "crc1": "7F9345D3",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mystical Ninja Starring Goemon (Europe)",
+        "crc32": "3BD9059A",
+        "crc1": "F5360FBE",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Mystical Ninja Starring Goemon (USA)",
+        "crc32": "4180C296",
+        "crc1": "FCBCCB21",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NASCAR 2000 (USA)",
+        "crc32": "02BF7C2D",
+        "crc1": "DF331A18",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NASCAR 99 (Europe) (En,Fr,De)",
+        "crc32": "76E79CEA",
+        "crc1": "AE4992C9",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NASCAR 99 (USA)",
+        "crc32": "3D8EB950",
+        "crc1": "23749578",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Courtside 2 featuring Kobe Bryant (USA)",
+        "crc32": "A7CC4CE2",
+        "crc1": "916852D8",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "NBA Hangtime (Europe)",
+        "crc32": "7E6D00AE",
+        "crc1": "C788DCAE",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Hangtime (USA)",
+        "crc32": "714CF532",
+        "crc1": "4E69B487",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Jam 2000 (Europe)",
+        "crc32": "9F95485E",
+        "crc1": "B6D0CAA0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Jam 2000 (USA)",
+        "crc32": "163DADF9",
+        "crc1": "EBEEA8DB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Jam 99 (Europe)",
+        "crc32": "90E4275B",
+        "crc1": "E600831E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Jam 99 (USA)",
+        "crc32": "559CD6B1",
+        "crc1": "810729F6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Live 2000 (Europe) (En,Fr,De,Es)",
+        "crc32": "0E4B944C",
+        "crc1": "EB499C8F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Live 2000 (USA) (En,Fr,De,Es)",
+        "crc32": "7C3BC95E",
+        "crc1": "5F25B0EE",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Live 99 (Europe) (En,Fr,De,Es,It)",
+        "crc32": "A316DF37",
+        "crc1": "CF84F45F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Live 99 (USA) (En,Fr,De,Es,It)",
+        "crc32": "9BE0A7AC",
+        "crc1": "57F81C9B",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Pro 98 (Europe)",
+        "crc32": "04B75CCC",
+        "crc1": "ACDE962F",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Pro 99 (Europe)",
+        "crc32": "588E60E8",
+        "crc1": "8D1780B6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA Showtime - NBA on NBC (USA)",
+        "crc32": "A4E378F4",
+        "crc1": "3FFE80F4",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone '98 (Japan)",
+        "crc32": "AED2700A",
+        "crc1": "36ACBA9B",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone '98 (USA)",
+        "crc32": "A245D737",
+        "crc1": "6A121930",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone '99 (USA)",
+        "crc32": "EAB083B8",
+        "crc1": "A292524F",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone 2 (Japan)",
+        "crc32": "41093B73",
+        "crc1": "AAE11F01",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone 2000 (Europe)",
+        "crc32": "A4973197",
+        "crc1": "B3054F9F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NBA in the Zone 2000 (USA)",
+        "crc32": "CBB4B730",
+        "crc1": "8DF95B18",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Blitz (USA)",
+        "crc32": "9BCD670F",
+        "crc1": "D094B170",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Blitz - Special Edition (USA)",
+        "crc32": "5D1907F7",
+        "crc1": "30EAD54F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Blitz 2000 (USA)",
+        "crc32": "7F471773",
+        "crc1": "15A00969",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Blitz 2000 (USA) (Rev 1)",
+        "crc32": "B591CFEA",
+        "crc1": "5B755842",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Blitz 2001 (USA)",
+        "crc32": "18EEB41B",
+        "crc1": "36FA35EB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "NFL QB Club 2001 (USA)",
+        "crc32": "6D849E17",
+        "crc1": "28784622",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 2000 (Europe)",
+        "crc32": "CEEF5C29",
+        "crc1": "88BD5A9E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 2000 (USA)",
+        "crc32": "8F54F999",
+        "crc1": "E3AB4ED0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 98 (Europe)",
+        "crc32": "34A21417",
+        "crc1": "4B629EF4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 98 (USA)",
+        "crc32": "ABF0E8F2",
+        "crc1": "D89BE2F8",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 99 (Europe)",
+        "crc32": "F688BDF3",
+        "crc1": "52A3CF47",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NFL Quarterback Club 99 (USA)",
+        "crc32": "44496B26",
+        "crc1": "BE76EDFF",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL 99 (Europe) (En,De,Sv,Fi)",
+        "crc32": "F3B2AA4D",
+        "crc1": "287D601E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL 99 (USA)",
+        "crc32": "E5DF2AFE",
+        "crc1": "591A806E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Blades of Steel '99 (USA)",
+        "crc32": "1EE678FE",
+        "crc1": "82EFDC30",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Breakaway 98 (Europe)",
+        "crc32": "8C0C9669",
+        "crc1": "29CE7692",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Breakaway 98 (USA)",
+        "crc32": "49D86C00",
+        "crc1": "6DFDCDC3",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Breakaway 99 (Europe)",
+        "crc32": "572060E0",
+        "crc1": "874621CB",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Breakaway 99 (USA)",
+        "crc32": "75F75B9D",
+        "crc1": "441768D0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "NHL Pro 99 (Europe)",
+        "crc32": "E272867E",
+        "crc1": "A9895CD9",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Nagano Winter Olympics '98 (Europe)",
+        "crc32": "C44DE11C",
+        "crc1": "6D452016",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Nagano Winter Olympics '98 (USA)",
+        "crc32": "EE8288D4",
+        "crc1": "8D2BAE98",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Namco Museum 64 (USA)",
+        "crc32": "CE361F92",
+        "crc1": "5129B6DA",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Neon Genesis Evangelion (Japan)",
+        "crc32": "A10A86AF",
+        "crc1": "147E0EDB",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "New Tetris, The (Europe)",
+        "crc32": "983263D7",
+        "crc1": "E61CFF0A",
+        "size": 12,
+        "saveType": 1
+    },
+    {
+        "name": "New Tetris, The (USA)",
+        "crc32": "528A07FA",
+        "crc1": "2153143F",
+        "size": 12,
+        "saveType": 1
+    },
+    {
+        "name": "Nightmare Creatures (USA)",
+        "crc32": "6A1EB795",
+        "crc1": "2857674D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Nintama Rantarou 64 Game Gallery (Japan)",
+        "crc32": "8C7C2DCA",
+        "crc1": "CD3C3CDF",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Nintendo All-Star! Dairantou Smash Brothers (Japan)",
+        "crc32": "04C9D3B1",
+        "crc1": "67D20729",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Nuclear Strike 64 (Europe) (En,Fr)",
+        "crc32": "9AFBFCAF",
+        "crc1": "8A97A197",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Nuclear Strike 64 (Germany)",
+        "crc32": "D175397B",
+        "crc1": "8F50B845",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Nuclear Strike 64 (Germany) (Beta) (1999-11-17)",
+        "crc32": "020B6443",
+        "crc1": "26B3E6E9",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Nuclear Strike 64 (USA)",
+        "crc32": "D7467294",
+        "crc1": "4998DDBB",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Nushi Zuri 64 (Japan)",
+        "crc32": "A6800EC0",
+        "crc1": "D83BB920",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Nushi Zuri 64 (Japan) (Rev 1)",
+        "crc32": "16414AE4",
+        "crc1": "C5F1DE79",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Nushi Zuri 64 - Shiokaze ni Notte (Japan)",
+        "crc32": "F0BCD1CE",
+        "crc1": "5B9B1618",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "O.D.T. (Europe) (En,Fr,De,Es,It) (Proto)",
+        "crc32": "7B870026",
+        "crc1": "E86415A6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "O.D.T. (USA) (En,Fr,Es) (Proto)",
+        "crc32": "1D4A8659",
+        "crc1": "2655BB70",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Off Road Challenge (Europe)",
+        "crc32": "D9FE9EE7",
+        "crc1": "812289D0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Off Road Challenge (USA)",
+        "crc32": "1A45C5AB",
+        "crc1": "319093EC",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1)",
+        "crc32": "845B8711",
+        "crc1": "0375CF67",
+        "size": 40,
+        "saveType": 1
+    },
+    {
+        "name": "Ogre Battle 64 - Person of Lordly Caliber (Japan) (Rev 1) (Wii Virtual Console)",
+        "crc32": "991F569C",
+        "crc1": "0375CF67",
+        "size": 40,
+        "saveType": 1
+    },
+    {
+        "name": "Ogre Battle 64 - Person of Lordly Caliber (USA)",
+        "crc32": "A05AEA85",
+        "crc1": "E6419BC5",
+        "size": 40,
+        "saveType": 1
+    },
+    {
+        "name": "Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev 1)",
+        "crc32": "410F6510",
+        "crc1": "0ADAECA7",
+        "size": 40,
+        "saveType": 1
+    },
+    {
+        "name": "Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)",
+        "crc32": "19337B04",
+        "crc1": "0ADAECA7",
+        "size": 40,
+        "saveType": 1
+    },
+    {
+        "name": "Olympic Hockey 98 (Europe) (En,Fr,De,Es)",
+        "crc32": "5A805C2E",
+        "crc1": "AE2D3A35",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Olympic Hockey 98 (Japan)",
+        "crc32": "9E98FCE8",
+        "crc1": "90F43037",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Olympic Hockey 98 (USA)",
+        "crc32": "2D777652",
+        "crc1": "7EC22587",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Onegai Monsters (Japan)",
+        "crc32": "AC72A1C7",
+        "crc1": "DC649466",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Operation WinBack (Europe) (En,Fr,De,Es,It)",
+        "crc32": "FB96F166",
+        "crc1": "D5898CAF",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "PD Ultraman Battle Collection 64 (Japan)",
+        "crc32": "86CC80B5",
+        "crc1": "F468118C",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "PGA European Tour (USA)",
+        "crc32": "7CDFCDAA",
+        "crc1": "B54CE881",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "PGA European Tour Golf (Europe) (En,Fr,De,Es,It)",
+        "crc32": "6B5FF959",
+        "crc1": "EE08C602",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Pachinko 365 Nichi (Japan)",
+        "crc32": "42D06E32",
+        "crc1": "74554B3B",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Paper Mario (Europe) (En,Fr,De,Es)",
+        "crc32": "9FC00CE3",
+        "crc1": "19AB29AF",
+        "size": 48,
+        "saveType": 4
+    },
+    {
+        "name": "Paper Mario (USA)",
+        "crc32": "A7F5CD7E",
+        "crc1": "65EEE53A",
+        "size": 40,
+        "saveType": 4
+    },
+    {
+        "name": "Paperboy (Europe)",
+        "crc32": "F00C5053",
+        "crc1": "AC976B38",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Paperboy (USA)",
+        "crc32": "F27114E6",
+        "crc1": "3E198D9E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game (Japan)",
+        "crc32": "A33146E0",
+        "crc1": "CFE2CB31",
+        "size": 12,
+        "saveType": 6
+    },
+    {
+        "name": "Penny Racers (Europe)",
+        "crc32": "A1D6EB5B",
+        "crc1": "C83CEB83",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Penny Racers (USA)",
+        "crc32": "C1E57337",
+        "crc1": "73ABB1FB",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Perfect Dark (Europe) (Debug Version) (2000-04-26)",
+        "crc32": "B33C4A54",
+        "crc1": "F9864452",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Perfect Dark (Europe) (En,Fr,De,Es,It)",
+        "crc32": "7718A714",
+        "crc1": "E4B08007",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Perfect Dark (Japan)",
+        "crc32": "639C0DA9",
+        "crc1": "96747EB4",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Perfect Dark (USA)",
+        "crc32": "68446AD4",
+        "crc1": "DDF460CC",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Perfect Dark (USA) (Debug Version) (2000-03-22)",
+        "crc32": "B568A9FE",
+        "crc1": "2CE75AEF",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Perfect Dark (USA) (Rev 1)",
+        "crc32": "4C1677F7",
+        "crc1": "41F2B98F",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Pikachuu Genki de Chuu (Japan)",
+        "crc32": "3F6245AE",
+        "crc1": "3F245305",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Pilotwings 64 (Europe) (En,Fr,De)",
+        "crc32": "C902E57C",
+        "crc1": "1AA05AD5",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Pilotwings 64 (Japan)",
+        "crc32": "3D3A84A9",
+        "crc1": "09CC4801",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Pilotwings 64 (USA)",
+        "crc32": "728807E7",
+        "crc1": "C851961C",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Pokemon Puzzle League (Europe)",
+        "crc32": "75839254",
+        "crc1": "4A1CD153",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (Europe) (Wii Virtual Console)",
+        "crc32": "13F996B2",
+        "crc1": "4A1CD153",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (France)",
+        "crc32": "C3AA0074",
+        "crc1": "3EB2E6F3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (France) (Wii Virtual Console)",
+        "crc32": "8671137D",
+        "crc1": "3EB2E6F3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (Germany)",
+        "crc32": "AC543150",
+        "crc1": "7A4747AC",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (Germany) (Wii Virtual Console)",
+        "crc32": "00E73008",
+        "crc1": "7A4747AC",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (USA)",
+        "crc32": "8B9C598F",
+        "crc1": "19C553A7",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Puzzle League (USA) (Wii Virtual Console)",
+        "crc32": "91623130",
+        "crc1": "19C553A7",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Australia)",
+        "crc32": "CDEA6D4C",
+        "crc1": "7BB18D40",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Europe)",
+        "crc32": "F824A057",
+        "crc1": "4FF5976F",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (France)",
+        "crc32": "EC843586",
+        "crc1": "BA6C293A",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Germany)",
+        "crc32": "10C27B3C",
+        "crc1": "5753720D",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Italy)",
+        "crc32": "DF56E922",
+        "crc1": "C0C85046",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Japan)",
+        "crc32": "A091BD56",
+        "crc1": "EC0F690D",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Japan) (Rev 1) (Wii Virtual Console)",
+        "crc32": "A761DAEF",
+        "crc1": "E0044E9E",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (Spain)",
+        "crc32": "371B787F",
+        "crc1": "817D286A",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap (USA)",
+        "crc32": "86A69756",
+        "crc1": "CA12B547",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Snap Station (USA) (Demo) (Kiosk)",
+        "crc32": "E22A00D0",
+        "crc1": "39119872",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (Europe)",
+        "crc32": "DC57508D",
+        "crc1": "84077275",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (Europe) (Rev 1)",
+        "crc32": "DA889668",
+        "crc1": "91C9E05D",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (France)",
+        "crc32": "5DD92D4C",
+        "crc1": "A23553A3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (Germany)",
+        "crc32": "9F22A945",
+        "crc1": "42011E1B",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (Italy)",
+        "crc32": "F155C465",
+        "crc1": "A53FA82D",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (Japan)",
+        "crc32": "3139189C",
+        "crc1": "665E8259",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Pokemon Stadium (Spain)",
+        "crc32": "F02CD5EB",
+        "crc1": "B6E549CE",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (USA)",
+        "crc32": "72F66F05",
+        "crc1": "90F5D9B3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (USA) (Rev 1)",
+        "crc32": "4B1BC2AC",
+        "crc1": "1A122D43",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium (USA) (Rev 2)",
+        "crc32": "235B1842",
+        "crc1": "9C8FB2FA",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (Europe)",
+        "crc32": "6B3096C4",
+        "crc1": "2952369C",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (France)",
+        "crc32": "E2A78066",
+        "crc1": "AC5AA5C7",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (Germany)",
+        "crc32": "1146A43A",
+        "crc1": "439B7E7E",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (Italy)",
+        "crc32": "9FA5C095",
+        "crc1": "EFCEAF00",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (Japan)",
+        "crc32": "40AA4874",
+        "crc1": "63775886",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (Spain)",
+        "crc32": "283E7641",
+        "crc1": "D0A1FC5B",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium 2 (USA)",
+        "crc32": "A9998E09",
+        "crc1": "03571182",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Pokemon Stadium Kin Gin (Japan)",
+        "crc32": "CBC3B935",
+        "crc1": "EE4FD7C2",
+        "size": 64,
+        "saveType": 4
+    },
+    {
+        "name": "Polaris SnoCross (USA)",
+        "crc32": "8DD735EF",
+        "crc1": "41380792",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Power League 64 (Japan)",
+        "crc32": "AEC21C28",
+        "crc1": "D7A6DCFA",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Power Rangers - Lightspeed Rescue (Europe)",
+        "crc32": "36EE5CA8",
+        "crc1": "39F60C11",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Power Rangers - Lightspeed Rescue (USA)",
+        "crc32": "A5033311",
+        "crc1": "CF8957AD",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Powerpuff Girls, The - Chemical X-Traction (USA)",
+        "crc32": "9514DA0A",
+        "crc1": "FC74D475",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Premier Manager 64 (Europe)",
+        "crc32": "81CDA888",
+        "crc1": "F3D27F54",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Pro Mahjong Kiwame 64 (Japan)",
+        "crc32": "1F5907F9",
+        "crc1": "9BA10C4E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Pro Mahjong Kiwame 64 (Japan) (Rev 1)",
+        "crc32": "B9BE7B90",
+        "crc1": "0AE2B37C",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)",
+        "crc32": "35461699",
+        "crc1": "1BDCB30F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Puyo Puyo Sun 64 (Japan)",
+        "crc32": "355FF9DE",
+        "crc1": "94807E6B",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Puyo Puyoon Party (Japan)",
+        "crc32": "D59D2794",
+        "crc1": "4B4672B9",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Puzzle Bobble 64 (Japan)",
+        "crc32": "EA837423",
+        "crc1": "C0DE0747",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Quake (Europe)",
+        "crc32": "28C10844",
+        "crc1": "16931D74",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Quake (USA)",
+        "crc32": "761F39D1",
+        "crc1": "9F5BF79C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Quake II (Europe)",
+        "crc32": "82BECA21",
+        "crc1": "7433D9D7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Quake II (USA)",
+        "crc32": "E6B34387",
+        "crc1": "BDA8F143",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Quest 64 (USA)",
+        "crc32": "D75B45C6",
+        "crc1": "C8BB4DD9",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "R64 by Remute (World) (Aftermarket)",
+        "crc32": "9B30252E",
+        "crc1": "3747B49B",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "RR64 - Ridge Racer 64 (Europe)",
+        "crc32": "DD9AE3A8",
+        "crc1": "FEE97010",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "RR64 - Ridge Racer 64 (USA)",
+        "crc32": "3C2C2D1C",
+        "crc1": "2500267E",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "RTL World League Soccer 2000 (Germany)",
+        "crc32": "0A17DA7B",
+        "crc1": "658F8F37",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Racing Simulation 2 (Germany)",
+        "crc32": "BA73A7E4",
+        "crc1": "2877AC2D",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Rakugakids (Europe)",
+        "crc32": "483129AA",
+        "crc1": "67D21868",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rakugakids (Japan)",
+        "crc32": "B9E53B06",
+        "crc1": "9F1ECAF0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rally '99 (Japan)",
+        "crc32": "99F25365",
+        "crc1": "35D9BA0C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Rally Challenge 2000 (USA)",
+        "crc32": "3EDEC7B0",
+        "crc1": "73A88E3D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Rampage - World Tour (Europe)",
+        "crc32": "CDC458EC",
+        "crc1": "84D44448",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rampage - World Tour (USA)",
+        "crc32": "211119DD",
+        "crc1": "C29FF9E4",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rampage 2 - Universal Tour (Europe)",
+        "crc32": "FA6E097B",
+        "crc1": "5DFC4249",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rampage 2 - Universal Tour (USA)",
+        "crc32": "7614EE0D",
+        "crc1": "673D099B",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rat Attack (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "DD4FA798",
+        "crc1": "20FD0BF1",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Rat Attack! (USA) (En,Fr,De,Es,It,Nl)",
+        "crc32": "2315FEA7",
+        "crc1": "0304C48E",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Rayman 2 - The Great Escape (Europe) (En,Fr,De,Es,It)",
+        "crc32": "169A5037",
+        "crc1": "60D5E10B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)",
+        "crc32": "02BB4409",
+        "crc1": "F3C5BF9B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Razmoket, Les - La Chasse aux Tresors (France)",
+        "crc32": "66766469",
+        "crc1": "2B696CB4",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Razor Freestyle Scooter (USA)",
+        "crc32": "927CE621",
+        "crc1": "3918834A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Re-Volt (Europe) (En,Fr,De,Es)",
+        "crc32": "81D13A11",
+        "crc1": "C3E7E29E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Re-Volt (USA)",
+        "crc32": "FC0C86D0",
+        "crc1": "0F1FA987",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Ready 2 Rumble Boxing (Europe) (En,Fr,De)",
+        "crc32": "A69DF7B3",
+        "crc1": "8BD4A334",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Ready 2 Rumble Boxing (USA)",
+        "crc32": "2A554048",
+        "crc1": "EAB7B429",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Ready 2 Rumble Boxing - Round 2 (USA)",
+        "crc32": "052A0E04",
+        "crc1": "E9219533",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Resident Evil 2 (Europe) (En,Fr)",
+        "crc32": "7C8EE011",
+        "crc1": "9B500E8E",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Resident Evil 2 (USA)",
+        "crc32": "832EA1DA",
+        "crc1": "2F493DD0",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Resident Evil 2 (USA) (Rev 1)",
+        "crc32": "848FBC0D",
+        "crc1": "AA18B1A5",
+        "size": 64,
+        "saveType": 1
+    },
+    {
+        "name": "Road Rash 64 (Europe)",
+        "crc32": "3C664A7B",
+        "crc1": "02D8366A",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Road Rash 64 (Europe) (Beta) (1999-10-12)",
+        "crc32": "4FB98385",
+        "crc1": "82F19ACA",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Road Rash 64 (USA)",
+        "crc32": "600B3988",
+        "crc1": "F050746C",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Roadsters (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "997ED5AF",
+        "crc1": "74E87A70",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Roadsters (USA) (En,Fr,Es)",
+        "crc32": "E4337B92",
+        "crc1": "0B6B4DDB",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)",
+        "crc32": "3B0F8061",
+        "crc1": "272B690F",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Robotech - Crystal Dreams (USA) (Proto 1)",
+        "crc32": "BAA8646D",
+        "crc1": "A6B25452",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Robotech - Crystal Dreams (USA) (Proto 2)",
+        "crc32": "F9A7904E",
+        "crc1": "75A0B893",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Robotron 64 (Europe)",
+        "crc32": "23BF4956",
+        "crc1": "9FF69D4F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Robotron 64 (USA)",
+        "crc32": "B2CBAE58",
+        "crc1": "AC8E4B32",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Rocket - Robot on Wheels (Europe) (Beta) (1999-09-29)",
+        "crc32": "7D766772",
+        "crc1": "77233244",
+        "size": 24,
+        "saveType": 5
+    },
+    {
+        "name": "Rocket - Robot on Wheels (Europe) (En,Fr,De)",
+        "crc32": "7DE5D20D",
+        "crc1": "9FD375F8",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Rocket - Robot on Wheels (USA)",
+        "crc32": "E0399F23",
+        "crc1": "0C5EE085",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Rockman Dash - Hagane no Boukenshin (Japan)",
+        "crc32": "61EAEE83",
+        "crc1": "D666593B",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Ronaldinho's Soccer 64 (Brazil) (Unl) (Pirate)",
+        "crc32": "C296ECA1",
+        "crc1": "6F46DA42",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Rugrats - Die grosse Schatzsuche (Germany)",
+        "crc32": "23AED3A2",
+        "crc1": "451ACA0F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Rugrats - Scavenger Hunt (USA)",
+        "crc32": "A87FAF82",
+        "crc1": "0C02B3C5",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Rugrats - Treasure Hunt (Europe)",
+        "crc32": "3338B7C8",
+        "crc1": "4D3ADFDA",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Rugrats in Paris - The Movie (Europe)",
+        "crc32": "CD74B07E",
+        "crc1": "0AC61D39",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Rugrats in Paris - The Movie (USA)",
+        "crc32": "A9CC2419",
+        "crc1": "1FC21532",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Rush 2 - Extreme Racing USA (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "30F21F89",
+        "crc1": "B7CF2136",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Rush 2 - Extreme Racing USA (USA)",
+        "crc32": "9EB14EA8",
+        "crc1": "EDD6E031",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "S.C.A.R.S. (Europe) (En,Fr,De)",
+        "crc32": "4E37B6F2",
+        "crc1": "918E2D60",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "S.C.A.R.S. (USA)",
+        "crc32": "22916735",
+        "crc1": "769147F3",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "SD Hiryuu no Ken Densetsu (Japan)",
+        "crc32": "CC083E34",
+        "crc1": "EBF5F6B7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Saikyou Habu Shougi (Japan)",
+        "crc32": "01794D62",
+        "crc1": "5E3E60E8",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "San Francisco Rush - Extreme Racing (Europe) (En,Fr,De)",
+        "crc32": "E064962A",
+        "crc1": "61D116B0",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De)",
+        "crc32": "3E20070B",
+        "crc1": "2A6B1820",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "San Francisco Rush - Extreme Racing (USA) (En,Fr,De) (Rev 1)",
+        "crc32": "886C5753",
+        "crc1": "AC9F7DA7",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "San Francisco Rush 2049 (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "E63B86C5",
+        "crc1": "51D29418",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "San Francisco Rush 2049 (USA)",
+        "crc32": "10941439",
+        "crc1": "B9A9ECA2",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Scooby-Doo! - Classic Creep Capers (Europe)",
+        "crc32": "0D737E6F",
+        "crc1": "E3BD221D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Scooby-Doo! - Classic Creep Capers (USA)",
+        "crc32": "39068228",
+        "crc1": "0C814EC4",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Scooby-Doo! - Classic Creep Capers (USA) (Rev 1)",
+        "crc32": "CDF86F5E",
+        "crc1": "569433AD",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Sesame Street - Elmo's Letter Adventure (USA)",
+        "crc32": "92C3BA6F",
+        "crc1": "F2A653CB",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Sesame Street - Elmo's Number Journey (USA)",
+        "crc32": "EA3B92D8",
+        "crc1": "02B1538F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Shadow Man (Brazil)",
+        "crc32": "61E6642C",
+        "crc1": "93A625B9",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Shadow Man (Europe) (En,Es,It)",
+        "crc32": "8D230306",
+        "crc1": "60C437E5",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Shadow Man (France)",
+        "crc32": "6812D3A7",
+        "crc1": "EA06F8C3",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Shadow Man (Germany)",
+        "crc32": "EAF6ADD1",
+        "crc1": "84D5FD75",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Shadow Man (USA)",
+        "crc32": "5E20CC63",
+        "crc1": "3A4760B5",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Shadowgate 64 - Trials of the Four Towers (Europe)",
+        "crc32": "FF7D7DF0",
+        "crc1": "D84EEA84",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Es,It)",
+        "crc32": "87F00472",
+        "crc1": "02B46F55",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Shadowgate 64 - Trials of the Four Towers (Europe) (Fr,De,Nl)",
+        "crc32": "EEDC0BEA",
+        "crc1": "2BC1FCF2",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Shadowgate 64 - Trials of the Four Towers (Japan)",
+        "crc32": "9F74A58C",
+        "crc1": "CCEDB696",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)",
+        "crc32": "69983CC3",
+        "crc1": "036897CE",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits (Japan)",
+        "crc32": "E892ED43",
+        "crc1": "EF703CA4",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation (Japan)",
+        "crc32": "DEAC787F",
+        "crc1": "551C7F43",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "SimCity 2000 (Japan)",
+        "crc32": "57767E45",
+        "crc1": "B1D5280C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Snobo Kids (Japan)",
+        "crc32": "213BF381",
+        "crc1": "84FC04FF",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Snow Speeder (Japan)",
+        "crc32": "30EA3FD7",
+        "crc1": "2EF4D519",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Snowboard Kids (Europe, Australia)",
+        "crc32": "5619A70D",
+        "crc1": "5FD7CDA0",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Snowboard Kids (USA)",
+        "crc32": "020FB906",
+        "crc1": "DBF4EA9D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Snowboard Kids 2 (Australia)",
+        "crc32": "3A0B6214",
+        "crc1": "C2751D1A",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Snowboard Kids 2 (USA)",
+        "crc32": "D0DC8A8E",
+        "crc1": "930C29EA",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Sonic Wings Assault (Japan)",
+        "crc32": "FC73FB79",
+        "crc1": "22212351",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "South Park (Brazil)",
+        "crc32": "235CAEC6",
+        "crc1": "D21AF769",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park (Europe) (En,Fr,Es)",
+        "crc32": "B2C3E123",
+        "crc1": "20B53662",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park (Germany)",
+        "crc32": "5711E197",
+        "crc1": "91B66D42",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park (USA)",
+        "crc32": "7D666B9E",
+        "crc1": "7ECBE939",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park - Chef's Luv Shack (Europe)",
+        "crc32": "AC1628EB",
+        "crc1": "C00CA948",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park - Chef's Luv Shack (USA)",
+        "crc32": "6B6B1D09",
+        "crc1": "C00CA948",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park Rally (Europe)",
+        "crc32": "296E3525",
+        "crc1": "4F8AFC3A",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park Rally (Europe) (Beta)",
+        "crc32": "1C535592",
+        "crc1": "7E42287C",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "South Park Rally (USA)",
+        "crc32": "CCDD322A",
+        "crc1": "07F3B276",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Space Dynamites (Japan)",
+        "crc32": "8CB4B948",
+        "crc1": "37463412",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Space Invaders (USA)",
+        "crc32": "60F7FF8E",
+        "crc1": "EBFE2397",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "SpaceStation Silicon Valley (Europe) (En,Fr,De,Es,It,Nl,Pt)",
+        "crc32": "63042E36",
+        "crc1": "FC70E272",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "SpaceStation Silicon Valley (Japan) (Proto)",
+        "crc32": "DCEC9F8A",
+        "crc1": "BFE23884",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "SpaceStation Silicon Valley (USA)",
+        "crc32": "A606E8AE",
+        "crc1": "BFE23884",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "SpaceStation Silicon Valley (USA) (Rev 1)",
+        "crc32": "E32D9E7B",
+        "crc1": "FC70E272",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Spider-Man (USA)",
+        "crc32": "696CC2A4",
+        "crc1": "A60ED171",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Star Fox 64 (Japan)",
+        "crc32": "411142A7",
+        "crc1": "FFCAA7C1",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Fox 64 (Japan) (Rev 1) (Wii Virtual Console)",
+        "crc32": "6508D4AD",
+        "crc1": "65AEDEEF",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Fox 64 (USA)",
+        "crc32": "B1FCAA9C",
+        "crc1": "A7D015F8",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Fox 64 (USA) (Rev 1)",
+        "crc32": "B1B5FC46",
+        "crc1": "BA780BA0",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Soldier - Vanishing Earth (Japan)",
+        "crc32": "7EE5F51D",
+        "crc1": "B703EB23",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Soldier - Vanishing Earth (USA)",
+        "crc32": "EA650DEF",
+        "crc1": "DDD93C85",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Twins (Japan)",
+        "crc32": "964506CE",
+        "crc1": "F163A242",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Star Wars - Rogue Squadron (Europe) (En,Fr,De)",
+        "crc32": "6289645F",
+        "crc1": "7EE0E8BB",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Rogue Squadron (Europe) (En,Fr,De) (Rev 1)",
+        "crc32": "C88E5638",
+        "crc1": "219191C1",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Rogue Squadron (USA)",
+        "crc32": "83C225CC",
+        "crc1": "66A24BEC",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Rogue Squadron (USA) (Rev 1)",
+        "crc32": "65A8FBA0",
+        "crc1": "C7F30CFA",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (Europe)",
+        "crc32": "F0A191BF",
+        "crc1": "4D486681",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (USA)",
+        "crc32": "3C0837B3",
+        "crc1": "264D7E5C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (USA) (Aftermarket) (Unl)",
+        "crc32": "776A069B",
+        "crc1": "1C5EE088",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (USA) (Beta) (1996-10-15)",
+        "crc32": "28368603",
+        "crc1": "FB315F95",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (USA) (Rev 1)",
+        "crc32": "B0540688",
+        "crc1": "4147B091",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shadows of the Empire (USA) (Rev 2)",
+        "crc32": "E8727549",
+        "crc1": "4DD7ED54",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Shutsugeki! Rogue Chuutai (Japan)",
+        "crc32": "EE7643B6",
+        "crc1": "827E4890",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars - Teikoku no Kage (Japan)",
+        "crc32": "7CE71426",
+        "crc1": "FE24AC63",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars Episode I - Battle for Naboo (Europe)",
+        "crc32": "029104FD",
+        "crc1": "EAE6ACE2",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars Episode I - Battle for Naboo (USA)",
+        "crc32": "99DEE3C0",
+        "crc1": "3D02989B",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Star Wars Episode I - Racer (Europe) (En,Fr,De)",
+        "crc32": "E0F46629",
+        "crc1": "53ED2DC4",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Star Wars Episode I - Racer (Japan)",
+        "crc32": "97C155C5",
+        "crc1": "61F5B152",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Star Wars Episode I - Racer (USA)",
+        "crc32": "C53C1035",
+        "crc1": "72F70398",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "Star Wars Episode I - Racer (USA) (Aftermarket) (Unl)",
+        "crc32": "FB401A2A",
+        "crc1": "21CD632F",
+        "size": 32,
+        "saveType": 6
+    },
+    {
+        "name": "StarCraft 64 (Australia)",
+        "crc32": "2639DAE2",
+        "crc1": "42CF5EA3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "StarCraft 64 (Germany) (Proto)",
+        "crc32": "2B1C9FE4",
+        "crc1": "FD6907F0",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "StarCraft 64 (USA)",
+        "crc32": "4E4C7EC9",
+        "crc1": "0684FBFB",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "StarCraft 64 (USA) (Beta)",
+        "crc32": "B0E1654F",
+        "crc1": "BC9B2CC3",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Starshot - Space Circus Fever (Europe) (En,Fr,De)",
+        "crc32": "056D2218",
+        "crc1": "D89E0E55",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Starshot - Space Circus Fever (USA) (En,Fr,Es)",
+        "crc32": "7720E5F3",
+        "crc1": "94EDA5B8",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Stunt Racer 64 (USA)",
+        "crc32": "3438B1AF",
+        "crc1": "9510D8D7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Super B-Daman - Battle Phoenix 64 (Japan)",
+        "crc32": "5006DC88",
+        "crc1": "F4646B69",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Super Bowling (Japan)",
+        "crc32": "BA2D8B2E",
+        "crc1": "F3F2F385",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Super Bowling (USA)",
+        "crc32": "F6CCD04A",
+        "crc1": "AA1D215A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Super Mario 64 (Europe) (En,Fr,De)",
+        "crc32": "03048DE6",
+        "crc1": "A03CF036",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Super Mario 64 (Japan)",
+        "crc32": "DD801954",
+        "crc1": "4EAA3D0E",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Super Mario 64 (Japan) (Rev 3) (Shindou Edition)",
+        "crc32": "A1E15117",
+        "crc1": "D6FBA4A8",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Super Mario 64 (USA)",
+        "crc32": "3CE60709",
+        "crc1": "635A2BFF",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Super Robot Spirits (Japan)",
+        "crc32": "8C9216C1",
+        "crc1": "66572080",
+        "size": 16,
+        "saveType": 5
+    },
+    {
+        "name": "Super Robot Taisen 64 (Japan)",
+        "crc32": "85DF2771",
+        "crc1": "1649D810",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Super Smash Bros. (Australia)",
+        "crc32": "E96779FA",
+        "crc1": "DD26FDA1",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Super Smash Bros. (Europe) (En,Fr,De)",
+        "crc32": "45A91CB1",
+        "crc1": "93945F48",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Super Smash Bros. (USA)",
+        "crc32": "EB97929E",
+        "crc1": "916B8B5B",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Super Speed Race 64 (Japan)",
+        "crc32": "0F879A70",
+        "crc1": "9CE02E22",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Supercross 2000 (Europe) (En,Fr,De)",
+        "crc32": "CB5482EC",
+        "crc1": "2CBB127F",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Supercross 2000 (USA)",
+        "crc32": "094E2A48",
+        "crc1": "C1452553",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Superman (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "BCA4FF8C",
+        "crc1": "B44CAB74",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Superman (USA) (Beta) (1998-09-06)",
+        "crc32": "A0897826",
+        "crc1": "944FAFC4",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Superman - The New Superman Aventures (USA) (En,Fr,Es)",
+        "crc32": "437E3677",
+        "crc1": "A2E8F35B",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)",
+        "crc32": "4CD21372",
+        "crc1": "35E811F3",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Sydney 2000 (Europe) (Proto)",
+        "crc32": "DB7B31B9",
+        "crc1": "ECBD95DD",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Sydney 2000 (USA) (Proto)",
+        "crc32": "5B6673AA",
+        "crc1": "80A78080",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "TG Rally 2 (Europe)",
+        "crc32": "135C8EB0",
+        "crc1": "F82DD377",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Tamiya Racing 64 (USA) (Proto)",
+        "crc32": "1B4C53FA",
+        "crc1": "37955E65",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tarzan (Europe)",
+        "crc32": "7737ED9E",
+        "crc1": "D614E5BF",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tarzan (France)",
+        "crc32": "99C7649D",
+        "crc1": "001A3BD0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tarzan (Germany)",
+        "crc32": "0B0954C5",
+        "crc1": "4C261323",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tarzan (USA)",
+        "crc32": "C38CA641",
+        "crc1": "CBFE69C7",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Taz Express (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "0712C306",
+        "crc1": "AEBCDD54",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Taz Express (USA) (Proto) (2000-05-15)",
+        "crc32": "DDE7CFBD",
+        "crc1": "6C2C6C49",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Telefoot Soccer 2000 (France)",
+        "crc32": "7BD20931",
+        "crc1": "D9042FBB",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tetris 64 (Japan) (En)",
+        "crc32": "F128CD17",
+        "crc1": "963ADBA6",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Tetrisphere (Europe)",
+        "crc32": "7CB31B0F",
+        "crc1": "0FE684A9",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Tetrisphere (USA)",
+        "crc32": "70A3A5CE",
+        "crc1": "3C1FDABE",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Tigger's Honey Hunt (Europe) (En,Fr,De,Es,It,Nl,Da)",
+        "crc32": "D82D5736",
+        "crc1": "E0C4F72F",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Tigger's Honey Hunt (USA)",
+        "crc32": "68C2AC8F",
+        "crc1": "4EBFDD33",
+        "size": 16,
+        "saveType": 4
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six (Europe)",
+        "crc32": "4B71E083",
+        "crc1": "4875AF3D",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six (France)",
+        "crc32": "BBF7B6A8",
+        "crc1": "486BF335",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six (Germany)",
+        "crc32": "5D73E788",
+        "crc1": "8D412933",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tom Clancy's Rainbow Six (USA)",
+        "crc32": "53B0CC13",
+        "crc1": "392A0C42",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "9EA8A3B8",
+        "crc1": "2B4F4EFB",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Tom and Jerry in Fists of Furry (USA)",
+        "crc32": "6D685B83",
+        "crc1": "63E7391C",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Tommy Thunder (USA) (Proto) (1997-10-01)",
+        "crc32": "66734854",
+        "crc1": "21260D94",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Tonic Trouble (Europe) (En,Fr,De,Es,It)",
+        "crc32": "B4322403",
+        "crc1": "093F916E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tonic Trouble (USA) (Rev 1)",
+        "crc32": "1C04BA12",
+        "crc1": "EF9E9714",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater (USA)",
+        "crc32": "F5C1B64F",
+        "crc1": "204EC022",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater (USA) (Beta)",
+        "crc32": "F50204DA",
+        "crc1": "1762C9FF",
+        "size": 24,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater (USA) (Rev 1)",
+        "crc32": "6182A092",
+        "crc1": "E0144180",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2 (Europe)",
+        "crc32": "A1207132",
+        "crc1": "84EAB557",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2 (USA)",
+        "crc32": "80AA83F3",
+        "crc1": "99150E18",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2 (USA) (Beta) (2001-04-20)",
+        "crc32": "98D0D335",
+        "crc1": "E7641245",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 2 (USA) (v012) (Beta) (2001-06-04)",
+        "crc32": "BCF178C5",
+        "crc1": "404E8D71",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Pro Skater 3 (USA)",
+        "crc32": "62A8CE7D",
+        "crc1": "1A7F70B5",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tony Hawk's Skateboarding (Europe)",
+        "crc32": "39E4F766",
+        "crc1": "9F8926A5",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toon Panic (Japan) (Proto)",
+        "crc32": "CF396C4E",
+        "crc1": "9A746EBF",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Hyper Bike (Europe)",
+        "crc32": "BAE57EA7",
+        "crc1": "5F3F49C6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Hyper Bike (Japan)",
+        "crc32": "09B2CDA1",
+        "crc1": "845B0269",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Hyper-Bike (USA)",
+        "crc32": "6EEBC26A",
+        "crc1": "8ECC02F0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Hyper-Bike (USA) (Beta)",
+        "crc32": "00C0278A",
+        "crc1": "75FBDE20",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Overdrive (Europe)",
+        "crc32": "0CC70580",
+        "crc1": "D09BA538",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Top Gear Overdrive (Japan)",
+        "crc32": "81AAFC2B",
+        "crc1": "0578F24F",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Top Gear Overdrive (USA)",
+        "crc32": "F3E0FF21",
+        "crc1": "D741CD80",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Top Gear Rally (Asia) (En)",
+        "crc32": "C4BC4DF8",
+        "crc1": "1A4D3AD8",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Rally (Europe)",
+        "crc32": "40B3BB21",
+        "crc1": "7F43E701",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Top Gear Rally (Japan)",
+        "crc32": "C6707CD6",
+        "crc1": "0E596247",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Top Gear Rally (USA)",
+        "crc32": "137287F5",
+        "crc1": "62269B3D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Rally 2 (Europe)",
+        "crc32": "CB294D39",
+        "crc1": "BEBAB677",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Rally 2 (Europe) (Beta) (1999-08-31)",
+        "crc32": "3C77C5D6",
+        "crc1": "EFDF9140",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Rally 2 (Japan)",
+        "crc32": "AA136E07",
+        "crc1": "CFEF2CD6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Top Gear Rally 2 (USA)",
+        "crc32": "914CF9C4",
+        "crc1": "BE5973E0",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (Europe)",
+        "crc32": "59574CB9",
+        "crc1": "CCEB3858",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA)",
+        "crc32": "B9570841",
+        "crc1": "A150743E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Buzz Lightyear to the Rescue! (USA) (Rev 1)",
+        "crc32": "C81F3321",
+        "crc1": "C151AD61",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Buzz l'Eclair a la Rescousse! (France)",
+        "crc32": "FB4BEA9A",
+        "crc1": "CB93DB97",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany)",
+        "crc32": "C5E4C89F",
+        "crc1": "782A9075",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Toy Story 2 - Captain Buzz Lightyear auf Rettungsmission! (Germany) (Rev 1)",
+        "crc32": "D1906DE4",
+        "crc1": "BC4F2AB8",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Transformers - Beast Wars Metals 64 (Japan)",
+        "crc32": "338F1D45",
+        "crc1": "91691C3D",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Transformers - Beast Wars Transmetals (USA)",
+        "crc32": "85138B5A",
+        "crc1": "4D79D316",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Triple Play 2000 (USA)",
+        "crc32": "785DD0F8",
+        "crc1": "FE4B6B43",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Tsumi to Batsu - Hoshi no Keishousha (Japan)",
+        "crc32": "CA2E5E49",
+        "crc1": "B6BC0FB0",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Europe)",
+        "crc32": "E8525687",
+        "crc1": "2F7009DD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Europe) (Rev 1)",
+        "crc32": "C2353283",
+        "crc1": "2F700DCD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Europe) (Rev 2)",
+        "crc32": "312AF877",
+        "crc1": "2F700DCD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Germany)",
+        "crc32": "64631FF9",
+        "crc1": "665FD963",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Germany) (Rev 1)",
+        "crc32": "2765DD8F",
+        "crc1": "665FC793",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (Germany) (Rev 2)",
+        "crc32": "72CA307A",
+        "crc1": "665FC793",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (USA)",
+        "crc32": "26C4F597",
+        "crc1": "2F70F10D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (USA) (Rev 1)",
+        "crc32": "7F2476F4",
+        "crc1": "2F700DCD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Dinosaur Hunter (USA) (Rev 2)",
+        "crc32": "8C3BBC00",
+        "crc1": "2F700DCD",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Legenden des Verlorenen Landes (Germany)",
+        "crc32": "B937874F",
+        "crc1": "66E4FA0F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Rage Wars (Europe)",
+        "crc32": "82B1E116",
+        "crc1": "1EA26214",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Rage Wars (Europe) (En,Fr,It)",
+        "crc32": "F4A2862B",
+        "crc1": "B6BE20A5",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Rage Wars (USA)",
+        "crc32": "422872A2",
+        "crc1": "ADB9498B",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok - Rage Wars (USA) (Rev 1)",
+        "crc32": "E28756F4",
+        "crc1": "2388984C",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (Europe)",
+        "crc32": "E2D34BFE",
+        "crc1": "E0B92B94",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (Europe) (Demo) (Kiosk)",
+        "crc32": "4E29B234",
+        "crc1": "E8C95AFC",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (Europe) (En,Fr,Es,It)",
+        "crc32": "1FEBDE32",
+        "crc1": "2E0E7749",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (Germany)",
+        "crc32": "C07877B6",
+        "crc1": "FE05840B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (USA)",
+        "crc32": "FF5E7636",
+        "crc1": "49088A11",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (USA) (Demo) (Kiosk)",
+        "crc32": "8D5B9BD0",
+        "crc1": "E8C95AFC",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 2 - Seeds of Evil (USA) (Rev 1)",
+        "crc32": "57F1FBF5",
+        "crc1": "E0B92B94",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (Europe)",
+        "crc32": "98D3114C",
+        "crc1": "6A162FF2",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-05-31)",
+        "crc32": "66E63BBC",
+        "crc1": "D124DBB7",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-06-06) [b]",
+        "crc32": "7946B05A",
+        "crc1": "37FA8F16",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-10) [b]",
+        "crc32": "3CD1F9AF",
+        "crc1": "D25C1211",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (Europe) (Beta) (2000-07-16)",
+        "crc32": "9A01A5F4",
+        "crc1": "A2421F2A",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (USA)",
+        "crc32": "CB297224",
+        "crc1": "89A579F1",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-06-26)",
+        "crc32": "58C4C0AB",
+        "crc1": "7869A9A1",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Turok 3 - Shadow of Oblivion (USA) (Beta) (2000-07-21)",
+        "crc32": "667B553D",
+        "crc1": "89A579F1",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Twisted Edge - Extreme Snowboarding (USA)",
+        "crc32": "BFBCC038",
+        "crc1": "BBC99D32",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Twisted Edge - Snowboarding (Europe)",
+        "crc32": "BF0C1291",
+        "crc1": "E688A5B8",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou (Japan)",
+        "crc32": "50CBE8A6",
+        "crc1": "28D5562D",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "V-Rally Edition 99 (Europe) (En,Fr,De)",
+        "crc32": "0735D7A2",
+        "crc1": "636E6B19",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "V-Rally Edition 99 (Japan)",
+        "crc32": "02475A01",
+        "crc1": "4D0224A5",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "V-Rally Edition 99 (USA)",
+        "crc32": "4803075E",
+        "crc1": "3C059038",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Viewpoint 2064 (Japan) (Proto)",
+        "crc32": "93A630CB",
+        "crc1": "5D40ED2C",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 (Europe)",
+        "crc32": "0E9BB6D6",
+        "crc1": "151F79F4",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 (France)",
+        "crc32": "11D23AB3",
+        "crc1": "E2BC82A2",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 (Germany)",
+        "crc32": "17F63C3F",
+        "crc1": "6EDA5178",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 (USA)",
+        "crc32": "330B73E6",
+        "crc1": "EA71056A",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 - 2nd Offense (Europe)",
+        "crc32": "691AA971",
+        "crc1": "DD10BC7E",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Vigilante 8 - 2nd Offense (USA)",
+        "crc32": "0293203F",
+        "crc1": "F5C5866D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Violence Killer - Turok New Generation (Japan)",
+        "crc32": "097F139F",
+        "crc1": "60006C98",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "AAE15243",
+        "crc1": "2FDAA221",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Virtual Chess 64 (USA) (En,Fr,Es)",
+        "crc32": "620DE0B7",
+        "crc1": "82B3248B",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Virtual Pool 64 (Europe)",
+        "crc32": "9A6FB0BC",
+        "crc1": "98F9F2D0",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Virtual Pool 64 (USA)",
+        "crc32": "AD628DED",
+        "crc1": "4E4A7643",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Virtual Pro Wrestling 2 - Oudou Keishou (Japan)",
+        "crc32": "F620835D",
+        "crc1": "CD094235",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Virtual Pro Wrestling 64 (Japan)",
+        "crc32": "E6651803",
+        "crc1": "045C08C4",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "WCW Backstage Assault (USA)",
+        "crc32": "5DCC2E4E",
+        "crc1": "396F5ADD",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "WCW Mayhem (Europe)",
+        "crc32": "864E066E",
+        "crc1": "AA7B0658",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "WCW Mayhem (USA)",
+        "crc32": "F1F9B6EB",
+        "crc1": "33BE8CD6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "WCW Nitro (USA)",
+        "crc32": "455B0830",
+        "crc1": "D4C45A1A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WCW vs. nWo - World Tour (Europe)",
+        "crc32": "37F358EB",
+        "crc1": "8BDBAF68",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WCW vs. nWo - World Tour (USA)",
+        "crc32": "DFBFC61F",
+        "crc1": "2C3E19BD",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WCW vs. nWo - World Tour (USA) (Rev 1)",
+        "crc32": "A74DA07A",
+        "crc1": "71BE60B9",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WCW-nWo Revenge (Europe)",
+        "crc32": "8AF0F964",
+        "crc1": "68E8A875",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "WCW-nWo Revenge (USA)",
+        "crc32": "54CBAAA8",
+        "crc1": "DEE596AB",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "WWF Attitude (Europe)",
+        "crc32": "804FE494",
+        "crc1": "5BF45B7B",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "WWF Attitude (Germany)",
+        "crc32": "EA5D8359",
+        "crc1": "8F3151C8",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "WWF Attitude (USA)",
+        "crc32": "7A4B3686",
+        "crc1": "D2BE2F14",
+        "size": 32,
+        "saveType": 0
+    },
+    {
+        "name": "WWF No Mercy (Europe)",
+        "crc32": "E88D7E16",
+        "crc1": "6D8DF08E",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "WWF No Mercy (Europe) (Rev 1)",
+        "crc32": "43BA9E7E",
+        "crc1": "8CDB94C2",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "WWF No Mercy (USA)",
+        "crc32": "B33F44F0",
+        "crc1": "4E4B0640",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "WWF No Mercy (USA) (Rev 1)",
+        "crc32": "BACEEA13",
+        "crc1": "6C80F13B",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "WWF War Zone (Europe)",
+        "crc32": "90A0B609",
+        "crc1": "33A275A4",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WWF War Zone (USA)",
+        "crc32": "2FBB5507",
+        "crc1": "CD5BEC0F",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "WWF WrestleMania 2000 (Europe)",
+        "crc32": "09D710C7",
+        "crc1": "C71353BE",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "WWF WrestleMania 2000 (Japan)",
+        "crc32": "C2034D24",
+        "crc1": "12737DA5",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "WWF WrestleMania 2000 (USA)",
+        "crc32": "0B50B4C6",
+        "crc1": "90A59003",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Waialae Country Club - True Golf Classics (Europe)",
+        "crc32": "6858759A",
+        "crc1": "93053075",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Waialae Country Club - True Golf Classics (Europe) (Rev 1)",
+        "crc32": "6CB097B3",
+        "crc1": "0C5057AD",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Waialae Country Club - True Golf Classics (USA)",
+        "crc32": "CCAB08D7",
+        "crc1": "8066D58A",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "Waialae Country Club - True Golf Classics (USA) (Rev 1)",
+        "crc32": "C65EE122",
+        "crc1": "DD318CE2",
+        "size": 16,
+        "saveType": 1
+    },
+    {
+        "name": "War Gods (Europe)",
+        "crc32": "C73010C8",
+        "crc1": "D715CC70",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "War Gods (USA)",
+        "crc32": "FFACF993",
+        "crc1": "F7FE28F6",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (Europe) (En,De)",
+        "crc32": "FB289893",
+        "crc1": "650EFA96",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (Japan)",
+        "crc32": "6C93FF83",
+        "crc1": "5C9191D6",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 1)",
+        "crc32": "54D190A8",
+        "crc1": "44995484",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (Japan) (Rev 2) (Shindou Edition)",
+        "crc32": "90044C4B",
+        "crc1": "535DF3E2",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (USA)",
+        "crc32": "74A7B725",
+        "crc1": "7DE11F53",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)",
+        "crc32": "394948C4",
+        "crc1": "492F4B61",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey '98 (Europe) (En,Fr,De,Es)",
+        "crc32": "6F6DC53D",
+        "crc1": "661B45F3",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey '98 (USA)",
+        "crc32": "355FB089",
+        "crc1": "5A9D3859",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey (Europe) (En,Fr,De,Es)",
+        "crc32": "442A4F5F",
+        "crc1": "2209094B",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey (Japan)",
+        "crc32": "485275ED",
+        "crc1": "F1301043",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey (USA)",
+        "crc32": "9781F88D",
+        "crc1": "6B45223F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wayne Gretzky's 3D Hockey (USA) (Rev 1)",
+        "crc32": "C2678971",
+        "crc1": "DC3BAA59",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wetrix (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "EDDC5B06",
+        "crc1": "CEA8B54F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wetrix (Japan)",
+        "crc32": "BAD08218",
+        "crc1": "DCB6EAFA",
+        "size": 4,
+        "saveType": 5
+    },
+    {
+        "name": "Wetrix (USA) (En,Fr,De,Es,It,Nl)",
+        "crc32": "50CD1F71",
+        "crc1": "CEA8B54F",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Whack 'n' Roll (USA) (Beta) (1998-02-05)",
+        "crc32": "74DF67BB",
+        "crc1": "99DEEFD1",
+        "size": 3,
+        "saveType": 0
+    },
+    {
+        "name": "Wheel of Fortune (USA)",
+        "crc32": "8D3EFA8D",
+        "crc1": "E896092B",
+        "size": 4,
+        "saveType": 0
+    },
+    {
+        "name": "Wild Choppers (Japan)",
+        "crc32": "D6136DC5",
+        "crc1": "0CEBC4C7",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Wildwaters (USA) (Proto) (1999-06-15)",
+        "crc32": "40443C67",
+        "crc1": "A04237B9",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "WinBack (Japan)",
+        "crc32": "D35360B0",
+        "crc1": "1FA056E0",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "WinBack (Japan) (Rev 1)",
+        "crc32": "927383BB",
+        "crc1": "C52E0BC6",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "WinBack - Covert Operations (USA)",
+        "crc32": "64C817C5",
+        "crc1": "ED98957E",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Wipeout 64 (Europe)",
+        "crc32": "38111048",
+        "crc1": "54310E7D",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wipeout 64 (Europe) (Beta)",
+        "crc32": "944B258F",
+        "crc1": "136EBEE3",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Wipeout 64 (USA)",
+        "crc32": "4888D0FE",
+        "crc1": "132D2732",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "Wonder Project J2 - Koruro no Mori no Jozet (Japan)",
+        "crc32": "5E8FC436",
+        "crc1": "E43C9765",
+        "size": 8,
+        "saveType": 0
+    },
+    {
+        "name": "World Cup 98 (Europe) (En,Fr,De,Es,It,Nl,Sv,Da)",
+        "crc32": "79F483F7",
+        "crc1": "F9FC3090",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)",
+        "crc32": "13930C26",
+        "crc1": "BD636D6A",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "World Driver Championship (Europe) (En,Fr,De,Es,It)",
+        "crc32": "76151DF6",
+        "crc1": "AC062778",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "World Driver Championship (USA)",
+        "crc32": "5E4ACBFA",
+        "crc1": "308DFEC8",
+        "size": 16,
+        "saveType": 0
+    },
+    {
+        "name": "Worms Armageddon (Europe) (En,Fr,De,Es,It,Nl)",
+        "crc32": "6BFFF27B",
+        "crc1": "2D21C57B",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Worms Armageddon (USA) (En,Fr,Es)",
+        "crc32": "5471AE3B",
+        "crc1": "13E959A0",
+        "size": 12,
+        "saveType": 5
+    },
+    {
+        "name": "Worms Armageddon (USA) (En,Fr,Es) (Aftermarket) (Unl)",
+        "crc32": "85F1E911",
+        "crc1": "6BE9DA5C",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "X'treme Roller (Unknown) (Proto)",
+        "crc32": "FCE6875F",
+        "crc1": "4AE3C1CA",
+        "size": 24,
+        "saveType": 0
+    },
+    {
+        "name": "Xena - Warrior Princess - The Talisman of Fate (Europe)",
+        "crc32": "D3932F88",
+        "crc1": "0A1667C7",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Xena - Warrior Princess - The Talisman of Fate (USA)",
+        "crc32": "7DA93999",
+        "crc1": "0553AE9D",
+        "size": 12,
+        "saveType": 0
+    },
+    {
+        "name": "Xeno Crisis (World) (En,Ja,Fr,Es,It,Nl,Pt) (Aftermarket) (Unl)",
+        "crc32": "4CCBE510",
+        "crc1": "470112E9",
+        "size": 64,
+        "saveType": 0
+    },
+    {
+        "name": "Yakouchuu II - Satsujin Kouro (Japan)",
+        "crc32": "4538C41A",
+        "crc1": "9F8B96C3",
+        "size": 32,
+        "saveType": 5
+    },
+    {
+        "name": "Yoshi Story (Japan)",
+        "crc32": "4F44A9EF",
+        "crc1": "2DCFCA60",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Yoshi's Story (Europe) (En,Fr,De)",
+        "crc32": "F9FFC760",
+        "crc1": "D3F97D49",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Yoshi's Story (USA) (En,Ja)",
+        "crc32": "A1453E0D",
+        "crc1": "2337D8E8",
+        "size": 16,
+        "saveType": 6
+    },
+    {
+        "name": "Yuke Yuke!! Trouble Makers (Japan)",
+        "crc32": "B69D3068",
+        "crc1": "9FE6162D",
+        "size": 8,
+        "saveType": 5
+    },
+    {
+        "name": "Zelda no Densetsu - Mujura no Kamen (Japan)",
+        "crc32": "0D33E1DB",
+        "crc1": "EC417312",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Zelda no Densetsu - Mujura no Kamen (Japan) (GameCube)",
+        "crc32": "B9BF76DF",
+        "crc1": "8473D0C1",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Zelda no Densetsu - Mujura no Kamen (Japan) (Rev 1)",
+        "crc32": "356C2E19",
+        "crc1": "69AE0438",
+        "size": 32,
+        "saveType": 4
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina (Japan)",
+        "crc32": "D423E8B0",
+        "crc1": "EC7011B7",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (GameCube, Zelda Collection)",
+        "crc32": "8C5B90C1",
+        "crc1": "F7F52DB8",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 1)",
+        "crc32": "26E73887",
+        "crc1": "D43DA81F",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina (Japan) (Rev 2)",
+        "crc32": "2B2721BA",
+        "crc1": "693BA2AE",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina GC (Japan) (GameCube)",
+        "crc32": "1C6CE8CB",
+        "crc1": "F611F4BA",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zelda no Densetsu - Toki no Ocarina GC Ura (Japan) (GameCube)",
+        "crc32": "122FF261",
+        "crc1": "F43B45BA",
+        "size": 32,
+        "saveType": 1
+    },
+    {
+        "name": "Zool - Majuu Tsukai Densetsu (Japan)",
+        "crc32": "756BA26D",
+        "crc1": "1C010CCD",
+        "size": 12,
+        "saveType": 0
+    }
+]

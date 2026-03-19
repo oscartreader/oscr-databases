@@ -1,0 +1,303 @@
+[
+  {
+    "id": "C2F3",
+    "bits": 16,
+    "type": "29F1601",
+    "name": "MX29F1601",
+    "size": 2097152,
+    "voltage": 5
+  },
+  {
+    "id": "C2F1",
+    "bits": 16,
+    "type": "29F1610",
+    "name": "MX29F1610",
+    "size": 2097152,
+    "voltage": 5
+  },
+  {
+    "id": "C2F9",
+    "bits": 16,
+    "type": "29F1610",
+    "name": "MX29L3211",
+    "size": 4194304,
+    "voltage": 5
+  },
+  {
+    "id": "C2C4",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV160",
+    "size": 2097152,
+    "voltage": 3.3
+  },
+  {
+    "id": "C249",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV160",
+    "size": 2097152,
+    "voltage": 3.3
+  },
+  {
+    "id": "C2A7",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV320",
+    "size": 4194304,
+    "voltage": 3.3
+  },
+  {
+    "id": "C2A8",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV320",
+    "size": 4194304,
+    "voltage": 3.3
+  },
+  {
+    "id": "C2C9",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV640",
+    "size": 8388608,
+    "voltage": 3.3
+  },
+  {
+    "id": "C2CB",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX29LV640",
+    "size": 8388608,
+    "voltage": 3.3
+  },
+  {
+    "id": "0149",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "AM29LV160",
+    "size": 2097152,
+    "voltage": 3.3
+  },
+  {
+    "id": "01C4",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "AM29LV160",
+    "size": 2097152,
+    "voltage": 3.3
+  },
+  {
+    "id": "01F9",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "AM29LV320",
+    "size": 4194304,
+    "voltage": 3.3
+  },
+  {
+    "id": "01F6",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "AM29LV320",
+    "size": 4194304,
+    "voltage": 3.3
+  },
+  {
+    "id": "01D7",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "AM29LV640",
+    "size": 8388608,
+    "voltage": 3.3
+  },
+  {
+    "id": "0141",
+    "bits": 8,
+    "type": "29F032",
+    "name": "AM29F032B",
+    "size": 4194304,
+    "voltage": 5
+  },
+  {
+    "id": "01AD",
+    "bits": 8,
+    "type": "29F032",
+    "name": "AM29F016B",
+    "size": 2097152,
+    "voltage": 5
+  },
+  {
+    "id": "20AD",
+    "bits": 8,
+    "type": "29F032",
+    "name": "AM29F016D",
+    "size": 2097152,
+    "voltage": 5
+  },
+  {
+    "id": "04AD",
+    "bits": 8,
+    "type": "29F032",
+    "name": "MBM29F016A",
+    "size": 2097152,
+    "voltage": 5
+  },
+  {
+    "id": "04D4",
+    "bits": 8,
+    "type": "29F032",
+    "name": "MBM29F033C",
+    "size": 4194304,
+    "voltage": 5
+  },
+  {
+    "id": "04D5",
+    "bits": 8,
+    "type": "29F032",
+    "name": "MBM29F080C",
+    "size": 1048576,
+    "voltage": 5
+  },
+  {
+    "id": "0458",
+    "bits": 8,
+    "type": "29F800",
+    "name": "MBM29F800BA",
+    "size": 1048576,
+    "voltage": 5
+  },
+  {
+    "id": "01AB",
+    "bits": 8,
+    "type": "29F800",
+    "name": "AM29F400AB",
+    "size": 524288,
+    "voltage": 5
+  },
+  {
+    "id": "0423",
+    "bits": 8,
+    "type": "29F800",
+    "name": "MBM29F400TC",
+    "size": 524288,
+    "voltage": 5
+  },
+  {
+    "id": "0422",
+    "bits": 8,
+    "type": "29F800",
+    "name": "MBM29F400BC",
+    "size": 524288,
+    "voltage": 5
+  },
+  {
+    "id": "0158",
+    "bits": 8,
+    "type": "29F800",
+    "name": "AM29F800BB",
+    "size": 1048576,
+    "voltage": 5
+  },
+  {
+    "id": "01A3",
+    "type": "29F032",
+    "name": "AM29LV033C",
+    "size": 1048576,
+    "voltage": 5
+  },
+  {
+    "id": "017E",
+    "bits": 8,
+    "variant": "1A",
+    "type": "29GL",
+    "name": "S29GL032M",
+    "size": 4194304,
+    "sector": 65536,
+    "buffer": 32,
+    "voltage": 3.3
+  },
+  {
+    "id": "017E",
+    "bits": 8,
+    "variant": "10",
+    "type": "29GL",
+    "name": "S29GL064M",
+    "size": 8388608,
+    "sector": 65536,
+    "buffer": 32,
+    "voltage": 3.3
+  },
+  {
+    "id": "B088",
+    "bits": 8,
+    "type": "LH28F0XX",
+    "name": "LH28F016SUT",
+    "size": 2097152,
+    "sector": 65536,
+    "buffer": 256,
+    "voltage": 5
+  },
+  {
+    "id": "8916",
+    "bits": 8,
+    "type": "E28FXXXJ3A",
+    "name": "E28F320J3A",
+    "size": 4194304,
+    "sector": 131072,
+    "buffer": 32,
+    "voltage": 5
+  },
+  {
+    "id": "8917",
+    "bits": 8,
+    "type": "E28FXXXJ3A",
+    "name": "E28F640J3A",
+    "size": 8388608,
+    "sector": 131072,
+    "buffer": 32,
+    "voltage": 5
+  },
+  {
+    "id": "8918",
+    "bits": 8,
+    "type": "E28FXXXJ3A",
+    "name": "E28F128J3A",
+    "size": 16777216,
+    "sector": 131072,
+    "buffer": 32,
+    "voltage": 5
+  },
+  {
+    "id": "BFB7",
+    "bits": 8,
+    "type": "29F032",
+    "name": "39F040",
+    "size": 524288,
+    "voltage": 5
+  },
+  {
+    "id": "BFB6",
+    "bits": 8,
+    "type": "29F032",
+    "name": "39F020",
+    "size": 262144,
+    "voltage": 5
+  },
+  {
+    "id": "BFB5",
+    "bits": 8,
+    "type": "29F032",
+    "name": "39F010",
+    "size": 131072,
+    "voltage": 5
+  },
+  {
+    "id": "C2FC",
+    "bits": 16,
+    "type": "29LV640",
+    "name": "MX26L6420",
+    "size": 131072,
+    "voltage": 5
+  }
+]

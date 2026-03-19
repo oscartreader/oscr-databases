@@ -1,0 +1,986 @@
+[
+    {
+        "name": "007 James Bond (Japan) (Othello Multivision)",
+        "crc32": "90160849"
+    },
+    {
+        "name": "007 James Bond (Japan) (Othello Multivision) (Alt)",
+        "crc32": "A8B5B57F"
+    },
+    {
+        "name": "007 James Bond (Taiwan) (Othello Multivision) (Unl)",
+        "crc32": "76D6C64D"
+    },
+    {
+        "name": "Arno Dash (World) (v1.00) (Aftermarket) (Homebrew)",
+        "crc32": "EA921F7C"
+    },
+    {
+        "name": "Arno Dash (World) (v1.03) (Aftermarket) (Homebrew)",
+        "crc32": "6DAD65D3"
+    },
+    {
+        "name": "BASIC Level II (Japan) (SC-3000) (Program).sc",
+        "crc32": "F691F9C7"
+    },
+    {
+        "name": "BASIC Level III (Europe, Australia, New Zealand) (SC-3000) (Program).sc",
+        "crc32": "5D9F11CA"
+    },
+    {
+        "name": "BASIC Level III (Japan) (SC-3000) (Program).sc",
+        "crc32": "A46E3C73"
+    },
+    {
+        "name": "Bank Panic (Japan)",
+        "crc32": "D8A87095"
+    },
+    {
+        "name": "Bank Panic (Taiwan) (Unl)",
+        "crc32": "BD43FDE4"
+    },
+    {
+        "name": "Black Onyx, The (Japan)",
+        "crc32": "26ECD094"
+    },
+    {
+        "name": "Bomb Jack (Japan, Australia) (Ja)",
+        "crc32": "EA0F2691"
+    },
+    {
+        "name": "Bomb Jack (Korea) (En) (English Logo) (Unl)",
+        "crc32": "0C69D837"
+    },
+    {
+        "name": "Bomb Jack (Korea) (En) (Korean Logo) (Unl)",
+        "crc32": "B0C7B310"
+    },
+    {
+        "name": "Bomb Jack (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "DEB213FE"
+    },
+    {
+        "name": "Bomb Jack (Taiwan) (English Logo) (Unl)",
+        "crc32": "CDA3A335"
+    },
+    {
+        "name": "Bomberman Special (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "CE5648C3"
+    },
+    {
+        "name": "Bomberman Special (Taiwan) (English Logo) (Unl)",
+        "crc32": "69FC1494"
+    },
+    {
+        "name": "Borderline (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "0B4BCA74"
+    },
+    {
+        "name": "C_So! (Japan)",
+        "crc32": "BE7ED0EB"
+    },
+    {
+        "name": "C_So! (Taiwan) (Unl)",
+        "crc32": "82C4E3E5"
+    },
+    {
+        "name": "Cabbage Patch Kids (Taiwan) (Unl)",
+        "crc32": "9D91AB78"
+    },
+    {
+        "name": "Castle, The (Japan)",
+        "crc32": "092F29D6"
+    },
+    {
+        "name": "Castle, The (Taiwan) (Unl)",
+        "crc32": "2E366CCF"
+    },
+    {
+        "name": "Chack'n Pop (Japan)",
+        "crc32": "D37BDA49"
+    },
+    {
+        "name": "Chack'n Pop (Taiwan) (Unl)",
+        "crc32": "D81A72CE"
+    },
+    {
+        "name": "Challenge Derby (Japan) (Othello Multivision)",
+        "crc32": "C5F014DC"
+    },
+    {
+        "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision)",
+        "crc32": "C91551DA"
+    },
+    {
+        "name": "Challenge Derby (Japan) (Rev 1) (Othello Multivision) (Alt)",
+        "crc32": "02BC891F"
+    },
+    {
+        "name": "Champion Baseball (Japan)",
+        "crc32": "5970A12B"
+    },
+    {
+        "name": "Champion Baseball (Japan, Australia, New Zealand) (Ja)",
+        "crc32": "C0C16FA7"
+    },
+    {
+        "name": "Champion Baseball (Taiwan) (Unl)",
+        "crc32": "677E6878"
+    },
+    {
+        "name": "Champion Billiards (Japan)",
+        "crc32": "62B21E31"
+    },
+    {
+        "name": "Champion Billiards (Taiwan) (Unl)",
+        "crc32": "56D85BD4"
+    },
+    {
+        "name": "Champion Boxing (Japan) (Rev 1)",
+        "crc32": "F8B2AC1D"
+    },
+    {
+        "name": "Champion Boxing (Japan, New Zealand) (Ja)",
+        "crc32": "26F947D1"
+    },
+    {
+        "name": "Champion Boxing (Taiwan) (Unl)",
+        "crc32": "15D2CE33"
+    },
+    {
+        "name": "Champion Golf (Japan) (Rev 1)",
+        "crc32": "5A904122"
+    },
+    {
+        "name": "Champion Golf (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "868419B5"
+    },
+    {
+        "name": "Champion Golf (Korea) (En) (Unl)",
+        "crc32": "35AF42AD"
+    },
+    {
+        "name": "Champion Ice Hockey (Japan)",
+        "crc32": "BDC05652"
+    },
+    {
+        "name": "Champion Ice Hockey (Korea) (En) (Unl)",
+        "crc32": "EC0B862C"
+    },
+    {
+        "name": "Champion Ice Hockey (Taiwan) (Unl)",
+        "crc32": "C6E5192F"
+    },
+    {
+        "name": "Champion Kendou (Japan)",
+        "crc32": "10CDEBCE"
+    },
+    {
+        "name": "Champion Kendou (Taiwan) (Unl)",
+        "crc32": "A5F61363"
+    },
+    {
+        "name": "Champion Pro Wrestling (Japan)",
+        "crc32": "372FE6BC"
+    },
+    {
+        "name": "Champion Soccer (Japan, Europe) (Ja)",
+        "crc32": "6F39719E"
+    },
+    {
+        "name": "Champion Soccer (Taiwan) (Unl)",
+        "crc32": "269C1AEE"
+    },
+    {
+        "name": "Champion Tennis (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "7C663316"
+    },
+    {
+        "name": "Championship Lode Runner (Japan, Australia) (Ja)",
+        "crc32": "11DB4B1D"
+    },
+    {
+        "name": "Championship Lode Runner (Taiwan) (Unl)",
+        "crc32": "EC95EBCB"
+    },
+    {
+        "name": "Cheril Perils Classic (Europe) (Aftermarket) (Homebrew)",
+        "crc32": "B260B74E"
+    },
+    {
+        "name": "Cheril Perils Classic (USA) (Aftermarket) (Homebrew)",
+        "crc32": "60D5C65D"
+    },
+    {
+        "name": "Choplifter (Japan, Australia) (Ja)",
+        "crc32": "732B7180"
+    },
+    {
+        "name": "Choplifter (Japan, Australia) (Ja) (Beta)",
+        "crc32": "FF435469"
+    },
+    {
+        "name": "Choplifter (Korea) (En) (Unl)",
+        "crc32": "954D8F26"
+    },
+    {
+        "name": "Choplifter (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "746A8D86"
+    },
+    {
+        "name": "Choplifter (Taiwan) (English Logo) (Unl)",
+        "crc32": "7C603987"
+    },
+    {
+        "name": "Choplifter (Taiwan) (No Logo) (Unl)",
+        "crc32": "825E1AAE"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eibunpou - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "345C8BC8"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eibunpou - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "D4C473B2"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program) (Alt).sc",
+        "crc32": "975106B6"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "9BAFD9E9"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc",
+        "crc32": "3657B285"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eisakubun - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "581DCE41"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eitango - Chuugaku 1-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "6CCB297A"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program) (Alt).sc",
+        "crc32": "4F599483"
+    },
+    {
+        "name": "Chuugaku Hisshuu Eitango - Chuugaku 2-Nen (Japan) (SC-3000) (Program).sc",
+        "crc32": "8507216B"
+    },
+    {
+        "name": "Circus Charlie (Korea) (Unl)",
+        "crc32": "7F7F009D"
+    },
+    {
+        "name": "Circus Charlie (Taiwan) (Unl)",
+        "crc32": "3404FCE4"
+    },
+    {
+        "name": "Complete Arcade Pack Collection, The (New Zealand) (SF-7000).sf",
+        "crc32": "AD19C0A0"
+    },
+    {
+        "name": "Congo Bongo (Japan)",
+        "crc32": "5EB48A20"
+    },
+    {
+        "name": "Congo Bongo (Japan, Europe) (Ja) (Rev 1) (Alt)",
+        "crc32": "F1506565"
+    },
+    {
+        "name": "Congo Bongo (Japan, Europe, Australia, New Zealand) (En) (Rev 1)",
+        "crc32": "5A24C7CF"
+    },
+    {
+        "name": "Congo Bongo (Taiwan) (Unl)",
+        "crc32": "F7EB94C5"
+    },
+    {
+        "name": "Disk BASIC & Yeno Demo (Japan) (SF-7000) (Program).sf",
+        "crc32": "FFDBCD97"
+    },
+    {
+        "name": "Disk BASIC (Japan) (Rev 1) (SF-7000) (Program).sf",
+        "crc32": "7F51EF65"
+    },
+    {
+        "name": "Disk BASIC (Japan) (SF-7000) (Program).sf",
+        "crc32": "50A2A040"
+    },
+    {
+        "name": "Doki Doki Penguin Land (Japan)",
+        "crc32": "346556B9"
+    },
+    {
+        "name": "Doki Doki Penguin Land (Taiwan) (Unl)",
+        "crc32": "FDC095BC"
+    },
+    {
+        "name": "Dragon Wang (Japan)",
+        "crc32": "60F30138"
+    },
+    {
+        "name": "Dragon Wang (Japan) (Rev 1)",
+        "crc32": "99C3DE21"
+    },
+    {
+        "name": "Dragon Wang (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "7C7D4397"
+    },
+    {
+        "name": "Dragon Wang (Taiwan) (English Logo) (Unl)",
+        "crc32": "6F94E5C0"
+    },
+    {
+        "name": "Drol (Japan, Australia) (Ja)",
+        "crc32": "288940CB"
+    },
+    {
+        "name": "Drol (Korea) (Unl)",
+        "crc32": "1D7C53BB"
+    },
+    {
+        "name": "Drol (Taiwan) (Unl)",
+        "crc32": "B7FC033D"
+    },
+    {
+        "name": "Electronic Salesman (Japan) (Proto) (SC-3000) (Program).sc",
+        "crc32": "EA7FC2D5"
+    },
+    {
+        "name": "Elevator Action (Japan)",
+        "crc32": "5AF8F69D"
+    },
+    {
+        "name": "Elevator Action (Taiwan) (Unl)",
+        "crc32": "6846E36D"
+    },
+    {
+        "name": "Exerion (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "A2C45B61"
+    },
+    {
+        "name": "Exerion (Korea) (Unl)",
+        "crc32": "FC628D0D"
+    },
+    {
+        "name": "Exerion (Taiwan) (Unl)",
+        "crc32": "B5C84A32"
+    },
+    {
+        "name": "Flicky (Japan) (Rev 1)",
+        "crc32": "26D2862C"
+    },
+    {
+        "name": "Flicky (Japan, New Zealand) (Ja)",
+        "crc32": "BD24D27B"
+    },
+    {
+        "name": "Flicky (Taiwan) (Unl)",
+        "crc32": "CD0666A7"
+    },
+    {
+        "name": "GP World (Japan)",
+        "crc32": "942ADF84"
+    },
+    {
+        "name": "GP World (Japan) (Rev 1)",
+        "crc32": "191FFE0A"
+    },
+    {
+        "name": "GP World (Taiwan) (Unl)",
+        "crc32": "F19F7548"
+    },
+    {
+        "name": "Girl's Garden (Japan, Australia) (Ja)",
+        "crc32": "1898F274"
+    },
+    {
+        "name": "Girl's Garden (Taiwan) (Unl)",
+        "crc32": "B9635AC4"
+    },
+    {
+        "name": "Golgo 13 (Japan)",
+        "crc32": "0D159ED0"
+    },
+    {
+        "name": "Gulkave (Japan)",
+        "crc32": "15A754A3"
+    },
+    {
+        "name": "Gulkave (Korea) (Unl)",
+        "crc32": "DDCB708B"
+    },
+    {
+        "name": "Guzzler (Japan) (Othello Multivision)",
+        "crc32": "61FA9EA0"
+    },
+    {
+        "name": "Guzzler (Taiwan) (Othello Multivision) (Unl)",
+        "crc32": "EB808158"
+    },
+    {
+        "name": "H.E.R.O. (Japan)",
+        "crc32": "4587DE6E"
+    },
+    {
+        "name": "H.E.R.O. (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "83958998"
+    },
+    {
+        "name": "H.E.R.O. (Taiwan) (English Logo) (Unl)",
+        "crc32": "96F09C6D"
+    },
+    {
+        "name": "Hang On II (Japan, Australia) (Ja)",
+        "crc32": "9BE3C6BD"
+    },
+    {
+        "name": "Hang On II (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "E98A111E"
+    },
+    {
+        "name": "Hang On II (Taiwan) (English Logo) (Unl)",
+        "crc32": "CABD451B"
+    },
+    {
+        "name": "Home BASIC (Japan) (SC-3000) (Program).sc",
+        "crc32": "78A37CBC"
+    },
+    {
+        "name": "Home Mahjong (Japan)",
+        "crc32": "C9D1AE7D"
+    },
+    {
+        "name": "Home Mahjong (Japan) (Rev 1)",
+        "crc32": "E7E0F0E3"
+    },
+    {
+        "name": "Home Mahjong (Taiwan) (Unl)",
+        "crc32": "0583A9FA"
+    },
+    {
+        "name": "Hustle Chumy (Japan)",
+        "crc32": "A627D440"
+    },
+    {
+        "name": "Hustle Chumy (Taiwan) (Unl)",
+        "crc32": "C4ED1FD9"
+    },
+    {
+        "name": "Hyper Sports (Japan)",
+        "crc32": "BA09A0FD"
+    },
+    {
+        "name": "Hyper Sports (Korea) (Unl)",
+        "crc32": "3157EF9C"
+    },
+    {
+        "name": "Hyper Sports (Taiwan) (Unl)",
+        "crc32": "87619AC2"
+    },
+    {
+        "name": "Hyper Sports 2 (Taiwan) (Unl)",
+        "crc32": "B0234E12"
+    },
+    {
+        "name": "I.Q. (Korea) (Unl)",
+        "crc32": "89BAFEC5"
+    },
+    {
+        "name": "Kagaku (Gensokigou Master) (Japan) (SC-3000) (Program).sc",
+        "crc32": "F9C81FE1"
+    },
+    {
+        "name": "Kamikaze (France) (En) (SF-7000) (Unl).sf",
+        "crc32": "7654E077"
+    },
+    {
+        "name": "King's Valley (Taiwan) (Unl)",
+        "crc32": "223397A1"
+    },
+    {
+        "name": "Knightmare (Taiwan) (Unl)",
+        "crc32": "281D2888"
+    },
+    {
+        "name": "Legend of Kage, The (Taiwan) (Unl)",
+        "crc32": "2E7166D5"
+    },
+    {
+        "name": "LinkWord (Japan) (Proto) (SC3000) (Program)",
+        "crc32": "D5E919C1"
+    },
+    {
+        "name": "Lode Runner (Japan, Europe, Australia) (En)",
+        "crc32": "00ED3970"
+    },
+    {
+        "name": "Lode Runner (Korea) (Unl)",
+        "crc32": "E68BC7D6"
+    },
+    {
+        "name": "Lode Runner (Taiwan) (Unl)",
+        "crc32": "D953BDB7"
+    },
+    {
+        "name": "Magical Kid Wiz (Taiwan) (Unl)",
+        "crc32": "FFC4EE3F"
+    },
+    {
+        "name": "Magical Tree (Taiwan) (Unl)",
+        "crc32": "B3A8291A"
+    },
+    {
+        "name": "Mahjong (Japan)",
+        "crc32": "6D909857"
+    },
+    {
+        "name": "Mahjong (Japan) (Rev 1)",
+        "crc32": "1C137CAB"
+    },
+    {
+        "name": "Mahjong (Taiwan) (Unl)",
+        "crc32": "BC823A89"
+    },
+    {
+        "name": "Monaco GP (Japan) (Rev 1)",
+        "crc32": "DA2D57F3"
+    },
+    {
+        "name": "Monaco GP (Japan, Europe) (Ja) (Rev 2)",
+        "crc32": "02E5D66A"
+    },
+    {
+        "name": "Monaco GP (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "8572D73A"
+    },
+    {
+        "name": "Monaco GP (Taiwan) (Unl)",
+        "crc32": "01CDA679"
+    },
+    {
+        "name": "Music Editor (Europe, Australia, New Zealand) (SC-3000) (Program).sc",
+        "crc32": "622010E1"
+    },
+    {
+        "name": "Music Editor (Japan) (SC-3000) (Program).sc",
+        "crc32": "2EC28526"
+    },
+    {
+        "name": "N-Sub (Japan) (Alt)",
+        "crc32": "B377D6E1"
+    },
+    {
+        "name": "N-Sub (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "652BBD1E"
+    },
+    {
+        "name": "N-Sub (Taiwan) (Unl)",
+        "crc32": "3E371769"
+    },
+    {
+        "name": "Nihonshi Nenpyou (Japan) (SC-3000) (Program).sc",
+        "crc32": "129D6359"
+    },
+    {
+        "name": "Ninja Princess (Japan, Australia) (Ja)",
+        "crc32": "3B912408"
+    },
+    {
+        "name": "Ninja Princess (Taiwan) (Unl)",
+        "crc32": "464D144B"
+    },
+    {
+        "name": "Okamoto Ayako no Match Play Golf (Japan) (Othello Multivision)",
+        "crc32": "547DD7FD"
+    },
+    {
+        "name": "Okamoto Ayako no Match Play Golf (Japan) (Rev 1) (Othello Multivision)",
+        "crc32": "49D3DB2C"
+    },
+    {
+        "name": "Okamoto Ayako no Match Play Golf (Taiwan) (Othello Multivision) (Unl)",
+        "crc32": "B60492D5"
+    },
+    {
+        "name": "Orguss (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "F4F78B76"
+    },
+    {
+        "name": "Othello (Japan)",
+        "crc32": "AF4F14BC"
+    },
+    {
+        "name": "Othello (Taiwan) (Unl)",
+        "crc32": "1D1A0CA3"
+    },
+    {
+        "name": "Pacar (Japan) (Alt)",
+        "crc32": "19949375"
+    },
+    {
+        "name": "Pacar (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "30C52E5E"
+    },
+    {
+        "name": "Pacar (Taiwan) (Unl)",
+        "crc32": "DD6817A0"
+    },
+    {
+        "name": "Pachinko (Japan)",
+        "crc32": "326587E1"
+    },
+    {
+        "name": "Pachinko II (Japan)",
+        "crc32": "FD7CB50A"
+    },
+    {
+        "name": "Pachinko II (Taiwan) (Unl)",
+        "crc32": "6EBE81BF"
+    },
+    {
+        "name": "Ping Pong (Taiwan) (Unl)",
+        "crc32": "4D972A9E"
+    },
+    {
+        "name": "Pippols (Taiwan) (Unl)",
+        "crc32": "DF7CBFA5"
+    },
+    {
+        "name": "Pitfall II (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "476A079B"
+    },
+    {
+        "name": "Pitfall II (Taiwan) (English Logo) (Unl)",
+        "crc32": "4E93BC8E"
+    },
+    {
+        "name": "Pitfall II - The Lost Caverns (Japan)",
+        "crc32": "37FCA2EB"
+    },
+    {
+        "name": "Pitfall II - The Lost Caverns (Japan) (Rev 1)",
+        "crc32": "3DB74761"
+    },
+    {
+        "name": "Pop Flamer (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "DB6404BA"
+    },
+    {
+        "name": "Pop Flamer (Taiwan) (Unl)",
+        "crc32": "AB1DA8A6"
+    },
+    {
+        "name": "Poseidon Wars + Space Panic + Rambo (France) (En) (SF-7000) (Unl).sf",
+        "crc32": "5CA7B5C4"
+    },
+    {
+        "name": "Q-bert (Japan) (Othello Multivision)",
+        "crc32": "77DB4704"
+    },
+    {
+        "name": "Rally-X (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "306D5F78"
+    },
+    {
+        "name": "Rally-X (Taiwan) (English Logo) (Unl)",
+        "crc32": "AAAC12CF"
+    },
+    {
+        "name": "Road Fighter (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "29E047CC"
+    },
+    {
+        "name": "Road Fighter (Taiwan) (English Logo) (Unl)",
+        "crc32": "D2EDD329"
+    },
+    {
+        "name": "Rock n' Bolt (Japan)",
+        "crc32": "0FFDD03D"
+    },
+    {
+        "name": "Rock n' Bolt (Taiwan) (Chinese Logo) (Unl)",
+        "crc32": "4EACB981"
+    },
+    {
+        "name": "Rock n' Bolt (Taiwan) (English Logo) (Unl)",
+        "crc32": "09A82AF7"
+    },
+    {
+        "name": "SG-1000 M2 Test Cartridge (Japan)",
+        "crc32": "207E7E99"
+    },
+    {
+        "name": "Safari Hunting (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "49E9718B"
+    },
+    {
+        "name": "Safari Hunting (Taiwan) (Unl)",
+        "crc32": "6DC51C01"
+    },
+    {
+        "name": "Safari Race (Japan, Europe, Australia, New Zealand) (Ja)",
+        "crc32": "08707FE3"
+    },
+    {
+        "name": "Safari Race (Taiwan) (Unl)",
+        "crc32": "B2724428"
+    },
+    {
+        "name": "San-nin Mahjong (Japan) (Othello Multivision)",
+        "crc32": "885FA64D"
+    },
+    {
+        "name": "San-nin Mahjong (Japan) (Othello Multivision) (Alt)",
+        "crc32": "0E641F36"
+    },
+    {
+        "name": "San-nin Mahjong (Taiwan) (Othello Multivision) (Unl)",
+        "crc32": "6FD17655"
+    },
+    {
+        "name": "Sega Flipper (Japan) (Alt)",
+        "crc32": "FD76AD99"
+    },
+    {
+        "name": "Sega Flipper (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "8EFC77BC"
+    },
+    {
+        "name": "Sega Flipper (Taiwan) (Unl)",
+        "crc32": "042C36BA"
+    },
+    {
+        "name": "Sega Logo (Japan) (SF-7000) (Program).sf",
+        "crc32": "A7B1DA17"
+    },
+    {
+        "name": "Sega-Galaga (Japan)",
+        "crc32": "31283003"
+    },
+    {
+        "name": "Sega-Galaga (Japan, Australia) (Ja)",
+        "crc32": "981E36C1"
+    },
+    {
+        "name": "Sega-Galaga (Taiwan) (Unl)",
+        "crc32": "845BBB22"
+    },
+    {
+        "name": "Sekaishi Nenpyou (Japan) (SC-3000) (Program).sc",
+        "crc32": "3274EE48"
+    },
+    {
+        "name": "Serizawa Hachidan no Tsumeshougi (Japan)",
+        "crc32": "545FC9BB"
+    },
+    {
+        "name": "Shinnyushain Tooru-kun (Japan)",
+        "crc32": "5A917E06"
+    },
+    {
+        "name": "Shinnyushain Tooru-kun (Taiwan) (Unl)",
+        "crc32": "33FC5CF6"
+    },
+    {
+        "name": "Sindbad Mystery (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "01932DF9"
+    },
+    {
+        "name": "Sindbad Mystery (Taiwan) (Unl)",
+        "crc32": "945F7847"
+    },
+    {
+        "name": "Soukoban (Japan, Australia) (Ja)",
+        "crc32": "922C5468"
+    },
+    {
+        "name": "Soukoban (Korea) (Unl)",
+        "crc32": "148EA752"
+    },
+    {
+        "name": "Soukoban (Taiwan) (Unl)",
+        "crc32": "A2C3FC97"
+    },
+    {
+        "name": "Space Armor (Japan) (Othello Multivision)",
+        "crc32": "D5FDB4A3"
+    },
+    {
+        "name": "Space Armor (Japan) (Othello Multivision) (Alt)",
+        "crc32": "D23B0E3E"
+    },
+    {
+        "name": "Space Armor (Japan) (Rev 1) (Othello Multivision)",
+        "crc32": "AC4F0A5C"
+    },
+    {
+        "name": "Space Invaders (Japan)",
+        "crc32": "6AD5CB3D"
+    },
+    {
+        "name": "Space Invaders (Taiwan) (Unl)",
+        "crc32": "0760EA93"
+    },
+    {
+        "name": "Space Mountain (Japan) (Othello Multivision)",
+        "crc32": "BBD87D8F"
+    },
+    {
+        "name": "Space Slalom (Japan)",
+        "crc32": "B8B58B30"
+    },
+    {
+        "name": "Star Force (Japan, Australia) (Ja)",
+        "crc32": "B846B52A"
+    },
+    {
+        "name": "Star Force (Taiwan) (Unl)",
+        "crc32": "1F736931"
+    },
+    {
+        "name": "Star Force (Taiwan) (Unl) (Alt)",
+        "crc32": "6F9B1CCD"
+    },
+    {
+        "name": "Star Jacker (Japan)",
+        "crc32": "1AE94122"
+    },
+    {
+        "name": "Star Jacker (Japan, Europe) (En) (Rev 2)",
+        "crc32": "3FE59505"
+    },
+    {
+        "name": "Star Jacker (Japan, Europe, Australia, New Zealand) (En) (Rev 1)",
+        "crc32": "7F25DECA"
+    },
+    {
+        "name": "Star Jacker (Taiwan) (Unl)",
+        "crc32": "DF162201"
+    },
+    {
+        "name": "Star Soldier (Taiwan) (Unl)",
+        "crc32": "E0816BB7"
+    },
+    {
+        "name": "Super Tank (Japan)",
+        "crc32": "084CC13E"
+    },
+    {
+        "name": "Super Tank (Korea) (Unl)",
+        "crc32": "4C48B7AC"
+    },
+    {
+        "name": "Super Tank (Taiwan) (Unl)",
+        "crc32": "D0C3DF3F"
+    },
+    {
+        "name": "Tank Battalion (Taiwan) (Unl)",
+        "crc32": "5CBD1163"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 4-Nen Ge (Japan) (SC-3000) (Program).sc",
+        "crc32": "5FDE25BB"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program) (Alt).sc",
+        "crc32": "7C400E3B"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 4-Nen Jou (Japan) (SC-3000) (Program).sc",
+        "crc32": "573E04DD"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 5-Nen Ge (Japan) (SC-3000) (Program).sc",
+        "crc32": "6A96978D"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 5-Nen Jou (Japan) (SC-3000) (Program).sc",
+        "crc32": "419D75D5"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 6-Nen Ge (Japan) (SC-3000) (Program).sc",
+        "crc32": "D0D18E70"
+    },
+    {
+        "name": "Tanoshii Sansuu - Shougaku 6-Nen Jou (Japan) (SC-3000) (Program).sc",
+        "crc32": "8B5E6E1B"
+    },
+    {
+        "name": "Terebi Oekaki (Japan) (Program)",
+        "crc32": "DD4A661B"
+    },
+    {
+        "name": "TwinBee (Taiwan) (Unl)",
+        "crc32": "C550B4F0"
+    },
+    {
+        "name": "Uranai Angel Cutie (Japan) (SC-3000) (Program).sc",
+        "crc32": "AE4F92CF"
+    },
+    {
+        "name": "Wonder Boy (Japan) (Rev 1)",
+        "crc32": "E8F0344D"
+    },
+    {
+        "name": "Wonder Boy (Japan, Australia) (Ja)",
+        "crc32": "160535C5"
+    },
+    {
+        "name": "Wonder Boy (Taiwan) (Unl)",
+        "crc32": "953FC2B2"
+    },
+    {
+        "name": "Yamato (Japan) (Alt)",
+        "crc32": "9C7497FF"
+    },
+    {
+        "name": "Yamato (Japan, Europe, Australia, New Zealand) (En)",
+        "crc32": "E2FD5201"
+    },
+    {
+        "name": "Yamato (Taiwan) (Unl)",
+        "crc32": "B65A093F"
+    },
+    {
+        "name": "Yie Ar Kung-Fu (Taiwan) (Unl)",
+        "crc32": "BB0F1930"
+    },
+    {
+        "name": "Yie Ar Kung-Fu II (Taiwan) (Unl)",
+        "crc32": "FC87463C"
+    },
+    {
+        "name": "Zaxxon (Japan)",
+        "crc32": "905467E4"
+    },
+    {
+        "name": "Zaxxon (Taiwan) (Unl)",
+        "crc32": "49CAE925"
+    },
+    {
+        "name": "Zippy Race (Japan, Australia) (Ja)",
+        "crc32": "BC5D20DF"
+    },
+    {
+        "name": "Zippy Race (Taiwan) (Unl)",
+        "crc32": "BCF441A5"
+    },
+    {
+        "name": "Zoom 909 (Japan)",
+        "crc32": "093830D8"
+    },
+    {
+        "name": "Zoom 909 (Taiwan) (Unl)",
+        "crc32": "9943FC2B"
+    },
+    {
+        "name": "[BIOS] Othello Multivision (Japan)",
+        "crc32": "C5A67B95"
+    }
+]

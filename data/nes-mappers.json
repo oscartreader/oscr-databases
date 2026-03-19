@@ -1,0 +1,1292 @@
+[
+	{
+		"mapper": 0,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 32,
+		"chrlo": 0,
+		"chrhi": 8,
+		"ramlo": 0,
+		"ramhi": 16
+	},
+	{
+		"mapper": 1,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 32
+	},
+	{
+		"mapper": 2,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 3,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 32,
+		"chrlo": 0,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 4,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 5,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 512,
+		"chrlo": 128,
+		"chrhi": 512,
+		"ramlo": 0,
+		"ramhi": 32
+	},
+	{
+		"mapper": 7,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 9,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 10,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 64,
+		"chrhi": 128,
+		"ramlo": 8,
+		"ramhi": 8
+	},
+	{
+		"mapper": 11,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 128,
+		"chrlo": 8,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 13,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 32,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 15,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 1024,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 16,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 18,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 19,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 21,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 22,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 23,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 24,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 25,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 26,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 8,
+		"ramhi": 8
+	},
+	{
+		"mapper": 28,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 30,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 31,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 1024,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 32,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 33,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 34,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 35,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 2048,
+		"chrlo": 8,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 36,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 8,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 37,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 256,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 38,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 42,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 45,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 1024,
+		"chrlo": 0,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 46,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 1024,
+		"chrlo": 0,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 47,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 256,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 48,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 256,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 52,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 56,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 57,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 58,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 1024,
+		"chrlo": 8,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 59,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 60,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 64,
+		"chrlo": 32,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 62,
+		"submapper": 0,
+		"prglo": 2048,
+		"prghi": 2048,
+		"chrlo": 1024,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 63,
+		"submapper": 0,
+		"prglo": 4096,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 64,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 128,
+		"chrlo": 64,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 65,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 66,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 128,
+		"chrlo": 16,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 67,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 68,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 69,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 70,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 71,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 72,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 73,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 75,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 76,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 77,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 32,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 78,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 79,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 64,
+		"chrlo": 16,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 80,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 82,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 85,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 86,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 64,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 87,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 32,
+		"chrlo": 16,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 88,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 89,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 90,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 2048,
+		"chrlo": 8,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 91,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 512,
+		"chrlo": 512,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 92,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 93,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 94,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 95,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 32,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 96,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 97,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 105,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 111,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 113,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 114,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 118,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 119,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 64,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 126,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 134,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 140,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 32,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 142,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 146,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 64,
+		"chrlo": 16,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 148,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 64,
+		"chrlo": 0,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 152,
+		"submapper": 0,
+		"prglo": 64,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 153,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 8,
+		"ramhi": 8
+	},
+	{
+		"mapper": 154,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 155,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 32,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 8
+	},
+	{
+		"mapper": 157,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 158,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 159,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 8,
+		"ramhi": 8
+	},
+	{
+		"mapper": 162,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 163,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 174,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 64,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 176,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 177,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 178,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 180,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 184,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 32,
+		"chrlo": 16,
+		"chrhi": 32,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 185,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 32,
+		"chrlo": 8,
+		"chrhi": 8,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 200,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 256,
+		"chrlo": 8,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 201,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 4096,
+		"chrlo": 8,
+		"chrhi": 2048,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 202,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 8,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 203,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 256,
+		"chrlo": 8,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 206,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 128,
+		"chrlo": 16,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 207,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 128,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 209,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 2048,
+		"chrlo": 8,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 210,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 512,
+		"chrlo": 128,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 211,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 2048,
+		"chrlo": 8,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 212,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 213,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 1024,
+		"chrlo": 8,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 214,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 128,
+		"chrlo": 0,
+		"chrhi": 64,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 225,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 2048,
+		"chrlo": 128,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 226,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 2048,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 227,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 228,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 2048,
+		"chrlo": 128,
+		"chrhi": 512,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 229,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 256,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 232,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 256,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 235,
+		"submapper": 0,
+		"prglo": 1024,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 236,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 1024,
+		"chrlo": 0,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 240,
+		"submapper": 0,
+		"prglo": 32,
+		"prghi": 512,
+		"chrlo": 8,
+		"chrhi": 128,
+		"ramlo": 0,
+		"ramhi": 32
+	},
+	{
+		"mapper": 241,
+		"submapper": 0,
+		"prglo": 128,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 242,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 246,
+		"submapper": 0,
+		"prglo": 512,
+		"prghi": 512,
+		"chrlo": 512,
+		"chrhi": 512,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 255,
+		"submapper": 0,
+		"prglo": 256,
+		"prghi": 2048,
+		"chrlo": 128,
+		"chrhi": 1024,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 446,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 4096,
+		"chrlo": 0,
+		"chrhi": 0,
+		"ramlo": 0,
+		"ramhi": 0
+	},
+	{
+		"mapper": 552,
+		"submapper": 0,
+		"prglo": 16,
+		"prghi": 512,
+		"chrlo": 0,
+		"chrhi": 256,
+		"ramlo": 0,
+		"ramhi": 0
+	}
+]

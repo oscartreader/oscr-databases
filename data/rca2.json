@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Baseball",
+        "size": 1
+    },
+    {
+        "name": "Biorhythm",
+        "size": 1
+    },
+    {
+        "name": "Blackjack",
+        "size": 1
+    },
+    {
+        "name": "Concentration Match",
+        "size": 1
+    },
+    {
+        "name": "Demonstration Cartridge",
+        "size": 1
+    },
+    {
+        "name": "Fun with Numbers",
+        "size": 0
+    },
+    {
+        "name": "Gunfighter + Moonship Battle",
+        "size": 1
+    },
+    {
+        "name": "Pinball",
+        "size": 1
+    },
+    {
+        "name": "Space War",
+        "size": 0
+    },
+    {
+        "name": "Speedway + Tag (Europe)",
+        "size": 1
+    },
+    {
+        "name": "Speedway + Tag (USA)",
+        "size": 0
+    },
+    {
+        "name": "Star Wars",
+        "size": 1
+    },
+    {
+        "name": "TV Bingo",
+        "size": 1
+    },
+    {
+        "name": "TV School House I",
+        "size": 0
+    },
+    {
+        "name": "TV School House II - Math Fun",
+        "size": 1
+    },
+    {
+        "name": "Tennis + Squash",
+        "size": 0
+    }
+]

@@ -1,0 +1,1197 @@
+[
+    {
+        "name": "A World at War",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "A.E.",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Adventureland",
+        "mapper": 3,
+        "size": 6
+    },
+    {
+        "name": "Aggressor",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Alien",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Alien Blitz",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Alien Sidestep",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Alphabet Zoo",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Amazing Maze",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Amidar",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Amok!",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Ape Escape",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Apple Panic",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "Arachnoid",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Arcadia",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Artillery Duel",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Assam - Assembler",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Astroblitz",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Atlantis",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Attack of the Mutant Camels",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Avenger",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "BUTI - Basic UTIlity",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Baldor's Castle",
+        "mapper": 1,
+        "size": 5
+    },
+    {
+        "name": "Bandits",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Bank Robber",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Battle Zone",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Black Hole",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Bridge 20",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Buck Rogers",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Bug Crusher",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "CBM BASIC v4.0",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "CBM BASIC v5.0",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cannonball Blitz",
+        "mapper": 2,
+        "size": 4
+    },
+    {
+        "name": "Capture the Flag",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Car Race",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cassette Turbo",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Catch-a-Snatch",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cave-In",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Centipede",
+        "mapper": 2,
+        "size": 6
+    },
+    {
+        "name": "Choplifter",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Chuck Norris Superkicks",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Close Encounters",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Cloudburst",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Clowns",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "ComBASIC",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "Commodore Artist",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Computer War",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Congo Bongo",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cosmic Cruncher",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cosmic Jailbreak",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Crater Raider",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Creepy Corridors",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Crossfire",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Cyclon",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "D'Fuse",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Dancing Bear",
+        "mapper": 2,
+        "size": 6
+    },
+    {
+        "name": "Data 20 Display Manager",
+        "mapper": 7,
+        "size": 0
+    },
+    {
+        "name": "Deadly Duck",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Deadly Skies",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Defender",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Demon Attack",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Dig Dug",
+        "mapper": 2,
+        "size": 6
+    },
+    {
+        "name": "Donkey Kong",
+        "mapper": 2,
+        "size": 6
+    },
+    {
+        "name": "Dot Gobbler",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Dragonfire",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Droids",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "E.T.",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "ExBasic Level II",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Face Maker",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Fast Eddie",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Final Orbit + Bumper Bash",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Flipper 1.0",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Frogger",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Frogman",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Fun with Music",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Galaxian",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Garden Wars",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Ghost Manor",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Gold Fever",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Gorf",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Gridrunner",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Handy Toolkit",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "HesMon v1.1",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "HesWriter v1.1",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "HiRes Toolkit",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "Home Baby Sitter II",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Household Finance",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "IEEE-488",
+        "mapper": 8,
+        "size": 0
+    },
+    {
+        "name": "IFR: Flight Simulator",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "In The Chips",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Jawbreaker II",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Jelly Monster v.1",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Jelly Monster v.2",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Jungle Hunt",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Jupiter Lander",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "K-Razy Antiks",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "K-Star Patrol",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Key-Quest",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Kids on Keys",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Kindercomp",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Laser Zone",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Lode Runner",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Lunar Leeper",
+        "mapper": 2,
+        "size": 4
+    },
+    {
+        "name": "Machine Language Monitor",
+        "mapper": 0,
+        "size": 1
+    },
+    {
+        "name": "Mastertype",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Maze",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Medieval Joust",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Meteor Run",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Mine Madness",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Miner 2049er",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Mission Impossible",
+        "mapper": 3,
+        "size": 6
+    },
+    {
+        "name": "Mobile Attack",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Mole Attack",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Money Wars",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Monster Maze",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Moon Patrol",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Mosquito Infestation",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Motocross Racer",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Mountain King",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Ms. Pac-Man",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Mutant Herd",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Number Crunch",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Number Nabber & Shape Grabber",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Omega Race",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Outworld (NTSC)",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "Outworld (PAL)",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "PET Loader",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Pac-Man",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Paratrooper",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Personal Finance",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Pharaoh's Curse",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Pinball",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Pinball Spectacular",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Pipes",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Pirate's Cove",
+        "mapper": 3,
+        "size": 6
+    },
+    {
+        "name": "Poker",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Polaris",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Pole Position",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Predator",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Princess and Frog",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Programmer's Aid Cartridge",
+        "mapper": 6,
+        "size": 1
+    },
+    {
+        "name": "Protector",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Q*bert",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Quackers",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Quick Brown Fox",
+        "mapper": 4,
+        "size": 2
+    },
+    {
+        "name": "Radar Rat Race",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Raid on Fort Knox",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Rally-X",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Rat Hotel",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Renaissance",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "River Rescue",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Road Race",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Robin Hood",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Robot Panic",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Robotron: 2084",
+        "mapper": 5,
+        "size": 4
+    },
+    {
+        "name": "SamMON",
+        "mapper": 0,
+        "size": 2
+    },
+    {
+        "name": "Sargon II Chess",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Satellite Patrol",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Satellite and Meteorites! (NTSC)",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "Satellite and Meteorites! (PAL)",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Scorpion",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Scram 20",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Screen Master",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Sea Wolf",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Seafox",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Serpentine",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Shamus",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Sir Lancelot",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Skibbereen",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Skyblazer",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Slot",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Snake Byte",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Space Ric-o-Shay",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Space Snake",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Speed Math & Bingo Math",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Spider City",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Spider of Mars (NTSC)",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Spider of Mars (PAL)",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "Spike's Peak",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Spills & Fills",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Springer",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Squish 'em",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Star Battle",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Star Post",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Star Trek",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Story Machine",
+        "mapper": 5,
+        "size": 5
+    },
+    {
+        "name": "Sub Chase",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Sub Commander",
+        "mapper": 5,
+        "size": 4
+    },
+    {
+        "name": "Super Amok",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Super Expander",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Super Slot",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Super Smash",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Synthesound",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Tank Atak",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Tank Wars",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Terraguard",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "The Count",
+        "mapper": 3,
+        "size": 6
+    },
+    {
+        "name": "The Fourth Encounter",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "The Sky is Falling",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Threshold",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Titan",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Tomarc the Barbarian",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Tooth Invaders",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Topper",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Trashman",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "Turmoil",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Turtle Graphics",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Tutankham",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Type Attack",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Typo",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VC Extra",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VC Song-Cartridge",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC 20 Diagnostic Cartridge",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "VIC 20 Micromon v1.2",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "VIC 20 Mikro Assembler",
+        "mapper": 5,
+        "size": 3
+    },
+    {
+        "name": "VIC Color Test",
+        "mapper": 7,
+        "size": 0
+    },
+    {
+        "name": "VIC Forth v1.0",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Forth v1.1",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Graph",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Menagerie",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Music Composer",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Stat",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VIC Super Lander",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "VICKIT 1",
+        "mapper": 8,
+        "size": 0
+    },
+    {
+        "name": "VICKIT 2",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "VICKIT 3",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "VICKIT 4",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "VICKIT 5",
+        "mapper": 8,
+        "size": 1
+    },
+    {
+        "name": "VICterm 40",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Vic Tool",
+        "mapper": 8,
+        "size": 0
+    },
+    {
+        "name": "Video Vermin",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Videomania",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Visible Solar System",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Voodoo Castle",
+        "mapper": 3,
+        "size": 6
+    },
+    {
+        "name": "Wacky Waiters",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Waterloo BASIC",
+        "mapper": 7,
+        "size": 1
+    },
+    {
+        "name": "Witch Way",
+        "mapper": 7,
+        "size": 2
+    },
+    {
+        "name": "Wordcraft 20",
+        "mapper": 5,
+        "size": 6
+    },
+    {
+        "name": "Write Now!",
+        "mapper": 7,
+        "size": 2
+    }
+]

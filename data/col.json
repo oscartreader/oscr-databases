@@ -1,0 +1,1172 @@
+[
+    {
+        "name": "2010 - The Graphic Action Game (USA)",
+        "crc32": "C575A831",
+        "id32": "B8783441",
+        "size": 32
+    },
+    {
+        "name": "2010 - The Graphic Action Game (USA) (Beta)",
+        "crc32": "3657F3CD",
+        "id32": "3CB1141E",
+        "size": 32
+    },
+    {
+        "name": "A.E. (USA) (Proto)",
+        "crc32": "DB845695",
+        "id32": "9F44CA64",
+        "size": 17
+    },
+    {
+        "name": "Activision Decathlon, The (USA)",
+        "crc32": "51FE49C8",
+        "id32": "3E31149C",
+        "size": 16
+    },
+    {
+        "name": "Adam's Musicbox Demo (USA) (Demo)",
+        "crc32": "164C8C26",
+        "id32": "553F630F",
+        "size": 24
+    },
+    {
+        "name": "Alcazar - The Forgotten Fortress (USA)",
+        "crc32": "FCE3AA06",
+        "id32": "95F206CB",
+        "size": 16
+    },
+    {
+        "name": "Alphabet Zoo (USA)",
+        "crc32": "4FFB4E8C",
+        "id32": "38A49330",
+        "size": 16
+    },
+    {
+        "name": "Amazing Bumpman (USA)",
+        "crc32": "78A738AF",
+        "id32": "282C6DBC",
+        "size": 16
+    },
+    {
+        "name": "Antarctic Adventure (USA, Europe)",
+        "crc32": "275C800E",
+        "id32": "9901D388",
+        "size": 16
+    },
+    {
+        "name": "Antarctic Adventure (USA, Europe) (Beta)",
+        "crc32": "A66E5ED1",
+        "id32": "C33D14FD",
+        "size": 16
+    },
+    {
+        "name": "Aquattack (USA)",
+        "crc32": "947437EC",
+        "id32": "4C8B623E",
+        "size": 16
+    },
+    {
+        "name": "Artillery Duel (USA)",
+        "crc32": "6F88FCF0",
+        "id32": "48474D52",
+        "size": 16
+    },
+    {
+        "name": "BC's Quest for Tires (Canada)",
+        "crc32": "0AE39F2C",
+        "id32": "87B6CF32",
+        "size": 16
+    },
+    {
+        "name": "BC's Quest for Tires (USA)",
+        "crc32": "4359A3E5",
+        "id32": "87B6CF32",
+        "size": 16
+    },
+    {
+        "name": "BC's Quest for Tires II - Grog's Revenge (Canada)",
+        "crc32": "1CA853D5",
+        "id32": "17A7F95F",
+        "size": 24
+    },
+    {
+        "name": "BC's Quest for Tires II - Grog's Revenge (USA)",
+        "crc32": "D464E5E4",
+        "id32": "8C6A5008",
+        "size": 24
+    },
+    {
+        "name": "Beamrider (USA)",
+        "crc32": "7A93C6E5",
+        "id32": "D6D4679A",
+        "size": 16
+    },
+    {
+        "name": "Berenstain Bears, The (USA) (Demo)",
+        "crc32": "18864ABC",
+        "id32": "B6CC56CD",
+        "size": 8
+    },
+    {
+        "name": "Blockade Runner (USA)",
+        "crc32": "DF65FC87",
+        "id32": "8060714A",
+        "size": 16
+    },
+    {
+        "name": "Boulder Dash (USA)",
+        "crc32": "9B547BA8",
+        "id32": "EA21183F",
+        "size": 16
+    },
+    {
+        "name": "Boulder Dash (USA) (Beta)",
+        "crc32": "1796DE5E",
+        "id32": "EA21183F",
+        "size": 16
+    },
+    {
+        "name": "Brain Strainers (USA)",
+        "crc32": "829C967D",
+        "id32": "282151C7",
+        "size": 16
+    },
+    {
+        "name": "Buck Rogers - Planet of Zoom (USA, Europe)",
+        "crc32": "00B37475",
+        "id32": "842F347E",
+        "size": 24
+    },
+    {
+        "name": "Bump 'n' Jump (USA, Europe)",
+        "crc32": "9E1FAB59",
+        "id32": "D4FCAA6D",
+        "size": 20
+    },
+    {
+        "name": "Bump 'n' Jump (USA, Europe) (Beta)",
+        "crc32": "EB498F97",
+        "id32": "4F166045",
+        "size": 16
+    },
+    {
+        "name": "BurgerTime (USA, Europe)",
+        "crc32": "91346341",
+        "id32": "F2357051",
+        "size": 16
+    },
+    {
+        "name": "BurgerTime (USA, Europe) (Beta)",
+        "crc32": "E5C5EA20",
+        "id32": "10122744",
+        "size": 16
+    },
+    {
+        "name": "CAT S.O.S. Game, The (USA) (Promo)",
+        "crc32": "13886C96",
+        "id32": "ACF99CCB",
+        "size": 16
+    },
+    {
+        "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe)",
+        "crc32": "6AF19E75",
+        "id32": "389EB985",
+        "size": 16
+    },
+    {
+        "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 1)",
+        "crc32": "BEACBFF5",
+        "id32": "9E16DCEE",
+        "size": 16
+    },
+    {
+        "name": "Cabbage Patch Kids - Adventures in the Park (USA, Europe) (Beta 2)",
+        "crc32": "5DA13DFD",
+        "id32": "E013DC2D",
+        "size": 16
+    },
+    {
+        "name": "Cabbage Patch Kids - Picture Show (USA)",
+        "crc32": "75B08D99",
+        "id32": "B6B465E8",
+        "size": 24
+    },
+    {
+        "name": "Campaign '84 (USA)",
+        "crc32": "5AA22D66",
+        "id32": "8472B350",
+        "size": 16
+    },
+    {
+        "name": "Carnival (USA, Europe)",
+        "crc32": "70F315C2",
+        "id32": "B0DA7360",
+        "size": 16
+    },
+    {
+        "name": "Castelo (Brazil) (Unl)",
+        "crc32": "07A3D3DB",
+        "id32": "D938FEDD",
+        "size": 8
+    },
+    {
+        "name": "Centipede (USA)",
+        "crc32": "17EDBFD4",
+        "id32": "44B93BF2",
+        "size": 16
+    },
+    {
+        "name": "Choplifter! (USA)",
+        "crc32": "030E0D48",
+        "id32": "265FB333",
+        "size": 16
+    },
+    {
+        "name": "Chuck Norris - Superkicks (USA)",
+        "crc32": "5EEB81DE",
+        "id32": "4D35BB5F",
+        "size": 16
+    },
+    {
+        "name": "ColecoVision Monitor Test (USA, Europe)",
+        "crc32": "71AE16ED",
+        "id32": "B7D70699",
+        "size": 16
+    },
+    {
+        "name": "Congo Bongo (USA)",
+        "crc32": "4E8B4C1D",
+        "id32": "48D23917",
+        "size": 24
+    },
+    {
+        "name": "Cosmic Avenger (USA, Europe)",
+        "crc32": "39D4215B",
+        "id32": "DBB3EB55",
+        "size": 16
+    },
+    {
+        "name": "Cosmic Crisis (Europe)",
+        "crc32": "7C2C7C41",
+        "id32": "0A423AD5",
+        "size": 16
+    },
+    {
+        "name": "Dam Busters, The (Canada)",
+        "crc32": "C75FAD5A",
+        "id32": "2377BFD3",
+        "size": 32
+    },
+    {
+        "name": "Dam Busters, The (USA)",
+        "crc32": "890682B3",
+        "id32": "7BF11C02",
+        "size": 32
+    },
+    {
+        "name": "Dance Fantasy (USA)",
+        "crc32": "BFF86A98",
+        "id32": "2BB06580",
+        "size": 8
+    },
+    {
+        "name": "Defender (USA)",
+        "crc32": "6CF594E5",
+        "id32": "E1F9C3BA",
+        "size": 24
+    },
+    {
+        "name": "Defender (USA) (BUG Fixed)",
+        "crc32": "46A909CC",
+        "id32": "A177666A",
+        "size": 24
+    },
+    {
+        "name": "Destructor (USA, Europe)",
+        "crc32": "56C358A6",
+        "id32": "1E16150A",
+        "size": 32
+    },
+    {
+        "name": "Dig Dug (USA) (Proto)",
+        "crc32": "1038E0A1",
+        "id32": "740902A4",
+        "size": 24
+    },
+    {
+        "name": "Donkey Kong (USA)",
+        "crc32": "94C4CD4A",
+        "id32": "BDA4BDCB",
+        "size": 24
+    },
+    {
+        "name": "Donkey Kong (USA, Europe) (v1.1)",
+        "crc32": "3C77198C",
+        "id32": "9D6974E5",
+        "size": 16
+    },
+    {
+        "name": "Donkey Kong Junior (USA, Europe)",
+        "crc32": "FD11508D",
+        "id32": "FDBC3ABD",
+        "size": 16
+    },
+    {
+        "name": "Dr. Seuss - Fix-Up the Mix-Up Puzzler (USA)",
+        "crc32": "109699E2",
+        "id32": "C40A40AE",
+        "size": 16
+    },
+    {
+        "name": "Dragon's Lair (USA) (Proto)",
+        "crc32": "DA521D6D",
+        "id32": "06FFC55B",
+        "size": 24
+    },
+    {
+        "name": "Dragonfire (USA)",
+        "crc32": "DCB8F9E8",
+        "id32": "245688E4",
+        "size": 16
+    },
+    {
+        "name": "Dukes of Hazzard, The (USA)",
+        "crc32": "4025AC94",
+        "id32": "F6AB8029",
+        "size": 32
+    },
+    {
+        "name": "Escape from the Mindmaster (USA) (Proto)",
+        "crc32": "3678AB6F",
+        "id32": "3E678351",
+        "size": 16
+    },
+    {
+        "name": "Evolution (Canada)",
+        "crc32": "4CD4E185",
+        "id32": "5E2E852E",
+        "size": 16
+    },
+    {
+        "name": "Evolution (USA) (Unl)",
+        "crc32": "4C933007",
+        "id32": "A4CD9F3D",
+        "size": 16
+    },
+    {
+        "name": "Facemaker (USA)",
+        "crc32": "EC9DFB07",
+        "id32": "F617D27F",
+        "size": 8
+    },
+    {
+        "name": "Fall Guy (USA) (Proto)",
+        "crc32": "8A731B38",
+        "id32": "79995D1D",
+        "size": 16
+    },
+    {
+        "name": "Fathom (USA)",
+        "crc32": "B3B767AE",
+        "id32": "46D0F427",
+        "size": 16
+    },
+    {
+        "name": "Final Test Cartridge (USA)",
+        "crc32": "3AE4B58C",
+        "id32": "ABBF8979",
+        "size": 8
+    },
+    {
+        "name": "Fireman (USA) (Proto)",
+        "crc32": "64EC761E",
+        "id32": "F4884314",
+        "size": 32
+    },
+    {
+        "name": "Flipper Slipper (USA) (Unl)",
+        "crc32": "9788BCA7",
+        "id32": "AAB827E7",
+        "size": 16
+    },
+    {
+        "name": "Flipper Slipper (USA, Europe)",
+        "crc32": "2A49F507",
+        "id32": "AAB827E7",
+        "size": 16
+    },
+    {
+        "name": "Fortune Builder (USA)",
+        "crc32": "65BBBCB4",
+        "id32": "0482ADC7",
+        "size": 32
+    },
+    {
+        "name": "Fraction Fever (USA)",
+        "crc32": "964DB3BC",
+        "id32": "4C68AD09",
+        "size": 8
+    },
+    {
+        "name": "Frantic Freddy (USA)",
+        "crc32": "8615C6E8",
+        "id32": "C21DDEFB",
+        "size": 16
+    },
+    {
+        "name": "Frenzy (USA, Europe)",
+        "crc32": "3CACDDFB",
+        "id32": "B1256096",
+        "size": 20
+    },
+    {
+        "name": "Frogger (USA)",
+        "crc32": "798002A2",
+        "id32": "710B74BD",
+        "size": 12
+    },
+    {
+        "name": "Frogger II - ThreeeDeep! (USA)",
+        "crc32": "4229EA5A",
+        "id32": "E51DFEB1",
+        "size": 16
+    },
+    {
+        "name": "Front Line (USA, Europe) (Standard Controller)",
+        "crc32": "D0110137",
+        "id32": "56B56187",
+        "size": 24
+    },
+    {
+        "name": "Front Line (USA, Europe) (Super Action Controller)",
+        "crc32": "E16E0917",
+        "id32": "56B56187",
+        "size": 24
+    },
+    {
+        "name": "Galaxian (USA)",
+        "crc32": "6A7A162A",
+        "id32": "F9E340CC",
+        "size": 20
+    },
+    {
+        "name": "Gateway to Apshai (USA, Europe)",
+        "crc32": "FDB75BE6",
+        "id32": "914F8730",
+        "size": 12
+    },
+    {
+        "name": "Gorf (USA, Europe)",
+        "crc32": "FF46BECC",
+        "id32": "A816BFBF",
+        "size": 16
+    },
+    {
+        "name": "Gust Buster (USA)",
+        "crc32": "29FEA563",
+        "id32": "C0E4D626",
+        "size": 16
+    },
+    {
+        "name": "Gyruss (USA)",
+        "crc32": "27CBF26D",
+        "id32": "E14AD648",
+        "size": 16
+    },
+    {
+        "name": "Gyruss (USA) (Beta)",
+        "crc32": "B35D4DC9",
+        "id32": "7D380FC3",
+        "size": 8
+    },
+    {
+        "name": "H.E.R.O. - Helicopter Emergency Rescue Operation (USA)",
+        "crc32": "685AB9B5",
+        "id32": "7297F27A",
+        "size": 16
+    },
+    {
+        "name": "Heist, The (USA)",
+        "crc32": "987491CE",
+        "id32": "E3F1E5B4",
+        "size": 24
+    },
+    {
+        "name": "Illusions (USA)",
+        "crc32": "2787516D",
+        "id32": "45DD7024",
+        "size": 16
+    },
+    {
+        "name": "It's Only Rock 'N' Roll (USA)",
+        "crc32": "CC43EBF7",
+        "id32": "7C4EAB43",
+        "size": 16
+    },
+    {
+        "name": "James Bond 007 (USA)",
+        "crc32": "561F2530",
+        "id32": "4B7E2737",
+        "size": 12
+    },
+    {
+        "name": "Joust (USA) (Proto)",
+        "crc32": "52228000",
+        "id32": "A8FDC432",
+        "size": 24
+    },
+    {
+        "name": "Jukebox (USA)",
+        "crc32": "A5511418",
+        "id32": "B0F2CBF8",
+        "size": 8
+    },
+    {
+        "name": "Julius Erving and Larry Bird Go - One-on-One (USA)",
+        "crc32": "EF50E1C5",
+        "id32": "CA0EC8D0",
+        "size": 24
+    },
+    {
+        "name": "Jumpman Junior (USA, Europe)",
+        "crc32": "060C69E8",
+        "id32": "C8EB92C3",
+        "size": 16
+    },
+    {
+        "name": "Jungle Hunt (USA)",
+        "crc32": "58E886D2",
+        "id32": "83D027D7",
+        "size": 24
+    },
+    {
+        "name": "Ken Uston Blackjack-Poker (USA, Europe)",
+        "crc32": "8C7B7803",
+        "id32": "3D04A03D",
+        "size": 16
+    },
+    {
+        "name": "Keystone Kapers (USA)",
+        "crc32": "69FC2966",
+        "id32": "1A28393E",
+        "size": 16
+    },
+    {
+        "name": "Lady Bug (USA, Europe)",
+        "crc32": "2C3097B8",
+        "id32": "A43B5682",
+        "size": 16
+    },
+    {
+        "name": "Learning with Leeper (USA)",
+        "crc32": "1641044F",
+        "id32": "D2C49B1B",
+        "size": 16
+    },
+    {
+        "name": "Linking Logic (USA)",
+        "crc32": "918F12C0",
+        "id32": "ED0A0DE0",
+        "size": 8
+    },
+    {
+        "name": "Logic Levels (USA)",
+        "crc32": "D54C581B",
+        "id32": "C771F891",
+        "size": 8
+    },
+    {
+        "name": "Looping (USA, Europe)",
+        "crc32": "6A2D637B",
+        "id32": "B086D523",
+        "size": 16
+    },
+    {
+        "name": "Lord of the Dungeon (USA) (Beta)",
+        "crc32": "FEE15196",
+        "id32": "E2D12B7E",
+        "size": 32
+    },
+    {
+        "name": "M.A.S.H (Europe) (Proto)",
+        "crc32": "FC95B302",
+        "id32": "2D12DFAB",
+        "size": 16
+    },
+    {
+        "name": "Matt Patrol (USA) (Proto)",
+        "crc32": "90007079",
+        "id32": "89BB45A0",
+        "size": 32
+    },
+    {
+        "name": "Matt Patrol (USA) (Proto) (Alt)",
+        "crc32": "FBE12DE7",
+        "id32": "89BB45A0",
+        "size": 32
+    },
+    {
+        "name": "Memory Manor (USA)",
+        "crc32": "BAB520EA",
+        "id32": "CC95C9C1",
+        "size": 8
+    },
+    {
+        "name": "Meteoric Shower (Europe)",
+        "crc32": "6A162C7D",
+        "id32": "45B35860",
+        "size": 8
+    },
+    {
+        "name": "Miner 2049er Starring Bounty Bob (USA, Europe)",
+        "crc32": "F37AF58C",
+        "id32": "8273A504",
+        "size": 24
+    },
+    {
+        "name": "Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)",
+        "crc32": "B24F10FD",
+        "id32": "1BC25953",
+        "size": 24
+    },
+    {
+        "name": "Monkey Academy (USA)",
+        "crc32": "D92B09C8",
+        "id32": "7471922A",
+        "size": 20
+    },
+    {
+        "name": "Monkey Academy (USA) (Beta)",
+        "crc32": "D1E8DF85",
+        "id32": "21843798",
+        "size": 16
+    },
+    {
+        "name": "Montezuma's Revenge (USA)",
+        "crc32": "CED0D16E",
+        "id32": "B74A0EAE",
+        "size": 12
+    },
+    {
+        "name": "Moonsweeper (USA, Europe)",
+        "crc32": "8A303F5A",
+        "id32": "0B2533AF",
+        "size": 16
+    },
+    {
+        "name": "Motocross Racer (USA)",
+        "crc32": "0F4D800A",
+        "id32": "7E1470F0",
+        "size": 16
+    },
+    {
+        "name": "Mountain King (USA)",
+        "crc32": "C173BBEC",
+        "id32": "584B324D",
+        "size": 16
+    },
+    {
+        "name": "Mouse Trap (USA, Europe)",
+        "crc32": "DE47C29F",
+        "id32": "29559C6D",
+        "size": 12
+    },
+    {
+        "name": "Mr. Do! (USA, Europe)",
+        "crc32": "461AB6AD",
+        "id32": "D260CCE6",
+        "size": 24
+    },
+    {
+        "name": "Mr. Do!'s Castle (USA)",
+        "crc32": "546F2C54",
+        "id32": "92CAEEDA",
+        "size": 12
+    },
+    {
+        "name": "Nova Blast (USA, Europe)",
+        "crc32": "4491A35B",
+        "id32": "5FC00884",
+        "size": 12
+    },
+    {
+        "name": "Number Bumper (USA) (Beta)",
+        "crc32": "6AF8B439",
+        "id32": "784EF6D4",
+        "size": 32
+    },
+    {
+        "name": "Oil's Well (USA)",
+        "crc32": "ADD10242",
+        "id32": "2656B380",
+        "size": 16
+    },
+    {
+        "name": "Omega Race (USA, Europe)",
+        "crc32": "0A0511C7",
+        "id32": "A30D5929",
+        "size": 16
+    },
+    {
+        "name": "Orbit (USA) (Proto)",
+        "crc32": "2CC6F4AA",
+        "id32": "75EA08EA",
+        "size": 8
+    },
+    {
+        "name": "Pac-Man (USA) (Proto)",
+        "crc32": "A40A07E8",
+        "id32": "00BE69A8",
+        "size": 16
+    },
+    {
+        "name": "Pepper II (USA, Europe)",
+        "crc32": "53B85E20",
+        "id32": "342F6627",
+        "size": 16
+    },
+    {
+        "name": "Pitfall II - Lost Caverns (USA)",
+        "crc32": "851A455F",
+        "id32": "2F85B443",
+        "size": 16
+    },
+    {
+        "name": "Pitfall! (USA)",
+        "crc32": "D4F180DF",
+        "id32": "D595C041",
+        "size": 16
+    },
+    {
+        "name": "Pitstop (USA)",
+        "crc32": "E627FCF0",
+        "id32": "4B16BBAC",
+        "size": 16
+    },
+    {
+        "name": "Pitstop (USA, Europe) (v1.1)",
+        "crc32": "81BE4F55",
+        "id32": "4B16BBAC",
+        "size": 16
+    },
+    {
+        "name": "Popeye (USA)",
+        "crc32": "A095454D",
+        "id32": "5DACAB86",
+        "size": 16
+    },
+    {
+        "name": "Porky's (USA) (Proto)",
+        "crc32": "46FC1C00",
+        "id32": "1C553BAA",
+        "size": 16
+    },
+    {
+        "name": "Power Lords - Quest for Volcan (USA) (Proto)",
+        "crc32": "2EBF88C4",
+        "id32": "E193F828",
+        "size": 32
+    },
+    {
+        "name": "Q-bert (USA)",
+        "crc32": "532F61BA",
+        "id32": "00E98801",
+        "size": 8
+    },
+    {
+        "name": "Q-bert's Qubes (USA)",
+        "crc32": "79D90D26",
+        "id32": "F07E1222",
+        "size": 12
+    },
+    {
+        "name": "Quest for Quintana Roo (USA)",
+        "crc32": "EEC81C42",
+        "id32": "38E58F3F",
+        "size": 16
+    },
+    {
+        "name": "River Raid (USA)",
+        "crc32": "FE897F9C",
+        "id32": "9782C5FC",
+        "size": 16
+    },
+    {
+        "name": "Robin Hood (USA)",
+        "crc32": "CDB8D3CF",
+        "id32": "0304EDF1",
+        "size": 16
+    },
+    {
+        "name": "Roc 'N Rope (USA, Europe)",
+        "crc32": "AF885D76",
+        "id32": "A914EDB3",
+        "size": 24
+    },
+    {
+        "name": "Rock n' Bolt (USA)",
+        "crc32": "AF49A0C3",
+        "id32": "BD3F0779",
+        "size": 16
+    },
+    {
+        "name": "Rocky - Super Action Boxing (USA, Europe)",
+        "crc32": "37F144D3",
+        "id32": "284FE4FD",
+        "size": 20
+    },
+    {
+        "name": "Rolloverture (USA)",
+        "crc32": "0364FB81",
+        "id32": "D44E2571",
+        "size": 16
+    },
+    {
+        "name": "Root Beer Tapper (USA)",
+        "crc32": "8AFD7DB2",
+        "id32": "3EC12C37",
+        "size": 32
+    },
+    {
+        "name": "Sammy Lightfoot (USA)",
+        "crc32": "3563286B",
+        "id32": "76970E50",
+        "size": 16
+    },
+    {
+        "name": "Sector Alpha (USA)",
+        "crc32": "0EC63A5C",
+        "id32": "C2F5A857",
+        "size": 20
+    },
+    {
+        "name": "Sewer Sam (USA)",
+        "crc32": "4591F393",
+        "id32": "699B2977",
+        "size": 24
+    },
+    {
+        "name": "Sir Lancelot (USA)",
+        "crc32": "DF84FFB5",
+        "id32": "105B2F82",
+        "size": 16
+    },
+    {
+        "name": "Skiing (USA)",
+        "crc32": "B37D48BD",
+        "id32": "E5DDB615",
+        "size": 8
+    },
+    {
+        "name": "Slither (USA, Europe)",
+        "crc32": "53D2651C",
+        "id32": "D47C697C",
+        "size": 16
+    },
+    {
+        "name": "Slurpy (USA)",
+        "crc32": "8871E9FD",
+        "id32": "0D6FFEC7",
+        "size": 16
+    },
+    {
+        "name": "Smurf - Paint 'n' Play WORKSHOP (USA, Europe)",
+        "crc32": "97C0382D",
+        "id32": "6489B6C9",
+        "size": 24
+    },
+    {
+        "name": "Smurf - Rescue in Gargamel's Castle (USA, Europe)",
+        "crc32": "42850379",
+        "id32": "3F1B4C65",
+        "size": 16
+    },
+    {
+        "name": "Smurfs Save the Day (USA) (Demo)",
+        "crc32": "9A3B8587",
+        "id32": "D2C507D6",
+        "size": 16
+    },
+    {
+        "name": "Space Fury (USA, Europe)",
+        "crc32": "DF8DE30F",
+        "id32": "2D5C3A57",
+        "size": 16
+    },
+    {
+        "name": "Space Panic (USA, Europe)",
+        "crc32": "5BDF2997",
+        "id32": "2DCD450F",
+        "size": 16
+    },
+    {
+        "name": "Spectron (USA)",
+        "crc32": "A6401C46",
+        "id32": "6B94A3B2",
+        "size": 16
+    },
+    {
+        "name": "Spy Hunter (USA)",
+        "crc32": "36478923",
+        "id32": "C69534AA",
+        "size": 32
+    },
+    {
+        "name": "Spy Hunter (USA) (Beta)",
+        "crc32": "1969B9B7",
+        "id32": "B01AC7F9",
+        "size": 32
+    },
+    {
+        "name": "Squish'em Featuring Sam (USA)",
+        "crc32": "AC92862D",
+        "id32": "9C6D8BFE",
+        "size": 16
+    },
+    {
+        "name": "Star Fire (USA) (Proto)",
+        "crc32": "EA3AA29E",
+        "id32": "586407DB",
+        "size": 18
+    },
+    {
+        "name": "Star Trek - Strategic Operations Simulator (USA)",
+        "crc32": "95824F1E",
+        "id32": "4D408160",
+        "size": 24
+    },
+    {
+        "name": "Star Wars - The Arcade Game (USA)",
+        "crc32": "0E75B3BF",
+        "id32": "6D959AC5",
+        "size": 16
+    },
+    {
+        "name": "Steamroller (USA) (Proto)",
+        "crc32": "153AC4EF",
+        "id32": "104689AB",
+        "size": 16
+    },
+    {
+        "name": "Strike It! (Europe)",
+        "crc32": "D247A1C8",
+        "id32": "30A334C0",
+        "size": 16
+    },
+    {
+        "name": "Subroc (USA, Europe)",
+        "crc32": "A417F25F",
+        "id32": "803CA108",
+        "size": 20
+    },
+    {
+        "name": "Super Action Baseball (USA)",
+        "crc32": "B3BCF3F9",
+        "id32": "DF5574E1",
+        "size": 20
+    },
+    {
+        "name": "Super Action Football (Europe)",
+        "crc32": "4D6C0458",
+        "id32": "9F789CB6",
+        "size": 32
+    },
+    {
+        "name": "Super Action Football (USA)",
+        "crc32": "62619DC0",
+        "id32": "7DB4E3FB",
+        "size": 32
+    },
+    {
+        "name": "Super Cobra (USA)",
+        "crc32": "F84622D2",
+        "id32": "3786802D",
+        "size": 8
+    },
+    {
+        "name": "Super Controller Tester (USA)",
+        "crc32": "EB6CB4D8",
+        "id32": "3D686741",
+        "size": 16
+    },
+    {
+        "name": "Super Cross Force (USA, Europe)",
+        "crc32": "84350129",
+        "id32": "9839D795",
+        "size": 12
+    },
+    {
+        "name": "Super DK! (USA) (Proto)",
+        "crc32": "EF25AF90",
+        "id32": "CED33BBC",
+        "size": 32
+    },
+    {
+        "name": "Super DK! Junior (USA) (Proto)",
+        "crc32": "C2E7F0E0",
+        "id32": "FE08AD87",
+        "size": 32
+    },
+    {
+        "name": "Super Sketch - Sketch Master (USA) (Program) (Unl)",
+        "crc32": "8627300A",
+        "id32": "2250D743",
+        "size": 8
+    },
+    {
+        "name": "Sword and the Sorcerer, The (USA) (Demo)",
+        "crc32": "8BDA7C48",
+        "id32": "FCAEB945",
+        "size": 16
+    },
+    {
+        "name": "TOMARC the Barbarian (USA)",
+        "crc32": "1E14397E",
+        "id32": "547120B3",
+        "size": 16
+    },
+    {
+        "name": "Tank Wars (Europe)",
+        "crc32": "AF6BBC7E",
+        "id32": "97C476D2",
+        "size": 12
+    },
+    {
+        "name": "Tarzan (USA, Europe)",
+        "crc32": "7CD7A702",
+        "id32": "F3AB882D",
+        "size": 24
+    },
+    {
+        "name": "Telly Turtle (USA)",
+        "crc32": "C8BC1950",
+        "id32": "A94DF24E",
+        "size": 16
+    },
+    {
+        "name": "Threshold (USA)",
+        "crc32": "1593F7DF",
+        "id32": "7E49B267",
+        "size": 16
+    },
+    {
+        "name": "Time Pilot (USA, Europe)",
+        "crc32": "B3A1EACB",
+        "id32": "5476F334",
+        "size": 16
+    },
+    {
+        "name": "Tournament Tennis (USA)",
+        "crc32": "C1D5A702",
+        "id32": "5480DF10",
+        "size": 16
+    },
+    {
+        "name": "Tunnels & Trolls (USA) (Demo)",
+        "crc32": "291A0004",
+        "id32": "87BDF623",
+        "size": 32
+    },
+    {
+        "name": "Turbo (USA, Europe)",
+        "crc32": "BD6AB02A",
+        "id32": "03900583",
+        "size": 16
+    },
+    {
+        "name": "Tutankham (USA)",
+        "crc32": "0408F58C",
+        "id32": "4CFBA0D0",
+        "size": 12
+    },
+    {
+        "name": "Up 'n Down (USA)",
+        "crc32": "FDD52CA0",
+        "id32": "C46A4E58",
+        "size": 16
+    },
+    {
+        "name": "Venture (USA, Europe)",
+        "crc32": "8E5A4AA3",
+        "id32": "223F18AE",
+        "size": 16
+    },
+    {
+        "name": "Victory (Europe)",
+        "crc32": "B1FDA1C5",
+        "id32": "32EC956E",
+        "size": 20
+    },
+    {
+        "name": "Victory (USA)",
+        "crc32": "70142655",
+        "id32": "32EC956E",
+        "size": 20
+    },
+    {
+        "name": "Video Hustler (USA) (Proto 1)",
+        "crc32": "841D168F",
+        "id32": "26E8E3C5",
+        "size": 8
+    },
+    {
+        "name": "Video Hustler (USA) (Proto 2)",
+        "crc32": "A9177B20",
+        "id32": "A8487DAF",
+        "size": 8
+    },
+    {
+        "name": "War Room (USA)",
+        "crc32": "261B7D56",
+        "id32": "98BF88BE",
+        "size": 24
+    },
+    {
+        "name": "WarGames (USA, Europe)",
+        "crc32": "FD25ADB3",
+        "id32": "EF6F31E7",
+        "size": 24
+    },
+    {
+        "name": "Wing War (USA)",
+        "crc32": "29EC00C9",
+        "id32": "D3764554",
+        "size": 16
+    },
+    {
+        "name": "Wizard of Id's - WizMath (USA)",
+        "crc32": "B9BA2BB6",
+        "id32": "E623A108",
+        "size": 16
+    },
+    {
+        "name": "Word Feud (USA)",
+        "crc32": "F7A29C01",
+        "id32": "04845B0D",
+        "size": 8
+    },
+    {
+        "name": "Yolk's on you, The (Europe) (Proto)",
+        "crc32": "997AD8DE",
+        "id32": "3B10279E",
+        "size": 16
+    },
+    {
+        "name": "Zaxxon (Taiwan) (En) (Unl)",
+        "crc32": "5B0E2ADF",
+        "id32": "C597E8C2",
+        "size": 24
+    },
+    {
+        "name": "Zaxxon (USA, Europe)",
+        "crc32": "8CB0891A",
+        "id32": "CB5CE263",
+        "size": 24
+    },
+    {
+        "name": "Zenji (USA)",
+        "crc32": "6E523E50",
+        "id32": "ACA855D4",
+        "size": 16
+    }
+]
