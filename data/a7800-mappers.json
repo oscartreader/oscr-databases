@@ -1,56 +1,75 @@
-[
-  {
-    "id": 0,
-    "sizeLow": 16,
-    "sizeHigh": 48,
-    "name": "[7816/7832/7848] Standard (16K-48K)"
+{
+  "outfile": "a7800-mappers",
+  "system": "A7800",
+  "pio": "atari7800",
+  "type": "MAP",
+  "formats": {
+    "crdb": "nid/NsizeLow/NsizeHigh/Nmeta1/Nmeta2/a100name",
+    "php": "nNNNNa100",
+    "python": ">HLLLL100s"
   },
-  {
-    "id": 1,
-    "sizeLow": 128,
-    "sizeHigh": 128,
-    "name": "[78SG] SuperGame (128K)"
+  "order": {
+    "id": "int",
+    "sizeLow": "int",
+    "sizeHigh": "int",
+    "meta1": "int",
+    "meta2": "int",
+    "name": "string"
   },
-  {
-    "id": 2,
-    "sizeLow": 144,
-    "sizeHigh": 144,
-    "name": "[78S9] SuperGame (144K)"
-  },
-  {
-    "id": 3,
-    "sizeLow": 64,
-    "sizeHigh": 64,
-    "name": "[78AB] F-18 Hornet (64K)"
-  },
-  {
-    "id": 4,
-    "sizeLow": 128,
-    "sizeHigh": 128,
-    "name": "[78AC] Double Dragon/Rampage (128K)"
-  },
-  {
-    "id": 5,
-    "sizeLow": 64,
-    "sizeHigh": 64,
-    "name": "[78S4] (64K)"
-  },
-  {
-    "id": 6,
-    "sizeLow": 64,
-    "sizeHigh": 64,
-    "name": "[78S4] Karateka(PAL) (64K)"
-  },
-  {
-    "id": 7,
-    "sizeLow": 32,
-    "sizeHigh": 128,
-    "name": "Bankset (32-128K)"
-  },
-  {
-    "id": 8,
-    "sizeLow": 144,
-    "sizeHigh": 144,
-    "name": "Crystal Quest/Bounty Bob (144K)"
-  }
-]
+  "records": [
+    {
+      "id": 0,
+      "sizeLow": 16,
+      "sizeHigh": 48,
+      "name": "[7816/7832/7848] Standard (16K-48K)"
+    },
+    {
+      "id": 1,
+      "sizeLow": 128,
+      "sizeHigh": 128,
+      "name": "[78SG] SuperGame (128K)"
+    },
+    {
+      "id": 2,
+      "sizeLow": 144,
+      "sizeHigh": 144,
+      "name": "[78S9] SuperGame (144K)"
+    },
+    {
+      "id": 3,
+      "sizeLow": 64,
+      "sizeHigh": 64,
+      "name": "[78AB] F-18 Hornet (64K)"
+    },
+    {
+      "id": 4,
+      "sizeLow": 128,
+      "sizeHigh": 128,
+      "name": "[78AC] Double Dragon/Rampage (128K)"
+    },
+    {
+      "id": 5,
+      "sizeLow": 64,
+      "sizeHigh": 64,
+      "name": "[78S4] (64K)"
+    },
+    {
+      "id": 6,
+      "sizeLow": 64,
+      "sizeHigh": 64,
+      "name": "[78S4] Karateka(PAL) (64K)"
+    },
+    {
+      "id": 7,
+      "sizeLow": 32,
+      "sizeHigh": 128,
+      "name": "Bankset (32-128K)"
+    },
+    {
+      "id": 8,
+      "sizeLow": 144,
+      "sizeHigh": 144,
+      "name": "Crystal Quest/Bounty Bob (144K)"
+    }
+  ]
+}

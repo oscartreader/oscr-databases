@@ -1,788 +1,805 @@
-[
+{
+  "outfile": "a7800",
+  "system": "A7800",
+  "pio": "atari7800",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "crc32": "0",
-        "mapper": 0,
-        "size": 3,
-        "name": "32 in 1"
+      "crc32": "0",
+      "mapper": 0,
+      "size": 3,
+      "name": "32 in 1"
     },
     {
-        "crc32": "5A2B94C",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ace of Aces"
+      "crc32": "5A2B94C",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ace of Aces"
     },
     {
-        "crc32": "20C5DB80",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ace of Aces"
+      "crc32": "20C5DB80",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ace of Aces"
     },
     {
-        "crc32": "C8849D36",
-        "mapper": 2,
-        "size": 5,
-        "name": "Alien Brigade"
+      "crc32": "C8849D36",
+      "mapper": 2,
+      "size": 5,
+      "name": "Alien Brigade"
     },
     {
-        "crc32": "6A19F0FE",
-        "mapper": 2,
-        "size": 5,
-        "name": "Alien Brigade"
+      "crc32": "6A19F0FE",
+      "mapper": 2,
+      "size": 5,
+      "name": "Alien Brigade"
     },
     {
-        "crc32": "DFB93F40",
-        "mapper": 0,
-        "size": 0,
-        "name": "Asteroids"
+      "crc32": "DFB93F40",
+      "mapper": 0,
+      "size": 0,
+      "name": "Asteroids"
     },
     {
-        "crc32": "6DDFB54C",
-        "mapper": 0,
-        "size": 0,
-        "name": "Asteroids"
+      "crc32": "6DDFB54C",
+      "mapper": 0,
+      "size": 0,
+      "name": "Asteroids"
     },
     {
-        "crc32": "6E9B0BD8",
-        "mapper": 0,
-        "size": 1,
-        "name": "Asteroids Deluxe"
+      "crc32": "6E9B0BD8",
+      "mapper": 0,
+      "size": 1,
+      "name": "Asteroids Deluxe"
     },
     {
-        "crc32": "56239D62",
-        "mapper": 0,
-        "size": 1,
-        "name": "Asteroids Deluxe"
+      "crc32": "56239D62",
+      "mapper": 0,
+      "size": 1,
+      "name": "Asteroids Deluxe"
     },
     {
-        "crc32": "93CA7C33",
-        "mapper": 0,
-        "size": 1,
-        "name": "Asteroids Deluxe"
+      "crc32": "93CA7C33",
+      "mapper": 0,
+      "size": 1,
+      "name": "Asteroids Deluxe"
     },
     {
-        "crc32": "AB72EA89",
-        "mapper": 0,
-        "size": 1,
-        "name": "Asteroids Deluxe"
+      "crc32": "AB72EA89",
+      "mapper": 0,
+      "size": 1,
+      "name": "Asteroids Deluxe"
     },
     {
-        "crc32": "3FBE74CE",
-        "mapper": 0,
-        "size": 0,
-        "name": "Atari 7800 Development Card"
+      "crc32": "3FBE74CE",
+      "mapper": 0,
+      "size": 0,
+      "name": "Atari 7800 Development Card"
     },
     {
-        "crc32": "0",
-        "mapper": 7,
-        "size": 4,
-        "name": "Attack of the Petscii Robots"
+      "crc32": "0",
+      "mapper": 7,
+      "size": 4,
+      "name": "Attack of the Petscii Robots"
     },
     {
-        "crc32": "A4C4808B",
-        "mapper": 0,
-        "size": 1,
-        "name": "Ballblazer"
+      "crc32": "A4C4808B",
+      "mapper": 0,
+      "size": 1,
+      "name": "Ballblazer"
     },
     {
-        "crc32": "AFF85565",
-        "mapper": 0,
-        "size": 1,
-        "name": "Ballblazer"
+      "crc32": "AFF85565",
+      "mapper": 0,
+      "size": 1,
+      "name": "Ballblazer"
     },
     {
-        "crc32": "ED0A587D",
-        "mapper": 1,
-        "size": 4,
-        "name": "Barnyard Blaster"
+      "crc32": "ED0A587D",
+      "mapper": 1,
+      "size": 4,
+      "name": "Barnyard Blaster"
     },
     {
-        "crc32": "2764A86",
-        "mapper": 1,
-        "size": 4,
-        "name": "Barnyard Blaster"
+      "crc32": "2764A86",
+      "mapper": 1,
+      "size": 4,
+      "name": "Barnyard Blaster"
     },
     {
-        "crc32": "68D48FDC",
-        "mapper": 0,
-        "size": 1,
-        "name": "Baseball"
+      "crc32": "68D48FDC",
+      "mapper": 0,
+      "size": 1,
+      "name": "Baseball"
     },
     {
-        "crc32": "C8B9D7B5",
-        "mapper": 1,
-        "size": 4,
-        "name": "Basketbrawl"
+      "crc32": "C8B9D7B5",
+      "mapper": 1,
+      "size": 4,
+      "name": "Basketbrawl"
     },
     {
-        "crc32": "A4265D4B",
-        "mapper": 1,
-        "size": 4,
-        "name": "Basketbrawl"
+      "crc32": "A4265D4B",
+      "mapper": 1,
+      "size": 4,
+      "name": "Basketbrawl"
     },
     {
-        "crc32": "C7355D4",
-        "mapper": 8,
-        "size": 5,
-        "name": "Bentley Bear's Crystal Quest"
+      "crc32": "C7355D4",
+      "mapper": 8,
+      "size": 5,
+      "name": "Bentley Bear's Crystal Quest"
     },
     {
-        "crc32": "D44622B3",
-        "mapper": 8,
-        "size": 5,
-        "name": "Bentley Bear's Crystal Quest"
+      "crc32": "D44622B3",
+      "mapper": 8,
+      "size": 5,
+      "name": "Bentley Bear's Crystal Quest"
     },
     {
-        "crc32": "0",
-        "mapper": 0,
-        "size": 2,
-        "name": "Berzerk"
+      "crc32": "0",
+      "mapper": 0,
+      "size": 2,
+      "name": "Berzerk"
     },
     {
-        "crc32": "0",
-        "mapper": 8,
-        "size": 5,
-        "name": "Bounty Bob Strikes Back!"
+      "crc32": "0",
+      "mapper": 8,
+      "size": 5,
+      "name": "Bounty Bob Strikes Back!"
     },
     {
-        "crc32": "33F8A8F6",
-        "mapper": 0,
-        "size": 0,
-        "name": "Centipede"
+      "crc32": "33F8A8F6",
+      "mapper": 0,
+      "size": 0,
+      "name": "Centipede"
     },
     {
-        "crc32": "20EFE25",
-        "mapper": 0,
-        "size": 0,
-        "name": "Centipede"
+      "crc32": "20EFE25",
+      "mapper": 0,
+      "size": 0,
+      "name": "Centipede"
     },
     {
-        "crc32": "12EFEB07",
-        "mapper": 0,
-        "size": 2,
-        "name": "Choplifter! (Europe)"
+      "crc32": "12EFEB07",
+      "mapper": 0,
+      "size": 2,
+      "name": "Choplifter! (Europe)"
     },
     {
-        "crc32": "419BFF61",
-        "mapper": 0,
-        "size": 1,
-        "name": "Choplifter! (USA)"
+      "crc32": "419BFF61",
+      "mapper": 0,
+      "size": 1,
+      "name": "Choplifter! (USA)"
     },
     {
-        "crc32": "CD1A98C5",
-        "mapper": 1,
-        "size": 4,
-        "name": "Commando"
+      "crc32": "CD1A98C5",
+      "mapper": 1,
+      "size": 4,
+      "name": "Commando"
     },
     {
-        "crc32": "7C211612",
-        "mapper": 1,
-        "size": 4,
-        "name": "Commando"
+      "crc32": "7C211612",
+      "mapper": 1,
+      "size": 4,
+      "name": "Commando"
     },
     {
-        "crc32": "50FD19CB",
-        "mapper": 1,
-        "size": 4,
-        "name": "Crack'ed"
+      "crc32": "50FD19CB",
+      "mapper": 1,
+      "size": 4,
+      "name": "Crack'ed"
     },
     {
-        "crc32": "E645FD1F",
-        "mapper": 1,
-        "size": 4,
-        "name": "Crack'ed"
+      "crc32": "E645FD1F",
+      "mapper": 1,
+      "size": 4,
+      "name": "Crack'ed"
     },
     {
-        "crc32": "E93D8894",
-        "mapper": 2,
-        "size": 5,
-        "name": "Crossbow"
+      "crc32": "E93D8894",
+      "mapper": 2,
+      "size": 5,
+      "name": "Crossbow"
     },
     {
-        "crc32": "D2EA5686",
-        "mapper": 2,
-        "size": 5,
-        "name": "Crossbow"
+      "crc32": "D2EA5686",
+      "mapper": 2,
+      "size": 5,
+      "name": "Crossbow"
     },
     {
-        "crc32": "68BCAC26",
-        "mapper": 0,
-        "size": 2,
-        "name": "Danger Zone"
+      "crc32": "68BCAC26",
+      "mapper": 0,
+      "size": 2,
+      "name": "Danger Zone"
     },
     {
-        "crc32": "77E52797",
-        "mapper": 0,
-        "size": 2,
-        "name": "Danger Zone"
+      "crc32": "77E52797",
+      "mapper": 0,
+      "size": 2,
+      "name": "Danger Zone"
     },
     {
-        "crc32": "366777F1",
-        "mapper": 1,
-        "size": 4,
-        "name": "Dark Chambers"
+      "crc32": "366777F1",
+      "mapper": 1,
+      "size": 4,
+      "name": "Dark Chambers"
     },
     {
-        "crc32": "C93A563E",
-        "mapper": 1,
-        "size": 4,
-        "name": "Dark Chambers"
+      "crc32": "C93A563E",
+      "mapper": 1,
+      "size": 4,
+      "name": "Dark Chambers"
     },
     {
-        "crc32": "33991EE8",
-        "mapper": 0,
-        "size": 2,
-        "name": "Desert Falcon"
+      "crc32": "33991EE8",
+      "mapper": 0,
+      "size": 2,
+      "name": "Desert Falcon"
     },
     {
-        "crc32": "A1DC0899",
-        "mapper": 0,
-        "size": 2,
-        "name": "Desert Falcon"
+      "crc32": "A1DC0899",
+      "mapper": 0,
+      "size": 2,
+      "name": "Desert Falcon"
     },
     {
-        "crc32": "A1EAA7C1",
-        "mapper": 0,
-        "size": 1,
-        "name": "Diagnostic Test Cartridge"
+      "crc32": "A1EAA7C1",
+      "mapper": 0,
+      "size": 1,
+      "name": "Diagnostic Test Cartridge"
     },
     {
-        "crc32": "729DD769",
-        "mapper": 0,
-        "size": 1,
-        "name": "Diagnostic Test Cartridge"
+      "crc32": "729DD769",
+      "mapper": 0,
+      "size": 1,
+      "name": "Diagnostic Test Cartridge"
     },
     {
-        "crc32": "EFAB7077",
-        "mapper": 0,
-        "size": 1,
-        "name": "Dig Dug (Europe)"
+      "crc32": "EFAB7077",
+      "mapper": 0,
+      "size": 1,
+      "name": "Dig Dug (Europe)"
     },
     {
-        "crc32": "50CB13F3",
-        "mapper": 0,
-        "size": 0,
-        "name": "Dig Dug (USA)"
+      "crc32": "50CB13F3",
+      "mapper": 0,
+      "size": 0,
+      "name": "Dig Dug (USA)"
     },
     {
-        "crc32": "65E063F",
-        "mapper": 0,
-        "size": 2,
-        "name": "Donkey Kong"
+      "crc32": "65E063F",
+      "mapper": 0,
+      "size": 2,
+      "name": "Donkey Kong"
     },
     {
-        "crc32": "A43D1C5",
-        "mapper": 0,
-        "size": 2,
-        "name": "Donkey Kong"
+      "crc32": "A43D1C5",
+      "mapper": 0,
+      "size": 2,
+      "name": "Donkey Kong"
     },
     {
-        "crc32": "C784DBAC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Donkey Kong Junior"
+      "crc32": "C784DBAC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Donkey Kong Junior"
     },
     {
-        "crc32": "1C5A1082",
-        "mapper": 0,
-        "size": 2,
-        "name": "Donkey Kong Junior"
+      "crc32": "1C5A1082",
+      "mapper": 0,
+      "size": 2,
+      "name": "Donkey Kong Junior"
     },
     {
-        "crc32": "AA265865",
-        "mapper": 4,
-        "size": 4,
-        "name": "Double Dragon"
+      "crc32": "AA265865",
+      "mapper": 4,
+      "size": 4,
+      "name": "Double Dragon"
     },
     {
-        "crc32": "F29ABDB2",
-        "mapper": 4,
-        "size": 4,
-        "name": "Double Dragon"
+      "crc32": "F29ABDB2",
+      "mapper": 4,
+      "size": 4,
+      "name": "Double Dragon"
     },
     {
-        "crc32": "63D1C7C1",
-        "mapper": 3,
-        "size": 3,
-        "name": "F-18 Hornet"
+      "crc32": "63D1C7C1",
+      "mapper": 3,
+      "size": 3,
+      "name": "F-18 Hornet"
     },
     {
-        "crc32": "E5D714B0",
-        "mapper": 3,
-        "size": 3,
-        "name": "F-18 Hornet"
+      "crc32": "E5D714B0",
+      "mapper": 3,
+      "size": 3,
+      "name": "F-18 Hornet"
     },
     {
-        "crc32": "2A0A93BE",
-        "mapper": 1,
-        "size": 4,
-        "name": "Fatal Run"
+      "crc32": "2A0A93BE",
+      "mapper": 1,
+      "size": 4,
+      "name": "Fatal Run"
     },
     {
-        "crc32": "A44DF354",
-        "mapper": 1,
-        "size": 4,
-        "name": "Fatal Run"
+      "crc32": "A44DF354",
+      "mapper": 1,
+      "size": 4,
+      "name": "Fatal Run"
     },
     {
-        "crc32": "720EBC74",
-        "mapper": 1,
-        "size": 4,
-        "name": "Fight Night"
+      "crc32": "720EBC74",
+      "mapper": 1,
+      "size": 4,
+      "name": "Fight Night"
     },
     {
-        "crc32": "64D9C4BE",
-        "mapper": 1,
-        "size": 4,
-        "name": "Fight Night"
+      "crc32": "64D9C4BE",
+      "mapper": 1,
+      "size": 4,
+      "name": "Fight Night"
     },
     {
-        "crc32": "C64549EC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Food Fight (Europe)"
+      "crc32": "C64549EC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Food Fight (Europe)"
     },
     {
-        "crc32": "E64A5CDE",
-        "mapper": 0,
-        "size": 1,
-        "name": "Food Fight (USA)"
+      "crc32": "E64A5CDE",
+      "mapper": 0,
+      "size": 1,
+      "name": "Food Fight (USA)"
     },
     {
-        "crc32": "7C60ADEC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Frenzy"
+      "crc32": "7C60ADEC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Frenzy"
     },
     {
-        "crc32": "3A554710",
-        "mapper": 0,
-        "size": 2,
-        "name": "Frenzy"
+      "crc32": "3A554710",
+      "mapper": 0,
+      "size": 2,
+      "name": "Frenzy"
     },
     {
-        "crc32": "3EABB9DD",
-        "mapper": 0,
-        "size": 2,
-        "name": "Frenzy"
+      "crc32": "3EABB9DD",
+      "mapper": 0,
+      "size": 2,
+      "name": "Frenzy"
     },
     {
-        "crc32": "789E5321",
-        "mapper": 0,
-        "size": 2,
-        "name": "Frenzy"
+      "crc32": "789E5321",
+      "mapper": 0,
+      "size": 2,
+      "name": "Frenzy"
     },
     {
-        "crc32": "5990A9F8",
-        "mapper": 0,
-        "size": 2,
-        "name": "Galaga (Europe)"
+      "crc32": "5990A9F8",
+      "mapper": 0,
+      "size": 2,
+      "name": "Galaga (Europe)"
     },
     {
-        "crc32": "1A0A3EB3",
-        "mapper": 0,
-        "size": 1,
-        "name": "Galaga (USA)"
+      "crc32": "1A0A3EB3",
+      "mapper": 0,
+      "size": 1,
+      "name": "Galaga (USA)"
     },
     {
-        "crc32": "57D9C3C",
-        "mapper": 0,
-        "size": 2,
-        "name": "Hat Trick"
+      "crc32": "57D9C3C",
+      "mapper": 0,
+      "size": 2,
+      "name": "Hat Trick"
     },
     {
-        "crc32": "CF6F4A6C",
-        "mapper": 0,
-        "size": 2,
-        "name": "Hat Trick"
+      "crc32": "CF6F4A6C",
+      "mapper": 0,
+      "size": 2,
+      "name": "Hat Trick"
     },
     {
-        "crc32": "CB621CDC",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ikari Warriors"
+      "crc32": "CB621CDC",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ikari Warriors"
     },
     {
-        "crc32": "8A6C1F15",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ikari Warriors"
+      "crc32": "8A6C1F15",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ikari Warriors"
     },
     {
-        "crc32": "994AF6E0",
-        "mapper": 1,
-        "size": 4,
-        "name": "Impossible Mission"
+      "crc32": "994AF6E0",
+      "mapper": 1,
+      "size": 4,
+      "name": "Impossible Mission"
     },
     {
-        "crc32": "3B1F2F47",
-        "mapper": 1,
-        "size": 4,
-        "name": "Impossible Mission"
+      "crc32": "3B1F2F47",
+      "mapper": 1,
+      "size": 4,
+      "name": "Impossible Mission"
     },
     {
-        "crc32": "818D8CD",
-        "mapper": 1,
-        "size": 4,
-        "name": "Jinks"
+      "crc32": "818D8CD",
+      "mapper": 1,
+      "size": 4,
+      "name": "Jinks"
     },
     {
-        "crc32": "9207ED3B",
-        "mapper": 1,
-        "size": 4,
-        "name": "Jinks"
+      "crc32": "9207ED3B",
+      "mapper": 1,
+      "size": 4,
+      "name": "Jinks"
     },
     {
-        "crc32": "9B3BE616",
-        "mapper": 0,
-        "size": 2,
-        "name": "Joust (Europe)"
+      "crc32": "9B3BE616",
+      "mapper": 0,
+      "size": 2,
+      "name": "Joust (Europe)"
     },
     {
-        "crc32": "2C430BCE",
-        "mapper": 0,
-        "size": 1,
-        "name": "Joust (USA)"
+      "crc32": "2C430BCE",
+      "mapper": 0,
+      "size": 1,
+      "name": "Joust (USA)"
     },
     {
-        "crc32": "6C8D9E68",
-        "mapper": 6,
-        "size": 3,
-        "name": "Karateka (Europe)"
+      "crc32": "6C8D9E68",
+      "mapper": 6,
+      "size": 3,
+      "name": "Karateka (Europe)"
     },
     {
-        "crc32": "FEC21472",
-        "mapper": 0,
-        "size": 2,
-        "name": "Karateka (USA)"
+      "crc32": "FEC21472",
+      "mapper": 0,
+      "size": 2,
+      "name": "Karateka (USA)"
     },
     {
-        "crc32": "C1531FC4",
-        "mapper": 0,
-        "size": 1,
-        "name": "Kung-Fu Master"
+      "crc32": "C1531FC4",
+      "mapper": 0,
+      "size": 1,
+      "name": "Kung-Fu Master"
     },
     {
-        "crc32": "297899BB",
-        "mapper": 0,
-        "size": 1,
-        "name": "Kung-Fu Master"
+      "crc32": "297899BB",
+      "mapper": 0,
+      "size": 1,
+      "name": "Kung-Fu Master"
     },
     {
-        "crc32": "8021A13B",
-        "mapper": 0,
-        "size": 2,
-        "name": "Mario Bros."
+      "crc32": "8021A13B",
+      "mapper": 0,
+      "size": 2,
+      "name": "Mario Bros."
     },
     {
-        "crc32": "EFAD3D9D",
-        "mapper": 0,
-        "size": 2,
-        "name": "Mario Bros."
+      "crc32": "EFAD3D9D",
+      "mapper": 0,
+      "size": 2,
+      "name": "Mario Bros."
     },
     {
-        "crc32": "ABA91829",
-        "mapper": 1,
-        "size": 4,
-        "name": "Mat Mania Challenge"
+      "crc32": "ABA91829",
+      "mapper": 1,
+      "size": 4,
+      "name": "Mat Mania Challenge"
     },
     {
-        "crc32": "65F3873",
-        "mapper": 1,
-        "size": 4,
-        "name": "Mat Mania Challenge"
+      "crc32": "65F3873",
+      "mapper": 1,
+      "size": 4,
+      "name": "Mat Mania Challenge"
     },
     {
-        "crc32": "3CEC4BE8",
-        "mapper": 1,
-        "size": 4,
-        "name": "Mean 18 Ultimate Golf"
+      "crc32": "3CEC4BE8",
+      "mapper": 1,
+      "size": 4,
+      "name": "Mean 18 Ultimate Golf"
     },
     {
-        "crc32": "CF21D9AC",
-        "mapper": 1,
-        "size": 4,
-        "name": "Mean 18 Ultimate Golf"
+      "crc32": "CF21D9AC",
+      "mapper": 1,
+      "size": 4,
+      "name": "Mean 18 Ultimate Golf"
     },
     {
-        "crc32": "4A8F2171",
-        "mapper": 1,
-        "size": 4,
-        "name": "Meltdown"
+      "crc32": "4A8F2171",
+      "mapper": 1,
+      "size": 4,
+      "name": "Meltdown"
     },
     {
-        "crc32": "177FC850",
-        "mapper": 1,
-        "size": 4,
-        "name": "Meltdown"
+      "crc32": "177FC850",
+      "mapper": 1,
+      "size": 4,
+      "name": "Meltdown"
     },
     {
-        "crc32": "7CA6D521",
-        "mapper": 1,
-        "size": 4,
-        "name": "Midnight Mutants"
+      "crc32": "7CA6D521",
+      "mapper": 1,
+      "size": 4,
+      "name": "Midnight Mutants"
     },
     {
-        "crc32": "187EC84E",
-        "mapper": 1,
-        "size": 4,
-        "name": "Midnight Mutants"
+      "crc32": "187EC84E",
+      "mapper": 1,
+      "size": 4,
+      "name": "Midnight Mutants"
     },
     {
-        "crc32": "1E219482",
-        "mapper": 1,
-        "size": 4,
-        "name": "Motor Psycho"
+      "crc32": "1E219482",
+      "mapper": 1,
+      "size": 4,
+      "name": "Motor Psycho"
     },
     {
-        "crc32": "38BB45BA",
-        "mapper": 1,
-        "size": 4,
-        "name": "Motor Psycho"
+      "crc32": "38BB45BA",
+      "mapper": 1,
+      "size": 4,
+      "name": "Motor Psycho"
     },
     {
-        "crc32": "8421033A",
-        "mapper": 0,
-        "size": 1,
-        "name": "Ms. Pac-Man (Europe)"
+      "crc32": "8421033A",
+      "mapper": 0,
+      "size": 1,
+      "name": "Ms. Pac-Man (Europe)"
     },
     {
-        "crc32": "E42FC700",
-        "mapper": 0,
-        "size": 0,
-        "name": "Ms. Pac-Man (USA)"
+      "crc32": "E42FC700",
+      "mapper": 0,
+      "size": 0,
+      "name": "Ms. Pac-Man (USA)"
     },
     {
-        "crc32": "CB48E8DC",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ninja Golf"
+      "crc32": "CB48E8DC",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ninja Golf"
     },
     {
-        "crc32": "2B5382B7",
-        "mapper": 1,
-        "size": 4,
-        "name": "Ninja Golf"
+      "crc32": "2B5382B7",
+      "mapper": 1,
+      "size": 4,
+      "name": "Ninja Golf"
     },
     {
-        "crc32": "7D9370FB",
-        "mapper": 0,
-        "size": 2,
-        "name": "One-on-One Basketball"
+      "crc32": "7D9370FB",
+      "mapper": 0,
+      "size": 2,
+      "name": "One-on-One Basketball"
     },
     {
-        "crc32": "7A628295",
-        "mapper": 0,
-        "size": 2,
-        "name": "One-on-One Basketball"
+      "crc32": "7A628295",
+      "mapper": 0,
+      "size": 2,
+      "name": "One-on-One Basketball"
     },
     {
-        "crc32": "F33D4DFA",
-        "mapper": 0,
-        "size": 1,
-        "name": "Pete Rose Baseball"
+      "crc32": "F33D4DFA",
+      "mapper": 0,
+      "size": 1,
+      "name": "Pete Rose Baseball"
     },
     {
-        "crc32": "95DC7E96",
-        "mapper": 1,
-        "size": 4,
-        "name": "Planet Smashers"
+      "crc32": "95DC7E96",
+      "mapper": 1,
+      "size": 4,
+      "name": "Planet Smashers"
     },
     {
-        "crc32": "4E3B9E64",
-        "mapper": 1,
-        "size": 4,
-        "name": "Planet Smashers"
+      "crc32": "4E3B9E64",
+      "mapper": 1,
+      "size": 4,
+      "name": "Planet Smashers"
     },
     {
-        "crc32": "A85FB962",
-        "mapper": 0,
-        "size": 1,
-        "name": "Pole Position II"
+      "crc32": "A85FB962",
+      "mapper": 0,
+      "size": 1,
+      "name": "Pole Position II"
     },
     {
-        "crc32": "D751C7A6",
-        "mapper": 0,
-        "size": 1,
-        "name": "Pole Position II"
+      "crc32": "D751C7A6",
+      "mapper": 0,
+      "size": 1,
+      "name": "Pole Position II"
     },
     {
-        "crc32": "FD40B838",
-        "mapper": 0,
-        "size": 1,
-        "name": "Pole Position II"
+      "crc32": "FD40B838",
+      "mapper": 0,
+      "size": 1,
+      "name": "Pole Position II"
     },
     {
-        "crc32": "39A316AA",
-        "mapper": 4,
-        "size": 4,
-        "name": "Rampage"
+      "crc32": "39A316AA",
+      "mapper": 4,
+      "size": 4,
+      "name": "Rampage"
     },
     {
-        "crc32": "B1508030",
-        "mapper": 5,
-        "size": 3,
-        "name": "RealSports Baseball"
+      "crc32": "B1508030",
+      "mapper": 5,
+      "size": 3,
+      "name": "RealSports Baseball"
     },
     {
-        "crc32": "0",
-        "mapper": 0,
-        "size": 1,
-        "name": "Robotron 2084"
+      "crc32": "0",
+      "mapper": 0,
+      "size": 1,
+      "name": "Robotron 2084"
     },
     {
-        "crc32": "46DD9662",
-        "mapper": 1,
-        "size": 4,
-        "name": "Scrapyard Dog"
+      "crc32": "46DD9662",
+      "mapper": 1,
+      "size": 4,
+      "name": "Scrapyard Dog"
     },
     {
-        "crc32": "5CC8C34F",
-        "mapper": 1,
-        "size": 4,
-        "name": "Scrapyard Dog"
+      "crc32": "5CC8C34F",
+      "mapper": 1,
+      "size": 4,
+      "name": "Scrapyard Dog"
     },
     {
-        "crc32": "47340DF9",
-        "mapper": 1,
-        "size": 4,
-        "name": "Sentinel"
+      "crc32": "47340DF9",
+      "mapper": 1,
+      "size": 4,
+      "name": "Sentinel"
     },
     {
-        "crc32": "2FDDAD78",
-        "mapper": 1,
-        "size": 4,
-        "name": "Sentinel"
+      "crc32": "2FDDAD78",
+      "mapper": 1,
+      "size": 4,
+      "name": "Sentinel"
     },
     {
-        "crc32": "D795B3DA",
-        "mapper": 0,
-        "size": 1,
-        "name": "Space Duel"
+      "crc32": "D795B3DA",
+      "mapper": 0,
+      "size": 1,
+      "name": "Space Duel"
     },
     {
-        "crc32": "EF2D2560",
-        "mapper": 0,
-        "size": 1,
-        "name": "Space Duel"
+      "crc32": "EF2D2560",
+      "mapper": 0,
+      "size": 1,
+      "name": "Space Duel"
     },
     {
-        "crc32": "36D212F9",
-        "mapper": 0,
-        "size": 1,
-        "name": "Space Duel"
+      "crc32": "36D212F9",
+      "mapper": 0,
+      "size": 1,
+      "name": "Space Duel"
     },
     {
-        "crc32": "E6A8443",
-        "mapper": 0,
-        "size": 1,
-        "name": "Space Duel"
+      "crc32": "E6A8443",
+      "mapper": 0,
+      "size": 1,
+      "name": "Space Duel"
     },
     {
-        "crc32": "65C6DF3F",
-        "mapper": 1,
-        "size": 4,
-        "name": "Summer Games"
+      "crc32": "65C6DF3F",
+      "mapper": 1,
+      "size": 4,
+      "name": "Summer Games"
     },
     {
-        "crc32": "6B27EA2C",
-        "mapper": 0,
-        "size": 2,
-        "name": "Super Huey UH-IX"
+      "crc32": "6B27EA2C",
+      "mapper": 0,
+      "size": 2,
+      "name": "Super Huey UH-IX"
     },
     {
-        "crc32": "71846500",
-        "mapper": 0,
-        "size": 2,
-        "name": "Super Huey UH-IX"
+      "crc32": "71846500",
+      "mapper": 0,
+      "size": 2,
+      "name": "Super Huey UH-IX"
     },
     {
-        "crc32": "13B68650",
-        "mapper": 0,
-        "size": 1,
-        "name": "Super Skateboardin'"
+      "crc32": "13B68650",
+      "mapper": 0,
+      "size": 1,
+      "name": "Super Skateboardin'"
     },
     {
-        "crc32": "8F167BA9",
-        "mapper": 0,
-        "size": 1,
-        "name": "Super Skateboardin'"
+      "crc32": "8F167BA9",
+      "mapper": 0,
+      "size": 1,
+      "name": "Super Skateboardin'"
     },
     {
-        "crc32": "DB91B181",
-        "mapper": 5,
-        "size": 3,
-        "name": "Tank Command"
+      "crc32": "DB91B181",
+      "mapper": 5,
+      "size": 3,
+      "name": "Tank Command"
     },
     {
-        "crc32": "BC23C57B",
-        "mapper": 0,
-        "size": 1,
-        "name": "Title Match Pro Wrestling"
+      "crc32": "BC23C57B",
+      "mapper": 0,
+      "size": 1,
+      "name": "Title Match Pro Wrestling"
     },
     {
-        "crc32": "16B54D5B",
-        "mapper": 0,
-        "size": 1,
-        "name": "Title Match Pro Wrestling"
+      "crc32": "16B54D5B",
+      "mapper": 0,
+      "size": 1,
+      "name": "Title Match Pro Wrestling"
     },
     {
-        "crc32": "0",
-        "mapper": 0,
-        "size": 1,
-        "name": "Tomcat"
+      "crc32": "0",
+      "mapper": 0,
+      "size": 1,
+      "name": "Tomcat"
     },
     {
-        "crc32": "AAE12695",
-        "mapper": 1,
-        "size": 4,
-        "name": "Touchdown Football"
+      "crc32": "AAE12695",
+      "mapper": 1,
+      "size": 4,
+      "name": "Touchdown Football"
     },
     {
-        "crc32": "F87FD7B",
-        "mapper": 5,
-        "size": 3,
-        "name": "Tower Toppler"
+      "crc32": "F87FD7B",
+      "mapper": 5,
+      "size": 3,
+      "name": "Tower Toppler"
     },
     {
-        "crc32": "4407BA04",
-        "mapper": 5,
-        "size": 3,
-        "name": "Tower Toppler"
+      "crc32": "4407BA04",
+      "mapper": 5,
+      "size": 3,
+      "name": "Tower Toppler"
     },
     {
-        "crc32": "930B30DF",
-        "mapper": 5,
-        "size": 3,
-        "name": "Water Ski"
+      "crc32": "930B30DF",
+      "mapper": 5,
+      "size": 3,
+      "name": "Water Ski"
     },
     {
-        "crc32": "8981B531",
-        "mapper": 1,
-        "size": 4,
-        "name": "Winter Games"
+      "crc32": "8981B531",
+      "mapper": 1,
+      "size": 4,
+      "name": "Winter Games"
     },
     {
-        "crc32": "5FD9A141",
-        "mapper": 1,
-        "size": 4,
-        "name": "Xenophobe"
+      "crc32": "5FD9A141",
+      "mapper": 1,
+      "size": 4,
+      "name": "Xenophobe"
     },
     {
-        "crc32": "CF0E44F1",
-        "mapper": 1,
-        "size": 4,
-        "name": "Xenophobe"
+      "crc32": "CF0E44F1",
+      "mapper": 1,
+      "size": 4,
+      "name": "Xenophobe"
     },
     {
-        "crc32": "D5AC738B",
-        "mapper": 0,
-        "size": 2,
-        "name": "Xevious (Europe)"
+      "crc32": "D5AC738B",
+      "mapper": 0,
+      "size": 2,
+      "name": "Xevious (Europe)"
     },
     {
-        "crc32": "75FC124F",
-        "mapper": 0,
-        "size": 1,
-        "name": "Xevious (USA)"
+      "crc32": "75FC124F",
+      "mapper": 0,
+      "size": 1,
+      "name": "Xevious (USA)"
     }
-]
+  ]
+}

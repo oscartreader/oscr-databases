@@ -1,1088 +1,1105 @@
-[
+{
+  "outfile": "a5200",
+  "system": "A5200",
+  "pio": "atari5200",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "crc32": "16608C3E",
-        "mapper": 0,
-        "size": 2,
-        "name": "3-D Asteroids (USA) (Demo)"
+      "crc32": "16608C3E",
+      "mapper": 0,
+      "size": 2,
+      "name": "3-D Asteroids (USA) (Demo)"
     },
     {
-        "crc32": "DE2DB48",
-        "mapper": 0,
-        "size": 1,
-        "name": "5200 Menu (USA) (Proto)"
+      "crc32": "DE2DB48",
+      "mapper": 0,
+      "size": 1,
+      "name": "5200 Menu (USA) (Proto)"
     },
     {
-        "crc32": "35484751",
-        "mapper": 0,
-        "size": 2,
-        "name": "A.E. (USA) (Proto 1)"
+      "crc32": "35484751",
+      "mapper": 0,
+      "size": 2,
+      "name": "A.E. (USA) (Proto 1)"
     },
     {
-        "crc32": "710BFE06",
-        "mapper": 0,
-        "size": 3,
-        "name": "A.E. (USA) (Proto 2) (1984-01-04)"
+      "crc32": "710BFE06",
+      "mapper": 0,
+      "size": 3,
+      "name": "A.E. (USA) (Proto 2) (1984-01-04)"
     },
     {
-        "crc32": "F43E7CD0",
-        "mapper": 0,
-        "size": 2,
-        "name": "Activision Decathlon, The (USA)"
+      "crc32": "F43E7CD0",
+      "mapper": 0,
+      "size": 2,
+      "name": "Activision Decathlon, The (USA)"
     },
     {
-        "crc32": "8D2AAAB5",
-        "mapper": 0,
-        "size": 2,
-        "name": "Asteroids (USA) (Proto) (1982-08-12)"
+      "crc32": "8D2AAAB5",
+      "mapper": 0,
+      "size": 2,
+      "name": "Asteroids (USA) (Proto) (1982-08-12)"
     },
     {
-        "crc32": "1D544455",
-        "mapper": 0,
-        "size": 1,
-        "name": "Asteroids (USA) (Proto) (Final)"
+      "crc32": "1D544455",
+      "mapper": 0,
+      "size": 1,
+      "name": "Asteroids (USA) (Proto) (Final)"
     },
     {
-        "crc32": "4019ECEC",
-        "mapper": 1,
-        "size": 2,
-        "name": "Astro Chase (USA)"
+      "crc32": "4019ECEC",
+      "mapper": 1,
+      "size": 2,
+      "name": "Astro Chase (USA)"
     },
     {
-        "crc32": "18417ADA",
-        "mapper": 0,
-        "size": 3,
-        "name": "Astrogrover (USA) (Proto)"
+      "crc32": "18417ADA",
+      "mapper": 0,
+      "size": 3,
+      "name": "Astrogrover (USA) (Proto)"
     },
     {
-        "crc32": "28278CD6",
-        "mapper": 0,
-        "size": 1,
-        "name": "Atari PAM - Pete's Test (USA)"
+      "crc32": "28278CD6",
+      "mapper": 0,
+      "size": 1,
+      "name": "Atari PAM - Pete's Test (USA)"
     },
     {
-        "crc32": "3DA972C8",
-        "mapper": 0,
-        "size": 1,
-        "name": "Atari PAM Diagnostics (USA) (v1.1)"
+      "crc32": "3DA972C8",
+      "mapper": 0,
+      "size": 1,
+      "name": "Atari PAM Diagnostics (USA) (v1.1)"
     },
     {
-        "crc32": "E8B130C4",
-        "mapper": 1,
-        "size": 2,
-        "name": "Atari PAM Diagnostics (USA) (v2.0)"
+      "crc32": "E8B130C4",
+      "mapper": 1,
+      "size": 2,
+      "name": "Atari PAM Diagnostics (USA) (v2.0)"
     },
     {
-        "crc32": "CE07D9AD",
-        "mapper": 1,
-        "size": 2,
-        "name": "Atari PAM Diagnostics (USA) (v2.3)"
+      "crc32": "CE07D9AD",
+      "mapper": 1,
+      "size": 2,
+      "name": "Atari PAM Diagnostics (USA) (v2.3)"
     },
     {
-        "crc32": "7EA86E87",
-        "mapper": 0,
-        "size": 1,
-        "name": "Atari PAM System Test (USA) (v1.02)"
+      "crc32": "7EA86E87",
+      "mapper": 0,
+      "size": 1,
+      "name": "Atari PAM System Test (USA) (v1.02)"
     },
     {
-        "crc32": "DEF2A207",
-        "mapper": 0,
-        "size": 3,
-        "name": "Ballblazer (USA)"
+      "crc32": "DEF2A207",
+      "mapper": 0,
+      "size": 3,
+      "name": "Ballblazer (USA)"
     },
     {
-        "crc32": "BB705DC9",
-        "mapper": 0,
-        "size": 3,
-        "name": "Ballblazer (USA) (Beta) (1984-01-20)"
+      "crc32": "BB705DC9",
+      "mapper": 0,
+      "size": 3,
+      "name": "Ballblazer (USA) (Beta) (1984-01-20)"
     },
     {
-        "crc32": "21D19C8F",
-        "mapper": 0,
-        "size": 3,
-        "name": "Barroom Baseball (USA) (Proto 1)"
+      "crc32": "21D19C8F",
+      "mapper": 0,
+      "size": 3,
+      "name": "Barroom Baseball (USA) (Proto 1)"
     },
     {
-        "crc32": "D18FA8C8",
-        "mapper": 0,
-        "size": 3,
-        "name": "Barroom Baseball (USA) (Proto 2) (1983-11-21)"
+      "crc32": "D18FA8C8",
+      "mapper": 0,
+      "size": 3,
+      "name": "Barroom Baseball (USA) (Proto 2) (1983-11-21)"
     },
     {
-        "crc32": "B3B8E314",
-        "mapper": 0,
-        "size": 2,
-        "name": "Battlezone (USA) (Proto 1) (1983-09-15)"
+      "crc32": "B3B8E314",
+      "mapper": 0,
+      "size": 2,
+      "name": "Battlezone (USA) (Proto 1) (1983-09-15)"
     },
     {
-        "crc32": "7D32A6CA",
-        "mapper": 0,
-        "size": 3,
-        "name": "Battlezone (USA) (Proto 2)"
+      "crc32": "7D32A6CA",
+      "mapper": 0,
+      "size": 3,
+      "name": "Battlezone (USA) (Proto 2)"
     },
     {
-        "crc32": "9BAE58DC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Beamrider (USA)"
+      "crc32": "9BAE58DC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Beamrider (USA)"
     },
     {
-        "crc32": "9DD7776A",
-        "mapper": 0,
-        "size": 3,
-        "name": "Behind Jaggi Lines! (USA) (Beta) (1984-01-18)"
+      "crc32": "9DD7776A",
+      "mapper": 0,
+      "size": 3,
+      "name": "Behind Jaggi Lines! (USA) (Beta) (1984-01-18)"
     },
     {
-        "crc32": "BE3CD348",
-        "mapper": 0,
-        "size": 2,
-        "name": "BerZerk (USA)"
+      "crc32": "BE3CD348",
+      "mapper": 0,
+      "size": 2,
+      "name": "BerZerk (USA)"
     },
     {
-        "crc32": "8550A9E9",
-        "mapper": 0,
-        "size": 2,
-        "name": "BerZerk (USA) (Beta 1) (1983-06-01)"
+      "crc32": "8550A9E9",
+      "mapper": 0,
+      "size": 2,
+      "name": "BerZerk (USA) (Beta 1) (1983-06-01)"
     },
     {
-        "crc32": "EFA00F88",
-        "mapper": 0,
-        "size": 2,
-        "name": "BerZerk (USA) (Beta 2) (1983-07-31)"
+      "crc32": "EFA00F88",
+      "mapper": 0,
+      "size": 2,
+      "name": "BerZerk (USA) (Beta 2) (1983-07-31)"
     },
     {
-        "crc32": "659FC323",
-        "mapper": 0,
-        "size": 3,
-        "name": "BerZerk (USA) (Beta 3) (1983-08-03)"
+      "crc32": "659FC323",
+      "mapper": 0,
+      "size": 3,
+      "name": "BerZerk (USA) (Beta 3) (1983-08-03)"
     },
     {
-        "crc32": "63FA1EF9",
-        "mapper": 0,
-        "size": 2,
-        "name": "BerZerk (USA) (Beta 4) (1983-08-xx)"
+      "crc32": "63FA1EF9",
+      "mapper": 0,
+      "size": 2,
+      "name": "BerZerk (USA) (Beta 4) (1983-08-xx)"
     },
     {
-        "crc32": "40657C26",
-        "mapper": 0,
-        "size": 2,
-        "name": "Black Belt (USA) (Proto 1)"
+      "crc32": "40657C26",
+      "mapper": 0,
+      "size": 2,
+      "name": "Black Belt (USA) (Proto 1)"
     },
     {
-        "crc32": "C1899B05",
-        "mapper": 0,
-        "size": 3,
-        "name": "Black Belt (USA) (Proto 2)"
+      "crc32": "C1899B05",
+      "mapper": 0,
+      "size": 3,
+      "name": "Black Belt (USA) (Proto 2)"
     },
     {
-        "crc32": "ED47B0D8",
-        "mapper": 0,
-        "size": 3,
-        "name": "Black Belt (USA) (Proto 3)"
+      "crc32": "ED47B0D8",
+      "mapper": 0,
+      "size": 3,
+      "name": "Black Belt (USA) (Proto 3)"
     },
     {
-        "crc32": "C8F9C094",
-        "mapper": 0,
-        "size": 2,
-        "name": "Blaster (USA) (Proto)"
+      "crc32": "C8F9C094",
+      "mapper": 0,
+      "size": 2,
+      "name": "Blaster (USA) (Proto)"
     },
     {
-        "crc32": "624E6E7",
-        "mapper": 0,
-        "size": 2,
-        "name": "Blue Print (USA)"
+      "crc32": "624E6E7",
+      "mapper": 0,
+      "size": 2,
+      "name": "Blue Print (USA)"
     },
     {
-        "crc32": "3BD5FDD6",
-        "mapper": 0,
-        "size": 0,
-        "name": "Boogie (USA) (Demo)"
+      "crc32": "3BD5FDD6",
+      "mapper": 0,
+      "size": 0,
+      "name": "Boogie (USA) (Demo)"
     },
     {
-        "crc32": "7873C6DD",
-        "mapper": 2,
-        "size": 4,
-        "name": "Bounty Bob Strikes Back! (USA)"
+      "crc32": "7873C6DD",
+      "mapper": 2,
+      "size": 4,
+      "name": "Bounty Bob Strikes Back! (USA)"
     },
     {
-        "crc32": "4807705",
-        "mapper": 1,
-        "size": 2,
-        "name": "Buck Rogers - Planet of Zoom (USA)"
+      "crc32": "4807705",
+      "mapper": 1,
+      "size": 2,
+      "name": "Buck Rogers - Planet of Zoom (USA)"
     },
     {
-        "crc32": "20DF4927",
-        "mapper": 1,
-        "size": 2,
-        "name": "Buck Rogers - Planet of Zoom (USA) (Alt)"
+      "crc32": "20DF4927",
+      "mapper": 1,
+      "size": 2,
+      "name": "Buck Rogers - Planet of Zoom (USA) (Alt)"
     },
     {
-        "crc32": "9FC7648",
-        "mapper": 0,
-        "size": 1,
-        "name": "Carol Shaw's River Raid (USA)"
+      "crc32": "9FC7648",
+      "mapper": 0,
+      "size": 1,
+      "name": "Carol Shaw's River Raid (USA)"
     },
     {
-        "crc32": "7C988054",
-        "mapper": 0,
-        "size": 3,
-        "name": "Castle Blast (USA) (Unl)"
+      "crc32": "7C988054",
+      "mapper": 0,
+      "size": 3,
+      "name": "Castle Blast (USA) (Unl)"
     },
     {
-        "crc32": "D50E4061",
-        "mapper": 0,
-        "size": 3,
-        "name": "Castle Crisis (USA) (Unl)"
+      "crc32": "D50E4061",
+      "mapper": 0,
+      "size": 3,
+      "name": "Castle Crisis (USA) (Unl)"
     },
     {
-        "crc32": "536A70FE",
-        "mapper": 1,
-        "size": 2,
-        "name": "Centipede (USA)"
+      "crc32": "536A70FE",
+      "mapper": 1,
+      "size": 2,
+      "name": "Centipede (USA)"
     },
     {
-        "crc32": "9AD53BBC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Choplifter! (USA)"
+      "crc32": "9AD53BBC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Choplifter! (USA)"
     },
     {
-        "crc32": "200578DD",
-        "mapper": 0,
-        "size": 2,
-        "name": "Choplifter! (USA) (Beta 1) (1984-01-04)"
+      "crc32": "200578DD",
+      "mapper": 0,
+      "size": 2,
+      "name": "Choplifter! (USA) (Beta 1) (1984-01-04)"
     },
     {
-        "crc32": "BEE87E6F",
-        "mapper": 0,
-        "size": 2,
-        "name": "Choplifter! (USA) (Beta 2) (1984-01-13)"
+      "crc32": "BEE87E6F",
+      "mapper": 0,
+      "size": 2,
+      "name": "Choplifter! (USA) (Beta 2) (1984-01-13)"
     },
     {
-        "crc32": "9209CA2B",
-        "mapper": 0,
-        "size": 2,
-        "name": "Choplifter! (USA) (Beta 3)"
+      "crc32": "9209CA2B",
+      "mapper": 0,
+      "size": 2,
+      "name": "Choplifter! (USA) (Beta 3)"
     },
     {
-        "crc32": "F1F42BBD",
-        "mapper": 1,
-        "size": 2,
-        "name": "Congo Bongo (USA)"
+      "crc32": "F1F42BBD",
+      "mapper": 1,
+      "size": 2,
+      "name": "Congo Bongo (USA)"
     },
     {
-        "crc32": "FD541C80",
-        "mapper": 1,
-        "size": 2,
-        "name": "Countermeasure (USA)"
+      "crc32": "FD541C80",
+      "mapper": 1,
+      "size": 2,
+      "name": "Countermeasure (USA)"
     },
     {
-        "crc32": "4B910461",
-        "mapper": 0,
-        "size": 2,
-        "name": "David Crane's Pitfall II - Lost Caverns (USA)"
+      "crc32": "4B910461",
+      "mapper": 0,
+      "size": 2,
+      "name": "David Crane's Pitfall II - Lost Caverns (USA)"
     },
     {
-        "crc32": "BD52623B",
-        "mapper": 1,
-        "size": 2,
-        "name": "Defender (USA)"
+      "crc32": "BD52623B",
+      "mapper": 1,
+      "size": 2,
+      "name": "Defender (USA)"
     },
     {
-        "crc32": "6A687F9C",
-        "mapper": 1,
-        "size": 2,
-        "name": "Dig Dug (USA)"
+      "crc32": "6A687F9C",
+      "mapper": 1,
+      "size": 2,
+      "name": "Dig Dug (USA)"
     },
     {
-        "crc32": "573F8FD1",
-        "mapper": 0,
-        "size": 3,
-        "name": "Dig Dug (USA) (Beta) (1983-04-07)"
+      "crc32": "573F8FD1",
+      "mapper": 0,
+      "size": 3,
+      "name": "Dig Dug (USA) (Beta) (1983-04-07)"
     },
     {
-        "crc32": "63E81003",
-        "mapper": 0,
-        "size": 3,
-        "name": "Dig Dug (USA) (Beta) (1983-06-20)"
+      "crc32": "63E81003",
+      "mapper": 0,
+      "size": 3,
+      "name": "Dig Dug (USA) (Beta) (1983-06-20)"
     },
     {
-        "crc32": "460DEF2D",
-        "mapper": 0,
-        "size": 1,
-        "name": "Dreadnaught Factor, The (USA)"
+      "crc32": "460DEF2D",
+      "mapper": 0,
+      "size": 1,
+      "name": "Dreadnaught Factor, The (USA)"
     },
     {
-        "crc32": "D3BD3221",
-        "mapper": 0,
-        "size": 2,
-        "name": "Final Legacy (USA) (Proto)"
+      "crc32": "D3BD3221",
+      "mapper": 0,
+      "size": 2,
+      "name": "Final Legacy (USA) (Proto)"
     },
     {
-        "crc32": "23C21720",
-        "mapper": 0,
-        "size": 1,
-        "name": "Frisky Tom (USA) (Proto) (1983-01-20)"
+      "crc32": "23C21720",
+      "mapper": 0,
+      "size": 1,
+      "name": "Frisky Tom (USA) (Proto) (1983-01-20)"
     },
     {
-        "crc32": "4B299A4",
-        "mapper": 0,
-        "size": 2,
-        "name": "Frisky Tom (USA) (Proto) (1983-07-04)"
+      "crc32": "4B299A4",
+      "mapper": 0,
+      "size": 2,
+      "name": "Frisky Tom (USA) (Proto) (1983-07-04)"
     },
     {
-        "crc32": "AE7E3444",
-        "mapper": 0,
-        "size": 1,
-        "name": "Frogger (USA)"
+      "crc32": "AE7E3444",
+      "mapper": 0,
+      "size": 1,
+      "name": "Frogger (USA)"
     },
     {
-        "crc32": "AF19345",
-        "mapper": 1,
-        "size": 2,
-        "name": "Frogger II - Threeedeep! (USA)"
+      "crc32": "AF19345",
+      "mapper": 1,
+      "size": 2,
+      "name": "Frogger II - Threeedeep! (USA)"
     },
     {
-        "crc32": "3EF4A23F",
-        "mapper": 0,
-        "size": 1,
-        "name": "Galaxian (USA)"
+      "crc32": "3EF4A23F",
+      "mapper": 0,
+      "size": 1,
+      "name": "Galaxian (USA)"
     },
     {
-        "crc32": "3A6E6133",
-        "mapper": 0,
-        "size": 1,
-        "name": "Galaxian (USA) (Alt)"
+      "crc32": "3A6E6133",
+      "mapper": 0,
+      "size": 1,
+      "name": "Galaxian (USA) (Alt)"
     },
     {
-        "crc32": "CFA0D4DA",
-        "mapper": 0,
-        "size": 3,
-        "name": "Galaxian (USA) (Demo) (Kiosk)"
+      "crc32": "CFA0D4DA",
+      "mapper": 0,
+      "size": 3,
+      "name": "Galaxian (USA) (Demo) (Kiosk)"
     },
     {
-        "crc32": "E955DB74",
-        "mapper": 0,
-        "size": 1,
-        "name": "Gorf (USA)"
+      "crc32": "E955DB74",
+      "mapper": 0,
+      "size": 1,
+      "name": "Gorf (USA)"
     },
     {
-        "crc32": "63EC2C4",
-        "mapper": 0,
-        "size": 3,
-        "name": "Gremlins (USA)"
+      "crc32": "63EC2C4",
+      "mapper": 0,
+      "size": 3,
+      "name": "Gremlins (USA)"
     },
     {
-        "crc32": "CFD4A7F9",
-        "mapper": 1,
-        "size": 2,
-        "name": "Gyruss"
+      "crc32": "CFD4A7F9",
+      "mapper": 1,
+      "size": 2,
+      "name": "Gyruss"
     },
     {
-        "crc32": "4241582D",
-        "mapper": 1,
-        "size": 2,
-        "name": "Gyruss"
+      "crc32": "4241582D",
+      "mapper": 1,
+      "size": 2,
+      "name": "Gyruss"
     },
     {
-        "crc32": "97C69F4B",
-        "mapper": 1,
-        "size": 2,
-        "name": "Gyruss"
+      "crc32": "97C69F4B",
+      "mapper": 1,
+      "size": 2,
+      "name": "Gyruss"
     },
     {
-        "crc32": "18A73AF3",
-        "mapper": 0,
-        "size": 2,
-        "name": "H.E.R.O. (USA)"
+      "crc32": "18A73AF3",
+      "mapper": 0,
+      "size": 2,
+      "name": "H.E.R.O. (USA)"
     },
     {
-        "crc32": "D9AE4518",
-        "mapper": 1,
-        "size": 2,
-        "name": "James Bond 007 (USA)"
+      "crc32": "D9AE4518",
+      "mapper": 1,
+      "size": 2,
+      "name": "James Bond 007 (USA)"
     },
     {
-        "crc32": "22ABBBC7",
-        "mapper": 0,
-        "size": 2,
-        "name": "James Bond 007 (USA) (Beta)"
+      "crc32": "22ABBBC7",
+      "mapper": 0,
+      "size": 2,
+      "name": "James Bond 007 (USA) (Beta)"
     },
     {
-        "crc32": "BFD30C01",
-        "mapper": 1,
-        "size": 2,
-        "name": "Joust (USA)"
+      "crc32": "BFD30C01",
+      "mapper": 1,
+      "size": 2,
+      "name": "Joust (USA)"
     },
     {
-        "crc32": "408D29DE",
-        "mapper": 0,
-        "size": 2,
-        "name": "Joust (USA) (Beta) (1983-06-12)"
+      "crc32": "408D29DE",
+      "mapper": 0,
+      "size": 2,
+      "name": "Joust (USA) (Beta) (1983-06-12)"
     },
     {
-        "crc32": "59983C40",
-        "mapper": 0,
-        "size": 2,
-        "name": "Jr. Pac-Man (USA) (Proto)"
+      "crc32": "59983C40",
+      "mapper": 0,
+      "size": 2,
+      "name": "Jr. Pac-Man (USA) (Proto)"
     },
     {
-        "crc32": "2C676662",
-        "mapper": 1,
-        "size": 2,
-        "name": "Jungle Hunt (USA)"
+      "crc32": "2C676662",
+      "mapper": 1,
+      "size": 2,
+      "name": "Jungle Hunt (USA)"
     },
     {
-        "crc32": "CC0EC2D4",
-        "mapper": 0,
-        "size": 2,
-        "name": "Jungle Hunt (USA) (Beta) (1983-04-07)"
+      "crc32": "CC0EC2D4",
+      "mapper": 0,
+      "size": 2,
+      "name": "Jungle Hunt (USA) (Beta) (1983-04-07)"
     },
     {
-        "crc32": "F270252C",
-        "mapper": 0,
-        "size": 3,
-        "name": "Jungle Hunt (USA) (Beta) (1983-05-02)"
+      "crc32": "F270252C",
+      "mapper": 0,
+      "size": 3,
+      "name": "Jungle Hunt (USA) (Beta) (1983-05-02)"
     },
     {
-        "crc32": "EE702214",
-        "mapper": 0,
-        "size": 1,
-        "name": "K-Razy Shoot-Out (USA)"
+      "crc32": "EE702214",
+      "mapper": 0,
+      "size": 1,
+      "name": "K-Razy Shoot-Out (USA)"
     },
     {
-        "crc32": "420F5D0B",
-        "mapper": 0,
-        "size": 0,
-        "name": "Kaboom! (USA)"
+      "crc32": "420F5D0B",
+      "mapper": 0,
+      "size": 0,
+      "name": "Kaboom! (USA)"
     },
     {
-        "crc32": "ECFA624F",
-        "mapper": 1,
-        "size": 2,
-        "name": "Kangaroo (USA)"
+      "crc32": "ECFA624F",
+      "mapper": 1,
+      "size": 2,
+      "name": "Kangaroo (USA)"
     },
     {
-        "crc32": "8FE3BB2C",
-        "mapper": 0,
-        "size": 1,
-        "name": "Keystone Kapers (USA)"
+      "crc32": "8FE3BB2C",
+      "mapper": 0,
+      "size": 1,
+      "name": "Keystone Kapers (USA)"
     },
     {
-        "crc32": "917BE656",
-        "mapper": 0,
-        "size": 3,
-        "name": "Koffi - Yellow Kopter (USA) (Unl)"
+      "crc32": "917BE656",
+      "mapper": 0,
+      "size": 3,
+      "name": "Koffi - Yellow Kopter (USA) (Unl)"
     },
     {
-        "crc32": "37157F9",
-        "mapper": 0,
-        "size": 2,
-        "name": "Last Starfighter, The (USA) (Proto) (1984-05-08)"
+      "crc32": "37157F9",
+      "mapper": 0,
+      "size": 2,
+      "name": "Last Starfighter, The (USA) (Proto) (1984-05-08)"
     },
     {
-        "crc32": "83517703",
-        "mapper": 0,
-        "size": 2,
-        "name": "Last Starfighter, The (USA) (Proto) (1984-05-21)"
+      "crc32": "83517703",
+      "mapper": 0,
+      "size": 2,
+      "name": "Last Starfighter, The (USA) (Proto) (1984-05-21)"
     },
     {
-        "crc32": "84DF4925",
-        "mapper": 0,
-        "size": 2,
-        "name": "Looney Tunes Hotel (USA) (Proto)"
+      "crc32": "84DF4925",
+      "mapper": 0,
+      "size": 2,
+      "name": "Looney Tunes Hotel (USA) (Proto)"
     },
     {
-        "crc32": "873742F1",
-        "mapper": 0,
-        "size": 3,
-        "name": "Mario Bros. (USA)"
+      "crc32": "873742F1",
+      "mapper": 0,
+      "size": 3,
+      "name": "Mario Bros. (USA)"
     },
     {
-        "crc32": "6B3F1179",
-        "mapper": 0,
-        "size": 3,
-        "name": "Mario Bros. (USA) (Alt)"
+      "crc32": "6B3F1179",
+      "mapper": 0,
+      "size": 3,
+      "name": "Mario Bros. (USA) (Alt)"
     },
     {
-        "crc32": "ABC1D1FF",
-        "mapper": 0,
-        "size": 2,
-        "name": "Meebzork (USA) (Proto) (1983-05-03)"
+      "crc32": "ABC1D1FF",
+      "mapper": 0,
+      "size": 2,
+      "name": "Meebzork (USA) (Proto) (1983-05-03)"
     },
     {
-        "crc32": "BBB3C9F2",
-        "mapper": 0,
-        "size": 2,
-        "name": "Meebzork (USA) (Proto) (1983-05-18)"
+      "crc32": "BBB3C9F2",
+      "mapper": 0,
+      "size": 2,
+      "name": "Meebzork (USA) (Proto) (1983-05-18)"
     },
     {
-        "crc32": "1AA94FEC",
-        "mapper": 0,
-        "size": 3,
-        "name": "Meebzork (USA) (Proto) (1983-11-16)"
+      "crc32": "1AA94FEC",
+      "mapper": 0,
+      "size": 3,
+      "name": "Meebzork (USA) (Proto) (1983-11-16)"
     },
     {
-        "crc32": "240A1E1A",
-        "mapper": 0,
-        "size": 1,
-        "name": "MegaMania (USA)"
+      "crc32": "240A1E1A",
+      "mapper": 0,
+      "size": 1,
+      "name": "MegaMania (USA)"
     },
     {
-        "crc32": "AB8E035B",
-        "mapper": 0,
-        "size": 2,
-        "name": "Meteorites (USA)"
+      "crc32": "AB8E035B",
+      "mapper": 0,
+      "size": 2,
+      "name": "Meteorites (USA)"
     },
     {
-        "crc32": "8A5AD939",
-        "mapper": 0,
-        "size": 1,
-        "name": "Microgammon SB (USA) (Proto) (1983-07-16)"
+      "crc32": "8A5AD939",
+      "mapper": 0,
+      "size": 1,
+      "name": "Microgammon SB (USA) (Proto) (1983-07-16)"
     },
     {
-        "crc32": "38A8AFA9",
-        "mapper": 0,
-        "size": 2,
-        "name": "Microgammon SB (USA) (Proto) (1983-08-15)"
+      "crc32": "38A8AFA9",
+      "mapper": 0,
+      "size": 2,
+      "name": "Microgammon SB (USA) (Proto) (1983-08-15)"
     },
     {
-        "crc32": "EDDB9265",
-        "mapper": 0,
-        "size": 2,
-        "name": "Millipede (USA) (Proto) (1984-01-04)"
+      "crc32": "EDDB9265",
+      "mapper": 0,
+      "size": 2,
+      "name": "Millipede (USA) (Proto) (1984-01-04)"
     },
     {
-        "crc32": "DA7685E6",
-        "mapper": 0,
-        "size": 2,
-        "name": "Millipede (USA) (Proto) (1984-01-05)"
+      "crc32": "DA7685E6",
+      "mapper": 0,
+      "size": 2,
+      "name": "Millipede (USA) (Proto) (1984-01-05)"
     },
     {
-        "crc32": "969CFE1A",
-        "mapper": 0,
-        "size": 2,
-        "name": "Millipede (USA) (Proto) (1984-01-31)"
+      "crc32": "969CFE1A",
+      "mapper": 0,
+      "size": 2,
+      "name": "Millipede (USA) (Proto) (1984-01-31)"
     },
     {
-        "crc32": "7DF1ADFB",
-        "mapper": 0,
-        "size": 2,
-        "name": "Miner 2049er Starring Bounty Bob (USA)"
+      "crc32": "7DF1ADFB",
+      "mapper": 0,
+      "size": 2,
+      "name": "Miner 2049er Starring Bounty Bob (USA)"
     },
     {
-        "crc32": "C597C087",
-        "mapper": 0,
-        "size": 2,
-        "name": "Miniature Golf (USA) (Proto)"
+      "crc32": "C597C087",
+      "mapper": 0,
+      "size": 2,
+      "name": "Miniature Golf (USA) (Proto)"
     },
     {
-        "crc32": "957A4205",
-        "mapper": 0,
-        "size": 1,
-        "name": "Missile Command (Europe) (Proto) (1982-04-04)"
+      "crc32": "957A4205",
+      "mapper": 0,
+      "size": 1,
+      "name": "Missile Command (Europe) (Proto) (1982-04-04)"
     },
     {
-        "crc32": "44D3FF6F",
-        "mapper": 0,
-        "size": 1,
-        "name": "Missile Command (USA)"
+      "crc32": "44D3FF6F",
+      "mapper": 0,
+      "size": 1,
+      "name": "Missile Command (USA)"
     },
     {
-        "crc32": "2A640143",
-        "mapper": 1,
-        "size": 2,
-        "name": "Montezuma's Revenge - Featuring Panama Joe (USA)"
+      "crc32": "2A640143",
+      "mapper": 1,
+      "size": 2,
+      "name": "Montezuma's Revenge - Featuring Panama Joe (USA)"
     },
     {
-        "crc32": "D0B2F285",
-        "mapper": 0,
-        "size": 2,
-        "name": "Moon Patrol (USA)"
+      "crc32": "D0B2F285",
+      "mapper": 0,
+      "size": 2,
+      "name": "Moon Patrol (USA)"
     },
     {
-        "crc32": "665289E4",
-        "mapper": 0,
-        "size": 2,
-        "name": "Moon Patrol (USA) (Beta 1) (1983-09-14)"
+      "crc32": "665289E4",
+      "mapper": 0,
+      "size": 2,
+      "name": "Moon Patrol (USA) (Beta 1) (1983-09-14)"
     },
     {
-        "crc32": "F6AAFF07",
-        "mapper": 0,
-        "size": 2,
-        "name": "Moon Patrol (USA) (Beta 2) (1983-09-19)"
+      "crc32": "F6AAFF07",
+      "mapper": 0,
+      "size": 2,
+      "name": "Moon Patrol (USA) (Beta 2) (1983-09-19)"
     },
     {
-        "crc32": "906CC57B",
-        "mapper": 0,
-        "size": 3,
-        "name": "Moon Patrol (USA) (Beta 3)"
+      "crc32": "906CC57B",
+      "mapper": 0,
+      "size": 3,
+      "name": "Moon Patrol (USA) (Beta 3)"
     },
     {
-        "crc32": "28A0BEF6",
-        "mapper": 0,
-        "size": 3,
-        "name": "Moon Patrol (USA) (Beta 4)"
+      "crc32": "28A0BEF6",
+      "mapper": 0,
+      "size": 3,
+      "name": "Moon Patrol (USA) (Beta 4)"
     },
     {
-        "crc32": "F24243C",
-        "mapper": 0,
-        "size": 1,
-        "name": "Mountain King (USA)"
+      "crc32": "F24243C",
+      "mapper": 0,
+      "size": 1,
+      "name": "Mountain King (USA)"
     },
     {
-        "crc32": "AA55F9BE",
-        "mapper": 0,
-        "size": 1,
-        "name": "Mr. Do!'s Castle (USA)"
+      "crc32": "AA55F9BE",
+      "mapper": 0,
+      "size": 1,
+      "name": "Mr. Do!'s Castle (USA)"
     },
     {
-        "crc32": "752F5EFD",
-        "mapper": 1,
-        "size": 2,
-        "name": "Ms. Pac-Man (USA)"
+      "crc32": "752F5EFD",
+      "mapper": 1,
+      "size": 2,
+      "name": "Ms. Pac-Man (USA)"
     },
     {
-        "crc32": "8873EF51",
-        "mapper": 1,
-        "size": 2,
-        "name": "Pac-Man (USA)"
+      "crc32": "8873EF51",
+      "mapper": 1,
+      "size": 2,
+      "name": "Pac-Man (USA)"
     },
     {
-        "crc32": "E43D0D8A",
-        "mapper": 0,
-        "size": 2,
-        "name": "Pac-Man (USA) (Demo) (Kiosk)"
+      "crc32": "E43D0D8A",
+      "mapper": 0,
+      "size": 2,
+      "name": "Pac-Man (USA) (Demo) (Kiosk)"
     },
     {
-        "crc32": "E4F8BA8C",
-        "mapper": 0,
-        "size": 3,
-        "name": "Pengo (USA)"
+      "crc32": "E4F8BA8C",
+      "mapper": 0,
+      "size": 3,
+      "name": "Pengo (USA)"
     },
     {
-        "crc32": "F085EA1F",
-        "mapper": 0,
-        "size": 3,
-        "name": "Pengo (USA) (Beta) (1983-07-27)"
+      "crc32": "F085EA1F",
+      "mapper": 0,
+      "size": 3,
+      "name": "Pengo (USA) (Beta) (1983-07-27)"
     },
     {
-        "crc32": "D0704419",
-        "mapper": 0,
-        "size": 3,
-        "name": "Pengo (USA) (Beta) (1983-08-10)"
+      "crc32": "D0704419",
+      "mapper": 0,
+      "size": 3,
+      "name": "Pengo (USA) (Beta) (1983-08-10)"
     },
     {
-        "crc32": "B2887833",
-        "mapper": 0,
-        "size": 1,
-        "name": "Pitfall! (USA)"
+      "crc32": "B2887833",
+      "mapper": 0,
+      "size": 1,
+      "name": "Pitfall! (USA)"
     },
     {
-        "crc32": "ABC2D1E4",
-        "mapper": 1,
-        "size": 2,
-        "name": "Pole Position (USA)"
+      "crc32": "ABC2D1E4",
+      "mapper": 1,
+      "size": 2,
+      "name": "Pole Position (USA)"
     },
     {
-        "crc32": "15B7B5EF",
-        "mapper": 0,
-        "size": 3,
-        "name": "Pole Position (USA) (Beta)"
+      "crc32": "15B7B5EF",
+      "mapper": 0,
+      "size": 3,
+      "name": "Pole Position (USA) (Beta)"
     },
     {
-        "crc32": "A18A9A40",
-        "mapper": 1,
-        "size": 2,
-        "name": "Popeye (USA)"
+      "crc32": "A18A9A40",
+      "mapper": 1,
+      "size": 2,
+      "name": "Popeye (USA)"
     },
     {
-        "crc32": "3FE4A401",
-        "mapper": 0,
-        "size": 1,
-        "name": "Q-bert (USA)"
+      "crc32": "3FE4A401",
+      "mapper": 0,
+      "size": 1,
+      "name": "Q-bert (USA)"
     },
     {
-        "crc32": "AEA6D2C2",
-        "mapper": 1,
-        "size": 2,
-        "name": "QIX (USA)"
+      "crc32": "AEA6D2C2",
+      "mapper": 1,
+      "size": 2,
+      "name": "QIX (USA)"
     },
     {
-        "crc32": "B5F3402B",
-        "mapper": 0,
-        "size": 2,
-        "name": "Quest for Quintana Roo (USA)"
+      "crc32": "B5F3402B",
+      "mapper": 0,
+      "size": 2,
+      "name": "Quest for Quintana Roo (USA)"
     },
     {
-        "crc32": "44166592",
-        "mapper": 0,
-        "size": 3,
-        "name": "RealSports Baseball (USA)"
+      "crc32": "44166592",
+      "mapper": 0,
+      "size": 3,
+      "name": "RealSports Baseball (USA)"
     },
     {
-        "crc32": "EC08160D",
-        "mapper": 0,
-        "size": 3,
-        "name": "RealSports Baseball (USA) (Beta) (1983-02-11)"
+      "crc32": "EC08160D",
+      "mapper": 0,
+      "size": 3,
+      "name": "RealSports Baseball (USA) (Beta) (1983-02-11)"
     },
     {
-        "crc32": "6547B51F",
-        "mapper": 0,
-        "size": 3,
-        "name": "RealSports Baseball (USA) (Beta) (1983-07-06)"
+      "crc32": "6547B51F",
+      "mapper": 0,
+      "size": 3,
+      "name": "RealSports Baseball (USA) (Beta) (1983-07-06)"
     },
     {
-        "crc32": "F996184",
-        "mapper": 0,
-        "size": 2,
-        "name": "RealSports Basketball (USA) (Proto) (1982-11-05)"
+      "crc32": "F996184",
+      "mapper": 0,
+      "size": 2,
+      "name": "RealSports Basketball (USA) (Proto) (1982-11-05)"
     },
     {
-        "crc32": "C90196FA",
-        "mapper": 0,
-        "size": 3,
-        "name": "RealSports Basketball (USA) (Proto) (1983-10-31)"
+      "crc32": "C90196FA",
+      "mapper": 0,
+      "size": 3,
+      "name": "RealSports Basketball (USA) (Proto) (1983-10-31)"
     },
     {
-        "crc32": "DD217276",
-        "mapper": 0,
-        "size": 3,
-        "name": "RealSports Basketball (USA) (Proto) (1983-12-16)"
+      "crc32": "DD217276",
+      "mapper": 0,
+      "size": 3,
+      "name": "RealSports Basketball (USA) (Proto) (1983-12-16)"
     },
     {
-        "crc32": "4336C2CC",
-        "mapper": 1,
-        "size": 2,
-        "name": "RealSports Football (USA)"
+      "crc32": "4336C2CC",
+      "mapper": 1,
+      "size": 2,
+      "name": "RealSports Football (USA)"
     },
     {
-        "crc32": "ECBD1853",
-        "mapper": 1,
-        "size": 2,
-        "name": "RealSports Soccer (USA)"
+      "crc32": "ECBD1853",
+      "mapper": 1,
+      "size": 2,
+      "name": "RealSports Soccer (USA)"
     },
     {
-        "crc32": "41AD5B3",
-        "mapper": 0,
-        "size": 2,
-        "name": "RealSports Soccer (USA) (Beta) (1982-08-26)"
+      "crc32": "41AD5B3",
+      "mapper": 0,
+      "size": 2,
+      "name": "RealSports Soccer (USA) (Beta) (1982-08-26)"
     },
     {
-        "crc32": "10F33C90",
-        "mapper": 1,
-        "size": 2,
-        "name": "RealSports Tennis (USA)"
+      "crc32": "10F33C90",
+      "mapper": 1,
+      "size": 2,
+      "name": "RealSports Tennis (USA)"
     },
     {
-        "crc32": "762C591B",
-        "mapper": 0,
-        "size": 3,
-        "name": "Rescue on Fractalus! (USA)"
+      "crc32": "762C591B",
+      "mapper": 0,
+      "size": 3,
+      "name": "Rescue on Fractalus! (USA)"
     },
     {
-        "crc32": "F208A675",
-        "mapper": 0,
-        "size": 3,
-        "name": "Rescue on Fractalus! (USA) (Beta) (1984-02-29)"
+      "crc32": "F208A675",
+      "mapper": 0,
+      "size": 3,
+      "name": "Rescue on Fractalus! (USA) (Beta) (1984-02-29)"
     },
     {
-        "crc32": "A97606AB",
-        "mapper": 0,
-        "size": 2,
-        "name": "Road Runner (USA) (Proto)"
+      "crc32": "A97606AB",
+      "mapper": 0,
+      "size": 2,
+      "name": "Road Runner (USA) (Proto)"
     },
     {
-        "crc32": "4252ABD9",
-        "mapper": 0,
-        "size": 2,
-        "name": "Robotron 2084 (USA)"
+      "crc32": "4252ABD9",
+      "mapper": 0,
+      "size": 2,
+      "name": "Robotron 2084 (USA)"
     },
     {
-        "crc32": "D78C2F4D",
-        "mapper": 0,
-        "size": 2,
-        "name": "Robotron 2084 (USA) (Beta) (1983-09-20)"
+      "crc32": "D78C2F4D",
+      "mapper": 0,
+      "size": 2,
+      "name": "Robotron 2084 (USA) (Beta) (1983-09-20)"
     },
     {
-        "crc32": "1E6EA2D",
-        "mapper": 0,
-        "size": 2,
-        "name": "Robotron 2084 (USA) (Beta) (1983-10-12)"
+      "crc32": "1E6EA2D",
+      "mapper": 0,
+      "size": 2,
+      "name": "Robotron 2084 (USA) (Beta) (1983-10-12)"
     },
     {
-        "crc32": "B68D61E8",
-        "mapper": 1,
-        "size": 2,
-        "name": "Space Dungeon (USA)"
+      "crc32": "B68D61E8",
+      "mapper": 1,
+      "size": 2,
+      "name": "Space Dungeon (USA)"
     },
     {
-        "crc32": "3015BB24",
-        "mapper": 0,
-        "size": 2,
-        "name": "Space Dungeon (USA) (Beta) (1983-01-20)"
+      "crc32": "3015BB24",
+      "mapper": 0,
+      "size": 2,
+      "name": "Space Dungeon (USA) (Beta) (1983-01-20)"
     },
     {
-        "crc32": "893A6846",
-        "mapper": 0,
-        "size": 3,
-        "name": "Space Dungeon (USA) (Beta) (1983-03-09)"
+      "crc32": "893A6846",
+      "mapper": 0,
+      "size": 3,
+      "name": "Space Dungeon (USA) (Beta) (1983-03-09)"
     },
     {
-        "crc32": "DE5C354A",
-        "mapper": 0,
-        "size": 1,
-        "name": "Space Invaders (USA)"
+      "crc32": "DE5C354A",
+      "mapper": 0,
+      "size": 1,
+      "name": "Space Invaders (USA)"
     },
     {
-        "crc32": "DE64498A",
-        "mapper": 0,
-        "size": 2,
-        "name": "Space Race (USA) (Demo)"
+      "crc32": "DE64498A",
+      "mapper": 0,
+      "size": 2,
+      "name": "Space Race (USA) (Demo)"
     },
     {
-        "crc32": "387365DC",
-        "mapper": 0,
-        "size": 2,
-        "name": "Space Shuttle - A Journey Into Space (USA)"
+      "crc32": "387365DC",
+      "mapper": 0,
+      "size": 2,
+      "name": "Space Shuttle - A Journey Into Space (USA)"
     },
     {
-        "crc32": "3C311303",
-        "mapper": 0,
-        "size": 3,
-        "name": "Spitfire (USA) (Proto) (1982-12-05)"
+      "crc32": "3C311303",
+      "mapper": 0,
+      "size": 3,
+      "name": "Spitfire (USA) (Proto) (1982-12-05)"
     },
     {
-        "crc32": "18E0793F",
-        "mapper": 0,
-        "size": 3,
-        "name": "Spitfire (USA) (Proto) (1983-09-30)"
+      "crc32": "18E0793F",
+      "mapper": 0,
+      "size": 3,
+      "name": "Spitfire (USA) (Proto) (1983-09-30)"
     },
     {
-        "crc32": "565F3E21",
-        "mapper": 0,
-        "size": 3,
-        "name": "Spitfire (USA) (Proto) (1983-10-13)"
+      "crc32": "565F3E21",
+      "mapper": 0,
+      "size": 3,
+      "name": "Spitfire (USA) (Proto) (1983-10-13)"
     },
     {
-        "crc32": "DB982C2F",
-        "mapper": 0,
-        "size": 3,
-        "name": "Spitfire (USA) (Proto) (1983-11-03)"
+      "crc32": "DB982C2F",
+      "mapper": 0,
+      "size": 3,
+      "name": "Spitfire (USA) (Proto) (1983-11-03)"
     },
     {
-        "crc32": "8A1A2B60",
-        "mapper": 0,
-        "size": 2,
-        "name": "Sport Goofy (USA) (Proto) (1983-03-28)"
+      "crc32": "8A1A2B60",
+      "mapper": 0,
+      "size": 2,
+      "name": "Sport Goofy (USA) (Proto) (1983-03-28)"
     },
     {
-        "crc32": "73B5B6FB",
-        "mapper": 0,
-        "size": 2,
-        "name": "Sport Goofy (USA) (Proto) (1983-04-11)"
+      "crc32": "73B5B6FB",
+      "mapper": 0,
+      "size": 2,
+      "name": "Sport Goofy (USA) (Proto) (1983-04-11)"
     },
     {
-        "crc32": "7D819A9F",
-        "mapper": 1,
-        "size": 2,
-        "name": "Star Raiders (USA)"
+      "crc32": "7D819A9F",
+      "mapper": 1,
+      "size": 2,
+      "name": "Star Raiders (USA)"
     },
     {
-        "crc32": "4BAC5DD9",
-        "mapper": 1,
-        "size": 2,
-        "name": "Star Raiders (USA) (Alt)"
+      "crc32": "4BAC5DD9",
+      "mapper": 1,
+      "size": 2,
+      "name": "Star Raiders (USA) (Alt)"
     },
     {
-        "crc32": "69F23548",
-        "mapper": 0,
-        "size": 2,
-        "name": "Star Trek - Strategic Operations Simulator (USA)"
+      "crc32": "69F23548",
+      "mapper": 0,
+      "size": 2,
+      "name": "Star Trek - Strategic Operations Simulator (USA)"
     },
     {
-        "crc32": "33B70206",
-        "mapper": 0,
-        "size": 2,
-        "name": "Star Trek - Strategic Operations Simulator (USA) (Alt)"
+      "crc32": "33B70206",
+      "mapper": 0,
+      "size": 2,
+      "name": "Star Trek - Strategic Operations Simulator (USA) (Alt)"
     },
     {
-        "crc32": "675F0A5",
-        "mapper": 0,
-        "size": 1,
-        "name": "Star Wars - Return of the Jedi - Death Star Battle (USA)"
+      "crc32": "675F0A5",
+      "mapper": 0,
+      "size": 1,
+      "name": "Star Wars - Return of the Jedi - Death Star Battle (USA)"
     },
     {
-        "crc32": "75F566DF",
-        "mapper": 1,
-        "size": 2,
-        "name": "Star Wars - The Arcade Game (USA)"
+      "crc32": "75F566DF",
+      "mapper": 1,
+      "size": 2,
+      "name": "Star Wars - The Arcade Game (USA)"
     },
     {
-        "crc32": "132EED8E",
-        "mapper": 0,
-        "size": 2,
-        "name": "Stargate (USA) (Proto 1) (1983-11-21)"
+      "crc32": "132EED8E",
+      "mapper": 0,
+      "size": 2,
+      "name": "Stargate (USA) (Proto 1) (1983-11-21)"
     },
     {
-        "crc32": "1A67A0F5",
-        "mapper": 0,
-        "size": 2,
-        "name": "Stargate (USA) (Proto 2) (1984-01-13)"
+      "crc32": "1A67A0F5",
+      "mapper": 0,
+      "size": 2,
+      "name": "Stargate (USA) (Proto 2) (1984-01-13)"
     },
     {
-        "crc32": "1D1CEE27",
-        "mapper": 0,
-        "size": 2,
-        "name": "Stargate (USA) (Proto 3) (1984-01-05)"
+      "crc32": "1D1CEE27",
+      "mapper": 0,
+      "size": 2,
+      "name": "Stargate (USA) (Proto 3) (1984-01-05)"
     },
     {
-        "crc32": "A0642110",
-        "mapper": 0,
-        "size": 0,
-        "name": "Super Breakout (USA)"
+      "crc32": "A0642110",
+      "mapper": 0,
+      "size": 0,
+      "name": "Super Breakout (USA)"
     },
     {
-        "crc32": "97DEBCD2",
-        "mapper": 0,
-        "size": 1,
-        "name": "Super Cobra (USA)"
+      "crc32": "97DEBCD2",
+      "mapper": 0,
+      "size": 1,
+      "name": "Super Cobra (USA)"
     },
     {
-        "crc32": "A4DDB1E",
-        "mapper": 0,
-        "size": 2,
-        "name": "Super Pac-Man (USA) (Proto) (1984-01-26)"
+      "crc32": "A4DDB1E",
+      "mapper": 0,
+      "size": 2,
+      "name": "Super Pac-Man (USA) (Proto) (1984-01-26)"
     },
     {
-        "crc32": "EA9B852C",
-        "mapper": 0,
-        "size": 2,
-        "name": "Super Pac-Man (USA) (Proto) (1984-03-15)"
+      "crc32": "EA9B852C",
+      "mapper": 0,
+      "size": 2,
+      "name": "Super Pac-Man (USA) (Proto) (1984-03-15)"
     },
     {
-        "crc32": "FD8F0CD4",
-        "mapper": 0,
-        "size": 2,
-        "name": "Super Pac-Man (USA) (Proto) (Final)"
+      "crc32": "FD8F0CD4",
+      "mapper": 0,
+      "size": 2,
+      "name": "Super Pac-Man (USA) (Proto) (Final)"
     },
     {
-        "crc32": "A6400E17",
-        "mapper": 0,
-        "size": 3,
-        "name": "Tempest (USA) (AtariAge)"
+      "crc32": "A6400E17",
+      "mapper": 0,
+      "size": 3,
+      "name": "Tempest (USA) (AtariAge)"
     },
     {
-        "crc32": "1187342F",
-        "mapper": 0,
-        "size": 2,
-        "name": "Tempest (USA) (Proto) (1983-12-29)"
+      "crc32": "1187342F",
+      "mapper": 0,
+      "size": 2,
+      "name": "Tempest (USA) (Proto) (1983-12-29)"
     },
     {
-        "crc32": "EB5B5C64",
-        "mapper": 0,
-        "size": 2,
-        "name": "Tempest (USA) (Proto) (1984-03-15)"
+      "crc32": "EB5B5C64",
+      "mapper": 0,
+      "size": 2,
+      "name": "Tempest (USA) (Proto) (1984-03-15)"
     },
     {
-        "crc32": "EE587F6E",
-        "mapper": 0,
-        "size": 2,
-        "name": "Track and Field (USA) (Proto) (1984-04-18)"
+      "crc32": "EE587F6E",
+      "mapper": 0,
+      "size": 2,
+      "name": "Track and Field (USA) (Proto) (1984-04-18)"
     },
     {
-        "crc32": "BA22ECE",
-        "mapper": 0,
-        "size": 2,
-        "name": "Track and Field (USA) (Proto) (1984-05-10)"
+      "crc32": "BA22ECE",
+      "mapper": 0,
+      "size": 2,
+      "name": "Track and Field (USA) (Proto) (1984-05-10)"
     },
     {
-        "crc32": "CAAEA0A4",
-        "mapper": 0,
-        "size": 3,
-        "name": "Vanguard (USA)"
+      "crc32": "CAAEA0A4",
+      "mapper": 0,
+      "size": 3,
+      "name": "Vanguard (USA)"
     },
     {
-        "crc32": "BE9A2ABD",
-        "mapper": 0,
-        "size": 2,
-        "name": "Vanguard (USA) (Beta) (1983-01-05)"
+      "crc32": "BE9A2ABD",
+      "mapper": 0,
+      "size": 2,
+      "name": "Vanguard (USA) (Beta) (1983-01-05)"
     },
     {
-        "crc32": "1CF10560",
-        "mapper": 0,
-        "size": 3,
-        "name": "Vanguard (USA) (Beta) (1983-02-01)"
+      "crc32": "1CF10560",
+      "mapper": 0,
+      "size": 3,
+      "name": "Vanguard (USA) (Beta) (1983-02-01)"
     },
     {
-        "crc32": "D6F7DDFD",
-        "mapper": 0,
-        "size": 2,
-        "name": "Wizard of Wor (USA)"
+      "crc32": "D6F7DDFD",
+      "mapper": 0,
+      "size": 2,
+      "name": "Wizard of Wor (USA)"
     },
     {
-        "crc32": "8B5D3567",
-        "mapper": 0,
-        "size": 2,
-        "name": "Xari Arena (USA) (Proto) (1983-05-10)"
+      "crc32": "8B5D3567",
+      "mapper": 0,
+      "size": 2,
+      "name": "Xari Arena (USA) (Proto) (1983-05-10)"
     },
     {
-        "crc32": "74C4FB9F",
-        "mapper": 0,
-        "size": 2,
-        "name": "Xari Arena (USA) (Proto) (1983-06-24)"
+      "crc32": "74C4FB9F",
+      "mapper": 0,
+      "size": 2,
+      "name": "Xari Arena (USA) (Proto) (1983-06-24)"
     },
     {
-        "crc32": "C9853D0E",
-        "mapper": 0,
-        "size": 3,
-        "name": "Xari Arena (USA) (Proto) (1983-08-25)"
+      "crc32": "C9853D0E",
+      "mapper": 0,
+      "size": 3,
+      "name": "Xari Arena (USA) (Proto) (1983-08-25)"
     },
     {
-        "crc32": "B8FAAEC3",
-        "mapper": 0,
-        "size": 2,
-        "name": "Xari Arena (USA) (Proto) (1983-08-30)"
+      "crc32": "B8FAAEC3",
+      "mapper": 0,
+      "size": 2,
+      "name": "Xari Arena (USA) (Proto) (1983-08-30)"
     },
     {
-        "crc32": "5342A8B4",
-        "mapper": 0,
-        "size": 3,
-        "name": "Xari Arena (USA) (Proto) (1983-08-31)"
+      "crc32": "5342A8B4",
+      "mapper": 0,
+      "size": 3,
+      "name": "Xari Arena (USA) (Proto) (1983-08-31)"
     },
     {
-        "crc32": "29178296",
-        "mapper": 0,
-        "size": 2,
-        "name": "Xari Arena (USA) (Proto) (1983-09-20)"
+      "crc32": "29178296",
+      "mapper": 0,
+      "size": 2,
+      "name": "Xari Arena (USA) (Proto) (1983-09-20)"
     },
     {
-        "crc32": "382634DC",
-        "mapper": 0,
-        "size": 3,
-        "name": "Xevious (USA) (Proto)"
+      "crc32": "382634DC",
+      "mapper": 0,
+      "size": 3,
+      "name": "Xevious (USA) (Proto)"
     },
     {
-        "crc32": "F47BC091",
-        "mapper": 0,
-        "size": 0,
-        "name": "Yellow Submarine (USA) (Demo)"
+      "crc32": "F47BC091",
+      "mapper": 0,
+      "size": 0,
+      "name": "Yellow Submarine (USA) (Demo)"
     },
     {
-        "crc32": "741746D1",
-        "mapper": 0,
-        "size": 3,
-        "name": "Zaxxon (USA)"
+      "crc32": "741746D1",
+      "mapper": 0,
+      "size": 3,
+      "name": "Zaxxon (USA)"
     },
     {
-        "crc32": "DA228530",
-        "mapper": 0,
-        "size": 1,
-        "name": "Zenji (USA)"
+      "crc32": "DA228530",
+      "mapper": 0,
+      "size": 1,
+      "name": "Zenji (USA)"
     },
     {
-        "crc32": "2959D827",
-        "mapper": 0,
-        "size": 2,
-        "name": "Zone Ranger (USA)"
+      "crc32": "2959D827",
+      "mapper": 0,
+      "size": 2,
+      "name": "Zone Ranger (USA)"
     }
-]
+  ]
+}

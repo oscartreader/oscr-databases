@@ -1,117 +1,136 @@
-[
+{
+  "outfile": "a2600-mappers",
+  "system": "A2600",
+  "pio": "atari2600",
+  "type": "MAP",
+  "formats": {
+    "crdb": "nid/Nsize/NsizeMax/Nmeta1/Nmeta2/a100name",
+    "php": "nNNNNa100",
+    "python": ">HLLLL100s"
+  },
+  "order": {
+    "id": "int",
+    "size": "int",
+    "sizeMax": "int",
+    "meta1": "int",
+    "meta2": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "id": "04",
-        "size": 32,
-        "name": "Atari 32K with RAM (F4SC)"
+      "id": "04",
+      "size": 32,
+      "name": "Atari 32K with RAM (F4SC)"
     },
     {
-        "id": "06",
-        "size": 16,
-        "name": "Atari 16K with RAM (F6SC)"
+      "id": "06",
+      "size": 16,
+      "name": "Atari 16K with RAM (F6SC)"
     },
     {
-        "id": "08",
-        "size": 8,
-        "name": "Atari 8K with RAM (F8SC)"
+      "id": "08",
+      "size": 8,
+      "name": "Atari 8K with RAM (F8SC)"
     },
     {
-        "id": "20",
-        "size": 2,
-        "name": "2K"
+      "id": "20",
+      "size": 2,
+      "name": "2K"
     },
     {
-        "id": "3F",
-        "size": 8,
-        "name": "Tigervision (8K)"
+      "id": "3F",
+      "size": 8,
+      "name": "Tigervision (8K)"
     },
     {
-        "id": "40",
-        "size": 4,
-        "name": "Default (4K)"
+      "id": "40",
+      "size": 4,
+      "name": "Default (4K)"
     },
     {
-        "id": "C0",
-        "size": 2,
-        "name": "\"CV\" Commavid 2K"
+      "id": "C0",
+      "size": 2,
+      "name": "\"CV\" Commavid 2K"
     },
     {
-        "id": "D0",
-        "size": 10,
-        "name": "\"DPC\" Pitfall II 10K"
+      "id": "D0",
+      "size": 10,
+      "name": "\"DPC\" Pitfall II 10K"
     },
     {
-        "id": "E0",
-        "size": 8,
-        "name": "Parker Bros 8K"
+      "id": "E0",
+      "size": 8,
+      "name": "Parker Bros 8K"
     },
     {
-        "id": "E7",
-        "size": 16,
-        "name": "M-Network 16K"
+      "id": "E7",
+      "size": 16,
+      "name": "M-Network 16K"
     },
     {
-        "id": "F0",
-        "size": 64,
-        "name": "Megaboy 64K"
+      "id": "F0",
+      "size": 64,
+      "name": "Megaboy 64K"
     },
     {
-        "id": "F4",
-        "size": 32,
-        "name": "Atari 32K"
+      "id": "F4",
+      "size": 32,
+      "name": "Atari 32K"
     },
     {
-        "id": "F6",
-        "size": 16,
-        "name": "Atari 16K"
+      "id": "F6",
+      "size": 16,
+      "name": "Atari 16K"
     },
     {
-        "id": "F8",
-        "size": 8,
-        "name": "Atari 8K"
+      "id": "F8",
+      "size": 8,
+      "name": "Atari 8K"
     },
     {
-        "id": "FA",
-        "size": 12,
-        "name": "CBS RAM Plus 12K"
+      "id": "FA",
+      "size": 12,
+      "name": "CBS RAM Plus 12K"
     },
     {
-        "id": "FE",
-        "size": 8,
-        "name": "Activision 8K"
+      "id": "FE",
+      "size": 8,
+      "name": "Activision 8K"
     },
     {
-        "id": "F9",
-        "size": 8,
-        "name": "\"TP\" Time Pilot 8K"
+      "id": "F9",
+      "size": 8,
+      "name": "\"TP\" Time Pilot 8K"
     },
     {
-        "id": "0A",
-        "size": 8,
-        "name": "\"UA\" UA Ltd 8K"
+      "id": "0A",
+      "size": 8,
+      "name": "\"UA\" UA Ltd 8K"
     },
     {
-        "id": "3E",
-        "size": 32,
-        "name": "Tigervision 32K with 32K RAM"
+      "id": "3E",
+      "size": 32,
+      "name": "Tigervision 32K with 32K RAM"
     },
     {
-        "id": "07",
-        "size": 64,
-        "name": "X07 64K ROM"
+      "id": "07",
+      "size": 64,
+      "name": "X07 64K ROM"
     },
     {
-        "id": "DF",
-        "size": 128,
-        "name": "\"DFSC\" Penult 128K ROM with 32K RAM"
+      "id": "DF",
+      "size": 128,
+      "name": "\"DFSC\" Penult 128K ROM with 32K RAM"
     },
     {
-        "id": "BA",
-        "size": 128,
-        "name": "SUPERBank 128K Casey's Gold"
+      "id": "BA",
+      "size": 128,
+      "name": "SUPERBank 128K Casey's Gold"
     },
     {
-        "id": "BB",
-        "size": 256,
-        "name": "SUPERBank 256K"
+      "id": "BB",
+      "size": 256,
+      "name": "SUPERBank 256K"
     }
-]
+  ]
+}

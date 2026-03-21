@@ -1,20 +1,39 @@
-[
-  {
-    "id": 0,
-    "sizeLow": 4,
-    "sizeHigh": 32,
-    "name": "Standard"
+{
+  "outfile": "a5200-mappers",
+  "system": "A5200",
+  "pio": "atari5200",
+  "type": "MAP",
+  "formats": {
+    "crdb": "nid/NsizeLow/NsizeHigh/Nmeta1/Nmeta2/a100name",
+    "php": "nNNNNa100",
+    "python": ">HLLLL100s"
   },
-  {
-    "id": 1,
-    "sizeLow": 16,
-    "sizeHigh": 16,
-    "name": "Two Chip (16K)"
+  "order": {
+    "id": "int",
+    "sizeLow": "int",
+    "sizeHigh": "int",
+    "meta1": "int",
+    "meta2": "int",
+    "name": "string"
   },
-  {
-    "id": 2,
-    "sizeLow": 40,
-    "sizeHigh": 40,
-    "name": "Bounty Bob Strikes Back (40K)"
-  }
-]
+  "records": [
+    {
+      "id": 0,
+      "sizeLow": 4,
+      "sizeHigh": 32,
+      "name": "Standard"
+    },
+    {
+      "id": 1,
+      "sizeLow": 16,
+      "sizeHigh": 16,
+      "name": "Two Chip (16K)"
+    },
+    {
+      "id": 2,
+      "sizeLow": 40,
+      "sizeHigh": 40,
+      "name": "Bounty Bob Strikes Back (40K)"
+    }
+  ]
+}

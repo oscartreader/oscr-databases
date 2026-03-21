@@ -1,290 +1,307 @@
-[
+{
+  "outfile": "leap",
+  "system": "LEAP",
+  "pio": "leapster",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "1st Grade",
-        "size": 1
+      "name": "1st Grade",
+      "size": 1
     },
     {
-        "name": "2nd Grade",
-        "size": 1
+      "name": "2nd Grade",
+      "size": 1
     },
     {
-        "name": "Animal Genius",
-        "size": 1
+      "name": "Animal Genius",
+      "size": 1
     },
     {
-        "name": "Backyardigans",
-        "size": 1
+      "name": "Backyardigans",
+      "size": 1
     },
     {
-        "name": "Batman Multiply, Divide and Conquer",
-        "size": 1
+      "name": "Batman Multiply, Divide and Conquer",
+      "size": 1
     },
     {
-        "name": "Batman Strength in Numbers",
-        "size": 1
+      "name": "Batman Strength in Numbers",
+      "size": 1
     },
     {
-        "name": "Bratz World",
-        "size": 1
+      "name": "Bratz World",
+      "size": 1
     },
     {
-        "name": "Cars",
-        "size": 1
+      "name": "Cars",
+      "size": 1
     },
     {
-        "name": "Cars 2",
-        "size": 1
+      "name": "Cars 2",
+      "size": 1
     },
     {
-        "name": "Cars Supercharged",
-        "size": 1
+      "name": "Cars Supercharged",
+      "size": 1
     },
     {
-        "name": "Clifford The Big Red Dog",
-        "size": 1
+      "name": "Clifford The Big Red Dog",
+      "size": 1
     },
     {
-        "name": "Cosmic Math",
-        "size": 0
+      "name": "Cosmic Math",
+      "size": 0
     },
     {
-        "name": "Crayola Art Adventure",
-        "size": 1
+      "name": "Crayola Art Adventure",
+      "size": 1
     },
     {
-        "name": "Creature Create",
-        "size": 1
+      "name": "Creature Create",
+      "size": 1
     },
     {
-        "name": "Digging for Dinosaurs",
-        "size": 1
+      "name": "Digging for Dinosaurs",
+      "size": 1
     },
     {
-        "name": "Disney Fairies",
-        "size": 1
+      "name": "Disney Fairies",
+      "size": 1
     },
     {
-        "name": "Disney Princess",
-        "size": 1
+      "name": "Disney Princess",
+      "size": 1
     },
     {
-        "name": "Disney Princess Enchanted Learning",
-        "size": 1
+      "name": "Disney Princess Enchanted Learning",
+      "size": 1
     },
     {
-        "name": "Disney Princess Worlds of Enchantment",
-        "size": 1
+      "name": "Disney Princess Worlds of Enchantment",
+      "size": 1
     },
     {
-        "name": "Disney-Pixar Collection",
-        "size": 1
+      "name": "Disney-Pixar Collection",
+      "size": 1
     },
     {
-        "name": "Dora the Explorer Animal Rescuer",
-        "size": 1
+      "name": "Dora the Explorer Animal Rescuer",
+      "size": 1
     },
     {
-        "name": "Dora the Explorer Camping Adventure",
-        "size": 1
+      "name": "Dora the Explorer Camping Adventure",
+      "size": 1
     },
     {
-        "name": "Dora the Explorer Pinata Party",
-        "size": 0
+      "name": "Dora the Explorer Pinata Party",
+      "size": 0
     },
     {
-        "name": "Dora the Explorer Wildlife Rescue",
-        "size": 1
+      "name": "Dora the Explorer Wildlife Rescue",
+      "size": 1
     },
     {
-        "name": "Finding Nemo",
-        "size": 1
+      "name": "Finding Nemo",
+      "size": 1
     },
     {
-        "name": "Foster's Home for Imaginary Friends",
-        "size": 1
+      "name": "Foster's Home for Imaginary Friends",
+      "size": 1
     },
     {
-        "name": "Get Puzzled!",
-        "size": 1
+      "name": "Get Puzzled!",
+      "size": 1
     },
     {
-        "name": "Go Diego Go!",
-        "size": 1
+      "name": "Go Diego Go!",
+      "size": 1
     },
     {
-        "name": "I Spy Challenger",
-        "size": 1
+      "name": "I Spy Challenger",
+      "size": 1
     },
     {
-        "name": "I Spy Treasure Hunt",
-        "size": 1
+      "name": "I Spy Treasure Hunt",
+      "size": 1
     },
     {
-        "name": "Incredibles",
-        "size": 1
+      "name": "Incredibles",
+      "size": 1
     },
     {
-        "name": "Kindergarten",
-        "size": 1
+      "name": "Kindergarten",
+      "size": 1
     },
     {
-        "name": "Learning with Leap",
-        "size": 1
+      "name": "Learning with Leap",
+      "size": 1
     },
     {
-        "name": "Letter Factory",
-        "size": 2
+      "name": "Letter Factory",
+      "size": 2
     },
     {
-        "name": "Letterpillar",
-        "size": 0
+      "name": "Letterpillar",
+      "size": 0
     },
     {
-        "name": "Letters on the Loose",
-        "size": 1
+      "name": "Letters on the Loose",
+      "size": 1
     },
     {
-        "name": "Madagascar",
-        "size": 1
+      "name": "Madagascar",
+      "size": 1
     },
     {
-        "name": "Math Baseball",
-        "size": 1
+      "name": "Math Baseball",
+      "size": 1
     },
     {
-        "name": "Math Missions",
-        "size": 1
+      "name": "Math Missions",
+      "size": 1
     },
     {
-        "name": "Mr. Pencil's Learn to Draw & Write",
-        "size": 1
+      "name": "Mr. Pencil's Learn to Draw & Write",
+      "size": 1
     },
     {
-        "name": "My Amusement Park",
-        "size": 1
+      "name": "My Amusement Park",
+      "size": 1
     },
     {
-        "name": "NASCAR",
-        "size": 1
+      "name": "NASCAR",
+      "size": 1
     },
     {
-        "name": "Noddy",
-        "size": 1
+      "name": "Noddy",
+      "size": 1
     },
     {
-        "name": "Number Raiders",
-        "size": 0
+      "name": "Number Raiders",
+      "size": 0
     },
     {
-        "name": "Numbers on the Run",
-        "size": 1
+      "name": "Numbers on the Run",
+      "size": 1
     },
     {
-        "name": "OutWit!",
-        "size": 1
+      "name": "OutWit!",
+      "size": 1
     },
     {
-        "name": "Penguins of Madagascar",
-        "size": 1
+      "name": "Penguins of Madagascar",
+      "size": 1
     },
     {
-        "name": "Pet Pals",
-        "size": 1
+      "name": "Pet Pals",
+      "size": 1
     },
     {
-        "name": "Princess and the Frog",
-        "size": 1
+      "name": "Princess and the Frog",
+      "size": 1
     },
     {
-        "name": "Ratatouille",
-        "size": 1
+      "name": "Ratatouille",
+      "size": 1
     },
     {
-        "name": "Reading with Phonics",
-        "size": 1
+      "name": "Reading with Phonics",
+      "size": 1
     },
     {
-        "name": "Rock the World",
-        "size": 1
+      "name": "Rock the World",
+      "size": 1
     },
     {
-        "name": "School House Rock! America Rock",
-        "size": 2
+      "name": "School House Rock! America Rock",
+      "size": 2
     },
     {
-        "name": "School House Rock! Grammar Rock",
-        "size": 2
+      "name": "School House Rock! Grammar Rock",
+      "size": 2
     },
     {
-        "name": "Scooby Doo!",
-        "size": 1
+      "name": "Scooby Doo!",
+      "size": 1
     },
     {
-        "name": "Scooby Doo! Spooky Snacks!",
-        "size": 0
+      "name": "Scooby Doo! Spooky Snacks!",
+      "size": 0
     },
     {
-        "name": "Sonic X",
-        "size": 1
+      "name": "Sonic X",
+      "size": 1
     },
     {
-        "name": "Spider-Man",
-        "size": 1
+      "name": "Spider-Man",
+      "size": 1
     },
     {
-        "name": "SpongeBob SquarePants Saves the Day",
-        "size": 1
+      "name": "SpongeBob SquarePants Saves the Day",
+      "size": 1
     },
     {
-        "name": "SpongeBob SquarePants Through The Wormhole",
-        "size": 0
+      "name": "SpongeBob SquarePants Through The Wormhole",
+      "size": 0
     },
     {
-        "name": "Star Wars Jedi Math",
-        "size": 1
+      "name": "Star Wars Jedi Math",
+      "size": 1
     },
     {
-        "name": "Star Wars Jedi Reading",
-        "size": 1
+      "name": "Star Wars Jedi Reading",
+      "size": 1
     },
     {
-        "name": "Talking WORDS Factory",
-        "size": 2
+      "name": "Talking WORDS Factory",
+      "size": 2
     },
     {
-        "name": "Tangled",
-        "size": 1
+      "name": "Tangled",
+      "size": 1
     },
     {
-        "name": "Thomas & Friends",
-        "size": 1
+      "name": "Thomas & Friends",
+      "size": 1
     },
     {
-        "name": "Top-Secret Personal Beeswax",
-        "size": 1
+      "name": "Top-Secret Personal Beeswax",
+      "size": 1
     },
     {
-        "name": "Toy Story 3",
-        "size": 1
+      "name": "Toy Story 3",
+      "size": 1
     },
     {
-        "name": "Up",
-        "size": 1
+      "name": "Up",
+      "size": 1
     },
     {
-        "name": "Wall-E",
-        "size": 1
+      "name": "Wall-E",
+      "size": 1
     },
     {
-        "name": "Wolverine and the X-Men",
-        "size": 1
+      "name": "Wolverine and the X-Men",
+      "size": 1
     },
     {
-        "name": "Word Chasers",
-        "size": 0
+      "name": "Word Chasers",
+      "size": 0
     },
     {
-        "name": "nihao kai-lan",
-        "size": 1
+      "name": "nihao kai-lan",
+      "size": 1
     }
-]
+  ]
+}

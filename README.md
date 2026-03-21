@@ -6,4 +6,4 @@ The `data` directory contains files with cartridge information stored as JSON. T
 
 The `filesystem` directory contains the data that the OSCR firmware uses. The contents of this folder are what you should place in the root directory of your SD card.
 
-The JSON files need "compiled" to a binary format called CRDB (Cartridge Reader Database) before the firmware can use them. For now, you can use the converter on OSCR.tools to do this. Other methods are in still in the works.
+The JSON files need "compiled" to a binary format called CRDB (Cartridge Reader Database) before the firmware can use them. The main firmware project builds these files during the build process.

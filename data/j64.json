@@ -1,614 +1,633 @@
-[
+{
+  "outfile": "j64",
+  "system": "JAGUAR",
+  "pio": "atarijaguar",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nid32/Nmapper/Nsize/Nsave/a100name",
+    "php": "NNNNNa100",
+    "python": ">LLLLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "id32": "int",
+    "mapper": "int",
+    "size": "int",
+    "save": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "Aircars (USA) (Beta) (1994-11-14)",
-        "crc32": "53E35744",
-        "size": 1,
-        "save": 0
+      "name": "Aircars (USA) (Beta) (1994-11-14)",
+      "crc32": "53E35744",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Alien vs Predator (World)",
-        "crc32": "DC187F82",
-        "size": 4,
-        "save": 0
+      "name": "Alien vs Predator (World)",
+      "crc32": "DC187F82",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Alien vs Predator (World) (Beta) (1993-08-18)",
-        "crc32": "3153D470",
-        "size": 4,
-        "save": 0
+      "name": "Alien vs Predator (World) (Beta) (1993-08-18)",
+      "crc32": "3153D470",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Alien vs Predator (World) (Beta) (1993-10-13)",
-        "crc32": "B4E7BC59",
-        "size": 4,
-        "save": 0
+      "name": "Alien vs Predator (World) (Beta) (1993-10-13)",
+      "crc32": "B4E7BC59",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Alien vs Predator (World) (v0.93) (Beta) (1994-04-08)",
-        "crc32": "E65DA590",
-        "size": 4,
-        "save": 0
+      "name": "Alien vs Predator (World) (v0.93) (Beta) (1994-04-08)",
+      "crc32": "E65DA590",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Arena Football '95 (World)",
-        "crc32": "199B9D83",
-        "size": 4,
-        "save": 0
+      "name": "Arena Football '95 (World)",
+      "crc32": "199B9D83",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Atari Karts (World)",
-        "crc32": "E28756DE",
-        "size": 4,
-        "save": 0
+      "name": "Atari Karts (World)",
+      "crc32": "E28756DE",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Atari Karts (World) (Beta)",
-        "crc32": "52C996E0",
-        "size": 4,
-        "save": 0
+      "name": "Atari Karts (World) (Beta)",
+      "crc32": "52C996E0",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Attack of the Mutant Penguins (World)",
-        "crc32": "CD5BF827",
-        "size": 2,
-        "save": 0
+      "name": "Attack of the Mutant Penguins (World)",
+      "crc32": "CD5BF827",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Barkley Shut Up and Jam (USA) (Beta)",
-        "crc32": "3A3B1FD2",
-        "size": 4,
-        "save": 0
+      "name": "Barkley Shut Up and Jam (USA) (Beta)",
+      "crc32": "3A3B1FD2",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Battle Sphere (World)",
-        "crc32": "5F2C2774",
-        "size": 4,
-        "save": 3
+      "name": "Battle Sphere (World)",
+      "crc32": "5F2C2774",
+      "size": 4,
+      "save": 3
     },
     {
-        "name": "Battle Sphere Gold (World)",
-        "crc32": "67F9AB3A",
-        "size": 4,
-        "save": 4
+      "name": "Battle Sphere Gold (World)",
+      "crc32": "67F9AB3A",
+      "size": 4,
+      "save": 4
     },
     {
-        "name": "Breakout 2000 (USA, Europe)",
-        "crc32": "B5604D40",
-        "size": 2,
-        "save": 0
+      "name": "Breakout 2000 (USA, Europe)",
+      "crc32": "B5604D40",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Breakout 2000 (USA, Europe) (Beta)",
-        "crc32": "20DBFF9F",
-        "size": 2,
-        "save": 0
+      "name": "Breakout 2000 (USA, Europe) (Beta)",
+      "crc32": "20DBFF9F",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Brutal Sports Football (World)",
-        "crc32": "BCB1A4BF",
-        "size": 2,
-        "save": 0
+      "name": "Brutal Sports Football (World)",
+      "crc32": "BCB1A4BF",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Bubsy in Fractured Furry Tales (World)",
-        "crc32": "2E17D5DA",
-        "size": 2,
-        "save": 0
+      "name": "Bubsy in Fractured Furry Tales (World)",
+      "crc32": "2E17D5DA",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Burn Out (World) (Demo 1)",
-        "crc32": "701E7BBE",
-        "size": 2,
-        "save": 0
+      "name": "Burn Out (World) (Demo 1)",
+      "crc32": "701E7BBE",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Burn Out (World) (Demo 2) (WCES 1995)",
-        "crc32": "0F698FB3",
-        "size": 2,
-        "save": 0
+      "name": "Burn Out (World) (Demo 2) (WCES 1995)",
+      "crc32": "0F698FB3",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Cannon Fodder (World)",
-        "crc32": "BDA405C6",
-        "size": 2,
-        "save": 0
+      "name": "Cannon Fodder (World)",
+      "crc32": "BDA405C6",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Checkered Flag (World)",
-        "crc32": "FA7775AE",
-        "size": 2,
-        "save": 0
+      "name": "Checkered Flag (World)",
+      "crc32": "FA7775AE",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Checkered Flag (World) (Beta) (CES 1993)",
-        "crc32": "CE94C0D5",
-        "size": 2,
-        "save": 0
+      "name": "Checkered Flag (World) (Beta) (CES 1993)",
+      "crc32": "CE94C0D5",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Club Drive (World)",
-        "crc32": "EEE8D61D",
-        "size": 2,
-        "save": 0
+      "name": "Club Drive (World)",
+      "crc32": "EEE8D61D",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Club Drive (World) (Beta)",
-        "crc32": "0E320385",
-        "size": 2,
-        "save": 0
+      "name": "Club Drive (World) (Beta)",
+      "crc32": "0E320385",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Cybermorph (World) (Beta) (1993-08-23)",
-        "crc32": "9EB389F9",
-        "size": 1,
-        "save": 0
+      "name": "Cybermorph (World) (Beta) (1993-08-23)",
+      "crc32": "9EB389F9",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Cybermorph (World) (Rev A)",
-        "crc32": "BDE67498",
-        "size": 1,
-        "save": 0
+      "name": "Cybermorph (World) (Rev A)",
+      "crc32": "BDE67498",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Cybermorph (World) (Rev B)",
-        "crc32": "ECF854E7",
-        "size": 1,
-        "save": 0
+      "name": "Cybermorph (World) (Rev B)",
+      "crc32": "ECF854E7",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Defender 2000 (World)",
-        "crc32": "27594C6A",
-        "size": 4,
-        "save": 0
+      "name": "Defender 2000 (World)",
+      "crc32": "27594C6A",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Defender 2000 (World) (Beta)",
-        "crc32": "952D07F0",
-        "size": 4,
-        "save": 0
+      "name": "Defender 2000 (World) (Beta)",
+      "crc32": "952D07F0",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Doom (World)",
-        "crc32": "5E2CDBC0",
-        "size": 4,
-        "save": 0
+      "name": "Doom (World)",
+      "crc32": "5E2CDBC0",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Double Dragon V - The Shadow Falls (World)",
-        "crc32": "348E6449",
-        "size": 2,
-        "save": 0
+      "name": "Double Dragon V - The Shadow Falls (World)",
+      "crc32": "348E6449",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Dragon - The Bruce Lee Story (World)",
-        "crc32": "8FEA5AB0",
-        "size": 2,
-        "save": 0
+      "name": "Dragon - The Bruce Lee Story (World)",
+      "crc32": "8FEA5AB0",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)",
-        "crc32": "A14F94AB",
-        "size": 2,
-        "save": 0
+      "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-09-26)",
+      "crc32": "A14F94AB",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)",
-        "crc32": "83C6ACC0",
-        "size": 2,
-        "save": 0
+      "name": "Dragon - The Bruce Lee Story (World) (Beta) (1994-10-06)",
+      "crc32": "83C6ACC0",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Evolution - Dino Dudes (World)",
-        "crc32": "0EC5369D",
-        "size": 2,
-        "save": 0
+      "name": "Evolution - Dino Dudes (World)",
+      "crc32": "0EC5369D",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
-        "crc32": "3615AF6A",
-        "size": 2,
-        "save": 0
+      "name": "Fever Pitch Soccer (World) (En,Fr,De,Es,It)",
+      "crc32": "3615AF6A",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Fight for Life (USA, Europe)",
-        "crc32": "B14C4753",
-        "size": 4,
-        "save": 0
+      "name": "Fight for Life (USA, Europe)",
+      "crc32": "B14C4753",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)",
-        "crc32": "59458199",
-        "size": 4,
-        "save": 0
+      "name": "Fight for Life (USA, Europe) (Beta) (1995-03-22)",
+      "crc32": "59458199",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)",
-        "crc32": "036A25E6",
-        "size": 4,
-        "save": 0
+      "name": "Fight for Life (USA, Europe) (Beta) (1995-09-07)",
+      "crc32": "036A25E6",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Flashback - The Quest for Identity (World) (En,Fr)",
-        "crc32": "DE55DCC7",
-        "size": 2,
-        "save": 0
+      "name": "Flashback - The Quest for Identity (World) (En,Fr)",
+      "crc32": "DE55DCC7",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Flip Out! (World)",
-        "crc32": "892BC67C",
-        "size": 2,
-        "save": 0
+      "name": "Flip Out! (World)",
+      "crc32": "892BC67C",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "High Voltage C Maze (USA) (Demo)",
-        "crc32": "25F79B1F",
-        "size": 2,
-        "save": 0
+      "name": "High Voltage C Maze (USA) (Demo)",
+      "crc32": "25F79B1F",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Hover Strike (World)",
-        "crc32": "4899628F",
-        "size": 2,
-        "save": 0
+      "name": "Hover Strike (World)",
+      "crc32": "4899628F",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Hyper Force (World)",
-        "crc32": "F0360DB3",
-        "size": 2,
-        "save": 0
+      "name": "Hyper Force (World)",
+      "crc32": "F0360DB3",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "I-War (USA, Europe)",
-        "crc32": "97EB4651",
-        "size": 2,
-        "save": 0
+      "name": "I-War (USA, Europe)",
+      "crc32": "97EB4651",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "I-War (USA, Europe) (Beta) (1995-10-20)",
-        "crc32": "5BFFA5AC",
-        "size": 2,
-        "save": 0
+      "name": "I-War (USA, Europe) (Beta) (1995-10-20)",
+      "crc32": "5BFFA5AC",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "International Sensible Soccer (World)",
-        "crc32": "5A101212",
-        "size": 2,
-        "save": 0
+      "name": "International Sensible Soccer (World)",
+      "crc32": "5A101212",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Iron Soldier (World)",
-        "crc32": "08F15576",
-        "size": 2,
-        "save": 0
+      "name": "Iron Soldier (World)",
+      "crc32": "08F15576",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Iron Soldier 2 (World)",
-        "crc32": "D6C19E34",
-        "size": 2,
-        "save": 0
+      "name": "Iron Soldier 2 (World)",
+      "crc32": "D6C19E34",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04)",
-        "crc32": "7733F701",
-        "size": 2,
-        "save": 0
+      "name": "Jack Nicklaus Cyber Golf (USA) (v0.02) (Proto) (1994-07-04)",
+      "crc32": "7733F701",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13)",
-        "crc32": "E20F0EEF",
-        "size": 1,
-        "save": 0
+      "name": "Jack Nicklaus Cyber Golf (USA) (v0.03) (Demo) (1995-01-13)",
+      "crc32": "E20F0EEF",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16)",
-        "crc32": "BE5E9EF1",
-        "size": 1,
-        "save": 0
+      "name": "Jack Nicklaus Cyber Golf (USA) (v0.04) (Demo) (1995-01-16)",
+      "crc32": "BE5E9EF1",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Jaguar Hockey Legends 2013 (World) (Unl)",
-        "crc32": "7E90046E",
-        "size": 4,
-        "save": 0
+      "name": "Jaguar Hockey Legends 2013 (World) (Unl)",
+      "crc32": "7E90046E",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Kasumi Ninja (World)",
-        "crc32": "0957A072",
-        "size": 4,
-        "save": 0
+      "name": "Kasumi Ninja (World)",
+      "crc32": "0957A072",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Kasumi Ninja (World) (v0.01) (Beta)",
-        "crc32": "EE9529EE",
-        "size": 4,
-        "save": 0
+      "name": "Kasumi Ninja (World) (v0.01) (Beta)",
+      "crc32": "EE9529EE",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24)",
-        "crc32": "3D6C5D44",
-        "size": 4,
-        "save": 0
+      "name": "Kasumi Ninja (World) (v0.29) (Beta) (1994-05-24)",
+      "crc32": "3D6C5D44",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Missile Command 3D (World)",
-        "crc32": "DA9C4162",
-        "size": 2,
-        "save": 0
+      "name": "Missile Command 3D (World)",
+      "crc32": "DA9C4162",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Missile Command VR (World) (Beta) (1995-07-05)",
-        "crc32": "5810CADB",
-        "size": 2,
-        "save": 0
+      "name": "Missile Command VR (World) (Beta) (1995-07-05)",
+      "crc32": "5810CADB",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "NBA Jam - Tournament Edition (USA, Europe)",
-        "crc32": "0AC83D77",
-        "size": 4,
-        "save": 0
+      "name": "NBA Jam - Tournament Edition (USA, Europe)",
+      "crc32": "0AC83D77",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Painter (World) (1995-12-29) (Unl)",
-        "crc32": "5F9EF174",
-        "size": 1,
-        "save": 0
+      "name": "Painter (World) (1995-12-29) (Unl)",
+      "crc32": "5F9EF174",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Phase Zero (World)",
-        "crc32": "7168B143",
-        "size": 2,
-        "save": 0
+      "name": "Phase Zero (World)",
+      "crc32": "7168B143",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Pinball Fantasies (World)",
-        "crc32": "5CFF14AB",
-        "size": 2,
-        "save": 0
+      "name": "Pinball Fantasies (World)",
+      "crc32": "5CFF14AB",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Pitfall - The Mayan Adventure (USA, Europe)",
-        "crc32": "817A2273",
-        "size": 4,
-        "save": 0
+      "name": "Pitfall - The Mayan Adventure (USA, Europe)",
+      "crc32": "817A2273",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)",
-        "crc32": "4E77A83C",
-        "size": 2,
-        "save": 0
+      "name": "Plucky Duck in Hollywood Hijinks (USA) (Proto) (1994-10-28)",
+      "crc32": "4E77A83C",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Power Drive Rally (World)",
-        "crc32": "1660F070",
-        "size": 2,
-        "save": 0
+      "name": "Power Drive Rally (World)",
+      "crc32": "1660F070",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Raiden (World)",
-        "crc32": "0509C85E",
-        "size": 2,
-        "save": 0
+      "name": "Raiden (World)",
+      "crc32": "0509C85E",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Raiden (World) (Rev A)",
-        "crc32": "31812799",
-        "size": 2,
-        "save": 0
+      "name": "Raiden (World) (Rev A)",
+      "crc32": "31812799",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Rayman (World)",
-        "crc32": "A9F8A00E",
-        "size": 4,
-        "save": 0
+      "name": "Rayman (World)",
+      "crc32": "A9F8A00E",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Rayman (World) (Beta 1)",
-        "crc32": "92743C49",
-        "size": 4,
-        "save": 0
+      "name": "Rayman (World) (Beta 1)",
+      "crc32": "92743C49",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Rayman (World) (Beta 2)",
-        "crc32": "254DD949",
-        "size": 4,
-        "save": 0
+      "name": "Rayman (World) (Beta 2)",
+      "crc32": "254DD949",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Ruiner Pinball (USA, Europe)",
-        "crc32": "5B6BB205",
-        "size": 2,
-        "save": 0
+      "name": "Ruiner Pinball (USA, Europe)",
+      "crc32": "5B6BB205",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "SkyCopter II (USA) (Proto)",
-        "crc32": "4F464FA5",
-        "size": 2,
-        "save": 0
+      "name": "SkyCopter II (USA) (Proto)",
+      "crc32": "4F464FA5",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Skyhammer (World)",
-        "crc32": "3C044941",
-        "size": 4,
-        "save": 0
+      "name": "Skyhammer (World)",
+      "crc32": "3C044941",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Slam Racer (USA) (Proto)",
-        "crc32": "E25FEC7C",
-        "size": 4,
-        "save": 0
+      "name": "Slam Racer (USA) (Proto)",
+      "crc32": "E25FEC7C",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Soccer Kid (World)",
-        "crc32": "732FFAB6",
-        "size": 2,
-        "save": 0
+      "name": "Soccer Kid (World)",
+      "crc32": "732FFAB6",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Space War 2000 (World)",
-        "crc32": "D821F5EB",
-        "size": 2,
-        "save": 0
+      "name": "Space War 2000 (World)",
+      "crc32": "D821F5EB",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Speedster II (USA) (Proto)",
-        "crc32": "F7CFE6E6",
-        "size": 2,
-        "save": 0
+      "name": "Speedster II (USA) (Proto)",
+      "crc32": "F7CFE6E6",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Super Burnout (World)",
-        "crc32": "6F8B2547",
-        "size": 2,
-        "save": 0
+      "name": "Super Burnout (World)",
+      "crc32": "6F8B2547",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Supercross 3D (USA, Europe)",
-        "crc32": "EC22F572",
-        "size": 2,
-        "save": 0
+      "name": "Supercross 3D (USA, Europe)",
+      "crc32": "EC22F572",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Syndicate (World)",
-        "crc32": "58272540",
-        "size": 2,
-        "save": 0
+      "name": "Syndicate (World)",
+      "crc32": "58272540",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Tempest 2000 (World)",
-        "crc32": "6B2B95AD",
-        "size": 2,
-        "save": 0
+      "name": "Tempest 2000 (World)",
+      "crc32": "6B2B95AD",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Thea Realm Fighters (USA) (Proto 1)",
-        "crc32": "85BE7E07",
-        "size": 4,
-        "save": 0
+      "name": "Thea Realm Fighters (USA) (Proto 1)",
+      "crc32": "85BE7E07",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Thea Realm Fighters (USA) (Proto 2)",
-        "crc32": "BB06D3C6",
-        "size": 4,
-        "save": 0
+      "name": "Thea Realm Fighters (USA) (Proto 2)",
+      "crc32": "BB06D3C6",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Theme Park (World)",
-        "crc32": "47EBC158",
-        "size": 2,
-        "save": 0
+      "name": "Theme Park (World)",
+      "crc32": "47EBC158",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Tiny Toon Adventures (USA) (Proto)",
-        "crc32": "F4ACBB04",
-        "size": 2,
-        "save": 0
+      "name": "Tiny Toon Adventures (USA) (Proto)",
+      "crc32": "F4ACBB04",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Total Carnage (USA) (Beta)",
-        "crc32": "8F80EDCF",
-        "size": 4,
-        "save": 0
+      "name": "Total Carnage (USA) (Beta)",
+      "crc32": "8F80EDCF",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Towers II - Plight of the Stargazer (USA, Europe)",
-        "crc32": "83A3FB5D",
-        "size": 2,
-        "save": 0
+      "name": "Towers II - Plight of the Stargazer (USA, Europe)",
+      "crc32": "83A3FB5D",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Trevor McFur in the Crescent Galaxy (World)",
-        "crc32": "95143668",
-        "size": 2,
-        "save": 0
+      "name": "Trevor McFur in the Crescent Galaxy (World)",
+      "crc32": "95143668",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Trevor McFur in the Crescent Galaxy (World) (Beta)",
-        "crc32": "0A055EE0",
-        "size": 2,
-        "save": 0
+      "name": "Trevor McFur in the Crescent Galaxy (World) (Beta)",
+      "crc32": "0A055EE0",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
-        "crc32": "1E451446",
-        "size": 2,
-        "save": 0
+      "name": "Trevor McFur in the Crescent Galaxy (World) (Rev A)",
+      "crc32": "1E451446",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Troy Aikman NFL Football (World)",
-        "crc32": "38A130ED",
-        "size": 2,
-        "save": 0
+      "name": "Troy Aikman NFL Football (World)",
+      "crc32": "38A130ED",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Ultimate Brain Games (USA) (Proto)",
-        "crc32": "8FB54827",
-        "size": 2,
-        "save": 0
+      "name": "Ultimate Brain Games (USA) (Proto)",
+      "crc32": "8FB54827",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Ultra Vortek (World)",
-        "crc32": "0F6A1C2C",
-        "size": 4,
-        "save": 0
+      "name": "Ultra Vortek (World)",
+      "crc32": "0F6A1C2C",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Ultra Vortex (World) (Beta) (1995-03-20)",
-        "crc32": "A27823D8",
-        "size": 4,
-        "save": 0
+      "name": "Ultra Vortex (World) (Beta) (1995-03-20)",
+      "crc32": "A27823D8",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Val d'Isere Skiing and Snowboarding (World)",
-        "crc32": "C9608717",
-        "size": 2,
-        "save": 0
+      "name": "Val d'Isere Skiing and Snowboarding (World)",
+      "crc32": "C9608717",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Virtual VCS (USA) (Proto)",
-        "crc32": "59A8863F",
-        "size": 1,
-        "save": 0
+      "name": "Virtual VCS (USA) (Proto)",
+      "crc32": "59A8863F",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "White Men Can't Jump (USA, Europe)",
-        "crc32": "14915F20",
-        "size": 4,
-        "save": 0
+      "name": "White Men Can't Jump (USA, Europe)",
+      "crc32": "14915F20",
+      "size": 4,
+      "save": 0
     },
     {
-        "name": "Wolfenstein 3D (World)",
-        "crc32": "E91BD644",
-        "size": 2,
-        "save": 0
+      "name": "Wolfenstein 3D (World)",
+      "crc32": "E91BD644",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Worms (USA, Europe)",
-        "crc32": "6EB774EB",
-        "size": 2,
-        "save": 0
+      "name": "Worms (USA, Europe)",
+      "crc32": "6EB774EB",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Zero 5 (USA) (Beta)",
-        "crc32": "691B54BA",
-        "size": 2,
-        "save": 0
+      "name": "Zero 5 (USA) (Beta)",
+      "crc32": "691B54BA",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Zool 2 (World)",
-        "crc32": "8975F48B",
-        "size": 2,
-        "save": 0
+      "name": "Zool 2 (World)",
+      "crc32": "8975F48B",
+      "size": 2,
+      "save": 0
     },
     {
-        "name": "Zoop (USA, Europe)",
-        "crc32": "C5562581",
-        "size": 1,
-        "save": 0
+      "name": "Zoop (USA, Europe)",
+      "crc32": "C5562581",
+      "size": 1,
+      "save": 0
     },
     {
-        "name": "Zzyorxx II (USA) (Demo)",
-        "crc32": "C8C7E4C7",
-        "size": 1,
-        "save": 0
+      "name": "Zzyorxx II (USA) (Demo)",
+      "crc32": "C8C7E4C7",
+      "size": 1,
+      "save": 0
     }
-]
+  ]
+}

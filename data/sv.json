@@ -1,428 +1,447 @@
-[
+{
+  "outfile": "sv",
+  "system": "SV",
+  "pio": "sv",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nid32/Nmapper/Nsize/Nsave/a100name",
+    "php": "NNNNNa100",
+    "python": ">LLLLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "id32": "int",
+    "mapper": "int",
+    "size": "int",
+    "save": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "2 in 1 - Block Buster + Cross High (USA, Europe)",
-        "crc32": "7E05D84F",
-        "id32": "057195A3",
-        "size": 64
+      "name": "2 in 1 - Block Buster + Cross High (USA, Europe)",
+      "crc32": "7E05D84F",
+      "id32": "057195A3",
+      "size": 64
     },
     {
-        "name": "2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)",
-        "crc32": "C1354952",
-        "id32": "21795D9D",
-        "size": 64
+      "name": "2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)",
+      "crc32": "C1354952",
+      "id32": "21795D9D",
+      "size": 64
     },
     {
-        "name": "Alien (USA, Europe)",
-        "crc32": "8DBB2C53",
-        "id32": "B587490C",
-        "size": 64
+      "name": "Alien (USA, Europe)",
+      "crc32": "8DBB2C53",
+      "id32": "B587490C",
+      "size": 64
     },
     {
-        "name": "Assembloids (World) (Aftermarket) (Unl)",
-        "crc32": "85A0E7C8",
-        "id32": "059EB9DC",
-        "size": 64
+      "name": "Assembloids (World) (Aftermarket) (Unl)",
+      "crc32": "85A0E7C8",
+      "id32": "059EB9DC",
+      "size": 64
     },
     {
-        "name": "Balloon Fight (USA, Europe)",
-        "crc32": "8188B755",
-        "id32": "F59A28E2",
-        "size": 64
+      "name": "Balloon Fight (USA, Europe)",
+      "crc32": "8188B755",
+      "id32": "F59A28E2",
+      "size": 64
     },
     {
-        "name": "Block Buster (USA, Europe)",
-        "crc32": "0A3DB285",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Block Buster (USA, Europe)",
+      "crc32": "0A3DB285",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Brain Power (USA, Europe)",
-        "crc32": "5E6706B9",
-        "id32": "69BED4DE",
-        "size": 64
+      "name": "Brain Power (USA, Europe)",
+      "crc32": "5E6706B9",
+      "id32": "69BED4DE",
+      "size": 64
     },
     {
-        "name": "Bubble World (USA, Europe)",
-        "crc32": "E5C2CFB5",
-        "id32": "137FA3A1",
-        "size": 64
+      "name": "Bubble World (USA, Europe)",
+      "crc32": "E5C2CFB5",
+      "id32": "137FA3A1",
+      "size": 64
     },
     {
-        "name": "Carrier (USA, Europe)",
-        "crc32": "5ECFB674",
-        "id32": "A74DF889",
-        "size": 32
+      "name": "Carrier (USA, Europe)",
+      "crc32": "5ECFB674",
+      "id32": "A74DF889",
+      "size": 32
     },
     {
-        "name": "Cave Wonders (USA, Europe)",
-        "crc32": "E0266CE7",
-        "id32": "B61BDFB4",
-        "size": 64
+      "name": "Cave Wonders (USA, Europe)",
+      "crc32": "E0266CE7",
+      "id32": "B61BDFB4",
+      "size": 64
     },
     {
-        "name": "Challenger Tank (USA, Europe)",
-        "crc32": "C92382CE",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Challenger Tank (USA, Europe)",
+      "crc32": "C92382CE",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Chimera (USA, Europe)",
-        "crc32": "4A458AA8",
-        "id32": "FFA4C239",
-        "size": 64
+      "name": "Chimera (USA, Europe)",
+      "crc32": "4A458AA8",
+      "id32": "FFA4C239",
+      "size": 64
     },
     {
-        "name": "Chinese Checkers (USA, Europe)",
-        "crc32": "EDED8AEC",
-        "id32": "9574D04D",
-        "size": 64
+      "name": "Chinese Checkers (USA, Europe)",
+      "crc32": "EDED8AEC",
+      "id32": "9574D04D",
+      "size": 64
     },
     {
-        "name": "Classic Casino (USA, Europe)",
-        "crc32": "72A96443",
-        "id32": "3E796E26",
-        "size": 64
+      "name": "Classic Casino (USA, Europe)",
+      "crc32": "72A96443",
+      "id32": "3E796E26",
+      "size": 64
     },
     {
-        "name": "Climber (USA, Europe)",
-        "crc32": "12C45309",
-        "id32": "52CC2CD7",
-        "size": 32
+      "name": "Climber (USA, Europe)",
+      "crc32": "12C45309",
+      "id32": "52CC2CD7",
+      "size": 32
     },
     {
-        "name": "Cross High (USA, Europe)",
-        "crc32": "1E6836A2",
-        "id32": "0176ECF0",
-        "size": 64
+      "name": "Cross High (USA, Europe)",
+      "crc32": "1E6836A2",
+      "id32": "0176ECF0",
+      "size": 64
     },
     {
-        "name": "Crystball (USA, Europe)",
-        "crc32": "10DCC110",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Crystball (USA, Europe)",
+      "crc32": "10DCC110",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Dancing Block (USA, Europe)",
-        "crc32": "345CA42A",
-        "id32": "D08490A7",
-        "size": 32
+      "name": "Dancing Block (USA, Europe)",
+      "crc32": "345CA42A",
+      "id32": "D08490A7",
+      "size": 32
     },
     {
-        "name": "Delta Hero (USA, Europe)",
-        "crc32": "32CCDF89",
-        "id32": "4EFE40D0",
-        "size": 64
+      "name": "Delta Hero (USA, Europe)",
+      "crc32": "32CCDF89",
+      "id32": "4EFE40D0",
+      "size": 64
     },
     {
-        "name": "Dream World (USA, Europe)",
-        "crc32": "DB0F463F",
-        "id32": "8DD1E2E9",
-        "size": 64
+      "name": "Dream World (USA, Europe)",
+      "crc32": "DB0F463F",
+      "id32": "8DD1E2E9",
+      "size": 64
     },
     {
-        "name": "Eagle Plan (USA, Europe)",
-        "crc32": "01CB8364",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Eagle Plan (USA, Europe)",
+      "crc32": "01CB8364",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Earth Defender (USA, Europe)",
-        "crc32": "A6CBB074",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Earth Defender (USA, Europe)",
+      "crc32": "A6CBB074",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Fatal Craft (USA, Europe)",
-        "crc32": "917CAB48",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Fatal Craft (USA, Europe)",
+      "crc32": "917CAB48",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Final Combat (USA, Europe)",
-        "crc32": "2861DE5E",
-        "id32": "A1DBD9A6",
-        "size": 32
+      "name": "Final Combat (USA, Europe)",
+      "crc32": "2861DE5E",
+      "id32": "A1DBD9A6",
+      "size": 32
     },
     {
-        "name": "Galactic Crusader (USA, Europe)",
-        "crc32": "B494BC5C",
-        "id32": "DB41A00C",
-        "size": 64
+      "name": "Galactic Crusader (USA, Europe)",
+      "crc32": "B494BC5C",
+      "id32": "DB41A00C",
+      "size": 64
     },
     {
-        "name": "Galaxy Fighter (USA, Europe)",
-        "crc32": "581703BE",
-        "id32": "083694D0",
-        "size": 64
+      "name": "Galaxy Fighter (USA, Europe)",
+      "crc32": "581703BE",
+      "id32": "083694D0",
+      "size": 64
     },
     {
-        "name": "Grand Prix (USA, Europe)",
-        "crc32": "CEF3F295",
-        "id32": "E8F8829F",
-        "size": 64
+      "name": "Grand Prix (USA, Europe)",
+      "crc32": "CEF3F295",
+      "id32": "E8F8829F",
+      "size": 64
     },
     {
-        "name": "Happy Pairs (USA, Europe)",
-        "crc32": "112F5EED",
-        "id32": "089CC77D",
-        "size": 64
+      "name": "Happy Pairs (USA, Europe)",
+      "crc32": "112F5EED",
+      "id32": "089CC77D",
+      "size": 64
     },
     {
-        "name": "Happy Race (USA, Europe)",
-        "crc32": "552AFA89",
-        "id32": "50376A85",
-        "size": 64
+      "name": "Happy Race (USA, Europe)",
+      "crc32": "552AFA89",
+      "id32": "50376A85",
+      "size": 64
     },
     {
-        "name": "Hash Blocks (USA, Europe)",
-        "crc32": "6BD7C885",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Hash Blocks (USA, Europe)",
+      "crc32": "6BD7C885",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Hero Hawk (USA, Europe)",
-        "crc32": "99BF6CF5",
-        "id32": "E69938C1",
-        "size": 64
+      "name": "Hero Hawk (USA, Europe)",
+      "crc32": "99BF6CF5",
+      "id32": "E69938C1",
+      "size": 64
     },
     {
-        "name": "Hero Kid (USA, Europe)",
-        "crc32": "25DDD6E1",
-        "id32": "162F0753",
-        "size": 64
+      "name": "Hero Kid (USA, Europe)",
+      "crc32": "25DDD6E1",
+      "id32": "162F0753",
+      "size": 64
     },
     {
-        "name": "Honey Bee (USA, Europe)",
-        "crc32": "E856875A",
-        "id32": "1961B97C",
-        "size": 64
+      "name": "Honey Bee (USA, Europe)",
+      "crc32": "E856875A",
+      "id32": "1961B97C",
+      "size": 64
     },
     {
-        "name": "Jacky Lucky (USA, Europe)",
-        "crc32": "7D8A607F",
-        "id32": "ACFF2095",
-        "size": 64
+      "name": "Jacky Lucky (USA, Europe)",
+      "crc32": "7D8A607F",
+      "id32": "ACFF2095",
+      "size": 64
     },
     {
-        "name": "Jaguar Bomber (USA, Europe)",
-        "crc32": "AA4372D4",
-        "id32": "6F0A43E8",
-        "size": 64
+      "name": "Jaguar Bomber (USA, Europe)",
+      "crc32": "AA4372D4",
+      "id32": "6F0A43E8",
+      "size": 64
     },
     {
-        "name": "John Adventure (USA, Europe)",
-        "crc32": "E9EA3AE0",
-        "id32": "874EEC5A",
-        "size": 64
+      "name": "John Adventure (USA, Europe)",
+      "crc32": "E9EA3AE0",
+      "id32": "874EEC5A",
+      "size": 64
     },
     {
-        "name": "Journey to the West (USA)",
-        "crc32": "9FB4DB9A",
-        "id32": "B1F9E5FE",
-        "size": 51
+      "name": "Journey to the West (USA)",
+      "crc32": "9FB4DB9A",
+      "id32": "B1F9E5FE",
+      "size": 51
     },
     {
-        "name": "Juggler (USA, Europe)",
-        "crc32": "32E68D6F",
-        "id32": "D0CA45AE",
-        "size": 64
+      "name": "Juggler (USA, Europe)",
+      "crc32": "32E68D6F",
+      "id32": "D0CA45AE",
+      "size": 64
     },
     {
-        "name": "Kabi Island - Gold in Island (USA, Europe)",
-        "crc32": "2BC03096",
-        "id32": "C723789D",
-        "size": 64
+      "name": "Kabi Island - Gold in Island (USA, Europe)",
+      "crc32": "2BC03096",
+      "id32": "C723789D",
+      "size": 64
     },
     {
-        "name": "Kitchen War (USA, Europe)",
-        "crc32": "20225F5C",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Kitchen War (USA, Europe)",
+      "crc32": "20225F5C",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Kung-Fu Street (USA, Europe)",
-        "crc32": "7DAED2EB",
-        "id32": "8D2E613A",
-        "size": 64
+      "name": "Kung-Fu Street (USA, Europe)",
+      "crc32": "7DAED2EB",
+      "id32": "8D2E613A",
+      "size": 64
     },
     {
-        "name": "Linear Racing (USA, Europe)",
-        "crc32": "6F8ABAF9",
-        "id32": "42DE0B39",
-        "size": 64
+      "name": "Linear Racing (USA, Europe)",
+      "crc32": "6F8ABAF9",
+      "id32": "42DE0B39",
+      "size": 64
     },
     {
-        "name": "Magincross (USA, Europe)",
-        "crc32": "E406A91C",
-        "id32": "C64A27A7",
-        "size": 64
+      "name": "Magincross (USA, Europe)",
+      "crc32": "E406A91C",
+      "id32": "C64A27A7",
+      "size": 64
     },
     {
-        "name": "Majong (USA, Europe)",
-        "crc32": "96E2E6D7",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Majong (USA, Europe)",
+      "crc32": "96E2E6D7",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Matta Blatta (USA, Europe)",
-        "crc32": "21864295",
-        "id32": "F846E93F",
-        "size": 64
+      "name": "Matta Blatta (USA, Europe)",
+      "crc32": "21864295",
+      "id32": "F846E93F",
+      "size": 64
     },
     {
-        "name": "Olympic Trials (USA, Europe)",
-        "crc32": "85DC8111",
-        "id32": "1DFFC61C",
-        "size": 64
+      "name": "Olympic Trials (USA, Europe)",
+      "crc32": "85DC8111",
+      "id32": "1DFFC61C",
+      "size": 64
     },
     {
-        "name": "P-52 Sea Battle (USA, Europe)",
-        "crc32": "748F9DAE",
-        "id32": "FDB5A1D1",
-        "size": 64
+      "name": "P-52 Sea Battle (USA, Europe)",
+      "crc32": "748F9DAE",
+      "id32": "FDB5A1D1",
+      "size": 64
     },
     {
-        "name": "PacBoy & Mouse (USA, Europe)",
-        "crc32": "1A89AC88",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "PacBoy & Mouse (USA, Europe)",
+      "crc32": "1A89AC88",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Pacific Battle (USA, Europe)",
-        "crc32": "E5DCE795",
-        "id32": "D26572CA",
-        "size": 64
+      "name": "Pacific Battle (USA, Europe)",
+      "crc32": "E5DCE795",
+      "id32": "D26572CA",
+      "size": 64
     },
     {
-        "name": "Penguin Hideout (USA, Europe)",
-        "crc32": "FE5F9774",
-        "id32": "16D33C46",
-        "size": 32
+      "name": "Penguin Hideout (USA, Europe)",
+      "crc32": "FE5F9774",
+      "id32": "16D33C46",
+      "size": 32
     },
     {
-        "name": "Police Bust (USA, Europe)",
-        "crc32": "531F0B51",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Police Bust (USA, Europe)",
+      "crc32": "531F0B51",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Popo Team (USA, Europe)",
-        "crc32": "E11A756C",
-        "id32": "9DF52936",
-        "size": 64
+      "name": "Popo Team (USA, Europe)",
+      "crc32": "E11A756C",
+      "id32": "9DF52936",
+      "size": 64
     },
     {
-        "name": "Pyramid (USA, Europe)",
-        "crc32": "E0BFE163",
-        "id32": "74388E90",
-        "size": 32
+      "name": "Pyramid (USA, Europe)",
+      "crc32": "E0BFE163",
+      "id32": "74388E90",
+      "size": 32
     },
     {
-        "name": "Recycle Design (USA, Europe)",
-        "crc32": "C36BD216",
-        "id32": "5A5C19A8",
-        "size": 64
+      "name": "Recycle Design (USA, Europe)",
+      "crc32": "C36BD216",
+      "id32": "5A5C19A8",
+      "size": 64
     },
     {
-        "name": "SSSnake (USA, Europe)",
-        "crc32": "BE9B6F10",
-        "id32": "8EA0C5AB",
-        "size": 64
+      "name": "SSSnake (USA, Europe)",
+      "crc32": "BE9B6F10",
+      "id32": "8EA0C5AB",
+      "size": 64
     },
     {
-        "name": "Scaffolder (USA, Europe)",
-        "crc32": "46FB22C5",
-        "id32": "3B167A03",
-        "size": 64
+      "name": "Scaffolder (USA, Europe)",
+      "crc32": "46FB22C5",
+      "id32": "3B167A03",
+      "size": 64
     },
     {
-        "name": "Soccer Champion (USA, Europe)",
-        "crc32": "45204DC4",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Soccer Champion (USA, Europe)",
+      "crc32": "45204DC4",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Sonny X'Press (USA, Europe)",
-        "crc32": "C99B985A",
-        "id32": "ADC6B8C6",
-        "size": 64
+      "name": "Sonny X'Press (USA, Europe)",
+      "crc32": "C99B985A",
+      "id32": "ADC6B8C6",
+      "size": 64
     },
     {
-        "name": "Space Fighter (USA, Europe)",
-        "crc32": "7CD650C8",
-        "id32": "75FE30AA",
-        "size": 64
+      "name": "Space Fighter (USA, Europe)",
+      "crc32": "7CD650C8",
+      "id32": "75FE30AA",
+      "size": 64
     },
     {
-        "name": "Super Block (USA, Europe)",
-        "crc32": "02E2C7AD",
-        "id32": "5F1DD5D7",
-        "size": 32
+      "name": "Super Block (USA, Europe)",
+      "crc32": "02E2C7AD",
+      "id32": "5F1DD5D7",
+      "size": 32
     },
     {
-        "name": "Super Kong (USA, Europe)",
-        "crc32": "59C7FF64",
-        "id32": "3438D914",
-        "size": 64
+      "name": "Super Kong (USA, Europe)",
+      "crc32": "59C7FF64",
+      "id32": "3438D914",
+      "size": 64
     },
     {
-        "name": "Super Pang (USA, Europe)",
-        "crc32": "181D12DD",
-        "id32": "653576B2",
-        "size": 64
+      "name": "Super Pang (USA, Europe)",
+      "crc32": "181D12DD",
+      "id32": "653576B2",
+      "size": 64
     },
     {
-        "name": "TV-Link (USA, Europe)",
-        "crc32": "AF3EA0DD",
-        "id32": "96C646A2",
-        "size": 32
+      "name": "TV-Link (USA, Europe)",
+      "crc32": "AF3EA0DD",
+      "id32": "96C646A2",
+      "size": 32
     },
     {
-        "name": "Tasac 2010 (USA, Europe)",
-        "crc32": "3D5F3964",
-        "id32": "9B451BB4",
-        "size": 64
+      "name": "Tasac 2010 (USA, Europe)",
+      "crc32": "3D5F3964",
+      "id32": "9B451BB4",
+      "size": 64
     },
     {
-        "name": "Tennis Pro '92 (USA, Europe)",
-        "crc32": "EAA08104",
-        "id32": "22802ED1",
-        "size": 64
+      "name": "Tennis Pro '92 (USA, Europe)",
+      "crc32": "EAA08104",
+      "id32": "22802ED1",
+      "size": 64
     },
     {
-        "name": "Tennis Pro '92 (USA, Europe) (Alt)",
-        "crc32": "BD004CB7",
-        "id32": "22802ED1",
-        "size": 64
+      "name": "Tennis Pro '92 (USA, Europe) (Alt)",
+      "crc32": "BD004CB7",
+      "id32": "22802ED1",
+      "size": 64
     },
     {
-        "name": "Thunder Shooting (USA, Europe)",
-        "crc32": "AD147842",
-        "id32": "73276EBC",
-        "size": 64
+      "name": "Thunder Shooting (USA, Europe)",
+      "crc32": "AD147842",
+      "id32": "73276EBC",
+      "size": 64
     },
     {
-        "name": "Treasure Hunter (USA, Europe)",
-        "crc32": "DB35B809",
-        "id32": "B2AA7578",
-        "size": 64
+      "name": "Treasure Hunter (USA, Europe)",
+      "crc32": "DB35B809",
+      "id32": "B2AA7578",
+      "size": 64
     },
     {
-        "name": "Treasure Hunter (USA, Europe) (Rev 1)",
-        "crc32": "69068337",
-        "id32": "3E796E26",
-        "size": 64
+      "name": "Treasure Hunter (USA, Europe) (Rev 1)",
+      "crc32": "69068337",
+      "id32": "3E796E26",
+      "size": 64
     },
     {
-        "name": "Untouchable (USA, Europe)",
-        "crc32": "DB3FE76A",
-        "id32": "9B4B4770",
-        "size": 64
+      "name": "Untouchable (USA, Europe)",
+      "crc32": "DB3FE76A",
+      "id32": "9B4B4770",
+      "size": 64
     },
     {
-        "name": "Witty Cat (USA, Europe)",
-        "crc32": "24A115F9",
-        "id32": "964FBC96",
-        "size": 64
+      "name": "Witty Cat (USA, Europe)",
+      "crc32": "24A115F9",
+      "id32": "964FBC96",
+      "size": 64
     }
-]
+  ]
+}

@@ -1,438 +1,455 @@
-[
+{
+  "outfile": "trs",
+  "system": "TRS80",
+  "pio": "trs80",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "7 Card Stud",
-        "size": 2
+      "name": "7 Card Stud",
+      "size": 2
     },
     {
-        "name": "A Mazing World of Malcom Mortar",
-        "size": 4
+      "name": "A Mazing World of Malcom Mortar",
+      "size": 4
     },
     {
-        "name": "Androne",
-        "size": 2
+      "name": "Androne",
+      "size": 2
     },
     {
-        "name": "Appliance and Light Controller",
-        "size": 4
+      "name": "Appliance and Light Controller",
+      "size": 4
     },
     {
-        "name": "Arkanoid (Coco 1-2)",
-        "size": 4
+      "name": "Arkanoid (Coco 1-2)",
+      "size": 4
     },
     {
-        "name": "Arkanoid (Coco 3)",
-        "size": 5
+      "name": "Arkanoid (Coco 3)",
+      "size": 5
     },
     {
-        "name": "Art Gallery",
-        "size": 1
+      "name": "Art Gallery",
+      "size": 1
     },
     {
-        "name": "Atom",
-        "size": 4
+      "name": "Atom",
+      "size": 4
     },
     {
-        "name": "Audio Spectrum Analyzer",
-        "size": 0
+      "name": "Audio Spectrum Analyzer",
+      "size": 0
     },
     {
-        "name": "BASIC AID",
-        "size": 0
+      "name": "BASIC AID",
+      "size": 0
     },
     {
-        "name": "Backgammon",
-        "size": 1
+      "name": "Backgammon",
+      "size": 1
     },
     {
-        "name": "Bingo Math",
-        "size": 1
+      "name": "Bingo Math",
+      "size": 1
     },
     {
-        "name": "Bridge Tutor I",
-        "size": 2
+      "name": "Bridge Tutor I",
+      "size": 2
     },
     {
-        "name": "Bustout",
-        "size": 1
+      "name": "Bustout",
+      "size": 1
     },
     {
-        "name": "Canyon Climber",
-        "size": 2
+      "name": "Canyon Climber",
+      "size": 2
     },
     {
-        "name": "Castle Guard",
-        "size": 1
+      "name": "Castle Guard",
+      "size": 1
     },
     {
-        "name": "Castle of Tharoggad",
-        "size": 4
+      "name": "Castle of Tharoggad",
+      "size": 4
     },
     {
-        "name": "Checker King",
-        "size": 1
+      "name": "Checker King",
+      "size": 1
     },
     {
-        "name": "Clowns & Balloons",
-        "size": 2
+      "name": "Clowns & Balloons",
+      "size": 2
     },
     {
-        "name": "Coco Tuner",
-        "size": 1
+      "name": "Coco Tuner",
+      "size": 1
     },
     {
-        "name": "Color Baseball",
-        "size": 2
+      "name": "Color Baseball",
+      "size": 2
     },
     {
-        "name": "Color Computer Disk BASIC",
-        "size": 2
+      "name": "Color Computer Disk BASIC",
+      "size": 2
     },
     {
-        "name": "Color Cubes",
-        "size": 1
+      "name": "Color Cubes",
+      "size": 1
     },
     {
-        "name": "Color File",
-        "size": 1
+      "name": "Color File",
+      "size": 1
     },
     {
-        "name": "Color File II",
-        "size": 4
+      "name": "Color File II",
+      "size": 4
     },
     {
-        "name": "Color Forth",
-        "size": 3
+      "name": "Color Forth",
+      "size": 3
     },
     {
-        "name": "Color Logo",
-        "size": 2
+      "name": "Color Logo",
+      "size": 2
     },
     {
-        "name": "Color Robot Battle",
-        "size": 2
+      "name": "Color Robot Battle",
+      "size": 2
     },
     {
-        "name": "Color Scripsit",
-        "size": 2
+      "name": "Color Scripsit",
+      "size": 2
     },
     {
-        "name": "Color Scripsit II",
-        "size": 4
+      "name": "Color Scripsit II",
+      "size": 4
     },
     {
-        "name": "Crosswords",
-        "size": 1
+      "name": "Crosswords",
+      "size": 1
     },
     {
-        "name": "Cyrus World Class Chess",
-        "size": 4
+      "name": "Cyrus World Class Chess",
+      "size": 4
     },
     {
-        "name": "DON-PAN",
-        "size": 2
+      "name": "DON-PAN",
+      "size": 2
     },
     {
-        "name": "Deluxe RS-232 Program Pak",
-        "size": 1
+      "name": "Deluxe RS-232 Program Pak",
+      "size": 1
     },
     {
-        "name": "Demolition Derby",
-        "size": 2
+      "name": "Demolition Derby",
+      "size": 2
     },
     {
-        "name": "Demon Attack",
-        "size": 4
+      "name": "Demon Attack",
+      "size": 4
     },
     {
-        "name": "Diagnostics",
-        "size": 0
+      "name": "Diagnostics",
+      "size": 0
     },
     {
-        "name": "Diagnostics v2.0",
-        "size": 0
+      "name": "Diagnostics v2.0",
+      "size": 0
     },
     {
-        "name": "Dino Wars",
-        "size": 2
+      "name": "Dino Wars",
+      "size": 2
     },
     {
-        "name": "Direct Connect Modem Pak",
-        "size": 2
+      "name": "Direct Connect Modem Pak",
+      "size": 2
     },
     {
-        "name": "Doodle Bug (Computerware)",
-        "size": 4
+      "name": "Doodle Bug (Computerware)",
+      "size": 4
     },
     {
-        "name": "Doodle Bug (Computerware) (Buff\/Green)",
-        "size": 2
+      "name": "Doodle Bug (Computerware) (Buff\/Green)",
+      "size": 2
     },
     {
-        "name": "Doodle Bug (Dragon Data Ltd)",
-        "size": 2
+      "name": "Doodle Bug (Dragon Data Ltd)",
+      "size": 2
     },
     {
-        "name": "Doubleback",
-        "size": 1
+      "name": "Doubleback",
+      "size": 1
     },
     {
-        "name": "Downland",
-        "size": 2
+      "name": "Downland",
+      "size": 2
     },
     {
-        "name": "Dragon Fire",
-        "size": 4
+      "name": "Dragon Fire",
+      "size": 4
     },
     {
-        "name": "Dungeons of Daggorath",
-        "size": 2
+      "name": "Dungeons of Daggorath",
+      "size": 2
     },
     {
-        "name": "EDTASM+",
-        "size": 4
+      "name": "EDTASM+",
+      "size": 4
     },
     {
-        "name": "Facemaker",
-        "size": 2
+      "name": "Facemaker",
+      "size": 2
     },
     {
-        "name": "Football",
-        "size": 2
+      "name": "Football",
+      "size": 2
     },
     {
-        "name": "Fraction Fever",
-        "size": 2
+      "name": "Fraction Fever",
+      "size": 2
     },
     {
-        "name": "GFL Championship Football II",
-        "size": 5
+      "name": "GFL Championship Football II",
+      "size": 5
     },
     {
-        "name": "Galactic Attack",
-        "size": 1
+      "name": "Galactic Attack",
+      "size": 1
     },
     {
-        "name": "Gin Champion",
-        "size": 2
+      "name": "Gin Champion",
+      "size": 2
     },
     {
-        "name": "Gomoku-Renju",
-        "size": 2
+      "name": "Gomoku-Renju",
+      "size": 2
     },
     {
-        "name": "Graphic Pak",
-        "size": 4
+      "name": "Graphic Pak",
+      "size": 4
     },
     {
-        "name": "Handyman",
-        "size": 1
+      "name": "Handyman",
+      "size": 1
     },
     {
-        "name": "JDOS v1.08\/v1.10\/v1.11",
-        "size": 2
+      "name": "JDOS v1.08\/v1.10\/v1.11",
+      "size": 2
     },
     {
-        "name": "JDOS v1.23",
-        "size": 4
+      "name": "JDOS v1.23",
+      "size": 4
     },
     {
-        "name": "Kids on Keys",
-        "size": 2
+      "name": "Kids on Keys",
+      "size": 2
     },
     {
-        "name": "Kindercomp",
-        "size": 2
+      "name": "Kindercomp",
+      "size": 2
     },
     {
-        "name": "Math Tutor",
-        "size": 4
+      "name": "Math Tutor",
+      "size": 4
     },
     {
-        "name": "Mega-Bug",
-        "size": 2
+      "name": "Mega-Bug",
+      "size": 2
     },
     {
-        "name": "Micro Chess v2.0",
-        "size": 2
+      "name": "Micro Chess v2.0",
+      "size": 2
     },
     {
-        "name": "Micro Painter",
-        "size": 1
+      "name": "Micro Painter",
+      "size": 1
     },
     {
-        "name": "Microbes",
-        "size": 1
+      "name": "Microbes",
+      "size": 1
     },
     {
-        "name": "Mind-Roll",
-        "size": 5
+      "name": "Mind-Roll",
+      "size": 5
     },
     {
-        "name": "Monster Maze",
-        "size": 1
+      "name": "Monster Maze",
+      "size": 1
     },
     {
-        "name": "Music",
-        "size": 1
+      "name": "Music",
+      "size": 1
     },
     {
-        "name": "Orchestra 90-CC",
-        "size": 2
+      "name": "Orchestra 90-CC",
+      "size": 2
     },
     {
-        "name": "Panic Button",
-        "size": 2
+      "name": "Panic Button",
+      "size": 2
     },
     {
-        "name": "Personal Finance",
-        "size": 2
+      "name": "Personal Finance",
+      "size": 2
     },
     {
-        "name": "Personal Finance II",
-        "size": 2
+      "name": "Personal Finance II",
+      "size": 2
     },
     {
-        "name": "Pinball",
-        "size": 1
+      "name": "Pinball",
+      "size": 1
     },
     {
-        "name": "Polaris",
-        "size": 1
+      "name": "Polaris",
+      "size": 1
     },
     {
-        "name": "Poltergeist",
-        "size": 2
+      "name": "Poltergeist",
+      "size": 2
     },
     {
-        "name": "Popcorn",
-        "size": 0
+      "name": "Popcorn",
+      "size": 0
     },
     {
-        "name": "Predator",
-        "size": 6
+      "name": "Predator",
+      "size": 6
     },
     {
-        "name": "Project Nebula",
-        "size": 2
+      "name": "Project Nebula",
+      "size": 2
     },
     {
-        "name": "Quasar Commander",
-        "size": 1
+      "name": "Quasar Commander",
+      "size": 1
     },
     {
-        "name": "RAD Warrior",
-        "size": 5
+      "name": "RAD Warrior",
+      "size": 5
     },
     {
-        "name": "Rampage!",
-        "size": 5
+      "name": "Rampage!",
+      "size": 5
     },
     {
-        "name": "Reactoid",
-        "size": 1
+      "name": "Reactoid",
+      "size": 1
     },
     {
-        "name": "Robocop",
-        "size": 7
+      "name": "Robocop",
+      "size": 7
     },
     {
-        "name": "Roman Checkers",
-        "size": 2
+      "name": "Roman Checkers",
+      "size": 2
     },
     {
-        "name": "SDS80C",
-        "size": 2
+      "name": "SDS80C",
+      "size": 2
     },
     {
-        "name": "Shanghai",
-        "size": 4
+      "name": "Shanghai",
+      "size": 4
     },
     {
-        "name": "Shooting Gallery",
-        "size": 2
+      "name": "Shooting Gallery",
+      "size": 2
     },
     {
-        "name": "Silpheed (Coco 1-2)",
-        "size": 4
+      "name": "Silpheed (Coco 1-2)",
+      "size": 4
     },
     {
-        "name": "Silpheed (Coco 3)",
-        "size": 5
+      "name": "Silpheed (Coco 3)",
+      "size": 5
     },
     {
-        "name": "Skiing",
-        "size": 2
+      "name": "Skiing",
+      "size": 2
     },
     {
-        "name": "Slay the Nereis",
-        "size": 2
+      "name": "Slay the Nereis",
+      "size": 2
     },
     {
-        "name": "Soko-Ban",
-        "size": 4
+      "name": "Soko-Ban",
+      "size": 4
     },
     {
-        "name": "Space Assault",
-        "size": 1
+      "name": "Space Assault",
+      "size": 1
     },
     {
-        "name": "Spectaculator",
-        "size": 2
+      "name": "Spectaculator",
+      "size": 2
     },
     {
-        "name": "Spidercide",
-        "size": 1
+      "name": "Spidercide",
+      "size": 1
     },
     {
-        "name": "Springster",
-        "size": 4
+      "name": "Springster",
+      "size": 4
     },
     {
-        "name": "Starblaze",
-        "size": 2
+      "name": "Starblaze",
+      "size": 2
     },
     {
-        "name": "Stellar Lifeline",
-        "size": 2
+      "name": "Stellar Lifeline",
+      "size": 2
     },
     {
-        "name": "Super Logo",
-        "size": 4
+      "name": "Super Logo",
+      "size": 4
     },
     {
-        "name": "Super Pitfall",
-        "size": 5
+      "name": "Super Pitfall",
+      "size": 5
     },
     {
-        "name": "Temple of ROM",
-        "size": 2
+      "name": "Temple of ROM",
+      "size": 2
     },
     {
-        "name": "Tennis",
-        "size": 1
+      "name": "Tennis",
+      "size": 1
     },
     {
-        "name": "Tetris",
-        "size": 4
+      "name": "Tetris",
+      "size": 4
     },
     {
-        "name": "Thexder",
-        "size": 4
+      "name": "Thexder",
+      "size": 4
     },
     {
-        "name": "TypeMate",
-        "size": 4
+      "name": "TypeMate",
+      "size": 4
     },
     {
-        "name": "Typing Tutor",
-        "size": 1
+      "name": "Typing Tutor",
+      "size": 1
     },
     {
-        "name": "Videotex",
-        "size": 0
+      "name": "Videotex",
+      "size": 0
     },
     {
-        "name": "Wildcatting",
-        "size": 1
+      "name": "Wildcatting",
+      "size": 1
     }
-]
+  ]
+}

@@ -1,322 +1,339 @@
-[
+{
+  "outfile": "bally",
+  "system": "BALLY",
+  "pio": "bally",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "crc32": "E4D285E5",
-        "size": 0,
-        "name": "280 Zzzap ~ Dodgem (USA)"
+      "crc32": "E4D285E5",
+      "size": 0,
+      "name": "280 Zzzap ~ Dodgem (USA)"
     },
     {
-        "crc32": "CD57C485",
-        "size": 0,
-        "name": "Amazing Maze ~ Tic-Tac-Toe (USA)"
+      "crc32": "CD57C485",
+      "size": 0,
+      "name": "Amazing Maze ~ Tic-Tac-Toe (USA)"
     },
     {
-        "crc32": "53F75720",
-        "size": 1,
-        "name": "Artillery Duel"
+      "crc32": "53F75720",
+      "size": 1,
+      "name": "Artillery Duel"
     },
     {
-        "crc32": "2521A6EC",
-        "size": 1,
-        "name": "Artillery Duel"
+      "crc32": "2521A6EC",
+      "size": 1,
+      "name": "Artillery Duel"
     },
     {
-        "crc32": "B5298BC",
-        "size": 1,
-        "name": "Astro Battle"
+      "crc32": "B5298BC",
+      "size": 1,
+      "name": "Astro Battle"
     },
     {
-        "crc32": "980244D8",
-        "size": 2,
-        "name": "Bally Black Box (USA)"
+      "crc32": "980244D8",
+      "size": 2,
+      "name": "Bally Black Box (USA)"
     },
     {
-        "crc32": "3F431613",
-        "size": 1,
-        "name": "Bally Pin"
+      "crc32": "3F431613",
+      "size": 1,
+      "name": "Bally Pin"
     },
     {
-        "crc32": "78D45A11",
-        "size": 1,
-        "name": "Blackjack ~ Poker ~ Acey-Duecy (USA)"
+      "crc32": "78D45A11",
+      "size": 1,
+      "name": "Blackjack ~ Poker ~ Acey-Duecy (USA)"
     },
     {
-        "crc32": "79FE386B",
-        "size": 1,
-        "name": "Blast Droids"
+      "crc32": "79FE386B",
+      "size": 1,
+      "name": "Blast Droids"
     },
     {
-        "crc32": "1F8BC8BA",
-        "size": 1,
-        "name": "Bowling (USA) (Proto)"
+      "crc32": "1F8BC8BA",
+      "size": 1,
+      "name": "Bowling (USA) (Proto)"
     },
     {
-        "crc32": "FC97852",
-        "size": 2,
-        "name": "Candyman (USA)"
+      "crc32": "FC97852",
+      "size": 2,
+      "name": "Candyman (USA)"
     },
     {
-        "crc32": "757BAB8F",
-        "size": 0,
-        "name": "Checkers (USA) (Proto)"
+      "crc32": "757BAB8F",
+      "size": 0,
+      "name": "Checkers (USA) (Proto)"
     },
     {
-        "crc32": "5B946526",
-        "size": 1,
-        "name": "Chicken (USA)"
+      "crc32": "5B946526",
+      "size": 1,
+      "name": "Chicken (USA)"
     },
     {
-        "crc32": "1EDEAE0E",
-        "size": 2,
-        "name": "Claim Jumper (USA)"
+      "crc32": "1EDEAE0E",
+      "size": 2,
+      "name": "Claim Jumper (USA)"
     },
     {
-        "crc32": "28F9E502",
-        "size": 1,
-        "name": "Clowns ~ Brickyard (USA)"
+      "crc32": "28F9E502",
+      "size": 1,
+      "name": "Clowns ~ Brickyard (USA)"
     },
     {
-        "crc32": "8A6ADBFE",
-        "size": 2,
-        "name": "Conan the Barbarian (USA)"
+      "crc32": "8A6ADBFE",
+      "size": 2,
+      "name": "Conan the Barbarian (USA)"
     },
     {
-        "crc32": "15B1AFEA",
-        "size": 2,
-        "name": "Conan the Barbarian (USA) (Proto)"
+      "crc32": "15B1AFEA",
+      "size": 2,
+      "name": "Conan the Barbarian (USA) (Proto)"
     },
     {
-        "crc32": "2A77B3FB",
-        "size": 2,
-        "name": "Cosmic Raider (USA)"
+      "crc32": "2A77B3FB",
+      "size": 2,
+      "name": "Cosmic Raider (USA)"
     },
     {
-        "crc32": "37670F78",
-        "size": 2,
-        "name": "Cosmic Raiders"
+      "crc32": "37670F78",
+      "size": 2,
+      "name": "Cosmic Raiders"
     },
     {
-        "crc32": "869B692E",
-        "size": 2,
-        "name": "Cosmic Raiders"
+      "crc32": "869B692E",
+      "size": 2,
+      "name": "Cosmic Raiders"
     },
     {
-        "crc32": "E3D723A0",
-        "size": 2,
-        "name": "Cosmic Raiders (v3.5) (USA) (Proto)"
+      "crc32": "E3D723A0",
+      "size": 2,
+      "name": "Cosmic Raiders (v3.5) (USA) (Proto)"
     },
     {
-        "crc32": "B6FE88",
-        "size": 2,
-        "name": "Cosmic Raiders (v3.6) (USA) (Proto)"
+      "crc32": "B6FE88",
+      "size": 2,
+      "name": "Cosmic Raiders (v3.6) (USA) (Proto)"
     },
     {
-        "crc32": "77BED6BA",
-        "size": 0,
-        "name": "Dogpatch (USA)"
+      "crc32": "77BED6BA",
+      "size": 0,
+      "name": "Dogpatch (USA)"
     },
     {
-        "crc32": "2FF0FBEF",
-        "size": 0,
-        "name": "Fawn Dungeon (USA) (Proto) (1st Version)"
+      "crc32": "2FF0FBEF",
+      "size": 0,
+      "name": "Fawn Dungeon (USA) (Proto) (1st Version)"
     },
     {
-        "crc32": "72DD4512",
-        "size": 0,
-        "name": "Fawn Dungeon (USA) (Proto) (2nd Version)"
+      "crc32": "72DD4512",
+      "size": 0,
+      "name": "Fawn Dungeon (USA) (Proto) (2nd Version)"
     },
     {
-        "crc32": "FC8998A9",
-        "size": 1,
-        "name": "Football"
+      "crc32": "FC8998A9",
+      "size": 1,
+      "name": "Football"
     },
     {
-        "crc32": "BA558EB7",
-        "size": 1,
-        "name": "Galactic Invasion"
+      "crc32": "BA558EB7",
+      "size": 1,
+      "name": "Galactic Invasion"
     },
     {
-        "crc32": "D89ABB30",
-        "size": 2,
-        "name": "Gate Escape, The (USA)"
+      "crc32": "D89ABB30",
+      "size": 2,
+      "name": "Gate Escape, The (USA)"
     },
     {
-        "crc32": "7B3B7B70",
-        "size": 1,
-        "name": "Grand Prix ~ Demolition Derby (USA)"
+      "crc32": "7B3B7B70",
+      "size": 1,
+      "name": "Grand Prix ~ Demolition Derby (USA)"
     },
     {
-        "crc32": "8A0DEC01",
-        "size": 0,
-        "name": "Haunted House (USA) (Part 2)"
+      "crc32": "8A0DEC01",
+      "size": 0,
+      "name": "Haunted House (USA) (Part 2)"
     },
     {
-        "crc32": "1395B130",
-        "size": 2,
-        "name": "Incredible Wizard, The (USA)"
+      "crc32": "1395B130",
+      "size": 2,
+      "name": "Incredible Wizard, The (USA)"
     },
     {
-        "crc32": "752D13FD",
-        "size": 0,
-        "name": "Life (USA)"
+      "crc32": "752D13FD",
+      "size": 0,
+      "name": "Life (USA)"
     },
     {
-        "crc32": "565A644C",
-        "size": 1,
-        "name": "Mazeman (USA)"
+      "crc32": "565A644C",
+      "size": 1,
+      "name": "Mazeman (USA)"
     },
     {
-        "crc32": "AF649678",
-        "size": 1,
-        "name": "Mazeman (USA) (Proto)"
+      "crc32": "AF649678",
+      "size": 1,
+      "name": "Mazeman (USA) (Proto)"
     },
     {
-        "crc32": "14E93A41",
-        "size": 1,
-        "name": "Ms. Candyman"
+      "crc32": "14E93A41",
+      "size": 1,
+      "name": "Ms. Candyman"
     },
     {
-        "crc32": "E4726657",
-        "size": 2,
-        "name": "Muncher"
+      "crc32": "E4726657",
+      "size": 2,
+      "name": "Muncher"
     },
     {
-        "crc32": "784B256A",
-        "size": 2,
-        "name": "No-Die! (USA)"
+      "crc32": "784B256A",
+      "size": 2,
+      "name": "No-Die! (USA)"
     },
     {
-        "crc32": "17363546",
-        "size": 2,
-        "name": "Pac-Man (USA) (Proto)"
+      "crc32": "17363546",
+      "size": 2,
+      "name": "Pac-Man (USA) (Proto)"
     },
     {
-        "crc32": "CA3A67DD",
-        "size": 2,
-        "name": "Pac-Man (USA) (Proto) (Alt)"
+      "crc32": "CA3A67DD",
+      "size": 2,
+      "name": "Pac-Man (USA) (Proto) (Alt)"
     },
     {
-        "crc32": "CFF3A6CC",
-        "size": 1,
-        "name": "Pacmaze (USA) (Proto)"
+      "crc32": "CFF3A6CC",
+      "size": 1,
+      "name": "Pacmaze (USA) (Proto)"
     },
     {
-        "crc32": "A1C7E129",
-        "size": 1,
-        "name": "Panzer Attack ~ Red Baron (USA)"
+      "crc32": "A1C7E129",
+      "size": 1,
+      "name": "Panzer Attack ~ Red Baron (USA)"
     },
     {
-        "crc32": "7B1B206A",
-        "size": 1,
-        "name": "Pirate's Chase"
+      "crc32": "7B1B206A",
+      "size": 1,
+      "name": "Pirate's Chase"
     },
     {
-        "crc32": "F74385EE",
-        "size": 2,
-        "name": "Road Toad (USA)"
+      "crc32": "F74385EE",
+      "size": 2,
+      "name": "Road Toad (USA)"
     },
     {
-        "crc32": "960B6F86",
-        "size": 1,
-        "name": "Sea Devil"
+      "crc32": "960B6F86",
+      "size": 1,
+      "name": "Sea Devil"
     },
     {
-        "crc32": "56D28B62",
-        "size": 2,
-        "name": "Soccer (USA)"
+      "crc32": "56D28B62",
+      "size": 2,
+      "name": "Soccer (USA)"
     },
     {
-        "crc32": "7DE08D9A",
-        "size": 2,
-        "name": "Soccer (USA) (Proto)"
+      "crc32": "7DE08D9A",
+      "size": 2,
+      "name": "Soccer (USA) (Proto)"
     },
     {
-        "crc32": "7C2858DD",
-        "size": 2,
-        "name": "Soccer (USA) (Proto) (Alt 2)"
+      "crc32": "7C2858DD",
+      "size": 2,
+      "name": "Soccer (USA) (Proto) (Alt 2)"
     },
     {
-        "crc32": "5CB41426",
-        "size": 2,
-        "name": "Soccer (USA) (Proto) (Alt 3)"
+      "crc32": "5CB41426",
+      "size": 2,
+      "name": "Soccer (USA) (Proto) (Alt 3)"
     },
     {
-        "crc32": "4F5E93D5",
-        "size": 2,
-        "name": "Soccer (USA) (Proto) (Alt 4)"
+      "crc32": "4F5E93D5",
+      "size": 2,
+      "name": "Soccer (USA) (Proto) (Alt 4)"
     },
     {
-        "crc32": "FD633CA9",
-        "size": 1,
-        "name": "Soccer (USA) (Proto) (Alt)"
+      "crc32": "FD633CA9",
+      "size": 1,
+      "name": "Soccer (USA) (Proto) (Alt)"
     },
     {
-        "crc32": "D15CE025",
-        "size": 2,
-        "name": "Solar Conqueror"
+      "crc32": "D15CE025",
+      "size": 2,
+      "name": "Solar Conqueror"
     },
     {
-        "crc32": "4A229478",
-        "size": 2,
-        "name": "Solar Conqueror"
+      "crc32": "4A229478",
+      "size": 2,
+      "name": "Solar Conqueror"
     },
     {
-        "crc32": "709B022",
-        "size": 2,
-        "name": "Solar Conqueror (v2.8) (USA) (Proto)"
+      "crc32": "709B022",
+      "size": 2,
+      "name": "Solar Conqueror (v2.8) (USA) (Proto)"
     },
     {
-        "crc32": "8612CC7A",
-        "size": 2,
-        "name": "Solar Conqueror (v3.9) (USA) (Proto)"
+      "crc32": "8612CC7A",
+      "size": 2,
+      "name": "Solar Conqueror (v3.9) (USA) (Proto)"
     },
     {
-        "crc32": "519CC707",
-        "size": 1,
-        "name": "Space Fortress"
+      "crc32": "519CC707",
+      "size": 1,
+      "name": "Space Fortress"
     },
     {
-        "crc32": "CF5012BD",
-        "size": 1,
-        "name": "Space Fortress"
+      "crc32": "CF5012BD",
+      "size": 1,
+      "name": "Space Fortress"
     },
     {
-        "crc32": "52964C1F",
-        "size": 1,
-        "name": "Space Invaders"
+      "crc32": "52964C1F",
+      "size": 1,
+      "name": "Space Invaders"
     },
     {
-        "crc32": "A542F4B2",
-        "size": 1,
-        "name": "Space Invaders"
+      "crc32": "A542F4B2",
+      "size": 1,
+      "name": "Space Invaders"
     },
     {
-        "crc32": "D54A74C8",
-        "size": 0,
-        "name": "Star Battle"
+      "crc32": "D54A74C8",
+      "size": 0,
+      "name": "Star Battle"
     },
     {
-        "crc32": "E4F3766A",
-        "size": 0,
-        "name": "Stweek (USA)"
+      "crc32": "E4F3766A",
+      "size": 0,
+      "name": "Stweek (USA)"
     },
     {
-        "crc32": "DF6B2304",
-        "size": 1,
-        "name": "Super Slope (USA)"
+      "crc32": "DF6B2304",
+      "size": 1,
+      "name": "Super Slope (USA)"
     },
     {
-        "crc32": "5BE548CC",
-        "size": 1,
-        "name": "Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA)"
+      "crc32": "5BE548CC",
+      "size": 1,
+      "name": "Tornado Baseball ~ Tennis ~ Hockey ~ Handball (USA)"
     },
     {
-        "crc32": "6EB53E79",
-        "size": 2,
-        "name": "[BIOS] Bally Astrocade (USA)"
+      "crc32": "6EB53E79",
+      "size": 2,
+      "name": "[BIOS] Bally Astrocade (USA)"
     },
     {
-        "crc32": "EBC77F3A",
-        "size": 2,
-        "name": "[BIOS] Bally Professional Arcade (USA)"
+      "crc32": "EBC77F3A",
+      "size": 2,
+      "name": "[BIOS] Bally Professional Arcade (USA)"
     }
-]
+  ]
+}

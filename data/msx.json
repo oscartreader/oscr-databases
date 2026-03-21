@@ -1,4358 +1,4377 @@
-[
+{
+  "outfile": "msx",
+  "system": "MSX",
+  "pio": "msx",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nid32/Nmapper/Nsize/Nram/a100name",
+    "php": "NNNNNa100",
+    "python": ">LLLLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "id32": "int",
+    "mapper": "int",
+    "size": "int",
+    "ram": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "10-Yard Fight",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "10-Yard Fight",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "1942",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "1942",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "3-D Golf Simulation",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "3-D Golf Simulation",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "3D Tennis",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "3D Tennis",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "3D Water Driver",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "3D Water Driver",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "A Life Planet M36",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "A Life Planet M36",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "A Ressha de Ikou",
-        "mapper": 2,
-        "size": 5,
-        "ram": 2
+      "name": "A Ressha de Ikou",
+      "mapper": 2,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "A.E.",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "A.E.",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "A1 Spirit",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "A1 Spirit",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "AcroJet",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "AcroJet",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Actman",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Actman",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Adven' Chuta!",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Adven' Chuta!",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Adventure Island",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Adventure Island",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Afternoon Angels",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Afternoon Angels",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Albatross",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Albatross",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Alcazar",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Alcazar",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Aleste",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Aleste",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Algeese no Tsubasa",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Algeese no Tsubasa",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Alibaba and 40 Thieves",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Alibaba and 40 Thieves",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Alien 8",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Alien 8",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Aliens",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Aliens",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Alpha Roid",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Alpha Roid",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Alpha Squadron",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Alpha Squadron",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "American Soccer",
-        "mapper": 1,
-        "size": 4,
-        "ram": 0
+      "name": "American Soccer",
+      "mapper": 1,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "American Truck",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "American Truck",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Anaza",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Anaza",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Androgynus",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Androgynus",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Angelo",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Angelo",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Animal Land",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Animal Land",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Antarctic Adventure",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Antarctic Adventure",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Anty",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Anty",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Aoki Ookami - Genchou Hishi",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Aoki Ookami - Genchou Hishi",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Aoki Ookami - Genghis Khan",
-        "mapper": 7,
-        "size": 7,
-        "ram": 2
+      "name": "Aoki Ookami - Genghis Khan",
+      "mapper": 7,
+      "size": 7,
+      "ram": 2
     },
     {
-        "name": "Aquapolis SOS",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Aquapolis SOS",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Aquattack",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Aquattack",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Aramo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Aramo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Arctic",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Arctic",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Arkanoid",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Arkanoid",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Arkanoid II",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Arkanoid II",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "AshGuine",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "AshGuine",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "AshGuine Story II",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "AshGuine Story II",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "AshGuine Story III",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "AshGuine Story III",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Athletic Ball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Athletic Ball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Athletic Land",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Athletic Land",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Attack Four",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Attack Four",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "B.C. II - Grog's Revenge",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "B.C. II - Grog's Revenge",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "B.C.'s Quest",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "B.C.'s Quest",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "BASIC Lessons 1",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "BASIC Lessons 1",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "BASIC Lessons 2",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "BASIC Lessons 2",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Back to the Future",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Back to the Future",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Backgammon",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Backgammon",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Balance",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Balance",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Banana",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Banana",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Bank Panic",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Bank Panic",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Baseball Craze",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Baseball Craze",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Batman",
-        "mapper": 1,
-        "size": 4,
-        "ram": 0
+      "name": "Batman",
+      "mapper": 1,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Batten Tanuki no Daibouken",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Batten Tanuki no Daibouken",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Battle Cross",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Battle Cross",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Battle Ship Clapton II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Battle Ship Clapton II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Beamrider",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Beamrider",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Becky",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Becky",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Bee & Flower",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Bee & Flower",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Black Onyx",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Black Onyx",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Black Onyx II",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Black Onyx II",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Blockade Runner",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Blockade Runner",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Boggy '84",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Boggy '84",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Boing Boing",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Boing Boing",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Bokosuka Wars",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Bokosuka Wars",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Bomber King",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Bomber King",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Bomber Man",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Bomber Man",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Boogie Woogi Jungle",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Boogie Woogi Jungle",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Boomerang",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Boomerang",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Borfesu",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Borfesu",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Bosconian (Star Destroyer)",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Bosconian (Star Destroyer)",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Bouken Roman",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Bouken Roman",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Boulder Dash",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Boulder Dash",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Brain",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Brain",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Break In",
-        "mapper": 0,
-        "size": 4,
-        "ram": 0
+      "name": "Break In",
+      "mapper": 0,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Break Out",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Break Out",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Bruce Lee",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Bruce Lee",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Bubble Bobble",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Bubble Bobble",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Bug Bomb",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Bug Bomb",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Bull and Mighty's Slim Chance",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Bull and Mighty's Slim Chance",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Burger Time",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Burger Time",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Butamaru Pants",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Butamaru Pants",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "C-So!",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "C-So!",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Cabbage Patch Kids",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Cabbage Patch Kids",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Candoo Ninja",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Candoo Ninja",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Cannon Ball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Cannon Ball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Captain Chef",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Captain Chef",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Captain Cosmo",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Captain Cosmo",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Car Fighter",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Car Fighter",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Car Jamboree",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Car Jamboree",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Car Race",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Car Race",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Carry's Great Escape",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Carry's Great Escape",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Casio Daishogai Keiba",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Casio Daishogai Keiba",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Casio World Open",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Casio World Open",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Castle",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Castle",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Castle Excellent",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Castle Excellent",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Chack'n Pop",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Chack'n Pop",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Challenge Derby",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Challenge Derby",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Champion Boxing",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Champion Boxing",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Champion Ice Hockey",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Champion Ice Hockey",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Champion Kendo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Champion Kendo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Champion Pro Wrestling",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Champion Pro Wrestling",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Champion Soccer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Champion Soccer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Championship Lode Runner",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Championship Lode Runner",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Checkers in Tan Tan Tanuki",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Checkers in Tan Tan Tanuki",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Cheese",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Cheese",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Cheese 2",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Cheese 2",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Chess",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Chess",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Chima Chima",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Chima Chima",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Choplifter",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Choplifter",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "ChoroQ",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "ChoroQ",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Circus Charlie",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Circus Charlie",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "City Connection",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "City Connection",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Coaster Race",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Coaster Race",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Cockpit",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Cockpit",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Color Ball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Color Ball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Color Midway",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Color Midway",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Come On! Picot",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Come On! Picot",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Comet Tail",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Comet Tail",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Comic Bakery",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Comic Bakery",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Computer Billiards",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Computer Billiards",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Computer Master",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Computer Master",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Computer Othello",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Computer Othello",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Computer Pachinko",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Computer Pachinko",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Computer Painting",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Computer Painting",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Con-dori",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Con-dori",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Contra",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Contra",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Cosmo Explorer",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Cosmo Explorer",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Courageous Perseus",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Courageous Perseus",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Craze",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Craze",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Crazy Bullet",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Crazy Bullet",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Crazy Cars",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Crazy Cars",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Crazy Train",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Crazy Train",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Creamy Lemon - Star Trap",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Creamy Lemon - Star Trap",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Crest of the Dragon King",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Crest of the Dragon King",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Crimson",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Crimson",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Cross Blaim",
-        "mapper": 3,
-        "size": 4,
-        "ram": 0
+      "name": "Cross Blaim",
+      "mapper": 3,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Crusader",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Crusader",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "D-Day",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "D-Day",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "DX7 Voicing Program",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "DX7 Voicing Program",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dai Dassou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dai Dassou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Daikoukai Jidai",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "Daikoukai Jidai",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Daisenryaku",
-        "mapper": 2,
-        "size": 5,
-        "ram": 1
+      "name": "Daisenryaku",
+      "mapper": 2,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Daiva Story 4",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Daiva Story 4",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Dam Busters",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dam Busters",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "DangerX4",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "DangerX4",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Darwin 4078",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Darwin 4078",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "David II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "David II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dawn Patrol",
-        "mapper": 0,
-        "size": 4,
-        "ram": 0
+      "name": "Dawn Patrol",
+      "mapper": 0,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Decathlon",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Decathlon",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Deep Dungeon",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Deep Dungeon",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Deep Dungeon II",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Deep Dungeon II",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Deep Forest",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Deep Forest",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Demon Crystal",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Demon Crystal",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Designer's Pencil",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Designer's Pencil",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Devil's Heaven",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Devil's Heaven",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dig Dug",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dig Dug",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Digital Devil Monogatari",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Digital Devil Monogatari",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Dip Dip",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Dip Dip",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dires",
-        "mapper": 1,
-        "size": 5,
-        "ram": 1
+      "name": "Dires",
+      "mapper": 1,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Doki Doki Penguin Land",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Doki Doki Penguin Land",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Door Door mkII",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Door Door mkII",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dorodon",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Dorodon",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Double Vision",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Double Vision",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Dr. Copy",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Dr. Copy",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dragon Attack",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Dragon Attack",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Dragon Buster",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Dragon Buster",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Dragon Quest",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Dragon Quest",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Dragon Quest II",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Dragon Quest II",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Dragon Slayer",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dragon Slayer",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Dragon Slayer II",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Dragon Slayer II",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Dragon Slayer IV",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Dragon Slayer IV",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Dragon Slayer Jr.",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Dragon Slayer Jr.",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Drainer",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Drainer",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Druaga no Tou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Druaga no Tou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Druid",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Druid",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Dungeon Hunter",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Dungeon Hunter",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Dungeon Master",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dungeon Master",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Dunk Shot",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Dunk Shot",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Dynamite Bowl",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Dynamite Bowl",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "E.I.",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "E.I.",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Eagle Fighter",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Eagle Fighter",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Eddy II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Eddy II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Eggerland Mystery",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Eggerland Mystery",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Eidolon",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Eidolon",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Eiwa Jiten",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Eiwa Jiten",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Elevator Action",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Elevator Action",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Elthlead",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Elthlead",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Erika",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Erika",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Europe Sensen",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Europe Sensen",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Exchanger",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exchanger",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exciting Baseball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exciting Baseball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exciting Jockey",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exciting Jockey",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exerion",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exerion",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exerion II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exerion II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exoide-Z",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Exoide-Z",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Exoide-Z Area 5",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Exoide-Z Area 5",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "F-1 Spirit",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "F-1 Spirit",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "F-15 Strike Eagle",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "F-15 Strike Eagle",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "F16 Fighting Falcon",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "F16 Fighting Falcon",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "FB-01 Voicing Program",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "FB-01 Voicing Program",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "FM Music Composer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "FM Music Composer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "FM Music Composer II",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "FM Music Composer II",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "FM Music Macro",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "FM Music Macro",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "FM Musiwriter",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "FM Musiwriter",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "FM PAC",
-        "mapper": 11,
-        "size": 4,
-        "ram": 2
+      "name": "FM PAC",
+      "mapper": 11,
+      "size": 4,
+      "ram": 2
     },
     {
-        "name": "FM Voicing Program",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "FM Voicing Program",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Fairy",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Fairy",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Fairy Land Story",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Fairy Land Story",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Famicle Parodic",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Famicle Parodic",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Family Automation Language",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Family Automation Language",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Family Billiards",
-        "mapper": 1,
-        "size": 4,
-        "ram": 0
+      "name": "Family Billiards",
+      "mapper": 1,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Family Boxing",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Family Boxing",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Family Stadium Pro Baseball",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Family Stadium Pro Baseball",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Fandom Library #1",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Fandom Library #1",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Fandom Library #2",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Fandom Library #2",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Fandom Library #3",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Fandom Library #3",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Fantasy Zone",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Fantasy Zone",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Fantasy Zone II",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Fantasy Zone II",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Farm Kit",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Farm Kit",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Fathom",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Fathom",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Final Justice",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Final Justice",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Final Mahjong",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Final Mahjong",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Final Mystery Murder Club",
-        "mapper": 1,
-        "size": 7,
-        "ram": 0
+      "name": "Final Mystery Murder Club",
+      "mapper": 1,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Final Zone Wolf",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Final Zone Wolf",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Fire Ball",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Fire Ball",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Fire Rescue",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Fire Rescue",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Firebird",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Firebird",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Flappy Limited '85",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Flappy Limited '85",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Flash Splash",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Flash Splash",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Fleet Commander II",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Fleet Commander II",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Flicky",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Flicky",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Flight Deck II",
-        "mapper": 0,
-        "size": 4,
-        "ram": 0
+      "name": "Flight Deck II",
+      "mapper": 0,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Flight Simulator",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Flight Simulator",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Flipper Slipper",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Flipper Slipper",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Flower Card a Carp",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Flower Card a Carp",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Formation Z",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Formation Z",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Four Battle Mahjong",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Four Battle Mahjong",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Frogger",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Frogger",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Front Line",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Front Line",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Fruit Search",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Fruit Search",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Funky Mouse",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Funky Mouse",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "G.P. World",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "G.P. World",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Gakuen Monogatari",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Gakuen Monogatari",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Galactic Drifter Vifam",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Galactic Drifter Vifam",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Galaga",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Galaga",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Galaxian",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Galaxian",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Gall Force",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Gall Force",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Gambler Jiko Chuushinha",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Gambler Jiko Chuushinha",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Gambler Jiko Chuushinha 2",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Gambler Jiko Chuushinha 2",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Game Land",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Game Land",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Game Master",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Game Master",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Game Master II",
-        "mapper": 4,
-        "size": 5,
-        "ram": 2
+      "name": "Game Master II",
+      "mapper": 4,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Ganbare Goemon!",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Ganbare Goemon!",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Gang Master",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Gang Master",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Garakuta",
-        "mapper": 2,
-        "size": 4,
-        "ram": 0
+      "name": "Garakuta",
+      "mapper": 2,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Garyuu Ou",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Garyuu Ou",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Gate of Labyrinth",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Gate of Labyrinth",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Gekitotsu Pennant Race",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Gekitotsu Pennant Race",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Gekitotsu Pennant Race 2",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Gekitotsu Pennant Race 2",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Ghost House",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Ghost House",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ghostbusters",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Ghostbusters",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Girly Block",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Girly Block",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Glider",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Glider",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Goblin",
-        "mapper": 0,
-        "size": 4,
-        "ram": 0
+      "name": "Goblin",
+      "mapper": 0,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Gojira vs 3 Daikaijuu",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Gojira vs 3 Daikaijuu",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Gojira-kun",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Gojira-kun",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Gokiburi Daisakusen",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Gokiburi Daisakusen",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Golf Game",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Golf Game",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Golgo 13 - Wolf's Nest",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Golgo 13 - Wolf's Nest",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Golvellius",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Golvellius",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Gomoku Narabe",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Gomoku Narabe",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Goonies",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Goonies",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Green Beret",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Green Beret",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Grog's Revenge",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Grog's Revenge",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Guardic",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Guardic",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Gulkave",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Gulkave",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Gun Fright",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Gun Fright",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Gyrodine",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Gyrodine",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "H.E.R.O.",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "H.E.R.O.",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hacker",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Hacker",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Hades no Monshou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hades no Monshou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hai no Majutsushi",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Hai no Majutsushi",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Haja No Fuin",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Haja No Fuin",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Hal Note",
-        "mapper": 5,
-        "size": 8,
-        "ram": 3
+      "name": "Hal Note",
+      "mapper": 5,
+      "size": 8,
+      "ram": 3
     },
     {
-        "name": "Han Seimei Senki Androgynus",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Han Seimei Senki Androgynus",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Hanafuda",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hanafuda",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hanafuda Koi Koi",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hanafuda Koi Koi",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hang On",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hang On",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Harapeko Pakkun",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Harapeko Pakkun",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Hard Ball",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Hard Ball",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Harry Fox - Yuki no Maou Hen",
-        "mapper": 6,
-        "size": 4,
-        "ram": 0
+      "name": "Harry Fox - Yuki no Maou Hen",
+      "mapper": 6,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Harry Fox MSX Special",
-        "mapper": 2,
-        "size": 5,
-        "ram": 1
+      "name": "Harry Fox MSX Special",
+      "mapper": 2,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Heavy Boxing",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Heavy Boxing",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Heist",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Heist",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Heli-tank",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Heli-tank",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Heroes of the Lance",
-        "mapper": 1,
-        "size": 7,
-        "ram": 2
+      "name": "Heroes of the Lance",
+      "mapper": 1,
+      "size": 7,
+      "ram": 2
     },
     {
-        "name": "Hi no Tori",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Hi no Tori",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Higemaru Makai Shima",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Higemaru Makai Shima",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "High School! Kimengumi",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "High School! Kimengumi",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "High Way Star",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "High Way Star",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hisha",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hisha",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hitsuji Yai",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Hitsuji Yai",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Hole in One",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hole in One",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hole in One Professional",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hole in One Professional",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hole in One Special",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Hole in One Special",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Home Calc",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Home Calc",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Home Writer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Home Writer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hudson 3D Golf",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hudson 3D Golf",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hustle! Chumy",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hustle! Chumy",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hydlide",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hydlide",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Hydlide 3",
-        "mapper": 1,
-        "size": 7,
-        "ram": 0
+      "name": "Hydlide 3",
+      "mapper": 1,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Hydlide II",
-        "mapper": 2,
-        "size": 5,
-        "ram": 1
+      "name": "Hydlide II",
+      "mapper": 2,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Hyper Olympic 1",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hyper Olympic 1",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hyper Olympic 2",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hyper Olympic 2",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hyper Rally",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hyper Rally",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hyper Sports 1",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hyper Sports 1",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hyper Sports 2",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Hyper Sports 2",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Hyper Sports 3",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Hyper Sports 3",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ice World",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ice World",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Ide Yousuke Meijin Mahjong",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Ide Yousuke Meijin Mahjong",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Iga Ninpou Chou",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Iga Ninpou Chou",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Iga Ninpou Chou 2",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Iga Ninpou Chou 2",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ikari",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Ikari",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Indian no Bouken",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Indian no Bouken",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Inemuri-ryuu Asada Mahjong",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Inemuri-ryuu Asada Mahjong",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Inindou",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Inindou",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Inspecteur Z",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Inspecteur Z",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Iriegas - Theseus",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Iriegas - Theseus",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Iriegas Episode IV",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Iriegas Episode IV",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Ishin no Arashi",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "Ishin no Arashi",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Issunboushi no Donnamondai",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Issunboushi no Donnamondai",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "J.P. Winkle",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "J.P. Winkle",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Jagur",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Jagur",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Janka",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Janka",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Jansei",
-        "mapper": 2,
-        "size": 5,
-        "ram": 1
+      "name": "Jansei",
+      "mapper": 2,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Janyu Mahjong",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Janyu Mahjong",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Japanese MSX-Write",
-        "mapper": 1,
-        "size": 7,
-        "ram": 0
+      "name": "Japanese MSX-Write",
+      "mapper": 1,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Japanese MSX-Write II",
-        "mapper": 1,
-        "size": 7,
-        "ram": 2
+      "name": "Japanese MSX-Write II",
+      "mapper": 1,
+      "size": 7,
+      "ram": 2
     },
     {
-        "name": "Jet Set Willy",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Jet Set Willy",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Jigsaw Set",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Jigsaw Set",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Jissen - 4-nin Mahjong",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Jissen - 4-nin Mahjong",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Jong Kyo",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Jong Kyo",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Joytelop",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Joytelop",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Jump",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Jump",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Jump Coaster",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Jump Coaster",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Junior High English Words 1",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Junior High English Words 1",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Juno First",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Juno First",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Kage no Densetsu",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Kage no Densetsu",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Kakikukekon",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Kakikukekon",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Karamaru's Strange Trip",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Karamaru's Strange Trip",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Karuizawa",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Karuizawa",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Kazuo Morita's Othello",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Kazuo Morita's Othello",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Kempelen Chess",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Kempelen Chess",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Keystone Kapers",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Keystone Kapers",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Kick It!",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Kick It!",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Kiki Kaikai",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Kiki Kaikai",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Kin-nikuman",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Kin-nikuman",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "King & Balloon",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "King & Balloon",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "King Knight",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "King Knight",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "King Kong 2",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "King Kong 2",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "King's Valley",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "King's Valley",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "King's Valley II",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "King's Valley II",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Kisei",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Kisei",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Kitahei",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Kitahei",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Knight Lore",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Knight Lore",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Knightmare",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Knightmare",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Knightmare II",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Knightmare II",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Knightmare III",
-        "mapper": 8,
-        "size": 6,
-        "ram": 0
+      "name": "Knightmare III",
+      "mapper": 8,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Knither Special",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Knither Special",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Koji Tanigawa's Shougi",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Koji Tanigawa's Shougi",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Koji Tanigawa's Shougi 2",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Koji Tanigawa's Shougi 2",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Konami's Baseball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Konami's Baseball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Konami's Billiards",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Konami's Billiards",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Konami's Boxing",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Konami's Boxing",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Konami's Football",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Konami's Football",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Konami's Golf",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Konami's Golf",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Konami's Mahjong",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Konami's Mahjong",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Konami's Ping Pong",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Konami's Ping Pong",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Konami's Soccer",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Konami's Soccer",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Konami's Tennis",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Konami's Tennis",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Koneko no Daibouken",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Koneko no Daibouken",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Koronis Rift",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Koronis Rift",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Kung Fu Master",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Kung Fu Master",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Kung Fu Taigun",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Kung Fu Taigun",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "L' Empereur",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "L' Empereur",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Labyrinth",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Labyrinth",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Ladder Building",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ladder Building",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Laptick'2",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Laptick'2",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Legend of Kage",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Legend of Kage",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Legend of Takeru",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Legend of Takeru",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Let's Take the A-Train",
-        "mapper": 2,
-        "size": 5,
-        "ram": 2
+      "name": "Let's Take the A-Train",
+      "mapper": 2,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Light Corridor",
-        "mapper": 2,
-        "size": 4,
-        "ram": 0
+      "name": "Light Corridor",
+      "mapper": 2,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Lode Runner",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Lode Runner",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Lode Runner II",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Lode Runner II",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Lord Over",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Lord Over",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Lot Lot",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Lot Lot",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Lunar Ball",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Lunar Ball",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Lupin Sansei - Babylon",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Lupin Sansei - Babylon",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Lupin Sansei - Cagliostro",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Lupin Sansei - Cagliostro",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "M36",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "M36",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "MIDI Macro",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "MIDI Macro",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "MSX Baseball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX Baseball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX Baseball II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX Baseball II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX Derby",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX Derby",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX Rugby",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX Rugby",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX Shougi Game",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "MSX Shougi Game",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "MSX Soccer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX Soccer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX-21",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX-21",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX-AID",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX-AID",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX-BASIC-kun",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX-BASIC-kun",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX-BASIC-kun Plus",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "MSX-BASIC-kun Plus",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "MSX-Logo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "MSX-Logo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Macross Countdown",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Macross Countdown",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mad Rider",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Mad Rider",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Mado Fuki Kaisha no Swing-kun",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mado Fuki Kaisha no Swing-kun",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Magical Kid Wiz",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Magical Kid Wiz",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Magical Tree",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Magical Tree",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Magnum Prohibition 1931",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Magnum Prohibition 1931",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Mahjong Friend",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mahjong Friend",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Maison Ikkoku - Kanketsu Hen",
-        "mapper": 1,
-        "size": 7,
-        "ram": 0
+      "name": "Maison Ikkoku - Kanketsu Hen",
+      "mapper": 1,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Maison Ikkoku - Omoide",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Maison Ikkoku - Omoide",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Make-a-Face",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Make-a-Face",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Malaya no Hihou",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Malaya no Hihou",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Manes",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Manes",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mappy",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mappy",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Marchen Veil I",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Marchen Veil I",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Marine Battle",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Marine Battle",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mashou no Yakata Goblin",
-        "mapper": 0,
-        "size": 4,
-        "ram": 0
+      "name": "Mashou no Yakata Goblin",
+      "mapper": 0,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Megalopolis SOS",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Megalopolis SOS",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Meikyuu Shinwa",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Meikyuu Shinwa",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Metal Gear",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Metal Gear",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Metal Gear 2",
-        "mapper": 9,
-        "size": 7,
-        "ram": 0
+      "name": "Metal Gear 2",
+      "mapper": 9,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Midnight Brothers",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Midnight Brothers",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Midnight Building",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Midnight Building",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mini Golf",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mini Golf",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mirai",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Mirai",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Mississippi Satsujinjiken",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Mississippi Satsujinjiken",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Mitsumega Toohru",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Mitsumega Toohru",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Mo-Karimakka",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mo-Karimakka",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Moai no Hihou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Moai no Hihou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mobile Planet Styllus",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mobile Planet Styllus",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mobile-Suit Gundam",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mobile-Suit Gundam",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Moero!! Nettou Yakyuu '88",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Moero!! Nettou Yakyuu '88",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Mole",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mole",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mole Mole 2",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Mole Mole 2",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Monkey Academy",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Monkey Academy",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Monmon Kaibutsu",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Monmon Kaibutsu",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Monster's Fair",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Monster's Fair",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Moon Landing",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Moon Landing",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Moon Patrol",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Moon Patrol",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Moonsweeper",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Moonsweeper",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mopiranger",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mopiranger",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Morita Kazuo no Othello",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Morita Kazuo no Othello",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Mouser",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mouser",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mr. Chin",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Mr. Chin",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Mr. Do!",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Mr. Do!",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Mr. Do! vs Unicorns",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mr. Do! vs Unicorns",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mr. Do's Wild Ride",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Mr. Do's Wild Ride",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Mugen Senshi Valis",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Mugen Senshi Valis",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Music Editor",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Music Editor",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Music Harmonizer 3",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Music Harmonizer 3",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Music Studio G7",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Music Studio G7",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Nausicaa",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Nausicaa",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Nekketsu Juudou",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Nekketsu Juudou",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Nemesis",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Nemesis",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Nemesis 2",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Nemesis 2",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Nemesis 3",
-        "mapper": 9,
-        "size": 6,
-        "ram": 0
+      "name": "Nemesis 3",
+      "mapper": 9,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Nessen Koushien",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Nessen Koushien",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "New Horizon",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "New Horizon",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Night Shade",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Night Shade",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Nihon-Shi Nenpyou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Nihon-Shi Nenpyou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ninja Jajamaru-kun",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Ninja Jajamaru-kun",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ninja Princess",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Ninja Princess",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ninja-kun",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ninja-kun",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Ninja-kun - Asura no Shou",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Ninja-kun - Asura no Shou",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Ninja-kun - Majou no Bouken",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Ninja-kun - Majou no Bouken",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ninjya Kage",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ninjya Kage",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Nobunaga no Yabou - Bushou",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Nobunaga no Yabou - Bushou",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Nobunaga no Yabou - Sengoku",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "Nobunaga no Yabou - Sengoku",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Nobunaga no Yabou Zenkoku MSX",
-        "mapper": 7,
-        "size": 6,
-        "ram": 2
+      "name": "Nobunaga no Yabou Zenkoku MSX",
+      "mapper": 7,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Nobunaga no Yabou Zenkoku MSX2",
-        "mapper": 7,
-        "size": 7,
-        "ram": 2
+      "name": "Nobunaga no Yabou Zenkoku MSX2",
+      "mapper": 7,
+      "size": 7,
+      "ram": 2
     },
     {
-        "name": "Nyan Nyan Pro Wrestling",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Nyan Nyan Pro Wrestling",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Nyorols",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Nyorols",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "O'Mac Farmer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "O'Mac Farmer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Ogre",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Ogre",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Oil's Well",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Oil's Well",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Othello",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Othello",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ouke no Tani",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Ouke no Tani",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Out Run",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Out Run",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Oyoide Tango",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Oyoide Tango",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "PAC",
-        "mapper": 11,
-        "size": 0,
-        "ram": 2
+      "name": "PAC",
+      "mapper": 11,
+      "size": 0,
+      "ram": 2
     },
     {
-        "name": "PSG Musiwriter",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "PSG Musiwriter",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pac-Man",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Pac-Man",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Pac-Mania",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Pac-Mania",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Pachi Pro Densetsu",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Pachi Pro Densetsu",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Pachicom",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Pachicom",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Pachinko-U.F.O.",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pachinko-U.F.O.",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pai Panic",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pai Panic",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pairs",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pairs",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Parodius",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Parodius",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Pass Ball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pass Ball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pastfinder",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pastfinder",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Payload",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Payload",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Peetan",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Peetan",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Pegasus",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Pegasus",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Penguin Adventure",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Penguin Adventure",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Penguin-kun Wars",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Penguin-kun Wars",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Penguin-kun Wars 2",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Penguin-kun Wars 2",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Picture Puzzle",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Picture Puzzle",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Pillbox",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pillbox",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pinball Blaster",
-        "mapper": 2,
-        "size": 4,
-        "ram": 0
+      "name": "Pinball Blaster",
+      "mapper": 2,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Pinball Maker",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pinball Maker",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pine Applin",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pine Applin",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pinky Chase",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pinky Chase",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pipi",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Pipi",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Pippols",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pippols",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pitfall II",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pitfall II",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Pitfall!",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Pitfall!",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Playball",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Playball",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Point X Senryou Sakusen",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Point X Senryou Sakusen",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Police Story",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Police Story",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Poppaq the Fish",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Poppaq the Fish",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Predator",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Predator",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Pretty Sheep",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Pretty Sheep",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Price of Magik",
-        "mapper": 2,
-        "size": 4,
-        "ram": 0
+      "name": "Price of Magik",
+      "mapper": 2,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Pro Yakyuu Family Stadium",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Pro Yakyuu Family Stadium",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Pro Yakyuu Fan",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Pro Yakyuu Fan",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Professional Baseball",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Professional Baseball",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Professional Mahjong",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Professional Mahjong",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Professional Mahjong Gokuu",
-        "mapper": 2,
-        "size": 5,
-        "ram": 1
+      "name": "Professional Mahjong Gokuu",
+      "mapper": 2,
+      "size": 5,
+      "ram": 1
     },
     {
-        "name": "Project A2",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Project A2",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Protector",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Protector",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Psychic War",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Psychic War",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Puzzle Panic",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Puzzle Panic",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Pyramid Warp",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Pyramid Warp",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Q-bert",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Q-bert",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Quarth",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Quarth",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Queen's Golf",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Queen's Golf",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Quinpl",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Quinpl",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "R-Type",
-        "mapper": 12,
-        "size": 7,
-        "ram": 0
+      "name": "R-Type",
+      "mapper": 12,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Raccoon Dog",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Raccoon Dog",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Raid on Bungeling Bay",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Raid on Bungeling Bay",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Rally-X",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Rally-X",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Rambo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Rambo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Rastan Saga",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Rastan Saga",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Real Tennis",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Real Tennis",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Red Zone",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Red Zone",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Relics MSX",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Relics MSX",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Relics MSX2",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Relics MSX2",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Renju & Ojama Dogs",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Renju & Ojama Dogs",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Replicart",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Replicart",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Return of Ishtar",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Return of Ishtar",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Return of Jelda",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Return of Jelda",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Rick to Mick no Daibouken",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Rick to Mick no Daibouken",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Rise Out",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Rise Out",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "River Raid",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "River Raid",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Road Fighter",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Road Fighter",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Robo Wres 2001",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Robo Wres 2001",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Robofrog",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Robofrog",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Rockn' Bolt",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Rockn' Bolt",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Roger Rubbish",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Roger Rubbish",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Roller Ball",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Roller Ball",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Romancia",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Romancia",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Rotors",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Rotors",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Royal Blood",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Royal Blood",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Salamander",
-        "mapper": 9,
-        "size": 5,
-        "ram": 0
+      "name": "Salamander",
+      "mapper": 9,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Sangokushi II",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Sangokushi II",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Sangokushi MSX",
-        "mapper": 7,
-        "size": 6,
-        "ram": 0
+      "name": "Sangokushi MSX",
+      "mapper": 7,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Sangokushi MSX2",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "Sangokushi MSX2",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Sasa",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Sasa",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Scarlet 7",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Scarlet 7",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Scion",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Scion",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Scope On",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Scope On",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Scramble Eggs",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Scramble Eggs",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Scramble Formation",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Scramble Formation",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Sea Hunter",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Sea Hunter",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Secret Treasure of Moai",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Secret Treasure of Moai",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Seiken Acho",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Seiken Acho",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Seikima II Special",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Seikima II Special",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Senjo no Ookami",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Senjo no Ookami",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Senjyo",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Senjyo",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Sewer Sam",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Sewer Sam",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Shanghai",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Shanghai",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Shiryou Sensen",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Shiryou Sensen",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Shougi (Micro Cabin)",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Shougi (Micro Cabin)",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Shougi (Pony)",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Shougi (Pony)",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Shougi Expert",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Shougi Expert",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Shougi Meijin",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Shougi Meijin",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Shougun",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Shougun",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Shout Match",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Shout Match",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Simple ASM 1.0",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Simple ASM 1.0",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Sinbad",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Sinbad",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Ski Command",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ski Command",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Skooter",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Skooter",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Sky Jaguar",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Sky Jaguar",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Skygaldo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Skygaldo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Slapshot",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Slapshot",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Small Boy's Quiz",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Small Boy's Quiz",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Snake It",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Snake It",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Sofia",
-        "mapper": 1,
-        "size": 4,
-        "ram": 0
+      "name": "Sofia",
+      "mapper": 1,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "Soukoban",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Soukoban",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Space Camp",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Space Camp",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Space Invaders",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Space Invaders",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Space Manbow",
-        "mapper": 9,
-        "size": 6,
-        "ram": 0
+      "name": "Space Manbow",
+      "mapper": 9,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Space Maze Attack",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Space Maze Attack",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Space Trouble",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Space Trouble",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Sparkie",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Sparkie",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Spelunker",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Spelunker",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Square Dancer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Square Dancer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Squish'em",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Squish'em",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Star Blazer",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Star Blazer",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Star Command",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Star Command",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Star Trap",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Star Trap",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Star Virgin",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Star Virgin",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Starship Simulator",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Starship Simulator",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Step Up",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Step Up",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Stepper",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Stepper",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Stone of Wisdom",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Stone of Wisdom",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Strange Loop",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Strange Loop",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Strategic Mars",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Strategic Mars",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Suikoden",
-        "mapper": 7,
-        "size": 7,
-        "ram": 4
+      "name": "Suikoden",
+      "mapper": 7,
+      "size": 7,
+      "ram": 4
     },
     {
-        "name": "Super Billiards",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Super Billiards",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Super Cobra",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Super Cobra",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Super Cross Force",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Cross Force",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Daisenryaku",
-        "mapper": 2,
-        "size": 6,
-        "ram": 1
+      "name": "Super Daisenryaku",
+      "mapper": 2,
+      "size": 6,
+      "ram": 1
     },
     {
-        "name": "Super Drinker",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Drinker",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Golf",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Super Golf",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Super Laydock",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Super Laydock",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Super Lode Runner",
-        "mapper": 13,
-        "size": 5,
-        "ram": 0
+      "name": "Super Lode Runner",
+      "mapper": 13,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Super Pachinko",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Pachinko",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Pierrot",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Super Pierrot",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Super Rambo Special",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Super Rambo Special",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Super Runner",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Super Runner",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Super Snake",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Snake",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Soccer",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Super Soccer",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Super Synth",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Synth",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Tennis",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Super Tennis",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Super Tritorn",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Super Tritorn",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Supertripper",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Supertripper",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Sweet Acorn",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Sweet Acorn",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Swimming Tango",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Swimming Tango",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Synth Saurus",
-        "mapper": 1,
-        "size": 4,
-        "ram": 0
+      "name": "Synth Saurus",
+      "mapper": 1,
+      "size": 4,
+      "ram": 0
     },
     {
-        "name": "TZR Grandprix Rider",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "TZR Grandprix Rider",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Taiyou no Shinden",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Taiyou no Shinden",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Takahashi Meijin no Boukenjima",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Takahashi Meijin no Boukenjima",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Takeru Densetsu",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Takeru Densetsu",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Tanigawa Koji no Shougi",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tanigawa Koji no Shougi",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Tanigawa Koji no Shougi 2",
-        "mapper": 1,
-        "size": 5,
-        "ram": 2
+      "name": "Tanigawa Koji no Shougi 2",
+      "mapper": 1,
+      "size": 5,
+      "ram": 2
     },
     {
-        "name": "Tank Battalion",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Tank Battalion",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Tatica",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Tatica",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Tawara-kun",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Tawara-kun",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Tear of Nile",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tear of Nile",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Teitoku no Ketsudan",
-        "mapper": 7,
-        "size": 8,
-        "ram": 4
+      "name": "Teitoku no Ketsudan",
+      "mapper": 7,
+      "size": 8,
+      "ram": 4
     },
     {
-        "name": "Telebunnie",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Telebunnie",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Tengoku Yoitoko",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Tengoku Yoitoko",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Tensai Rabbian Daifunsen",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tensai Rabbian Daifunsen",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Tenshi-tachi no Gogo",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tenshi-tachi no Gogo",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Tetra Horror",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Tetra Horror",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Tetris",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Tetris",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Tetsuman",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Tetsuman",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Thexder",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Thexder",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Thunder Ball",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Thunder Ball",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Thunderbolt",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Thunderbolt",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Time Pilot",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Time Pilot",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Top Roller",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Top Roller",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Topple Zip MSX",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Topple Zip MSX",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Topple Zip MSX2",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Topple Zip MSX2",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Tower of Druaga",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tower of Druaga",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Track & Field 1",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Track & Field 1",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Track & Field 2",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Track & Field 2",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Traffic",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Traffic",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Treasure of Usas",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Treasure of Usas",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Trial Ski",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Trial Ski",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Tritorn",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Tritorn",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Trump Aid",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Trump Aid",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Tsumego 120",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Tsumego 120",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Tsurikichi Sanpei - Blue",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Tsurikichi Sanpei - Blue",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Tsurikichi Sanpei - Tsuri",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Tsurikichi Sanpei - Tsuri",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Turboat",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Turboat",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Turmoil",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Turmoil",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Twinbee",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Twinbee",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Ultima Exodus",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Ultima Exodus",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Ultraman",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Ultraman",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Urusei Yatsura",
-        "mapper": 1,
-        "size": 7,
-        "ram": 0
+      "name": "Urusei Yatsura",
+      "mapper": 1,
+      "size": 7,
+      "ram": 0
     },
     {
-        "name": "Vampire Killer",
-        "mapper": 8,
-        "size": 5,
-        "ram": 0
+      "name": "Vampire Killer",
+      "mapper": 8,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Vaxol",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Vaxol",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Venus Fire",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Venus Fire",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Victorious Nine II",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Victorious Nine II",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Video Hustler",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Video Hustler",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Vifam",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Vifam",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Volguard",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Volguard",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Warp & Warp",
-        "mapper": 0,
-        "size": 1,
-        "ram": 0
+      "name": "Warp & Warp",
+      "mapper": 0,
+      "size": 1,
+      "ram": 0
     },
     {
-        "name": "Warroid",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Warroid",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Wing Man 2",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Wing Man 2",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Wizardry",
-        "mapper": 1,
-        "size": 7,
-        "ram": 2
+      "name": "Wizardry",
+      "mapper": 1,
+      "size": 7,
+      "ram": 2
     },
     {
-        "name": "Wonderboy",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Wonderboy",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Woody Poco",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Woody Poco",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Wrangler",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Wrangler",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Wreck",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Wreck",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Xanadu",
-        "mapper": 1,
-        "size": 6,
-        "ram": 2
+      "name": "Xanadu",
+      "mapper": 1,
+      "size": 6,
+      "ram": 2
     },
     {
-        "name": "Xevious",
-        "mapper": 2,
-        "size": 6,
-        "ram": 0
+      "name": "Xevious",
+      "mapper": 2,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Xyzolog",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Xyzolog",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Yaksa",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Yaksa",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Yakyuu-kyou",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Yakyuu-kyou",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Yamaha Play Card System",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Yamaha Play Card System",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Yamamura Misa Suspense",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Yamamura Misa Suspense",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Yellow Submarine",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Yellow Submarine",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Yie Ar Kung-Fu",
-        "mapper": 0,
-        "size": 2,
-        "ram": 0
+      "name": "Yie Ar Kung-Fu",
+      "mapper": 0,
+      "size": 2,
+      "ram": 0
     },
     {
-        "name": "Yie Ar Kung-Fu II",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Yie Ar Kung-Fu II",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Youkai Yashiki",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Youkai Yashiki",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Young Sherlock",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Young Sherlock",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Yuurei-kun",
-        "mapper": 1,
-        "size": 6,
-        "ram": 0
+      "name": "Yuurei-kun",
+      "mapper": 1,
+      "size": 6,
+      "ram": 0
     },
     {
-        "name": "Zaider",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zaider",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zanac A.I.",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zanac A.I.",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zanac Ex",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Zanac Ex",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Zaxxon",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zaxxon",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zenji",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zenji",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zexas Limited",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zexas Limited",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zoids",
-        "mapper": 2,
-        "size": 5,
-        "ram": 0
+      "name": "Zoids",
+      "mapper": 2,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Zombie Hunter",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Zombie Hunter",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     },
     {
-        "name": "Zoom 909",
-        "mapper": 0,
-        "size": 3,
-        "ram": 0
+      "name": "Zoom 909",
+      "mapper": 0,
+      "size": 3,
+      "ram": 0
     },
     {
-        "name": "Zukkoke Yajikita",
-        "mapper": 1,
-        "size": 5,
-        "ram": 0
+      "name": "Zukkoke Yajikita",
+      "mapper": 1,
+      "size": 5,
+      "ram": 0
     }
-]
+  ]
+}

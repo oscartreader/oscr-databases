@@ -1,172 +1,189 @@
-[
+{
+  "outfile": "chf",
+  "system": "CHF",
+  "pio": "fairchild",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "crc32": "85E00865",
-        "size": 2,
-        "name": "Alien Invasion"
+      "crc32": "85E00865",
+      "size": 2,
+      "name": "Alien Invasion"
     },
     {
-        "crc32": "A1731B52",
-        "size": 0,
-        "name": "Backgammon, Acey-Deucey (USA)"
+      "crc32": "A1731B52",
+      "size": 0,
+      "name": "Backgammon, Acey-Deucey (USA)"
     },
     {
-        "crc32": "1129BCD",
-        "size": 0,
-        "name": "Baseball"
+      "crc32": "1129BCD",
+      "size": 0,
+      "name": "Baseball"
     },
     {
-        "crc32": "94322C79",
-        "size": 0,
-        "name": "Bowling"
+      "crc32": "94322C79",
+      "size": 0,
+      "name": "Bowling"
     },
     {
-        "crc32": "5AA30C12",
-        "size": 2,
-        "name": "Casino Poker"
+      "crc32": "5AA30C12",
+      "size": 2,
+      "name": "Casino Poker"
     },
     {
-        "crc32": "FDAE7044",
-        "size": 0,
-        "name": "Checkers"
+      "crc32": "FDAE7044",
+      "size": 0,
+      "name": "Checkers"
     },
     {
-        "crc32": "42727AD5",
-        "size": 0,
-        "name": "Demonstration Cartridge"
+      "crc32": "42727AD5",
+      "size": 0,
+      "name": "Demonstration Cartridge"
     },
     {
-        "crc32": "44CF1D89",
-        "size": 0,
-        "name": "Demonstration Cartridge 2"
+      "crc32": "44CF1D89",
+      "size": 0,
+      "name": "Demonstration Cartridge 2"
     },
     {
-        "crc32": "1570934B",
-        "size": 0,
-        "name": "Desert Fox, Shooting Gallery (USA)"
+      "crc32": "1570934B",
+      "size": 0,
+      "name": "Desert Fox, Shooting Gallery (USA)"
     },
     {
-        "crc32": "E3C1811C",
-        "size": 0,
-        "name": "Dodge It"
+      "crc32": "E3C1811C",
+      "size": 0,
+      "name": "Dodge It"
     },
     {
-        "crc32": "6A64DDA3",
-        "size": 0,
-        "name": "Drag Race"
+      "crc32": "6A64DDA3",
+      "size": 0,
+      "name": "Drag Race"
     },
     {
-        "crc32": "C8EF3410",
-        "size": 0,
-        "name": "Galactic Space Wars, Lunar Lander (USA)"
+      "crc32": "C8EF3410",
+      "size": 0,
+      "name": "Galactic Space Wars, Lunar Lander (USA)"
     },
     {
-        "crc32": "9238D6CE",
-        "size": 1,
-        "name": "Hangman"
+      "crc32": "9238D6CE",
+      "size": 1,
+      "name": "Hangman"
     },
     {
-        "crc32": "24DA0529",
-        "size": 0,
-        "name": "Magic Numbers - Mind Reader + Nim (USA)"
+      "crc32": "24DA0529",
+      "size": 0,
+      "name": "Magic Numbers - Mind Reader + Nim (USA)"
     },
     {
-        "crc32": "BB4C24A2",
-        "size": 0,
-        "name": "Math Quiz I - Addition + Subtraction (USA)"
+      "crc32": "BB4C24A2",
+      "size": 0,
+      "name": "Math Quiz I - Addition + Subtraction (USA)"
     },
     {
-        "crc32": "4AA7EA97",
-        "size": 0,
-        "name": "Math Quiz II - Multiplication + Division (USA)"
+      "crc32": "4AA7EA97",
+      "size": 0,
+      "name": "Math Quiz II - Multiplication + Division (USA)"
     },
     {
-        "crc32": "4D42B296",
-        "size": 0,
-        "name": "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)"
+      "crc32": "4D42B296",
+      "size": 0,
+      "name": "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA)"
     },
     {
-        "crc32": "A948B61",
-        "size": 0,
-        "name": "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt)"
+      "crc32": "A948B61",
+      "size": 0,
+      "name": "Maze, Jailbreak, Blind-man's-bluff, Trailblazer (USA) (Alt)"
     },
     {
-        "crc32": "104B5E18",
-        "size": 0,
-        "name": "Memory Match 1 & 2"
+      "crc32": "104B5E18",
+      "size": 0,
+      "name": "Memory Match 1 & 2"
     },
     {
-        "crc32": "7124DC59",
-        "size": 0,
-        "name": "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)"
+      "crc32": "7124DC59",
+      "size": 0,
+      "name": "Muehle, Tontauben-Schiessen, Kreatives Malspiel, Videoscope (Germany)"
     },
     {
-        "crc32": "3A386E79",
-        "size": 1,
-        "name": "Ordtaevling"
+      "crc32": "3A386E79",
+      "size": 1,
+      "name": "Ordtaevling"
     },
     {
-        "crc32": "C610B330",
-        "size": 0,
-        "name": "Pinball Challenge"
+      "crc32": "C610B330",
+      "size": 0,
+      "name": "Pinball Challenge"
     },
     {
-        "crc32": "7CADF0FD",
-        "size": 0,
-        "name": "Pinball Challenge"
+      "crc32": "7CADF0FD",
+      "size": 0,
+      "name": "Pinball Challenge"
     },
     {
-        "crc32": "A1AE99BE",
-        "size": 2,
-        "name": "Pro Football"
+      "crc32": "A1AE99BE",
+      "size": 2,
+      "name": "Pro Football"
     },
     {
-        "crc32": "87752425",
-        "size": 1,
-        "name": "Rat' Mal"
+      "crc32": "87752425",
+      "size": 1,
+      "name": "Rat' Mal"
     },
     {
-        "crc32": "38241E4F",
-        "size": 0,
-        "name": "Robot War, Torpedo Alley (USA)"
+      "crc32": "38241E4F",
+      "size": 0,
+      "name": "Robot War, Torpedo Alley (USA)"
     },
     {
-        "crc32": "4FB6DCE",
-        "size": 3,
-        "name": "Schach"
+      "crc32": "4FB6DCE",
+      "size": 3,
+      "name": "Schach"
     },
     {
-        "crc32": "B7EABD08",
-        "size": 0,
-        "name": "Slot Machine"
+      "crc32": "B7EABD08",
+      "size": 0,
+      "name": "Slot Machine"
     },
     {
-        "crc32": "DBDC56BF",
-        "size": 0,
-        "name": "Sonar Search"
+      "crc32": "DBDC56BF",
+      "size": 0,
+      "name": "Sonar Search"
     },
     {
-        "crc32": "22EF49E8",
-        "size": 0,
-        "name": "Space War"
+      "crc32": "22EF49E8",
+      "size": 0,
+      "name": "Space War"
     },
     {
-        "crc32": "5357C5F6",
-        "size": 0,
-        "name": "Spitfire"
+      "crc32": "5357C5F6",
+      "size": 0,
+      "name": "Spitfire"
     },
     {
-        "crc32": "FF4768B0",
-        "size": 0,
-        "name": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)"
+      "crc32": "FF4768B0",
+      "size": 0,
+      "name": "Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)"
     },
     {
-        "crc32": "E98D4456",
-        "size": 0,
-        "name": "Video Blackjack"
+      "crc32": "E98D4456",
+      "size": 0,
+      "name": "Video Blackjack"
     },
     {
-        "crc32": "65FDFE49",
-        "size": 1,
-        "name": "Video Whizball"
+      "crc32": "65FDFE49",
+      "size": 1,
+      "name": "Video Whizball"
     }
-]
+  ]
+}

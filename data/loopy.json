@@ -1,42 +1,57 @@
-[
+{
+  "outfile": "loopy",
+  "system": "LOOPY",
+  "pio": "loopy",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/a100name",
+    "php": "Na100",
+    "python": ">L100s"
+  },
+  "order": {
+    "crc32": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "Anime Land",
-        "crc32": "98A0597D"
+      "name": "Anime Land",
+      "crc32": "98A0597D"
     },
     {
-        "name": "Chakrakun no Omajinai Paradise",
-        "crc32": "A5341F72"
+      "name": "Chakrakun no Omajinai Paradise",
+      "crc32": "A5341F72"
     },
     {
-        "name": "Dream Change",
-        "crc32": "F6D41645"
+      "name": "Dream Change",
+      "crc32": "F6D41645"
     },
     {
-        "name": "HARIHARI Seal Paradise",
-        "crc32": "7CB100B3"
+      "name": "HARIHARI Seal Paradise",
+      "crc32": "7CB100B3"
     },
     {
-        "name": "Little Romance",
-        "crc32": "6A410BB2"
+      "name": "Little Romance",
+      "crc32": "6A410BB2"
     },
     {
-        "name": "Loopy Town no Oheya ga Hoshii",
-        "crc32": "8373E9DD"
+      "name": "Loopy Town no Oheya ga Hoshii",
+      "crc32": "8373E9DD"
     },
     {
-        "name": "Lupiton's Wonder Palette",
-        "crc32": "6E00CE71"
+      "name": "Lupiton's Wonder Palette",
+      "crc32": "6E00CE71"
     },
     {
-        "name": "Nigaoe Artist",
-        "crc32": "2046476F"
+      "name": "Nigaoe Artist",
+      "crc32": "2046476F"
     },
     {
-        "name": "PC Collection",
-        "crc32": "F294F931"
+      "name": "PC Collection",
+      "crc32": "F294F931"
     },
     {
-        "name": "Wanwan Aijou Monogatari",
-        "crc32": "D90FE762"
+      "name": "Wanwan Aijou Monogatari",
+      "crc32": "D90FE762"
     }
-]
+  ]
+}

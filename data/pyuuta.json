@@ -1,130 +1,147 @@
-[
+{
+  "outfile": "pyuuta",
+  "system": "PYUUTA",
+  "pio": "tommypyuuta",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "4-nin Mahjong",
-        "size": 1
+      "name": "4-nin Mahjong",
+      "size": 1
     },
     {
-        "name": "Baseball [3D]",
-        "size": 2
+      "name": "Baseball [3D]",
+      "size": 2
     },
     {
-        "name": "Battle Fighter [3D]",
-        "size": 2
+      "name": "Battle Fighter [3D]",
+      "size": 2
     },
     {
-        "name": "Bermuda Triangle",
-        "size": 0
+      "name": "Bermuda Triangle",
+      "size": 0
     },
     {
-        "name": "Bombman",
-        "size": 0
+      "name": "Bombman",
+      "size": 0
     },
     {
-        "name": "Car-azy Racer",
-        "size": 1
+      "name": "Car-azy Racer",
+      "size": 1
     },
     {
-        "name": "Cave Crawlers",
-        "size": 0
+      "name": "Cave Crawlers",
+      "size": 0
     },
     {
-        "name": "Deep Six",
-        "size": 0
+      "name": "Deep Six",
+      "size": 0
     },
     {
-        "name": "Don Pan",
-        "size": 0
+      "name": "Don Pan",
+      "size": 0
     },
     {
-        "name": "Frogger",
-        "size": 0
+      "name": "Frogger",
+      "size": 0
     },
     {
-        "name": "Guttang Gottong",
-        "size": 0
+      "name": "Guttang Gottong",
+      "size": 0
     },
     {
-        "name": "Hyperspace",
-        "size": 0
+      "name": "Hyperspace",
+      "size": 0
     },
     {
-        "name": "Jungler",
-        "size": 0
+      "name": "Jungler",
+      "size": 0
     },
     {
-        "name": "Loco-Motion",
-        "size": 0
+      "name": "Loco-Motion",
+      "size": 0
     },
     {
-        "name": "Marine Adventure",
-        "size": 0
+      "name": "Marine Adventure",
+      "size": 0
     },
     {
-        "name": "Maze Patrol",
-        "size": 0
+      "name": "Maze Patrol",
+      "size": 0
     },
     {
-        "name": "Mickey Athletic Land",
-        "size": 0
+      "name": "Mickey Athletic Land",
+      "size": 0
     },
     {
-        "name": "Mission Attack",
-        "size": 0
+      "name": "Mission Attack",
+      "size": 0
     },
     {
-        "name": "Monster Inn",
-        "size": 0
+      "name": "Monster Inn",
+      "size": 0
     },
     {
-        "name": "Mr. Do!",
-        "size": 1
+      "name": "Mr. Do!",
+      "size": 1
     },
     {
-        "name": "Mystery Gold",
-        "size": 0
+      "name": "Mystery Gold",
+      "size": 0
     },
     {
-        "name": "Night Flight",
-        "size": 0
+      "name": "Night Flight",
+      "size": 0
     },
     {
-        "name": "Pooyan",
-        "size": 0
+      "name": "Pooyan",
+      "size": 0
     },
     {
-        "name": "Rescue Copter [3D]",
-        "size": 2
+      "name": "Rescue Copter [3D]",
+      "size": 2
     },
     {
-        "name": "Saurusland",
-        "size": 0
+      "name": "Saurusland",
+      "size": 0
     },
     {
-        "name": "Scramble",
-        "size": 0
+      "name": "Scramble",
+      "size": 0
     },
     {
-        "name": "Super Bike",
-        "size": 1
+      "name": "Super Bike",
+      "size": 1
     },
     {
-        "name": "TRON",
-        "size": 0
+      "name": "TRON",
+      "size": 0
     },
     {
-        "name": "Torpedo Terror",
-        "size": 0
+      "name": "Torpedo Terror",
+      "size": 0
     },
     {
-        "name": "Traffic Jam",
-        "size": 0
+      "name": "Traffic Jam",
+      "size": 0
     },
     {
-        "name": "Triple Command",
-        "size": 0
+      "name": "Triple Command",
+      "size": 0
     },
     {
-        "name": "Turpin",
-        "size": 0
+      "name": "Turpin",
+      "size": 0
     }
-]
+  ]
+}

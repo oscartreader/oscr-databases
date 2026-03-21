@@ -1,0 +1,15 @@
+{
+  "name": "crdb",
+  "title": "Cartridge Reader Database",
+  "description": "CRDB Builder",
+  "homepage": "https://oscr.tools",
+  "license": "GPL-3",
+  "keywords": ["oscr", "cartridge", "database", "retro"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscartreader/oscr-databases.git"
+  },
+  "version": "1.0.0",
+  "frameworks": {},
+  "packages": {}
+}

@@ -1,667 +1,684 @@
-[
+{
+  "outfile": "ody2",
+  "system": "ODY2",
+  "pio": "ody2",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nmapper/Nsize/a100name",
+    "php": "NNNa100",
+    "python": ">LLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "mapper": "int",
+    "size": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "4 en 1 Ligne",
-        "mapper": 1,
-        "size": 1
+      "name": "4 en 1 Ligne",
+      "mapper": 1,
+      "size": 1
     },
     {
-        "name": "4 in 1 Row",
-        "mapper": 1,
-        "size": 1
+      "name": "4 in 1 Row",
+      "mapper": 1,
+      "size": 1
     },
     {
-        "name": "Air Battle (V+)",
-        "mapper": 0,
-        "size": 3
+      "name": "Air Battle (V+)",
+      "mapper": 0,
+      "size": 3
     },
     {
-        "name": "Alien Invaders - Plus",
-        "mapper": 0,
-        "size": 0
+      "name": "Alien Invaders - Plus",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Alpine Skiing",
-        "mapper": 0,
-        "size": 0
+      "name": "Alpine Skiing",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Armored Encounter + Sub Chase",
-        "mapper": 0,
-        "size": 0
+      "name": "Armored Encounter + Sub Chase",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Atlantis",
-        "mapper": 0,
-        "size": 1
+      "name": "Atlantis",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Attack of the Timelord",
-        "mapper": 0,
-        "size": 1
+      "name": "Attack of the Timelord",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Baseball",
-        "mapper": 0,
-        "size": 0
+      "name": "Baseball",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Billard Americain",
-        "mapper": 0,
-        "size": 0
+      "name": "Billard Americain",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Billard Americain (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Billard Americain (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Billard Electrique",
-        "mapper": 0,
-        "size": 0
+      "name": "Billard Electrique",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Billard Electrique (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Billard Electrique (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Blackjack",
-        "mapper": 0,
-        "size": 0
+      "name": "Blackjack",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Blobbers",
-        "mapper": 0,
-        "size": 2
+      "name": "Blobbers",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Blockout + Breakdown",
-        "mapper": 0,
-        "size": 0
+      "name": "Blockout + Breakdown",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Bombardeio Submarino + Tiro ao Alvo",
-        "mapper": 0,
-        "size": 0
+      "name": "Bombardeio Submarino + Tiro ao Alvo",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Bowling + Basketball",
-        "mapper": 0,
-        "size": 0
+      "name": "Bowling + Basketball",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Buraco Negro",
-        "mapper": 0,
-        "size": 2
+      "name": "Buraco Negro",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Casino Slot Machine",
-        "mapper": 0,
-        "size": 0
+      "name": "Casino Slot Machine",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Catch the Ball + Noughts and Crosses",
-        "mapper": 0,
-        "size": 0
+      "name": "Catch the Ball + Noughts and Crosses",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Chat et Souris",
-        "mapper": 0,
-        "size": 1
+      "name": "Chat et Souris",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Chess",
-        "mapper": 0,
-        "size": 0
+      "name": "Chess",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Chez Maxime (V+)",
-        "mapper": 0,
-        "size": 1
+      "name": "Chez Maxime (V+)",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Chinese Logic",
-        "mapper": 0,
-        "size": 0
+      "name": "Chinese Logic",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Clay Pigeon",
-        "mapper": 0,
-        "size": 1
+      "name": "Clay Pigeon",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Comando Noturno",
-        "mapper": 0,
-        "size": 2
+      "name": "Comando Noturno",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Computer Golf",
-        "mapper": 0,
-        "size": 0
+      "name": "Computer Golf",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Computer Intro",
-        "mapper": 0,
-        "size": 0
+      "name": "Computer Intro",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Computer Programmer",
-        "mapper": 0,
-        "size": 0
+      "name": "Computer Programmer",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Conflit Cosmique",
-        "mapper": 0,
-        "size": 0
+      "name": "Conflit Cosmique",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Conquest of the World",
-        "mapper": 0,
-        "size": 1
+      "name": "Conquest of the World",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Cosmic Conflict",
-        "mapper": 0,
-        "size": 0
+      "name": "Cosmic Conflict",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Cosmic Conflict (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Cosmic Conflict (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Course de Voitures + Autodrome + Cryptogramme",
-        "mapper": 0,
-        "size": 0
+      "name": "Course de Voitures + Autodrome + Cryptogramme",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Course de Voitures + Autodrome + Cryptogramme (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Course de Voitures + Autodrome + Cryptogramme (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Demon Attack",
-        "mapper": 0,
-        "size": 1
+      "name": "Demon Attack",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Demon Attack (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Demon Attack (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Depth Charge + Marksman",
-        "mapper": 0,
-        "size": 0
+      "name": "Depth Charge + Marksman",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Desafio Chines",
-        "mapper": 0,
-        "size": 0
+      "name": "Desafio Chines",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Dynasty",
-        "mapper": 0,
-        "size": 0
+      "name": "Dynasty",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Electronic Table Soccer",
-        "mapper": 0,
-        "size": 0
+      "name": "Electronic Table Soccer",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Exojet (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Exojet (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Football",
-        "mapper": 0,
-        "size": 0
+      "name": "Football",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Football Electronique + Hockey Electronique",
-        "mapper": 0,
-        "size": 0
+      "name": "Football Electronique + Hockey Electronique",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Freedom Fighters",
-        "mapper": 0,
-        "size": 1
+      "name": "Freedom Fighters",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Freedom Fighters (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Freedom Fighters (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Frogger",
-        "mapper": 0,
-        "size": 2
+      "name": "Frogger",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Golf",
-        "mapper": 0,
-        "size": 0
+      "name": "Golf",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Great Wall Street Fortune Hunt",
-        "mapper": 0,
-        "size": 1
+      "name": "Great Wall Street Fortune Hunt",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Guerre Laser",
-        "mapper": 0,
-        "size": 0
+      "name": "Guerre Laser",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Guerre de l'Espace (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Guerre de l'Espace (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Gunfighter",
-        "mapper": 0,
-        "size": 0
+      "name": "Gunfighter",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Helicopter Rescue (V+)",
-        "mapper": 0,
-        "size": 4
+      "name": "Helicopter Rescue (V+)",
+      "mapper": 0,
+      "size": 4
     },
     {
-        "name": "Hockey + Soccer",
-        "mapper": 0,
-        "size": 0
+      "name": "Hockey + Soccer",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "I've Got Your Number",
-        "mapper": 0,
-        "size": 0
+      "name": "I've Got Your Number",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Invaders from Hyperspace",
-        "mapper": 0,
-        "size": 0
+      "name": "Invaders from Hyperspace",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Jeu de Quilles + Basketball",
-        "mapper": 0,
-        "size": 0
+      "name": "Jeu de Quilles + Basketball",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Jeu de Quilles + Basketball (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Jeu de Quilles + Basketball (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Jumping Acrobats",
-        "mapper": 0,
-        "size": 0
+      "name": "Jumping Acrobats",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "K.C. Munchkin",
-        "mapper": 0,
-        "size": 1
+      "name": "K.C. Munchkin",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "K.C.'s Krazy Chase",
-        "mapper": 0,
-        "size": 1
+      "name": "K.C.'s Krazy Chase",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Keyboard Creations",
-        "mapper": 0,
-        "size": 0
+      "name": "Keyboard Creations",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Killer Bees",
-        "mapper": 0,
-        "size": 2
+      "name": "Killer Bees",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Killer Bees (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Killer Bees (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Kinder im Verkehr 1",
-        "mapper": 0,
-        "size": 0
+      "name": "Kinder im Verkehr 1",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "La Quete des Anneaux",
-        "mapper": 0,
-        "size": 1
+      "name": "La Quete des Anneaux",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "La Ruche Infernale (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "La Ruche Infernale (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Labyrinth Game + Supermind",
-        "mapper": 0,
-        "size": 0
+      "name": "Labyrinth Game + Supermind",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Las Vegas",
-        "mapper": 0,
-        "size": 0
+      "name": "Las Vegas",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Las Vegas Blackjack",
-        "mapper": 0,
-        "size": 0
+      "name": "Las Vegas Blackjack",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Laser War",
-        "mapper": 0,
-        "size": 0
+      "name": "Laser War",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Le Mur Magique",
-        "mapper": 0,
-        "size": 0
+      "name": "Le Mur Magique",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Le Tresor Englouti (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Le Tresor Englouti (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Loony Balloon (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Loony Balloon (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Matchmaker + Logix + Buzzword",
-        "mapper": 0,
-        "size": 0
+      "name": "Matchmaker + Logix + Buzzword",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Math-A-Magic + Echo",
-        "mapper": 0,
-        "size": 0
+      "name": "Math-A-Magic + Echo",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Mathematicien + Echo",
-        "mapper": 0,
-        "size": 0
+      "name": "Mathematicien + Echo",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Monkeyshines",
-        "mapper": 0,
-        "size": 1
+      "name": "Monkeyshines",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Morse",
-        "mapper": 0,
-        "size": 0
+      "name": "Morse",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Moto-Crash (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Moto-Crash (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Mousing Cat",
-        "mapper": 0,
-        "size": 1
+      "name": "Mousing Cat",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Munchkin",
-        "mapper": 0,
-        "size": 1
+      "name": "Munchkin",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Musician",
-        "mapper": 1,
-        "size": 1
+      "name": "Musician",
+      "mapper": 1,
+      "size": 1
     },
     {
-        "name": "Neutron Star (V+)",
-        "mapper": 0,
-        "size": 3
+      "name": "Neutron Star (V+)",
+      "mapper": 0,
+      "size": 3
     },
     {
-        "name": "Newscaster",
-        "mapper": 0,
-        "size": 0
+      "name": "Newscaster",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Nightmare",
-        "mapper": 0,
-        "size": 2
+      "name": "Nightmare",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Nightmare (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Nightmare (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Nimble Numbers Ned",
-        "mapper": 0,
-        "size": 1
+      "name": "Nimble Numbers Ned",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Norseman (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Norseman (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "O Malabarista + Jogo da Velha",
-        "mapper": 0,
-        "size": 0
+      "name": "O Malabarista + Jogo da Velha",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "O Segredo do Farao",
-        "mapper": 0,
-        "size": 1
+      "name": "O Segredo do Farao",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Out of this World + Helicopter Rescue",
-        "mapper": 0,
-        "size": 0
+      "name": "Out of this World + Helicopter Rescue",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "P.T. Barnum's Acrobats",
-        "mapper": 0,
-        "size": 1
+      "name": "P.T. Barnum's Acrobats",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Pachinko",
-        "mapper": 0,
-        "size": 0
+      "name": "Pachinko",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Pairs + Space Rendezvous + Logic",
-        "mapper": 0,
-        "size": 0
+      "name": "Pairs + Space Rendezvous + Logic",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Pick Axe Pete",
-        "mapper": 0,
-        "size": 1
+      "name": "Pick Axe Pete",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Pickaxe Pete (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Pickaxe Pete (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Pocket Billiards",
-        "mapper": 0,
-        "size": 0
+      "name": "Pocket Billiards",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Popeye",
-        "mapper": 0,
-        "size": 2
+      "name": "Popeye",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Power Lords",
-        "mapper": 0,
-        "size": 1
+      "name": "Power Lords",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Power Lords (Alt)",
-        "mapper": 0,
-        "size": 2
+      "name": "Power Lords (Alt)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Prendre l'Argent et Fuir",
-        "mapper": 0,
-        "size": 0
+      "name": "Prendre l'Argent et Fuir",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Q-Bert",
-        "mapper": 0,
-        "size": 2
+      "name": "Q-Bert",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Quest for the Rings",
-        "mapper": 0,
-        "size": 1
+      "name": "Quest for the Rings",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Race + Spin-out + Cryptogram (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Race + Spin-out + Cryptogram (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Samurai",
-        "mapper": 0,
-        "size": 0
+      "name": "Samurai",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Satellite Attack",
-        "mapper": 0,
-        "size": 0
+      "name": "Satellite Attack",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Satellite Attack (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Satellite Attack (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Secret of the Pharaohs",
-        "mapper": 0,
-        "size": 0
+      "name": "Secret of the Pharaohs",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Showdown in 2100 A.D.",
-        "mapper": 0,
-        "size": 0
+      "name": "Showdown in 2100 A.D.",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Sid the Spellbinder",
-        "mapper": 0,
-        "size": 1
+      "name": "Sid the Spellbinder",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Skiing",
-        "mapper": 0,
-        "size": 0
+      "name": "Skiing",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Smithereens",
-        "mapper": 0,
-        "size": 1
+      "name": "Smithereens",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Speedway + Spin-out + Crypto-logic",
-        "mapper": 0,
-        "size": 0
+      "name": "Speedway + Spin-out + Crypto-logic",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Stone Sling",
-        "mapper": 0,
-        "size": 0
+      "name": "Stone Sling",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Stone Sling (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Stone Sling (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Super Bee",
-        "mapper": 0,
-        "size": 1
+      "name": "Super Bee",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Super Cobra",
-        "mapper": 0,
-        "size": 2
+      "name": "Super Cobra",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Syracuse (V+)",
-        "mapper": 0,
-        "size": 1
+      "name": "Syracuse (V+)",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "Take the Money and Run",
-        "mapper": 0,
-        "size": 0
+      "name": "Take the Money and Run",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Terrahawks (V+)",
-        "mapper": 0,
-        "size": 2
+      "name": "Terrahawks (V+)",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Thunderball",
-        "mapper": 0,
-        "size": 0
+      "name": "Thunderball",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Trans American Rally (V+)",
-        "mapper": 0,
-        "size": 4
+      "name": "Trans American Rally (V+)",
+      "mapper": 0,
+      "size": 4
     },
     {
-        "name": "Turtles",
-        "mapper": 0,
-        "size": 2
+      "name": "Turtles",
+      "mapper": 0,
+      "size": 2
     },
     {
-        "name": "Type & Tell",
-        "mapper": 0,
-        "size": 1
+      "name": "Type & Tell",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "UFO",
-        "mapper": 0,
-        "size": 0
+      "name": "UFO",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Verkehrsspiele 1",
-        "mapper": 0,
-        "size": 0
+      "name": "Verkehrsspiele 1",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Verkehrsspiele 2",
-        "mapper": 0,
-        "size": 0
+      "name": "Verkehrsspiele 2",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Volleyball",
-        "mapper": 0,
-        "size": 0
+      "name": "Volleyball",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Volleyball Electronique",
-        "mapper": 0,
-        "size": 0
+      "name": "Volleyball Electronique",
+      "mapper": 0,
+      "size": 0
     },
     {
-        "name": "Wall Street",
-        "mapper": 0,
-        "size": 1
+      "name": "Wall Street",
+      "mapper": 0,
+      "size": 1
     },
     {
-        "name": "War of Nerves",
-        "mapper": 0,
-        "size": 0
+      "name": "War of Nerves",
+      "mapper": 0,
+      "size": 0
     }
-]
+  ]
+}

@@ -1,3234 +1,3249 @@
-[
+{
+  "outfile": "gg",
+  "system": "GG",
+  "pio": "sms",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/a100name",
+    "php": "Na100",
+    "python": ">L100s"
+  },
+  "order": {
+    "crc32": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "5 in One FunPak (USA)",
-        "crc32": "F85A8CE8"
+      "name": "5 in One FunPak (USA)",
+      "crc32": "F85A8CE8"
     },
     {
-        "name": "Aa Harimanada (Japan)",
-        "crc32": "1D17D2A0"
+      "name": "Aa Harimanada (Japan)",
+      "crc32": "1D17D2A0"
     },
     {
-        "name": "Addams Family, The (World)",
-        "crc32": "1D01F999"
+      "name": "Addams Family, The (World)",
+      "crc32": "1D01F999"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe)",
-        "crc32": "BB4F23FF"
+      "name": "Adventures of Batman & Robin, The (USA, Europe)",
+      "crc32": "BB4F23FF"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)",
-        "crc32": "ACCE0D15"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-27)",
+      "crc32": "ACCE0D15"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)",
-        "crc32": "14867057"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-29)",
+      "crc32": "14867057"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)",
-        "crc32": "50376471"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-04-30)",
+      "crc32": "50376471"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)",
-        "crc32": "E57566F3"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-02)",
+      "crc32": "E57566F3"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)",
-        "crc32": "A9CF66ED"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-04)",
+      "crc32": "A9CF66ED"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)",
-        "crc32": "50C2F1AD"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06)",
+      "crc32": "50C2F1AD"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt)",
-        "crc32": "C403264A"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-06) (Alt)",
+      "crc32": "C403264A"
     },
     {
-        "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)",
-        "crc32": "FC916FD7"
+      "name": "Adventures of Batman & Robin, The (USA, Europe) (Beta) (1995-05-07)",
+      "crc32": "FC916FD7"
     },
     {
-        "name": "Aerial Assault (World)",
-        "crc32": "3E549B7A"
+      "name": "Aerial Assault (World)",
+      "crc32": "3E549B7A"
     },
     {
-        "name": "Aerial Assault (World) (Rev 1)",
-        "crc32": "04FE6DDE"
+      "name": "Aerial Assault (World) (Rev 1)",
+      "crc32": "04FE6DDE"
     },
     {
-        "name": "Aladdin (Japan)",
-        "crc32": "770E95E1"
+      "name": "Aladdin (Japan)",
+      "crc32": "770E95E1"
     },
     {
-        "name": "Aladdin (USA, Europe, Brazil) (En)",
-        "crc32": "7A41C1DC"
+      "name": "Aladdin (USA, Europe, Brazil) (En)",
+      "crc32": "7A41C1DC"
     },
     {
-        "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)",
-        "crc32": "5B1F717F"
+      "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1993-12-28)",
+      "crc32": "5B1F717F"
     },
     {
-        "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-11)",
-        "crc32": "8A1693AB"
+      "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-11)",
+      "crc32": "8A1693AB"
     },
     {
-        "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13)",
-        "crc32": "75A7F142"
+      "name": "Aladdin (USA, Europe, Brazil) (En) (Beta) (1994-01-13)",
+      "crc32": "75A7F142"
     },
     {
-        "name": "Alien 3 (Japan)",
-        "crc32": "06F6EEBB"
+      "name": "Alien 3 (Japan)",
+      "crc32": "06F6EEBB"
     },
     {
-        "name": "Alien 3 (USA, Europe)",
-        "crc32": "11A68C08"
+      "name": "Alien 3 (USA, Europe)",
+      "crc32": "11A68C08"
     },
     {
-        "name": "Alien Syndrome (Europe)",
-        "crc32": "BB5E10E0"
+      "name": "Alien Syndrome (Europe)",
+      "crc32": "BB5E10E0"
     },
     {
-        "name": "Alien Syndrome (Japan)",
-        "crc32": "FFE4ED47"
+      "name": "Alien Syndrome (Japan)",
+      "crc32": "FFE4ED47"
     },
     {
-        "name": "Andre Agassi Tennis (USA)",
-        "crc32": "46C9FA3E"
+      "name": "Andre Agassi Tennis (USA)",
+      "crc32": "46C9FA3E"
     },
     {
-        "name": "Andre Agassi Tennis (USA) (Beta)",
-        "crc32": "F167028E"
+      "name": "Andre Agassi Tennis (USA) (Beta)",
+      "crc32": "F167028E"
     },
     {
-        "name": "Arcade Classics (USA)",
-        "crc32": "3DECA813"
+      "name": "Arcade Classics (USA)",
+      "crc32": "3DECA813"
     },
     {
-        "name": "Arch Rivals - The Arcade Game (USA)",
-        "crc32": "F0204191"
+      "name": "Arch Rivals - The Arcade Game (USA)",
+      "crc32": "F0204191"
     },
     {
-        "name": "Archer Maclean's Dropzone (Europe)",
-        "crc32": "152F0DCC"
+      "name": "Archer Maclean's Dropzone (Europe)",
+      "crc32": "152F0DCC"
     },
     {
-        "name": "Arena (USA, Europe)",
-        "crc32": "7CB3FACF"
+      "name": "Arena (USA, Europe)",
+      "crc32": "7CB3FACF"
     },
     {
-        "name": "Ariel - The Little Mermaid (USA, Europe, Brazil) (En)",
-        "crc32": "97E3A18C"
+      "name": "Ariel - The Little Mermaid (USA, Europe, Brazil) (En)",
+      "crc32": "97E3A18C"
     },
     {
-        "name": "Arliel - Crystal Densetsu (Japan)",
-        "crc32": "35FA3F68"
+      "name": "Arliel - Crystal Densetsu (Japan)",
+      "crc32": "35FA3F68"
     },
     {
-        "name": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
-        "crc32": "328C5CC8"
+      "name": "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)",
+      "crc32": "328C5CC8"
     },
     {
-        "name": "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)",
-        "crc32": "31BD3D8A"
+      "name": "Asterix and the Great Rescue (USA) (Beta) (1994-02-22)",
+      "crc32": "31BD3D8A"
     },
     {
-        "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)",
-        "crc32": "FAF09846"
+      "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-03)",
+      "crc32": "FAF09846"
     },
     {
-        "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)",
-        "crc32": "66D8EB63"
+      "name": "Asterix and the Great Rescue (USA) (Beta) (1994-03-15)",
+      "crc32": "66D8EB63"
     },
     {
-        "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)",
-        "crc32": "BA45F00F"
+      "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-01-25)",
+      "crc32": "BA45F00F"
     },
     {
-        "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)",
-        "crc32": "1E8D735C"
+      "name": "Asterix and the Great Rescue (USA) (En,Fr,De,Es,It) (Beta) (1994-02-16)",
+      "crc32": "1E8D735C"
     },
     {
-        "name": "Asterix and the Great Rescue (USA, Brazil) (En)",
-        "crc32": "78208B40"
+      "name": "Asterix and the Great Rescue (USA, Brazil) (En)",
+      "crc32": "78208B40"
     },
     {
-        "name": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
-        "crc32": "C01A8051"
+      "name": "Asterix and the Secret Mission (Europe) (En,Fr,De)",
+      "crc32": "C01A8051"
     },
     {
-        "name": "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)",
-        "crc32": "663BCF8A"
+      "name": "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En)",
+      "crc32": "663BCF8A"
     },
     {
-        "name": "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10)",
-        "crc32": "3435AB54"
+      "name": "Ax Battler - A Legend of Golden Axe (USA, Europe, Brazil) (En) (Beta) (1991-08-10)",
+      "crc32": "3435AB54"
     },
     {
-        "name": "Ax Battler - Golden Axe Densetsu (Japan)",
-        "crc32": "DFCF555F"
+      "name": "Ax Battler - Golden Axe Densetsu (Japan)",
+      "crc32": "DFCF555F"
     },
     {
-        "name": "Ayrton Senna's Super Monaco GP II (Japan)",
-        "crc32": "661FAEFF"
+      "name": "Ayrton Senna's Super Monaco GP II (Japan)",
+      "crc32": "661FAEFF"
     },
     {
-        "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En)",
-        "crc32": "1D1B1DD3"
+      "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En)",
+      "crc32": "1D1B1DD3"
     },
     {
-        "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta)",
-        "crc32": "6AFB8EC6"
+      "name": "Ayrton Senna's Super Monaco GP II (USA, Europe, Brazil) (En) (Beta)",
+      "crc32": "6AFB8EC6"
     },
     {
-        "name": "Baku Baku (Europe)",
-        "crc32": "10AC9374"
+      "name": "Baku Baku (Europe)",
+      "crc32": "10AC9374"
     },
     {
-        "name": "Baku Baku (USA)",
-        "crc32": "8D8BFDC4"
+      "name": "Baku Baku (USA)",
+      "crc32": "8D8BFDC4"
     },
     {
-        "name": "Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)",
-        "crc32": "7174B802"
+      "name": "Baku Baku Animal - Sekai Shiikugakari Senshu-ken (Japan)",
+      "crc32": "7174B802"
     },
     {
-        "name": "Barbie Super Model (USA) (Proto) (1994-08-25)",
-        "crc32": "03A0CE9E"
+      "name": "Barbie Super Model (USA) (Proto) (1994-08-25)",
+      "crc32": "03A0CE9E"
     },
     {
-        "name": "Batman Forever (World)",
-        "crc32": "618B19E2"
+      "name": "Batman Forever (World)",
+      "crc32": "618B19E2"
     },
     {
-        "name": "Batman Returns (World)",
-        "crc32": "7AC4A3CA"
+      "name": "Batman Returns (World)",
+      "crc32": "7AC4A3CA"
     },
     {
-        "name": "Batter Up (USA)",
-        "crc32": "16448209"
+      "name": "Batter Up (USA)",
+      "crc32": "16448209"
     },
     {
-        "name": "Battleship - The Classic Naval Combat Game (USA)",
-        "crc32": "E9987511"
+      "name": "Battleship - The Classic Naval Combat Game (USA)",
+      "crc32": "E9987511"
     },
     {
-        "name": "Battletoads (Japan, Europe) (En)",
-        "crc32": "CB3CD075"
+      "name": "Battletoads (Japan, Europe) (En)",
+      "crc32": "CB3CD075"
     },
     {
-        "name": "Battletoads (USA)",
-        "crc32": "817CC0CA"
+      "name": "Battletoads (USA)",
+      "crc32": "817CC0CA"
     },
     {
-        "name": "Beavis and Butt-Head (USA, Europe)",
-        "crc32": "A6BF865E"
+      "name": "Beavis and Butt-Head (USA, Europe)",
+      "crc32": "A6BF865E"
     },
     {
-        "name": "Beavis and Butt-Head (USA, Europe) (Beta)",
-        "crc32": "3858F14F"
+      "name": "Beavis and Butt-Head (USA, Europe) (Beta)",
+      "crc32": "3858F14F"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA)",
-        "crc32": "A4BB9FFB"
+      "name": "Berenstain Bears' Camping Adventure, The (USA)",
+      "crc32": "A4BB9FFB"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)",
-        "crc32": "75A7A8CA"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-06-28)",
+      "crc32": "75A7A8CA"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)",
-        "crc32": "FCF47BC9"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-15)",
+      "crc32": "FCF47BC9"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)",
-        "crc32": "A279C6BC"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-21)",
+      "crc32": "A279C6BC"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)",
-        "crc32": "FFBF5ABE"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-22)",
+      "crc32": "FFBF5ABE"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)",
-        "crc32": "112B123F"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-07-27)",
+      "crc32": "112B123F"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)",
-        "crc32": "882B8F53"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-01)",
+      "crc32": "882B8F53"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)",
-        "crc32": "81A5E68F"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11)",
+      "crc32": "81A5E68F"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)",
-        "crc32": "50D400B8"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-11) (Alt)",
+      "crc32": "50D400B8"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)",
-        "crc32": "0E676927"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-12)",
+      "crc32": "0E676927"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)",
-        "crc32": "F8F11B2A"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-13)",
+      "crc32": "F8F11B2A"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)",
-        "crc32": "D0971F78"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-14)",
+      "crc32": "D0971F78"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)",
-        "crc32": "177D65AC"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-19)",
+      "crc32": "177D65AC"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)",
-        "crc32": "F61AC1E8"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-20)",
+      "crc32": "F61AC1E8"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)",
-        "crc32": "B73486D6"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-24)",
+      "crc32": "B73486D6"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)",
-        "crc32": "E07B865E"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-25)",
+      "crc32": "E07B865E"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)",
-        "crc32": "217B1EF0"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26)",
+      "crc32": "217B1EF0"
     },
     {
-        "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)",
-        "crc32": "167A4AF6"
+      "name": "Berenstain Bears' Camping Adventure, The (USA) (Beta) (1994-08-26) (Alt)",
+      "crc32": "167A4AF6"
     },
     {
-        "name": "Berlin no Kabe (Japan)",
-        "crc32": "325B1797"
+      "name": "Berlin no Kabe (Japan)",
+      "crc32": "325B1797"
     },
     {
-        "name": "Bishoujo Senshi Sailor Moon S (Japan)",
-        "crc32": "FE7374D2"
+      "name": "Bishoujo Senshi Sailor Moon S (Japan)",
+      "crc32": "FE7374D2"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe)",
-        "crc32": "BFCEBA5F"
+      "name": "Bonkers Wax Up! (USA, Europe)",
+      "crc32": "BFCEBA5F"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)",
-        "crc32": "777DFD80"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-10-31)",
+      "crc32": "777DFD80"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)",
-        "crc32": "85510A57"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-15)",
+      "crc32": "85510A57"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)",
-        "crc32": "DAB43F8F"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-21)",
+      "crc32": "DAB43F8F"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)",
-        "crc32": "1B081950"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-23)",
+      "crc32": "1B081950"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)",
-        "crc32": "EB3F22C2"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-26)",
+      "crc32": "EB3F22C2"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)",
-        "crc32": "AD6A62FA"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-11-29)",
+      "crc32": "AD6A62FA"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)",
-        "crc32": "63429025"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-03)",
+      "crc32": "63429025"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)",
-        "crc32": "C2229B6E"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-05)",
+      "crc32": "C2229B6E"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)",
-        "crc32": "EDAF25E7"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-07)",
+      "crc32": "EDAF25E7"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)",
-        "crc32": "91258ADC"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08)",
+      "crc32": "91258ADC"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt)",
-        "crc32": "9907A738"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-08) (Alt)",
+      "crc32": "9907A738"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)",
-        "crc32": "9A405D0D"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-11)",
+      "crc32": "9A405D0D"
     },
     {
-        "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)",
-        "crc32": "6D295894"
+      "name": "Bonkers Wax Up! (USA, Europe) (Beta) (1994-12-12)",
+      "crc32": "6D295894"
     },
     {
-        "name": "Bram Stoker's Dracula (Europe)",
-        "crc32": "69EBE5FA"
+      "name": "Bram Stoker's Dracula (Europe)",
+      "crc32": "69EBE5FA"
     },
     {
-        "name": "Bram Stoker's Dracula (USA)",
-        "crc32": "D966EC47"
+      "name": "Bram Stoker's Dracula (USA)",
+      "crc32": "D966EC47"
     },
     {
-        "name": "BreakThru! (USA) (Proto)",
-        "crc32": "64D7A694"
+      "name": "BreakThru! (USA) (Proto)",
+      "crc32": "64D7A694"
     },
     {
-        "name": "Bubble Bobble (USA)",
-        "crc32": "FBA338C5"
+      "name": "Bubble Bobble (USA)",
+      "crc32": "FBA338C5"
     },
     {
-        "name": "Bubble Bobble (USA) (Beta)",
-        "crc32": "BE2DC770"
+      "name": "Bubble Bobble (USA) (Beta)",
+      "crc32": "BE2DC770"
     },
     {
-        "name": "Bugs Bunny in Double Trouble (USA, Europe)",
-        "crc32": "5C34D9CD"
+      "name": "Bugs Bunny in Double Trouble (USA, Europe)",
+      "crc32": "5C34D9CD"
     },
     {
-        "name": "Bust-A-Move (USA)",
-        "crc32": "C90F29EF"
+      "name": "Bust-A-Move (USA)",
+      "crc32": "C90F29EF"
     },
     {
-        "name": "Buster Ball (Japan)",
-        "crc32": "7CB079D0"
+      "name": "Buster Ball (Japan)",
+      "crc32": "7CB079D0"
     },
     {
-        "name": "Buster Fight (Japan)",
-        "crc32": "A72A1753"
+      "name": "Buster Fight (Japan)",
+      "crc32": "A72A1753"
     },
     {
-        "name": "CJ Elephant Fugitive (USA, Europe)",
-        "crc32": "72981057"
+      "name": "CJ Elephant Fugitive (USA, Europe)",
+      "crc32": "72981057"
     },
     {
-        "name": "CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)",
-        "crc32": "3ACE6335"
+      "name": "CJ Elephant Fugitive (USA, Europe) (Beta) (1993-10-22)",
+      "crc32": "3ACE6335"
     },
     {
-        "name": "Caesars Palace (USA)",
-        "crc32": "C53B60B8"
+      "name": "Caesars Palace (USA)",
+      "crc32": "C53B60B8"
     },
     {
-        "name": "Captain America and the Avengers (USA)",
-        "crc32": "5675DFDD"
+      "name": "Captain America and the Avengers (USA)",
+      "crc32": "5675DFDD"
     },
     {
-        "name": "Car Licence (Japan)",
-        "crc32": "F6A697F8"
+      "name": "Car Licence (Japan)",
+      "crc32": "F6A697F8"
     },
     {
-        "name": "Casino FunPak (USA)",
-        "crc32": "2B732056"
+      "name": "Casino FunPak (USA)",
+      "crc32": "2B732056"
     },
     {
-        "name": "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)",
-        "crc32": "59840FD6"
+      "name": "Castle of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)",
+      "crc32": "59840FD6"
     },
     {
-        "name": "Cave Dude (USA) (Proto)",
-        "crc32": "CC521975"
+      "name": "Cave Dude (USA) (Proto)",
+      "crc32": "CC521975"
     },
     {
-        "name": "Chakan (USA, Europe)",
-        "crc32": "DFC7ADC8"
+      "name": "Chakan (USA, Europe)",
+      "crc32": "DFC7ADC8"
     },
     {
-        "name": "Championship Hockey (Europe)",
-        "crc32": "E21D2A88"
+      "name": "Championship Hockey (Europe)",
+      "crc32": "E21D2A88"
     },
     {
-        "name": "Chase H.Q. (USA)",
-        "crc32": "C8381DEF"
+      "name": "Chase H.Q. (USA)",
+      "crc32": "C8381DEF"
     },
     {
-        "name": "Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe, Brazil) (En,Fr,De,Es)",
-        "crc32": "4E78FD36"
+      "name": "Cheese Cat-Astrophe Starring Speedy Gonzales (USA, Europe, Brazil) (En,Fr,De,Es)",
+      "crc32": "4E78FD36"
     },
     {
-        "name": "Chessmaster, The (USA, Europe, Brazil) (En)",
-        "crc32": "DA811BA6"
+      "name": "Chessmaster, The (USA, Europe, Brazil) (En)",
+      "crc32": "DA811BA6"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En)",
-        "crc32": "6B0FCEC3"
+      "name": "Chicago Syndicate (USA, Brazil) (En)",
+      "crc32": "6B0FCEC3"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-05-05)",
-        "crc32": "A5FA4EAF"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-05-05)",
+      "crc32": "A5FA4EAF"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-01)",
-        "crc32": "448C6890"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-01)",
+      "crc32": "448C6890"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-05)",
-        "crc32": "AF43B940"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-05)",
+      "crc32": "AF43B940"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-07)",
-        "crc32": "9B2FD7F3"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-07)",
+      "crc32": "9B2FD7F3"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-08)",
-        "crc32": "2036D4B7"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-08)",
+      "crc32": "2036D4B7"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-12)",
-        "crc32": "F2C24745"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-12)",
+      "crc32": "F2C24745"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-14)",
-        "crc32": "463A2197"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-14)",
+      "crc32": "463A2197"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-19)",
-        "crc32": "3CDB35B1"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-19)",
+      "crc32": "3CDB35B1"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-20)",
-        "crc32": "BF82CF83"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-20)",
+      "crc32": "BF82CF83"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-22)",
-        "crc32": "4AC79CEC"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-22)",
+      "crc32": "4AC79CEC"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-26)",
-        "crc32": "ABE696E5"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-26)",
+      "crc32": "ABE696E5"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-28)",
-        "crc32": "5CD07AED"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-28)",
+      "crc32": "5CD07AED"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29)",
-        "crc32": "D3614E4E"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29)",
+      "crc32": "D3614E4E"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt)",
-        "crc32": "E1112763"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-29) (Alt)",
+      "crc32": "E1112763"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-30)",
-        "crc32": "F68A3581"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-06-30)",
+      "crc32": "F68A3581"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-03)",
-        "crc32": "E3C0EA98"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-03)",
+      "crc32": "E3C0EA98"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-05)",
-        "crc32": "4158E203"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-05)",
+      "crc32": "4158E203"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-06)",
-        "crc32": "E44D1B01"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-06)",
+      "crc32": "E44D1B01"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-10)",
-        "crc32": "42BECEF6"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-10)",
+      "crc32": "42BECEF6"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-11)",
-        "crc32": "AFE46AA8"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-11)",
+      "crc32": "AFE46AA8"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-19)",
-        "crc32": "DD5F9327"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-19)",
+      "crc32": "DD5F9327"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-20)",
-        "crc32": "B0597A54"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-20)",
+      "crc32": "B0597A54"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21)",
-        "crc32": "26CED733"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21)",
+      "crc32": "26CED733"
     },
     {
-        "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt)",
-        "crc32": "8E149BB8"
+      "name": "Chicago Syndicate (USA, Brazil) (En) (Beta) (1995-07-21) (Alt)",
+      "crc32": "8E149BB8"
     },
     {
-        "name": "Choplifter III (USA)",
-        "crc32": "C2E8A692"
+      "name": "Choplifter III (USA)",
+      "crc32": "C2E8A692"
     },
     {
-        "name": "Chuck Rock (World)",
-        "crc32": "191B1ED8"
+      "name": "Chuck Rock (World)",
+      "crc32": "191B1ED8"
     },
     {
-        "name": "Chuck Rock (World) (Beta)",
-        "crc32": "CB3A1D23"
+      "name": "Chuck Rock (World) (Beta)",
+      "crc32": "CB3A1D23"
     },
     {
-        "name": "Chuck Rock II - Son of Chuck (Europe, Brazil) (En)",
-        "crc32": "656708BF"
+      "name": "Chuck Rock II - Son of Chuck (Europe, Brazil) (En)",
+      "crc32": "656708BF"
     },
     {
-        "name": "Chuck Rock II - Son of Chuck (USA)",
-        "crc32": "3FCC28C9"
+      "name": "Chuck Rock II - Son of Chuck (USA)",
+      "crc32": "3FCC28C9"
     },
     {
-        "name": "Cliffhanger (USA)",
-        "crc32": "BF75B153"
+      "name": "Cliffhanger (USA)",
+      "crc32": "BF75B153"
     },
     {
-        "name": "Clutch Hitter (USA)",
-        "crc32": "D228A467"
+      "name": "Clutch Hitter (USA)",
+      "crc32": "D228A467"
     },
     {
-        "name": "Coca-Cola Kid (Japan)",
-        "crc32": "C7598B81"
+      "name": "Coca-Cola Kid (Japan)",
+      "crc32": "C7598B81"
     },
     {
-        "name": "Columns (Japan) (En)",
-        "crc32": "F3CA6676"
+      "name": "Columns (Japan) (En)",
+      "crc32": "F3CA6676"
     },
     {
-        "name": "Columns (Japan) (En) (Rev 1)",
-        "crc32": "AC37E092"
+      "name": "Columns (Japan) (En) (Rev 1)",
+      "crc32": "AC37E092"
     },
     {
-        "name": "Columns (USA, Europe, Brazil) (En) (Rev 2)",
-        "crc32": "83FA26D9"
+      "name": "Columns (USA, Europe, Brazil) (En) (Rev 2)",
+      "crc32": "83FA26D9"
     },
     {
-        "name": "Cool Spot (Europe)",
-        "crc32": "BA0714DB"
+      "name": "Cool Spot (Europe)",
+      "crc32": "BA0714DB"
     },
     {
-        "name": "Cool Spot (USA)",
-        "crc32": "2C758FC8"
+      "name": "Cool Spot (USA)",
+      "crc32": "2C758FC8"
     },
     {
-        "name": "Cosmic Spacehead (USA, Europe)",
-        "crc32": "6CAA625B"
+      "name": "Cosmic Spacehead (USA, Europe)",
+      "crc32": "6CAA625B"
     },
     {
-        "name": "Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)",
-        "crc32": "03D28EAB"
+      "name": "Crayon Shin-chan - Taiketsu! Kantam Panic!! (Japan)",
+      "crc32": "03D28EAB"
     },
     {
-        "name": "Crazy Faces (Europe) (Proto)",
-        "crc32": "46AD6257"
+      "name": "Crazy Faces (Europe) (Proto)",
+      "crc32": "46AD6257"
     },
     {
-        "name": "Crystal Warriors (USA, Europe)",
-        "crc32": "529C864E"
+      "name": "Crystal Warriors (USA, Europe)",
+      "crc32": "529C864E"
     },
     {
-        "name": "CutThroat Island (USA)",
-        "crc32": "6A24E47E"
+      "name": "CutThroat Island (USA)",
+      "crc32": "6A24E47E"
     },
     {
-        "name": "CutThroat Island (USA) (Beta)",
-        "crc32": "6352EF00"
+      "name": "CutThroat Island (USA) (Beta)",
+      "crc32": "6352EF00"
     },
     {
-        "name": "Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)",
-        "crc32": "AAE268FC"
+      "name": "Daffy Duck in Hollywood (Europe, Brazil) (En,Fr,De,Es,It)",
+      "crc32": "AAE268FC"
     },
     {
-        "name": "David Robinson's Supreme Court (USA) (Auto Demo)",
-        "crc32": "696F446D"
+      "name": "David Robinson's Supreme Court (USA) (Auto Demo)",
+      "crc32": "696F446D"
     },
     {
-        "name": "Deep Duck Trouble Starring Donald Duck (USA, Europe)",
-        "crc32": "5A136D7E"
+      "name": "Deep Duck Trouble Starring Donald Duck (USA, Europe)",
+      "crc32": "5A136D7E"
     },
     {
-        "name": "Defenders of Oasis (USA, Europe)",
-        "crc32": "E2791CC1"
+      "name": "Defenders of Oasis (USA, Europe)",
+      "crc32": "E2791CC1"
     },
     {
-        "name": "Defenders of Oasis (USA, Europe) (Beta)",
-        "crc32": "C674ECCC"
+      "name": "Defenders of Oasis (USA, Europe) (Beta)",
+      "crc32": "C674ECCC"
     },
     {
-        "name": "Defenders of Oasis (USA, Europe) (Virtual Console)",
-        "crc32": "41A367A0"
+      "name": "Defenders of Oasis (USA, Europe) (Virtual Console)",
+      "crc32": "41A367A0"
     },
     {
-        "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
-        "crc32": "EC808026"
+      "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (Europe) (En,Fr,De,Es,It)",
+      "crc32": "EC808026"
     },
     {
-        "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En)",
-        "crc32": "C2E111AC"
+      "name": "Desert Speedtrap Starring Road Runner and Wile E. Coyote (USA, Brazil) (En)",
+      "crc32": "C2E111AC"
     },
     {
-        "name": "Desert Strike (Europe) (En,Fr,De,Es)",
-        "crc32": "3E44ECA3"
+      "name": "Desert Strike (Europe) (En,Fr,De,Es)",
+      "crc32": "3E44ECA3"
     },
     {
-        "name": "Desert Strike - Return to the Gulf (USA)",
-        "crc32": "F6C400DA"
+      "name": "Desert Strike - Return to the Gulf (USA)",
+      "crc32": "F6C400DA"
     },
     {
-        "name": "Devilish (Europe, Brazil) (En)",
-        "crc32": "D43AC6C5"
+      "name": "Devilish (Europe, Brazil) (En)",
+      "crc32": "D43AC6C5"
     },
     {
-        "name": "Devilish (Japan)",
-        "crc32": "25DB174F"
+      "name": "Devilish (Japan)",
+      "crc32": "25DB174F"
     },
     {
-        "name": "Devilish (USA)",
-        "crc32": "C01293B0"
+      "name": "Devilish (USA)",
+      "crc32": "C01293B0"
     },
     {
-        "name": "Dinobasher Starring Bignose the Caveman (Europe) (Proto)",
-        "crc32": "2306AAF4"
+      "name": "Dinobasher Starring Bignose the Caveman (Europe) (Proto)",
+      "crc32": "2306AAF4"
     },
     {
-        "name": "Donald Duck no 4-Tsu no Hihou (Japan)",
-        "crc32": "4457E7C0"
+      "name": "Donald Duck no 4-Tsu no Hihou (Japan)",
+      "crc32": "4457E7C0"
     },
     {
-        "name": "Donald Duck no Lucky Dime (Japan)",
-        "crc32": "2D98BD87"
+      "name": "Donald Duck no Lucky Dime (Japan)",
+      "crc32": "2D98BD87"
     },
     {
-        "name": "Donald no Magical World (Japan) (En,Ja)",
-        "crc32": "87B8B612"
+      "name": "Donald no Magical World (Japan) (En,Ja)",
+      "crc32": "87B8B612"
     },
     {
-        "name": "Doraemon - Noranosuke no Yabou (Japan)",
-        "crc32": "9A8B2C16"
+      "name": "Doraemon - Noranosuke no Yabou (Japan)",
+      "crc32": "9A8B2C16"
     },
     {
-        "name": "Doraemon - Waku Waku Pocket Paradise (Japan)",
-        "crc32": "733292A6"
+      "name": "Doraemon - Waku Waku Pocket Paradise (Japan)",
+      "crc32": "733292A6"
     },
     {
-        "name": "Double Dragon (USA, Europe)",
-        "crc32": "1307A290"
+      "name": "Double Dragon (USA, Europe)",
+      "crc32": "1307A290"
     },
     {
-        "name": "Double Dragon (USA, Europe) (Beta)",
-        "crc32": "331904C0"
+      "name": "Double Dragon (USA, Europe) (Beta)",
+      "crc32": "331904C0"
     },
     {
-        "name": "Dr. Franken (Europe) (Demo)",
-        "crc32": "C9907DCE"
+      "name": "Dr. Franken (Europe) (Demo)",
+      "crc32": "C9907DCE"
     },
     {
-        "name": "Dr. Robotnik's Mean Bean Machine (USA, Europe)",
-        "crc32": "3C2D4F48"
+      "name": "Dr. Robotnik's Mean Bean Machine (USA, Europe)",
+      "crc32": "3C2D4F48"
     },
     {
-        "name": "Dragon - The Bruce Lee Story (Europe)",
-        "crc32": "19E1CF2B"
+      "name": "Dragon - The Bruce Lee Story (Europe)",
+      "crc32": "19E1CF2B"
     },
     {
-        "name": "Dragon - The Bruce Lee Story (Europe) (Beta)",
-        "crc32": "12E0E85B"
+      "name": "Dragon - The Bruce Lee Story (Europe) (Beta)",
+      "crc32": "12E0E85B"
     },
     {
-        "name": "Dragon - The Bruce Lee Story (USA)",
-        "crc32": "17F588E8"
+      "name": "Dragon - The Bruce Lee Story (USA)",
+      "crc32": "17F588E8"
     },
     {
-        "name": "Dragon Crystal (USA, Europe)",
-        "crc32": "0EF2ED93"
+      "name": "Dragon Crystal (USA, Europe)",
+      "crc32": "0EF2ED93"
     },
     {
-        "name": "Dragon Crystal (USA, Europe) (Virtual Console)",
-        "crc32": "BAF4369D"
+      "name": "Dragon Crystal (USA, Europe) (Virtual Console)",
+      "crc32": "BAF4369D"
     },
     {
-        "name": "Dragon Crystal - Tsurani no Meikyuu (Japan)",
-        "crc32": "89F12E1E"
+      "name": "Dragon Crystal - Tsurani no Meikyuu (Japan)",
+      "crc32": "89F12E1E"
     },
     {
-        "name": "Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)",
-        "crc32": "9C8534EC"
+      "name": "Dragon Crystal - Tsurani no Meikyuu (Japan) (Virtual Console)",
+      "crc32": "9C8534EC"
     },
     {
-        "name": "Dunk Kids (Japan)",
-        "crc32": "77ED48F5"
+      "name": "Dunk Kids (Japan)",
+      "crc32": "77ED48F5"
     },
     {
-        "name": "Dynamite Headdy (Japan)",
-        "crc32": "F6AF4B6B"
+      "name": "Dynamite Headdy (Japan)",
+      "crc32": "F6AF4B6B"
     },
     {
-        "name": "Dynamite Headdy (Japan) (Beta)",
-        "crc32": "843556B1"
+      "name": "Dynamite Headdy (Japan) (Beta)",
+      "crc32": "843556B1"
     },
     {
-        "name": "Dynamite Headdy (USA, Europe)",
-        "crc32": "610FF95C"
+      "name": "Dynamite Headdy (USA, Europe)",
+      "crc32": "610FF95C"
     },
     {
-        "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)",
-        "crc32": "7BF339C0"
+      "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-06-15)",
+      "crc32": "7BF339C0"
     },
     {
-        "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)",
-        "crc32": "49389319"
+      "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-01)",
+      "crc32": "49389319"
     },
     {
-        "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)",
-        "crc32": "C7BEA89A"
+      "name": "Dynamite Headdy (USA, Europe) (Beta) (1994-07-05)",
+      "crc32": "C7BEA89A"
     },
     {
-        "name": "Earthworm Jim (Europe)",
-        "crc32": "691AE339"
+      "name": "Earthworm Jim (Europe)",
+      "crc32": "691AE339"
     },
     {
-        "name": "Earthworm Jim (USA)",
-        "crc32": "5D3F23A9"
+      "name": "Earthworm Jim (USA)",
+      "crc32": "5D3F23A9"
     },
     {
-        "name": "Ecco - The Tides of Time (USA, Europe, Brazil) (En)",
-        "crc32": "E2F3B203"
+      "name": "Ecco - The Tides of Time (USA, Europe, Brazil) (En)",
+      "crc32": "E2F3B203"
     },
     {
-        "name": "Ecco The Dolphin (Japan)",
-        "crc32": "A32EB9D5"
+      "name": "Ecco The Dolphin (Japan)",
+      "crc32": "A32EB9D5"
     },
     {
-        "name": "Ecco The Dolphin (USA, Europe, Brazil) (En)",
-        "crc32": "866C7113"
+      "name": "Ecco The Dolphin (USA, Europe, Brazil) (En)",
+      "crc32": "866C7113"
     },
     {
-        "name": "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)",
-        "crc32": "55036BC6"
+      "name": "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 1) (1993-06-14)",
+      "crc32": "55036BC6"
     },
     {
-        "name": "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)",
-        "crc32": "D4C74C02"
+      "name": "Ecco The Dolphin (USA, Europe, Brazil) (En) (Beta 2) (July, 1993)",
+      "crc32": "D4C74C02"
     },
     {
-        "name": "Ecco The Dolphin II (Japan)",
-        "crc32": "BA9CEF4F"
+      "name": "Ecco The Dolphin II (Japan)",
+      "crc32": "BA9CEF4F"
     },
     {
-        "name": "Empire Syndicate (Unknown) (Beta)",
-        "crc32": "64F17CAC"
+      "name": "Empire Syndicate (Unknown) (Beta)",
+      "crc32": "64F17CAC"
     },
     {
-        "name": "Ernie Els Golf (Europe) (En,Fr,De,Es,It)",
-        "crc32": "5E53C7F7"
+      "name": "Ernie Els Golf (Europe) (En,Fr,De,Es,It)",
+      "crc32": "5E53C7F7"
     },
     {
-        "name": "Eternal Legend - Eien no Densetsu (Japan)",
-        "crc32": "04302BBD"
+      "name": "Eternal Legend - Eien no Densetsu (Japan)",
+      "crc32": "04302BBD"
     },
     {
-        "name": "Evander Holyfield's 'Real Deal' Boxing (USA, Europe)",
-        "crc32": "36AAF536"
+      "name": "Evander Holyfield's 'Real Deal' Boxing (USA, Europe)",
+      "crc32": "36AAF536"
     },
     {
-        "name": "Excellent Dizzy Collection, The (Europe)",
-        "crc32": "AA140C9C"
+      "name": "Excellent Dizzy Collection, The (Europe)",
+      "crc32": "AA140C9C"
     },
     {
-        "name": "F-15 Strike Eagle (USA, Europe)",
-        "crc32": "8BDB0806"
+      "name": "F-15 Strike Eagle (USA, Europe)",
+      "crc32": "8BDB0806"
     },
     {
-        "name": "F1 (USA, Europe)",
-        "crc32": "D0A93E00"
+      "name": "F1 (USA, Europe)",
+      "crc32": "D0A93E00"
     },
     {
-        "name": "F1 - World Championship Edition (Europe)",
-        "crc32": "107092D0"
+      "name": "F1 - World Championship Edition (Europe)",
+      "crc32": "107092D0"
     },
     {
-        "name": "FIFA International Soccer (Japan)",
-        "crc32": "78159325"
+      "name": "FIFA International Soccer (Japan)",
+      "crc32": "78159325"
     },
     {
-        "name": "FIFA International Soccer (USA, Europe)",
-        "crc32": "E632A3A2"
+      "name": "FIFA International Soccer (USA, Europe)",
+      "crc32": "E632A3A2"
     },
     {
-        "name": "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)",
-        "crc32": "C379DE95"
+      "name": "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es)",
+      "crc32": "C379DE95"
     },
     {
-        "name": "Faceball 2000 (Japan)",
-        "crc32": "AAF6F87D"
+      "name": "Faceball 2000 (Japan)",
+      "crc32": "AAF6F87D"
     },
     {
-        "name": "Factory Panic (Europe, Brazil) (En)",
-        "crc32": "59E3BE92"
+      "name": "Factory Panic (Europe, Brazil) (En)",
+      "crc32": "59E3BE92"
     },
     {
-        "name": "Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",
-        "crc32": "C888222B"
+      "name": "Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)",
+      "crc32": "C888222B"
     },
     {
-        "name": "Fantasy Zone (Japan, Europe) (En)",
-        "crc32": "D69097E8"
+      "name": "Fantasy Zone (Japan, Europe) (En)",
+      "crc32": "D69097E8"
     },
     {
-        "name": "Fantasy Zone (USA, Brazil) (En)",
-        "crc32": "FAD007DF"
+      "name": "Fantasy Zone (USA, Brazil) (En)",
+      "crc32": "FAD007DF"
     },
     {
-        "name": "Fatal Fury Special (Europe)",
-        "crc32": "FBD76387"
+      "name": "Fatal Fury Special (Europe)",
+      "crc32": "FBD76387"
     },
     {
-        "name": "Fatal Fury Special (USA)",
-        "crc32": "449787E2"
+      "name": "Fatal Fury Special (USA)",
+      "crc32": "449787E2"
     },
     {
-        "name": "Foreman for Real (Japan, USA) (En)",
-        "crc32": "D46D5685"
+      "name": "Foreman for Real (Japan, USA) (En)",
+      "crc32": "D46D5685"
     },
     {
-        "name": "Frank Thomas Big Hurt Baseball (USA)",
-        "crc32": "C443C35C"
+      "name": "Frank Thomas Big Hurt Baseball (USA)",
+      "crc32": "C443C35C"
     },
     {
-        "name": "Fray - Shugyou Hen (Japan)",
-        "crc32": "E123D9B8"
+      "name": "Fray - Shugyou Hen (Japan)",
+      "crc32": "E123D9B8"
     },
     {
-        "name": "Fred Couples Golf (Japan)",
-        "crc32": "B1196CD7"
+      "name": "Fred Couples Golf (Japan)",
+      "crc32": "B1196CD7"
     },
     {
-        "name": "Fred Couples Golf (USA)",
-        "crc32": "46F40B9F"
+      "name": "Fred Couples Golf (USA)",
+      "crc32": "46F40B9F"
     },
     {
-        "name": "Frogger (USA) (Proto)",
-        "crc32": "02BBF994"
+      "name": "Frogger (USA) (Proto)",
+      "crc32": "02BBF994"
     },
     {
-        "name": "From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)",
-        "crc32": "751DAD4C"
+      "name": "From TV Animation Slam Dunk - Shouri e no Starting 5 (Japan)",
+      "crc32": "751DAD4C"
     },
     {
-        "name": "G-LOC - Air Battle (Japan)",
-        "crc32": "2333F615"
+      "name": "G-LOC - Air Battle (Japan)",
+      "crc32": "2333F615"
     },
     {
-        "name": "G-LOC - Air Battle (Japan) (Rev 1)",
-        "crc32": "33237F50"
+      "name": "G-LOC - Air Battle (Japan) (Rev 1)",
+      "crc32": "33237F50"
     },
     {
-        "name": "G-LOC - Air Battle (USA, Europe, Brazil) (En)",
-        "crc32": "18DE59ED"
+      "name": "G-LOC - Air Battle (USA, Europe, Brazil) (En)",
+      "crc32": "18DE59ED"
     },
     {
-        "name": "GG Aleste (Japan) (En)",
-        "crc32": "1B80A75B"
+      "name": "GG Aleste (Japan) (En)",
+      "crc32": "1B80A75B"
     },
     {
-        "name": "GG Aleste (Japan) (En) (Aleste Collection)",
-        "crc32": "0A49407D"
+      "name": "GG Aleste (Japan) (En) (Aleste Collection)",
+      "crc32": "0A49407D"
     },
     {
-        "name": "GG Aleste 3 (Japan) (En) (Aleste Collection)",
-        "crc32": "5AE64731"
+      "name": "GG Aleste 3 (Japan) (En) (Aleste Collection)",
+      "crc32": "5AE64731"
     },
     {
-        "name": "GG Aleste II (Japan) (En) (Aleste Collection)",
-        "crc32": "13596065"
+      "name": "GG Aleste II (Japan) (En) (Aleste Collection)",
+      "crc32": "13596065"
     },
     {
-        "name": "GG Portrait - Pai Chen (Japan)",
-        "crc32": "695CC120"
+      "name": "GG Portrait - Pai Chen (Japan)",
+      "crc32": "695CC120"
     },
     {
-        "name": "GG Portrait - Yuuki Akira (Japan)",
-        "crc32": "51159F8F"
+      "name": "GG Portrait - Yuuki Akira (Japan)",
+      "crc32": "51159F8F"
     },
     {
-        "name": "GG Shinobi, The (Japan)",
-        "crc32": "83926BD1"
+      "name": "GG Shinobi, The (Japan)",
+      "crc32": "83926BD1"
     },
     {
-        "name": "GP Rider (Japan)",
-        "crc32": "7A26EC6A"
+      "name": "GP Rider (Japan)",
+      "crc32": "7A26EC6A"
     },
     {
-        "name": "GP Rider (World)",
-        "crc32": "876E9B72"
+      "name": "GP Rider (World)",
+      "crc32": "876E9B72"
     },
     {
-        "name": "GP Rider (World) (Beta) (1994-01-04)",
-        "crc32": "12E4F6DB"
+      "name": "GP Rider (World) (Beta) (1994-01-04)",
+      "crc32": "12E4F6DB"
     },
     {
-        "name": "Galaga '91 (Japan)",
-        "crc32": "0593BA24"
+      "name": "Galaga '91 (Japan)",
+      "crc32": "0593BA24"
     },
     {
-        "name": "Galaga 2 (Europe)",
-        "crc32": "95ECECE2"
+      "name": "Galaga 2 (Europe)",
+      "crc32": "95ECECE2"
     },
     {
-        "name": "Gamble Panic (Japan)",
-        "crc32": "09534742"
+      "name": "Gamble Panic (Japan)",
+      "crc32": "09534742"
     },
     {
-        "name": "Gambler Jiko Chuushinha (Japan)",
-        "crc32": "423803A7"
+      "name": "Gambler Jiko Chuushinha (Japan)",
+      "crc32": "423803A7"
     },
     {
-        "name": "Ganbare Gorby! (Japan)",
-        "crc32": "A1F2F4A1"
+      "name": "Ganbare Gorby! (Japan)",
+      "crc32": "A1F2F4A1"
     },
     {
-        "name": "Garfield - Caught in the Act (USA, Europe)",
-        "crc32": "CD53F3AF"
+      "name": "Garfield - Caught in the Act (USA, Europe)",
+      "crc32": "CD53F3AF"
     },
     {
-        "name": "Garou Densetsu Special (Japan)",
-        "crc32": "9AFB6F33"
+      "name": "Garou Densetsu Special (Japan)",
+      "crc32": "9AFB6F33"
     },
     {
-        "name": "Gear Stadium (Japan)",
-        "crc32": "0E300223"
+      "name": "Gear Stadium (Japan)",
+      "crc32": "0E300223"
     },
     {
-        "name": "Gear Stadium Heiseiban (Japan)",
-        "crc32": "A0530664"
+      "name": "Gear Stadium Heiseiban (Japan)",
+      "crc32": "A0530664"
     },
     {
-        "name": "Gear Works (USA)",
-        "crc32": "E9A2EFB4"
+      "name": "Gear Works (USA)",
+      "crc32": "E9A2EFB4"
     },
     {
-        "name": "George Foreman's KO Boxing (USA, Europe)",
-        "crc32": "58B44585"
+      "name": "George Foreman's KO Boxing (USA, Europe)",
+      "crc32": "58B44585"
     },
     {
-        "name": "Global Gladiators (Europe)",
-        "crc32": "D2B6021E"
+      "name": "Global Gladiators (Europe)",
+      "crc32": "D2B6021E"
     },
     {
-        "name": "Gojira - Kaijuu Daishingeki (Japan)",
-        "crc32": "4CF97801"
+      "name": "Gojira - Kaijuu Daishingeki (Japan)",
+      "crc32": "4CF97801"
     },
     {
-        "name": "Greendog - The Beached Surfer Dude! (USA, Brazil) (En)",
-        "crc32": "F27925B0"
+      "name": "Greendog - The Beached Surfer Dude! (USA, Brazil) (En)",
+      "crc32": "F27925B0"
     },
     {
-        "name": "Griffin (Japan)",
-        "crc32": "A93E8B0F"
+      "name": "Griffin (Japan)",
+      "crc32": "A93E8B0F"
     },
     {
-        "name": "Gunstar Heroes (Japan)",
-        "crc32": "C3C52767"
+      "name": "Gunstar Heroes (Japan)",
+      "crc32": "C3C52767"
     },
     {
-        "name": "Halley Wars (Japan)",
-        "crc32": "DEF5A5D0"
+      "name": "Halley Wars (Japan)",
+      "crc32": "DEF5A5D0"
     },
     {
-        "name": "Halley Wars (USA, Europe, Brazil) (En)",
-        "crc32": "7E9DEA46"
+      "name": "Halley Wars (USA, Europe, Brazil) (En)",
+      "crc32": "7E9DEA46"
     },
     {
-        "name": "Head Buster (Japan)",
-        "crc32": "7E689995"
+      "name": "Head Buster (Japan)",
+      "crc32": "7E689995"
     },
     {
-        "name": "Heavy Weight Champ (Japan)",
-        "crc32": "BEED9150"
+      "name": "Heavy Weight Champ (Japan)",
+      "crc32": "BEED9150"
     },
     {
-        "name": "Home Alone (USA, Europe, Brazil) (En)",
-        "crc32": "DDE29F74"
+      "name": "Home Alone (USA, Europe, Brazil) (En)",
+      "crc32": "DDE29F74"
     },
     {
-        "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
-        "crc32": "DFA805A0"
+      "name": "Honoo no Toukyuuji - Dodge Danpei (Japan)",
+      "crc32": "DFA805A0"
     },
     {
-        "name": "Hook (Europe)",
-        "crc32": "A5AA5BA1"
+      "name": "Hook (Europe)",
+      "crc32": "A5AA5BA1"
     },
     {
-        "name": "Hook (USA)",
-        "crc32": "F53CED2E"
+      "name": "Hook (USA)",
+      "crc32": "F53CED2E"
     },
     {
-        "name": "Hurricanes (Europe)",
-        "crc32": "0A25EEC5"
+      "name": "Hurricanes (Europe)",
+      "crc32": "0A25EEC5"
     },
     {
-        "name": "Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)",
-        "crc32": "42389270"
+      "name": "Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)",
+      "crc32": "42389270"
     },
     {
-        "name": "Hyper Pro Yakyuu '92 (Japan)",
-        "crc32": "056CAE74"
+      "name": "Hyper Pro Yakyuu '92 (Japan)",
+      "crc32": "056CAE74"
     },
     {
-        "name": "In the Wake of Vampire (Japan) (En)",
-        "crc32": "DAB0F265"
+      "name": "In the Wake of Vampire (Japan) (En)",
+      "crc32": "DAB0F265"
     },
     {
-        "name": "In the Wake of Vampire (Japan) (En) (Virtual Console)",
-        "crc32": "036E03F8"
+      "name": "In the Wake of Vampire (Japan) (En) (Virtual Console)",
+      "crc32": "036E03F8"
     },
     {
-        "name": "Incredible Crash Dummies, The (World)",
-        "crc32": "087FC247"
+      "name": "Incredible Crash Dummies, The (World)",
+      "crc32": "087FC247"
     },
     {
-        "name": "Incredible Hulk, The (USA, Europe)",
-        "crc32": "D7055F88"
+      "name": "Incredible Hulk, The (USA, Europe)",
+      "crc32": "D7055F88"
     },
     {
-        "name": "Indiana Jones and the Last Crusade (USA, Europe, Brazil) (En)",
-        "crc32": "B875226B"
+      "name": "Indiana Jones and the Last Crusade (USA, Europe, Brazil) (En)",
+      "crc32": "B875226B"
     },
     {
-        "name": "Iron Man X-O Manowar in Heavy Metal (USA)",
-        "crc32": "847AE5CE"
+      "name": "Iron Man X-O Manowar in Heavy Metal (USA)",
+      "crc32": "847AE5CE"
     },
     {
-        "name": "Itchy & Scratchy Game, The (USA, Europe)",
-        "crc32": "44E7E2DA"
+      "name": "Itchy & Scratchy Game, The (USA, Europe)",
+      "crc32": "44E7E2DA"
     },
     {
-        "name": "J.League GG Pro-Striker '94 (Japan)",
-        "crc32": "A12A28A0"
+      "name": "J.League GG Pro-Striker '94 (Japan)",
+      "crc32": "A12A28A0"
     },
     {
-        "name": "J.League Soccer - Dream Eleven (Japan)",
-        "crc32": "ABDDF0EB"
+      "name": "J.League Soccer - Dream Eleven (Japan)",
+      "crc32": "ABDDF0EB"
     },
     {
-        "name": "James Bond 007 - The Duel (Europe)",
-        "crc32": "881A4524"
+      "name": "James Bond 007 - The Duel (Europe)",
+      "crc32": "881A4524"
     },
     {
-        "name": "James Pond 3 - Operation Starfi5h (Europe)",
-        "crc32": "68BB7F71"
+      "name": "James Pond 3 - Operation Starfi5h (Europe)",
+      "crc32": "68BB7F71"
     },
     {
-        "name": "James Pond II - Codename RoboCod (Europe)",
-        "crc32": "C2F7928B"
+      "name": "James Pond II - Codename RoboCod (Europe)",
+      "crc32": "C2F7928B"
     },
     {
-        "name": "James Pond II - Codename RoboCod (USA)",
-        "crc32": "9FB5C155"
+      "name": "James Pond II - Codename RoboCod (USA)",
+      "crc32": "9FB5C155"
     },
     {
-        "name": "Jang Pung II (Korea) (En) (Unl)",
-        "crc32": "76C5BDFB"
+      "name": "Jang Pung II (Korea) (En) (Unl)",
+      "crc32": "76C5BDFB"
     },
     {
-        "name": "Jeopardy! (USA)",
-        "crc32": "D7820C21"
+      "name": "Jeopardy! (USA)",
+      "crc32": "D7820C21"
     },
     {
-        "name": "Jeopardy! - Sports Edition (USA)",
-        "crc32": "2DD850B7"
+      "name": "Jeopardy! - Sports Edition (USA)",
+      "crc32": "2DD850B7"
     },
     {
-        "name": "Joe Montana Football (Japan, Brazil) (En) (Rev 1)",
-        "crc32": "4A98678B"
+      "name": "Joe Montana Football (Japan, Brazil) (En) (Rev 1)",
+      "crc32": "4A98678B"
     },
     {
-        "name": "Joe Montana Football (USA, Europe)",
-        "crc32": "2E01BA6C"
+      "name": "Joe Montana Football (USA, Europe)",
+      "crc32": "2E01BA6C"
     },
     {
-        "name": "Journey from Darkness - Strider Returns (USA, Europe)",
-        "crc32": "1EBFA5CA"
+      "name": "Journey from Darkness - Strider Returns (USA, Europe)",
+      "crc32": "1EBFA5CA"
     },
     {
-        "name": "Judge Dredd (USA, Europe)",
-        "crc32": "04D23FC4"
+      "name": "Judge Dredd (USA, Europe)",
+      "crc32": "04D23FC4"
     },
     {
-        "name": "Junction (Japan) (En)",
-        "crc32": "A8EF36A7"
+      "name": "Junction (Japan) (En)",
+      "crc32": "A8EF36A7"
     },
     {
-        "name": "Junction (USA)",
-        "crc32": "32ABAA02"
+      "name": "Junction (USA)",
+      "crc32": "32ABAA02"
     },
     {
-        "name": "Jungle Book, The (Europe)",
-        "crc32": "90100884"
+      "name": "Jungle Book, The (Europe)",
+      "crc32": "90100884"
     },
     {
-        "name": "Jungle Book, The (USA)",
-        "crc32": "30C09F31"
+      "name": "Jungle Book, The (USA)",
+      "crc32": "30C09F31"
     },
     {
-        "name": "Jungle Strike (USA)",
-        "crc32": "D51642B0"
+      "name": "Jungle Strike (USA)",
+      "crc32": "D51642B0"
     },
     {
-        "name": "Jurassic Park (Japan)",
-        "crc32": "2F536AE3"
+      "name": "Jurassic Park (Japan)",
+      "crc32": "2F536AE3"
     },
     {
-        "name": "Jurassic Park (USA, Europe, Brazil) (En)",
-        "crc32": "BD6F2321"
+      "name": "Jurassic Park (USA, Europe, Brazil) (En)",
+      "crc32": "BD6F2321"
     },
     {
-        "name": "KLAX (USA, Europe)",
-        "crc32": "9B40FC8E"
+      "name": "KLAX (USA, Europe)",
+      "crc32": "9B40FC8E"
     },
     {
-        "name": "Kaitou Saint Tail (Japan)",
-        "crc32": "937FD52B"
+      "name": "Kaitou Saint Tail (Japan)",
+      "crc32": "937FD52B"
     },
     {
-        "name": "Kawasaki Superbike Challenge (Europe)",
-        "crc32": "23F9150A"
+      "name": "Kawasaki Superbike Challenge (Europe)",
+      "crc32": "23F9150A"
     },
     {
-        "name": "Kawasaki Superbike Challenge (USA)",
-        "crc32": "FC508318"
+      "name": "Kawasaki Superbike Challenge (USA)",
+      "crc32": "FC508318"
     },
     {
-        "name": "Kenyuu Densetsu Yaiba (Japan)",
-        "crc32": "D9CE3F4C"
+      "name": "Kenyuu Densetsu Yaiba (Japan)",
+      "crc32": "D9CE3F4C"
     },
     {
-        "name": "Kick & Rush (Japan)",
-        "crc32": "FD14CE00"
+      "name": "Kick & Rush (Japan)",
+      "crc32": "FD14CE00"
     },
     {
-        "name": "Kinetic Connection (Japan)",
-        "crc32": "4AF7F2AA"
+      "name": "Kinetic Connection (Japan)",
+      "crc32": "4AF7F2AA"
     },
     {
-        "name": "Kishin Douji Zenki (Japan)",
-        "crc32": "7D622BDD"
+      "name": "Kishin Douji Zenki (Japan)",
+      "crc32": "7D622BDD"
     },
     {
-        "name": "Krusty's Fun House (USA, Europe)",
-        "crc32": "D01E784F"
+      "name": "Krusty's Fun House (USA, Europe)",
+      "crc32": "D01E784F"
     },
     {
-        "name": "Kuni-chan no Game Tengoku (Japan)",
-        "crc32": "398F2358"
+      "name": "Kuni-chan no Game Tengoku (Japan)",
+      "crc32": "398F2358"
     },
     {
-        "name": "Kuni-chan no Game Tengoku Part 2 (Japan)",
-        "crc32": "F3774C65"
+      "name": "Kuni-chan no Game Tengoku Part 2 (Japan)",
+      "crc32": "F3774C65"
     },
     {
-        "name": "Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)",
-        "crc32": "52DBF3E1"
+      "name": "Land of Illusion Starring Mickey Mouse (USA, Europe, Brazil) (En)",
+      "crc32": "52DBF3E1"
     },
     {
-        "name": "Last Action Hero (USA)",
-        "crc32": "2D367C43"
+      "name": "Last Action Hero (USA)",
+      "crc32": "2D367C43"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe)",
-        "crc32": "CE5AD8B7"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe)",
+      "crc32": "CE5AD8B7"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)",
-        "crc32": "1CC16AD9"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-22)",
+      "crc32": "1CC16AD9"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)",
-        "crc32": "A0565A5C"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30)",
+      "crc32": "A0565A5C"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt)",
-        "crc32": "63020617"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-09-30) (Alt)",
+      "crc32": "63020617"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)",
-        "crc32": "F9D4CEE9"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-11)",
+      "crc32": "F9D4CEE9"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)",
-        "crc32": "670EDE92"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-14)",
+      "crc32": "670EDE92"
     },
     {
-        "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)",
-        "crc32": "DE8545AF"
+      "name": "Legend of Illusion Starring Mickey Mouse (USA, Europe) (Beta) (1994-10-17)",
+      "crc32": "DE8545AF"
     },
     {
-        "name": "Lemmings (World)",
-        "crc32": "0FDE7BAA"
+      "name": "Lemmings (World)",
+      "crc32": "0FDE7BAA"
     },
     {
-        "name": "Lemmings (World) (Beta)",
-        "crc32": "51548F61"
+      "name": "Lemmings (World) (Beta)",
+      "crc32": "51548F61"
     },
     {
-        "name": "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)",
-        "crc32": "FBC807E1"
+      "name": "Lemmings 2 - The Tribes (Europe) (Proto) (1995-09-04)",
+      "crc32": "FBC807E1"
     },
     {
-        "name": "Lion King, The (Europe)",
-        "crc32": "0CD9C20B"
+      "name": "Lion King, The (Europe)",
+      "crc32": "0CD9C20B"
     },
     {
-        "name": "Lion King, The (Japan)",
-        "crc32": "C78B8637"
+      "name": "Lion King, The (Japan)",
+      "crc32": "C78B8637"
     },
     {
-        "name": "Lion King, The (USA)",
-        "crc32": "9808D7B3"
+      "name": "Lion King, The (USA)",
+      "crc32": "9808D7B3"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-03)",
-        "crc32": "AACB7387"
+      "name": "Lion King, The (USA) (Beta) (1994-08-03)",
+      "crc32": "AACB7387"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-11)",
-        "crc32": "214C13DC"
+      "name": "Lion King, The (USA) (Beta) (1994-08-11)",
+      "crc32": "214C13DC"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-12)",
-        "crc32": "0E80EFE0"
+      "name": "Lion King, The (USA) (Beta) (1994-08-12)",
+      "crc32": "0E80EFE0"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-13)",
-        "crc32": "8250C11E"
+      "name": "Lion King, The (USA) (Beta) (1994-08-13)",
+      "crc32": "8250C11E"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-14)",
-        "crc32": "EB10A2D4"
+      "name": "Lion King, The (USA) (Beta) (1994-08-14)",
+      "crc32": "EB10A2D4"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-16)",
-        "crc32": "C6AF9643"
+      "name": "Lion King, The (USA) (Beta) (1994-08-16)",
+      "crc32": "C6AF9643"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-17)",
-        "crc32": "B65030D0"
+      "name": "Lion King, The (USA) (Beta) (1994-08-17)",
+      "crc32": "B65030D0"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-17) (Alt)",
-        "crc32": "4214C474"
+      "name": "Lion King, The (USA) (Beta) (1994-08-17) (Alt)",
+      "crc32": "4214C474"
     },
     {
-        "name": "Lion King, The (USA) (Beta) (1994-08-20)",
-        "crc32": "3D0B31A2"
+      "name": "Lion King, The (USA) (Beta) (1994-08-20)",
+      "crc32": "3D0B31A2"
     },
     {
-        "name": "Lost World, The - Jurassic Park (USA)",
-        "crc32": "8D1597F5"
+      "name": "Lost World, The - Jurassic Park (USA)",
+      "crc32": "8D1597F5"
     },
     {
-        "name": "Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En)",
-        "crc32": "07A7815A"
+      "name": "Lucky Dime Caper Starring Donald Duck, The (USA, Europe, Brazil) (En)",
+      "crc32": "07A7815A"
     },
     {
-        "name": "Lunar - Sanposuru Gakuen (Japan)",
-        "crc32": "58459EDD"
+      "name": "Lunar - Sanposuru Gakuen (Japan)",
+      "crc32": "58459EDD"
     },
     {
-        "name": "MLBPA Baseball (USA)",
-        "crc32": "1ECF07B4"
+      "name": "MLBPA Baseball (USA)",
+      "crc32": "1ECF07B4"
     },
     {
-        "name": "Madden 96 (USA, Europe)",
-        "crc32": "9F59D302"
+      "name": "Madden 96 (USA, Europe)",
+      "crc32": "9F59D302"
     },
     {
-        "name": "Madden NFL 95 (USA)",
-        "crc32": "75C71EBF"
+      "name": "Madden NFL 95 (USA)",
+      "crc32": "75C71EBF"
     },
     {
-        "name": "Madou Monogatari A - Dokidoki Vacation (Japan)",
-        "crc32": "7EC95282"
+      "name": "Madou Monogatari A - Dokidoki Vacation (Japan)",
+      "crc32": "7EC95282"
     },
     {
-        "name": "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)",
-        "crc32": "00C34D94"
+      "name": "Madou Monogatari I - 3-Tsu no Madoukyuu (Japan)",
+      "crc32": "00C34D94"
     },
     {
-        "name": "Madou Monogatari II - Arle 16-Sai (Japan)",
-        "crc32": "12EB2287"
+      "name": "Madou Monogatari II - Arle 16-Sai (Japan)",
+      "crc32": "12EB2287"
     },
     {
-        "name": "Madou Monogatari III - Kyuukyoku Joou-sama (Japan)",
-        "crc32": "0A634D79"
+      "name": "Madou Monogatari III - Kyuukyoku Joou-sama (Japan)",
+      "crc32": "0A634D79"
     },
     {
-        "name": "Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A)",
-        "crc32": "568F4825"
+      "name": "Madou Monogatari III - Kyuukyoku Joou-sama (Japan) (Rev A)",
+      "crc32": "568F4825"
     },
     {
-        "name": "Magic Knight Rayearth (Japan)",
-        "crc32": "8F82A6B9"
+      "name": "Magic Knight Rayearth (Japan)",
+      "crc32": "8F82A6B9"
     },
     {
-        "name": "Magic Knight Rayearth 2 - Making of Magic Knight (Japan)",
-        "crc32": "1C2C2B04"
+      "name": "Magic Knight Rayearth 2 - Making of Magic Knight (Japan)",
+      "crc32": "1C2C2B04"
     },
     {
-        "name": "Magical Puzzle Popils (World) (En,Ja)",
-        "crc32": "CF6D7BC5"
+      "name": "Magical Puzzle Popils (World) (En,Ja)",
+      "crc32": "CF6D7BC5"
     },
     {
-        "name": "Magical Taruruuto-kun (Japan)",
-        "crc32": "6E1CC23C"
+      "name": "Magical Taruruuto-kun (Japan)",
+      "crc32": "6E1CC23C"
     },
     {
-        "name": "Majors, The - Pro Baseball (USA)",
-        "crc32": "36EBCD6D"
+      "name": "Majors, The - Pro Baseball (USA)",
+      "crc32": "36EBCD6D"
     },
     {
-        "name": "Man Overboard! (Europe)",
-        "crc32": "D9A7F170"
+      "name": "Man Overboard! (Europe)",
+      "crc32": "D9A7F170"
     },
     {
-        "name": "Mappy (Japan)",
-        "crc32": "01D2DD2A"
+      "name": "Mappy (Japan)",
+      "crc32": "01D2DD2A"
     },
     {
-        "name": "Marble Madness (USA, Europe)",
-        "crc32": "9559E339"
+      "name": "Marble Madness (USA, Europe)",
+      "crc32": "9559E339"
     },
     {
-        "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
-        "crc32": "22C418BF"
+      "name": "Marko's Magic Football (Europe) (En,Fr,De,Es)",
+      "crc32": "22C418BF"
     },
     {
-        "name": "Master of Darkness (Europe) (Virtual Console)",
-        "crc32": "21402FFB"
+      "name": "Master of Darkness (Europe) (Virtual Console)",
+      "crc32": "21402FFB"
     },
     {
-        "name": "Master of Darkness (Europe, Brazil) (En)",
-        "crc32": "07D0EB42"
+      "name": "Master of Darkness (Europe, Brazil) (En)",
+      "crc32": "07D0EB42"
     },
     {
-        "name": "Mega Man (USA)",
-        "crc32": "1ACE93AF"
+      "name": "Mega Man (USA)",
+      "crc32": "1ACE93AF"
     },
     {
-        "name": "Megami Tensei Gaiden - Last Bible (Japan)",
-        "crc32": "2E4EC17B"
+      "name": "Megami Tensei Gaiden - Last Bible (Japan)",
+      "crc32": "2E4EC17B"
     },
     {
-        "name": "Megami Tensei Gaiden - Last Bible Special (Japan)",
-        "crc32": "4EC30806"
+      "name": "Megami Tensei Gaiden - Last Bible Special (Japan)",
+      "crc32": "4EC30806"
     },
     {
-        "name": "Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)",
-        "crc32": "FE12A92F"
+      "name": "Mickey Mouse Densetsu no Oukoku - Legend of Illusion (Japan)",
+      "crc32": "FE12A92F"
     },
     {
-        "name": "Mickey Mouse no Castle Illusion (Japan)",
-        "crc32": "9942B69B"
+      "name": "Mickey Mouse no Castle Illusion (Japan)",
+      "crc32": "9942B69B"
     },
     {
-        "name": "Mickey Mouse no Mahou no Crystal (Japan)",
-        "crc32": "0117C3DF"
+      "name": "Mickey Mouse no Mahou no Crystal (Japan)",
+      "crc32": "0117C3DF"
     },
     {
-        "name": "Mickey's Ultimate Challenge (USA)",
-        "crc32": "ECCF7A4F"
+      "name": "Mickey's Ultimate Challenge (USA)",
+      "crc32": "ECCF7A4F"
     },
     {
-        "name": "Micro Machines (USA, Europe)",
-        "crc32": "F7C524F6"
+      "name": "Micro Machines (USA, Europe)",
+      "crc32": "F7C524F6"
     },
     {
-        "name": "Micro Machines (USA, Europe) (Beta) (1993-10-22)",
-        "crc32": "C21E6CD0"
+      "name": "Micro Machines (USA, Europe) (Beta) (1993-10-22)",
+      "crc32": "C21E6CD0"
     },
     {
-        "name": "Micro Machines 2 - Turbo Tournament (Europe)",
-        "crc32": "DBE8895C"
+      "name": "Micro Machines 2 - Turbo Tournament (Europe)",
+      "crc32": "DBE8895C"
     },
     {
-        "name": "Mighty Morphin Power Rangers (USA, Europe)",
-        "crc32": "9289DFCC"
+      "name": "Mighty Morphin Power Rangers (USA, Europe)",
+      "crc32": "9289DFCC"
     },
     {
-        "name": "Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)",
-        "crc32": "2887F04A"
+      "name": "Mighty Morphin Power Rangers (USA, Europe) (Beta) (1994-07-16)",
+      "crc32": "2887F04A"
     },
     {
-        "name": "Mighty Morphin Power Rangers - The Movie (USA, Europe, Brazil) (En)",
-        "crc32": "B47C19E5"
+      "name": "Mighty Morphin Power Rangers - The Movie (USA, Europe, Brazil) (En)",
+      "crc32": "B47C19E5"
     },
     {
-        "name": "Moldorian - Hikari to Yami no Sister (Japan)",
-        "crc32": "4D5D15FB"
+      "name": "Moldorian - Hikari to Yami no Sister (Japan)",
+      "crc32": "4D5D15FB"
     },
     {
-        "name": "Monster Truck Wars (USA, Europe)",
-        "crc32": "453C5CEC"
+      "name": "Monster Truck Wars (USA, Europe)",
+      "crc32": "453C5CEC"
     },
     {
-        "name": "Monster World II - Dragon no Wana (Japan)",
-        "crc32": "EA89E0E7"
+      "name": "Monster World II - Dragon no Wana (Japan)",
+      "crc32": "EA89E0E7"
     },
     {
-        "name": "Mortal Kombat (USA, Europe)",
-        "crc32": "07494F2A"
+      "name": "Mortal Kombat (USA, Europe)",
+      "crc32": "07494F2A"
     },
     {
-        "name": "Mortal Kombat (USA, Europe) (Beta)",
-        "crc32": "16DB4F6A"
+      "name": "Mortal Kombat (USA, Europe) (Beta)",
+      "crc32": "16DB4F6A"
     },
     {
-        "name": "Mortal Kombat - Shinken Kourin Densetsu (Japan)",
-        "crc32": "DBFF0461"
+      "name": "Mortal Kombat - Shinken Kourin Densetsu (Japan)",
+      "crc32": "DBFF0461"
     },
     {
-        "name": "Mortal Kombat 3 (Europe)",
-        "crc32": "C2BE62BB"
+      "name": "Mortal Kombat 3 (Europe)",
+      "crc32": "C2BE62BB"
     },
     {
-        "name": "Mortal Kombat II (World)",
-        "crc32": "4B304E0F"
+      "name": "Mortal Kombat II (World)",
+      "crc32": "4B304E0F"
     },
     {
-        "name": "Ms. Pac-Man (USA)",
-        "crc32": "5EE88BD5"
+      "name": "Ms. Pac-Man (USA)",
+      "crc32": "5EE88BD5"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En)",
-        "crc32": "19030108"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En)",
+      "crc32": "19030108"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28)",
-        "crc32": "31084021"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-11-28)",
+      "crc32": "31084021"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-12-01)",
-        "crc32": "8C089DA5"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1993-12-01)",
+      "crc32": "8C089DA5"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-04)",
-        "crc32": "C658B5B3"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-04)",
+      "crc32": "C658B5B3"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-06)",
-        "crc32": "41DABD84"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-06)",
+      "crc32": "41DABD84"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-10)",
-        "crc32": "A34B2B4C"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-10)",
+      "crc32": "A34B2B4C"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-24)",
-        "crc32": "9824F77D"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-24)",
+      "crc32": "9824F77D"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-29)",
-        "crc32": "0D6BF79D"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-01-29)",
+      "crc32": "0D6BF79D"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-02)",
-        "crc32": "F9D5500B"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-02)",
+      "crc32": "F9D5500B"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-03)",
-        "crc32": "E2341DCE"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-03)",
+      "crc32": "E2341DCE"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-06)",
-        "crc32": "07649147"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-06)",
+      "crc32": "07649147"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-08)",
-        "crc32": "5E089FBC"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-08)",
+      "crc32": "5E089FBC"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-12)",
-        "crc32": "0C0F6B4C"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-12)",
+      "crc32": "0C0F6B4C"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-15)",
-        "crc32": "E73B02A4"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-15)",
+      "crc32": "E73B02A4"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-17)",
-        "crc32": "C4B3328C"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-17)",
+      "crc32": "C4B3328C"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-20)",
-        "crc32": "91E3026C"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-20)",
+      "crc32": "91E3026C"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-21)",
-        "crc32": "9265F8C3"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-21)",
+      "crc32": "9265F8C3"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-24)",
-        "crc32": "21A79F63"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-24)",
+      "crc32": "21A79F63"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25)",
-        "crc32": "188A319E"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25)",
+      "crc32": "188A319E"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt)",
-        "crc32": "AFC8A69E"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-25) (Alt)",
+      "crc32": "AFC8A69E"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26)",
-        "crc32": "6896B65D"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-26)",
+      "crc32": "6896B65D"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-27)",
-        "crc32": "AB721F11"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-27)",
+      "crc32": "AB721F11"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28)",
-        "crc32": "D15AA940"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28)",
+      "crc32": "D15AA940"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt)",
-        "crc32": "82E882D6"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-02-28) (Alt)",
+      "crc32": "82E882D6"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-01)",
-        "crc32": "4415C0BB"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-01)",
+      "crc32": "4415C0BB"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-02)",
-        "crc32": "5254577A"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-02)",
+      "crc32": "5254577A"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-03)",
-        "crc32": "75A5BC5D"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-03)",
+      "crc32": "75A5BC5D"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04)",
-        "crc32": "A82049DF"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04)",
+      "crc32": "A82049DF"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt)",
-        "crc32": "80C0586C"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-04) (Alt)",
+      "crc32": "80C0586C"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-05)",
-        "crc32": "E197A0BB"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-05)",
+      "crc32": "E197A0BB"
     },
     {
-        "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-08)",
-        "crc32": "C9E98A49"
+      "name": "NBA Action Starring David Robinson (USA, Brazil) (En) (Beta) (1994-03-08)",
+      "crc32": "C9E98A49"
     },
     {
-        "name": "NBA Jam (Japan)",
-        "crc32": "A49E9033"
+      "name": "NBA Jam (Japan)",
+      "crc32": "A49E9033"
     },
     {
-        "name": "NBA Jam (USA) (Rev 1)",
-        "crc32": "820FA4AB"
+      "name": "NBA Jam (USA) (Rev 1)",
+      "crc32": "820FA4AB"
     },
     {
-        "name": "NBA Jam (USA, Europe)",
-        "crc32": "8F17597E"
+      "name": "NBA Jam (USA, Europe)",
+      "crc32": "8F17597E"
     },
     {
-        "name": "NBA Jam - Tournament Edition (World)",
-        "crc32": "86C32E5B"
+      "name": "NBA Jam - Tournament Edition (World)",
+      "crc32": "86C32E5B"
     },
     {
-        "name": "NFL '95 (USA)",
-        "crc32": "DC5B0407"
+      "name": "NFL '95 (USA)",
+      "crc32": "DC5B0407"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-08-08)",
-        "crc32": "8CD96D95"
+      "name": "NFL '95 (USA) (Beta) (1994-08-08)",
+      "crc32": "8CD96D95"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-08-25)",
-        "crc32": "FE140EAA"
+      "name": "NFL '95 (USA) (Beta) (1994-08-25)",
+      "crc32": "FE140EAA"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-08-25) (Alt)",
-        "crc32": "7F769052"
+      "name": "NFL '95 (USA) (Beta) (1994-08-25) (Alt)",
+      "crc32": "7F769052"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-08-26)",
-        "crc32": "F77138DD"
+      "name": "NFL '95 (USA) (Beta) (1994-08-26)",
+      "crc32": "F77138DD"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-08-31)",
-        "crc32": "A3B046E7"
+      "name": "NFL '95 (USA) (Beta) (1994-08-31)",
+      "crc32": "A3B046E7"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-02)",
-        "crc32": "3978387B"
+      "name": "NFL '95 (USA) (Beta) (1994-09-02)",
+      "crc32": "3978387B"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-08)",
-        "crc32": "FF70A26F"
+      "name": "NFL '95 (USA) (Beta) (1994-09-08)",
+      "crc32": "FF70A26F"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-10)",
-        "crc32": "132DB489"
+      "name": "NFL '95 (USA) (Beta) (1994-09-10)",
+      "crc32": "132DB489"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-11)",
-        "crc32": "088E4B6D"
+      "name": "NFL '95 (USA) (Beta) (1994-09-11)",
+      "crc32": "088E4B6D"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-11) (Alt)",
-        "crc32": "C57C6AFD"
+      "name": "NFL '95 (USA) (Beta) (1994-09-11) (Alt)",
+      "crc32": "C57C6AFD"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-12)",
-        "crc32": "B38F48B6"
+      "name": "NFL '95 (USA) (Beta) (1994-09-12)",
+      "crc32": "B38F48B6"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-14)",
-        "crc32": "2828CB66"
+      "name": "NFL '95 (USA) (Beta) (1994-09-14)",
+      "crc32": "2828CB66"
     },
     {
-        "name": "NFL '95 (USA) (Beta) (1994-09-14) (Alt)",
-        "crc32": "474A162B"
+      "name": "NFL '95 (USA) (Beta) (1994-09-14) (Alt)",
+      "crc32": "474A162B"
     },
     {
-        "name": "NFL Quarterback Club (World)",
-        "crc32": "61785ED5"
+      "name": "NFL Quarterback Club (World)",
+      "crc32": "61785ED5"
     },
     {
-        "name": "NFL Quarterback Club 96 (USA)",
-        "crc32": "C348E53A"
+      "name": "NFL Quarterback Club 96 (USA)",
+      "crc32": "C348E53A"
     },
     {
-        "name": "NHL All-Star Hockey (USA)",
-        "crc32": "4680C7AA"
+      "name": "NHL All-Star Hockey (USA)",
+      "crc32": "4680C7AA"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-15)",
-        "crc32": "E583D999"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-15)",
+      "crc32": "E583D999"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-22)",
-        "crc32": "DFBA792A"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-22)",
+      "crc32": "DFBA792A"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-29)",
-        "crc32": "E14D071B"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-29)",
+      "crc32": "E14D071B"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-31)",
-        "crc32": "8A2B6323"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1994-12-31)",
+      "crc32": "8A2B6323"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-02)",
-        "crc32": "2551F22C"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-02)",
+      "crc32": "2551F22C"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-03)",
-        "crc32": "ECE5633B"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-03)",
+      "crc32": "ECE5633B"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-07)",
-        "crc32": "82504476"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-07)",
+      "crc32": "82504476"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-11)",
-        "crc32": "49F8B9E4"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-11)",
+      "crc32": "49F8B9E4"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-13)",
-        "crc32": "87D8FE13"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-13)",
+      "crc32": "87D8FE13"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-16)",
-        "crc32": "50DCF5B6"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-16)",
+      "crc32": "50DCF5B6"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-20)",
-        "crc32": "499B06C2"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-20)",
+      "crc32": "499B06C2"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-21)",
-        "crc32": "16AF7995"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-21)",
+      "crc32": "16AF7995"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24)",
-        "crc32": "54F5EFB2"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24)",
+      "crc32": "54F5EFB2"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)",
-        "crc32": "0B1C38F4"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 2)",
+      "crc32": "0B1C38F4"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)",
-        "crc32": "74BE3C4C"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt 3)",
+      "crc32": "74BE3C4C"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt)",
-        "crc32": "0A4A6830"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-24) (Alt)",
+      "crc32": "0A4A6830"
     },
     {
-        "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-25)",
-        "crc32": "A587B13E"
+      "name": "NHL All-Star Hockey (USA) (Beta) (1995-01-25)",
+      "crc32": "A587B13E"
     },
     {
-        "name": "NHL Hockey (USA, Europe)",
-        "crc32": "658713A5"
+      "name": "NHL Hockey (USA, Europe)",
+      "crc32": "658713A5"
     },
     {
-        "name": "Nazo Puyo (Japan)",
-        "crc32": "BCCE5FD4"
+      "name": "Nazo Puyo (Japan)",
+      "crc32": "BCCE5FD4"
     },
     {
-        "name": "Nazo Puyo (Japan) (Rev 1)",
-        "crc32": "D8D11F8D"
+      "name": "Nazo Puyo (Japan) (Rev 1)",
+      "crc32": "D8D11F8D"
     },
     {
-        "name": "Nazo Puyo - Arle no Roux (Japan)",
-        "crc32": "54AB42A4"
+      "name": "Nazo Puyo - Arle no Roux (Japan)",
+      "crc32": "54AB42A4"
     },
     {
-        "name": "Nazo Puyo - Arle no Roux (Japan) (Beta)",
-        "crc32": "4C874466"
+      "name": "Nazo Puyo - Arle no Roux (Japan) (Beta)",
+      "crc32": "4C874466"
     },
     {
-        "name": "Nazo Puyo 2 (Japan)",
-        "crc32": "73939DE4"
+      "name": "Nazo Puyo 2 (Japan)",
+      "crc32": "73939DE4"
     },
     {
-        "name": "Neko Daisuki! (Japan)",
-        "crc32": "3679BE80"
+      "name": "Neko Daisuki! (Japan)",
+      "crc32": "3679BE80"
     },
     {
-        "name": "Ninja Gaiden (Japan)",
-        "crc32": "20EF017A"
+      "name": "Ninja Gaiden (Japan)",
+      "crc32": "20EF017A"
     },
     {
-        "name": "Ninja Gaiden (USA, Europe, Brazil) (En)",
-        "crc32": "C578756B"
+      "name": "Ninja Gaiden (USA, Europe, Brazil) (En)",
+      "crc32": "C578756B"
     },
     {
-        "name": "Ninku (Japan)",
-        "crc32": "C3056E15"
+      "name": "Ninku (Japan)",
+      "crc32": "C3056E15"
     },
     {
-        "name": "Ninku 2 - Tenkuuryuu e no Michi (Japan)",
-        "crc32": "06247DD2"
+      "name": "Ninku 2 - Tenkuuryuu e no Michi (Japan)",
+      "crc32": "06247DD2"
     },
     {
-        "name": "Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)",
-        "crc32": "9140F239"
+      "name": "Ninku Gaiden - Hiroyuki Daikatsugeki (Japan)",
+      "crc32": "9140F239"
     },
     {
-        "name": "Nomo Hideo no World Series Baseball (Japan)",
-        "crc32": "4ED45BDA"
+      "name": "Nomo Hideo no World Series Baseball (Japan)",
+      "crc32": "4ED45BDA"
     },
     {
-        "name": "Off the Wall (USA) (Proto) (1992-06-28)",
-        "crc32": "71FE9C80"
+      "name": "Off the Wall (USA) (Proto) (1992-06-28)",
+      "crc32": "71FE9C80"
     },
     {
-        "name": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
-        "crc32": "1D93246E"
+      "name": "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "crc32": "1D93246E"
     },
     {
-        "name": "Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)",
-        "crc32": "A2F9C7AF"
+      "name": "Olympic Gold (Japan, USA, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "crc32": "A2F9C7AF"
     },
     {
-        "name": "Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl)",
-        "crc32": "3382D73F"
+      "name": "Olympic Gold (Taiwan) (En,Fr,De,Es,It,Nl,Pt,Sv) (Unl)",
+      "crc32": "3382D73F"
     },
     {
-        "name": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
-        "crc32": "1E673168"
+      "name": "Ottifants, The (Europe) (En,Fr,De,Es,It)",
+      "crc32": "1E673168"
     },
     {
-        "name": "OutRun (Europe, Brazil) (En)",
-        "crc32": "9014B322"
+      "name": "OutRun (Europe, Brazil) (En)",
+      "crc32": "9014B322"
     },
     {
-        "name": "OutRun (Japan, Europe, Korea) (Ja)",
-        "crc32": "D58CB27C"
+      "name": "OutRun (Japan, Europe, Korea) (Ja)",
+      "crc32": "D58CB27C"
     },
     {
-        "name": "OutRun Europa (Europe)",
-        "crc32": "01EAB89D"
+      "name": "OutRun Europa (Europe)",
+      "crc32": "01EAB89D"
     },
     {
-        "name": "OutRun Europa (USA)",
-        "crc32": "F037EC00"
+      "name": "OutRun Europa (USA)",
+      "crc32": "F037EC00"
     },
     {
-        "name": "PGA Tour 96 (USA, Europe)",
-        "crc32": "542B6D8E"
+      "name": "PGA Tour 96 (USA, Europe)",
+      "crc32": "542B6D8E"
     },
     {
-        "name": "PGA Tour Golf (USA) (Rev 1)",
-        "crc32": "1C77D996"
+      "name": "PGA Tour Golf (USA) (Rev 1)",
+      "crc32": "1C77D996"
     },
     {
-        "name": "PGA Tour Golf (USA, Europe)",
-        "crc32": "9700BB65"
+      "name": "PGA Tour Golf (USA, Europe)",
+      "crc32": "9700BB65"
     },
     {
-        "name": "PGA Tour Golf II (USA, Europe)",
-        "crc32": "4A8AC851"
+      "name": "PGA Tour Golf II (USA, Europe)",
+      "crc32": "4A8AC851"
     },
     {
-        "name": "Pac-Attack (USA)",
-        "crc32": "9273EE2C"
+      "name": "Pac-Attack (USA)",
+      "crc32": "9273EE2C"
     },
     {
-        "name": "Pac-Man (Japan) (En)",
-        "crc32": "A16C5E58"
+      "name": "Pac-Man (Japan) (En)",
+      "crc32": "A16C5E58"
     },
     {
-        "name": "Pac-Man (USA)",
-        "crc32": "B318DD37"
+      "name": "Pac-Man (USA)",
+      "crc32": "B318DD37"
     },
     {
-        "name": "Pac-in-Time (USA) (Proto)",
-        "crc32": "64C28E20"
+      "name": "Pac-in-Time (USA) (Proto)",
+      "crc32": "64C28E20"
     },
     {
-        "name": "Panzer Dragoon Mini (Japan)",
-        "crc32": "E9783CEA"
+      "name": "Panzer Dragoon Mini (Japan)",
+      "crc32": "E9783CEA"
     },
     {
-        "name": "Paperboy (USA, Europe)",
-        "crc32": "F54B6803"
+      "name": "Paperboy (USA, Europe)",
+      "crc32": "F54B6803"
     },
     {
-        "name": "Paperboy 2 (USA)",
-        "crc32": "8B2C454B"
+      "name": "Paperboy 2 (USA)",
+      "crc32": "8B2C454B"
     },
     {
-        "name": "Paperboy 2 (USA) (Beta)",
-        "crc32": "0B271DB6"
+      "name": "Paperboy 2 (USA) (Beta)",
+      "crc32": "0B271DB6"
     },
     {
-        "name": "Pengo (Europe)",
-        "crc32": "0DA23CC1"
+      "name": "Pengo (Europe)",
+      "crc32": "0DA23CC1"
     },
     {
-        "name": "Pengo (Japan)",
-        "crc32": "CE863DBA"
+      "name": "Pengo (Japan)",
+      "crc32": "CE863DBA"
     },
     {
-        "name": "Pet Club - Inu Daisuki! (Japan)",
-        "crc32": "B42D8430"
+      "name": "Pet Club - Inu Daisuki! (Japan)",
+      "crc32": "B42D8430"
     },
     {
-        "name": "Pete Sampras Tennis (USA, Europe)",
-        "crc32": "C1756BEE"
+      "name": "Pete Sampras Tennis (USA, Europe)",
+      "crc32": "C1756BEE"
     },
     {
-        "name": "Phantasy Star Adventure (Japan)",
-        "crc32": "1A51579D"
+      "name": "Phantasy Star Adventure (Japan)",
+      "crc32": "1A51579D"
     },
     {
-        "name": "Phantasy Star Gaiden (Japan)",
-        "crc32": "A942514A"
+      "name": "Phantasy Star Gaiden (Japan)",
+      "crc32": "A942514A"
     },
     {
-        "name": "Phantom 2040 (USA, Europe)",
-        "crc32": "281B1C3A"
+      "name": "Phantom 2040 (USA, Europe)",
+      "crc32": "281B1C3A"
     },
     {
-        "name": "Pinball Dreams (USA)",
-        "crc32": "635C483A"
+      "name": "Pinball Dreams (USA)",
+      "crc32": "635C483A"
     },
     {
-        "name": "Pocket Jansou (Japan)",
-        "crc32": "CC90C723"
+      "name": "Pocket Jansou (Japan)",
+      "crc32": "CC90C723"
     },
     {
-        "name": "Poker Face - Paul's Cribbage (USA) (Proto)",
-        "crc32": "D2E644B4"
+      "name": "Poker Face - Paul's Cribbage (USA) (Proto)",
+      "crc32": "D2E644B4"
     },
     {
-        "name": "Poker Face Paul's Blackjack (USA)",
-        "crc32": "89D34067"
+      "name": "Poker Face Paul's Blackjack (USA)",
+      "crc32": "89D34067"
     },
     {
-        "name": "Poker Face Paul's Gin (USA)",
-        "crc32": "AFD61B89"
+      "name": "Poker Face Paul's Gin (USA)",
+      "crc32": "AFD61B89"
     },
     {
-        "name": "Poker Face Paul's Poker (USA)",
-        "crc32": "E783DAF8"
+      "name": "Poker Face Paul's Poker (USA)",
+      "crc32": "E783DAF8"
     },
     {
-        "name": "Poker Face Paul's Solitaire (USA)",
-        "crc32": "0E9B0C0A"
+      "name": "Poker Face Paul's Solitaire (USA)",
+      "crc32": "0E9B0C0A"
     },
     {
-        "name": "Pop Breaker (Japan)",
-        "crc32": "71DEBA5A"
+      "name": "Pop Breaker (Japan)",
+      "crc32": "71DEBA5A"
     },
     {
-        "name": "Popeye no Beach Volleyball (Japan)",
-        "crc32": "3EF66810"
+      "name": "Popeye no Beach Volleyball (Japan)",
+      "crc32": "3EF66810"
     },
     {
-        "name": "Power Drive (Europe)",
-        "crc32": "AC369AE3"
+      "name": "Power Drive (Europe)",
+      "crc32": "AC369AE3"
     },
     {
-        "name": "Power Strike II (Japan, Europe) (En)",
-        "crc32": "09DE1528"
+      "name": "Power Strike II (Japan, Europe) (En)",
+      "crc32": "09DE1528"
     },
     {
-        "name": "Predator 2 (USA, Europe)",
-        "crc32": "E5F789B9"
+      "name": "Predator 2 (USA, Europe)",
+      "crc32": "E5F789B9"
     },
     {
-        "name": "Primal Rage (USA, Europe)",
-        "crc32": "2A34B5C7"
+      "name": "Primal Rage (USA, Europe)",
+      "crc32": "2A34B5C7"
     },
     {
-        "name": "Prince of Persia (USA, Europe)",
-        "crc32": "311D2863"
+      "name": "Prince of Persia (USA, Europe)",
+      "crc32": "311D2863"
     },
     {
-        "name": "Prince of Persia (USA, Europe) (Beta)",
-        "crc32": "45F058D6"
+      "name": "Prince of Persia (USA, Europe) (Beta)",
+      "crc32": "45F058D6"
     },
     {
-        "name": "Pro Yakyuu '91, The (Japan)",
-        "crc32": "6D3A10D3"
+      "name": "Pro Yakyuu '91, The (Japan)",
+      "crc32": "6D3A10D3"
     },
     {
-        "name": "Pro Yakyuu GG League '94 (Japan)",
-        "crc32": "A1A19135"
+      "name": "Pro Yakyuu GG League '94 (Japan)",
+      "crc32": "A1A19135"
     },
     {
-        "name": "Pro Yakyuu GG League (Japan)",
-        "crc32": "2DA8E943"
+      "name": "Pro Yakyuu GG League (Japan)",
+      "crc32": "2DA8E943"
     },
     {
-        "name": "Psychic World (Japan) (En)",
-        "crc32": "AFCC7828"
+      "name": "Psychic World (Japan) (En)",
+      "crc32": "AFCC7828"
     },
     {
-        "name": "Psychic World (USA, Europe, Brazil) (En) (Rev 1)",
-        "crc32": "73779B22"
+      "name": "Psychic World (USA, Europe, Brazil) (En) (Rev 1)",
+      "crc32": "73779B22"
     },
     {
-        "name": "Putt & Putter (Japan, Korea) (Ja)",
-        "crc32": "407AC070"
+      "name": "Putt & Putter (Japan, Korea) (Ja)",
+      "crc32": "407AC070"
     },
     {
-        "name": "Putt & Putter (USA, Europe, Brazil) (En)",
-        "crc32": "ECC301DD"
+      "name": "Putt & Putter (USA, Europe, Brazil) (En)",
+      "crc32": "ECC301DD"
     },
     {
-        "name": "Puyo Puyo (Japan) (En,Ja)",
-        "crc32": "D173A06F"
+      "name": "Puyo Puyo (Japan) (En,Ja)",
+      "crc32": "D173A06F"
     },
     {
-        "name": "Puyo Puyo Tsuu (Japan)",
-        "crc32": "3AB2393B"
+      "name": "Puyo Puyo Tsuu (Japan)",
+      "crc32": "3AB2393B"
     },
     {
-        "name": "Puyo Puyo Tsuu (Japan) (Virtual Console)",
-        "crc32": "1095528D"
+      "name": "Puyo Puyo Tsuu (Japan) (Virtual Console)",
+      "crc32": "1095528D"
     },
     {
-        "name": "Puzzle & Action - Ichidanto-R (Japan)",
-        "crc32": "9F64C2BB"
+      "name": "Puzzle & Action - Ichidanto-R (Japan)",
+      "crc32": "9F64C2BB"
     },
     {
-        "name": "Puzzle & Action - Tanto-R (Japan)",
-        "crc32": "09151743"
+      "name": "Puzzle & Action - Tanto-R (Japan)",
+      "crc32": "09151743"
     },
     {
-        "name": "Puzzle Bobble (Japan)",
-        "crc32": "8E54EE04"
+      "name": "Puzzle Bobble (Japan)",
+      "crc32": "8E54EE04"
     },
     {
-        "name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
-        "crc32": "6C451EE1"
+      "name": "Quest for the Shaven Yak Starring Ren Hoek & Stimpy (USA, Europe)",
+      "crc32": "6C451EE1"
     },
     {
-        "name": "Quiz Gear Fight!!, The (Japan)",
-        "crc32": "736CDB76"
+      "name": "Quiz Gear Fight!!, The (Japan)",
+      "crc32": "736CDB76"
     },
     {
-        "name": "R.B.I. Baseball '94 (USA)",
-        "crc32": "6DC3295E"
+      "name": "R.B.I. Baseball '94 (USA)",
+      "crc32": "6DC3295E"
     },
     {
-        "name": "R.C. Grand Prix (USA)",
-        "crc32": "56201996"
+      "name": "R.C. Grand Prix (USA)",
+      "crc32": "56201996"
     },
     {
-        "name": "Rastan Saga (Japan)",
-        "crc32": "9C76FB3A"
+      "name": "Rastan Saga (Japan)",
+      "crc32": "9C76FB3A"
     },
     {
-        "name": "Revenge of Drancon (USA, Brazil) (En)",
-        "crc32": "03E9C607"
+      "name": "Revenge of Drancon (USA, Brazil) (En)",
+      "crc32": "03E9C607"
     },
     {
-        "name": "Riddick Bowe Boxing (Japan)",
-        "crc32": "A45FFFB7"
+      "name": "Riddick Bowe Boxing (Japan)",
+      "crc32": "A45FFFB7"
     },
     {
-        "name": "Riddick Bowe Boxing (USA)",
-        "crc32": "38D8EC56"
+      "name": "Riddick Bowe Boxing (USA)",
+      "crc32": "38D8EC56"
     },
     {
-        "name": "Rise of the Robots (USA, Europe)",
-        "crc32": "100B77B2"
+      "name": "Rise of the Robots (USA, Europe)",
+      "crc32": "100B77B2"
     },
     {
-        "name": "Ristar (World)",
-        "crc32": "EFE65B3B"
+      "name": "Ristar (World)",
+      "crc32": "EFE65B3B"
     },
     {
-        "name": "Ristar (World) (Beta) (1994-09-09)",
-        "crc32": "A1C214BD"
+      "name": "Ristar (World) (Beta) (1994-09-09)",
+      "crc32": "A1C214BD"
     },
     {
-        "name": "Ristar (World) (Beta) (1994-10-19)",
-        "crc32": "672D38D5"
+      "name": "Ristar (World) (Beta) (1994-10-19)",
+      "crc32": "672D38D5"
     },
     {
-        "name": "Ristar (World) (Beta) (1994-10-24)",
-        "crc32": "A302413C"
+      "name": "Ristar (World) (Beta) (1994-10-24)",
+      "crc32": "A302413C"
     },
     {
-        "name": "Ristar (World) (Beta) (1994-11-01)",
-        "crc32": "44FA6AE6"
+      "name": "Ristar (World) (Beta) (1994-11-01)",
+      "crc32": "44FA6AE6"
     },
     {
-        "name": "Ristar (World) (Beta) (1994-11-02)",
-        "crc32": "302D2B4B"
+      "name": "Ristar (World) (Beta) (1994-11-02)",
+      "crc32": "302D2B4B"
     },
     {
-        "name": "Road Rash (Europe)",
-        "crc32": "176505D4"
+      "name": "Road Rash (Europe)",
+      "crc32": "176505D4"
     },
     {
-        "name": "Road Rash (USA)",
-        "crc32": "96045F76"
+      "name": "Road Rash (USA)",
+      "crc32": "96045F76"
     },
     {
-        "name": "RoboCop 3 (World)",
-        "crc32": "069A0704"
+      "name": "RoboCop 3 (World)",
+      "crc32": "069A0704"
     },
     {
-        "name": "RoboCop versus The Terminator (USA, Europe)",
-        "crc32": "4AB7FA4E"
+      "name": "RoboCop versus The Terminator (USA, Europe)",
+      "crc32": "4AB7FA4E"
     },
     {
-        "name": "Royal Stone - Hirakareshi Toki no Tobira (Japan)",
-        "crc32": "445D7CD2"
+      "name": "Royal Stone - Hirakareshi Toki no Tobira (Japan)",
+      "crc32": "445D7CD2"
     },
     {
-        "name": "Ryuukyuu (Japan)",
-        "crc32": "95EFD52B"
+      "name": "Ryuukyuu (Japan)",
+      "crc32": "95EFD52B"
     },
     {
-        "name": "SD Gundam - Winner's History (Japan)",
-        "crc32": "5E2B39B8"
+      "name": "SD Gundam - Winner's History (Japan)",
+      "crc32": "5E2B39B8"
     },
     {
-        "name": "Samurai Shodown (USA)",
-        "crc32": "98171DEB"
+      "name": "Samurai Shodown (USA)",
+      "crc32": "98171DEB"
     },
     {
-        "name": "Samurai Spirits (Japan)",
-        "crc32": "93FD73DC"
+      "name": "Samurai Spirits (Japan)",
+      "crc32": "93FD73DC"
     },
     {
-        "name": "Scratch Golf (Japan)",
-        "crc32": "EC0F2C72"
+      "name": "Scratch Golf (Japan)",
+      "crc32": "EC0F2C72"
     },
     {
-        "name": "Scratch Golf (USA)",
-        "crc32": "C10DF4CE"
+      "name": "Scratch Golf (USA)",
+      "crc32": "C10DF4CE"
     },
     {
-        "name": "Sega Game Pack 4 in 1 (Europe)",
-        "crc32": "0924D2EC"
+      "name": "Sega Game Pack 4 in 1 (Europe)",
+      "crc32": "0924D2EC"
     },
     {
-        "name": "Sega Game Pack 4 in 1 (Europe) (Beta)",
-        "crc32": "758A7123"
+      "name": "Sega Game Pack 4 in 1 (Europe) (Beta)",
+      "crc32": "758A7123"
     },
     {
-        "name": "Sensible Soccer - European Champions (Europe)",
-        "crc32": "5B68DA75"
+      "name": "Sensible Soccer - European Champions (Europe)",
+      "crc32": "5B68DA75"
     },
     {
-        "name": "Shadam Crusader - Harukanaru Oukoku (Japan)",
-        "crc32": "09F9ED60"
+      "name": "Shadam Crusader - Harukanaru Oukoku (Japan)",
+      "crc32": "09F9ED60"
     },
     {
-        "name": "Shanghai II (Japan)",
-        "crc32": "2AE8C75F"
+      "name": "Shanghai II (Japan)",
+      "crc32": "2AE8C75F"
     },
     {
-        "name": "Shanghai II (Japan) (Rev A)",
-        "crc32": "81314249"
+      "name": "Shanghai II (Japan) (Rev A)",
+      "crc32": "81314249"
     },
     {
-        "name": "Shaq Fu (USA)",
-        "crc32": "6FCB8AB0"
+      "name": "Shaq Fu (USA)",
+      "crc32": "6FCB8AB0"
     },
     {
-        "name": "Shikinjou (Japan)",
-        "crc32": "9C5C7F53"
+      "name": "Shikinjou (Japan)",
+      "crc32": "9C5C7F53"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA)",
-        "crc32": "A6CA6FA9"
+      "name": "Shining Force - The Sword of Hajya (USA)",
+      "crc32": "A6CA6FA9"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)",
-        "crc32": "65E5345C"
+      "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-04-27)",
+      "crc32": "65E5345C"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)",
-        "crc32": "E97EC011"
+      "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-05-30)",
+      "crc32": "E97EC011"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)",
-        "crc32": "8BFC56C3"
+      "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-06-27)",
+      "crc32": "8BFC56C3"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)",
-        "crc32": "80DCA91D"
+      "name": "Shining Force - The Sword of Hajya (USA) (Beta) (1994-07-08)",
+      "crc32": "80DCA91D"
     },
     {
-        "name": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)",
-        "crc32": "1DC56BEB"
+      "name": "Shining Force - The Sword of Hajya (USA, Europe) (Virtual Console)",
+      "crc32": "1DC56BEB"
     },
     {
-        "name": "Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)",
-        "crc32": "4D1F4699"
+      "name": "Shining Force Gaiden - Ensei, Jashin no Kuni e (Japan)",
+      "crc32": "4D1F4699"
     },
     {
-        "name": "Shining Force Gaiden - Final Conflict (Japan)",
-        "crc32": "6019FE5E"
+      "name": "Shining Force Gaiden - Final Conflict (Japan)",
+      "crc32": "6019FE5E"
     },
     {
-        "name": "Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)",
-        "crc32": "EB05C8EC"
+      "name": "Shining Force Gaiden - Final Conflict (Japan) (Virtual Console)",
+      "crc32": "EB05C8EC"
     },
     {
-        "name": "Shining Force Gaiden II - Jashin no Kakusei (Japan)",
-        "crc32": "30374681"
+      "name": "Shining Force Gaiden II - Jashin no Kakusei (Japan)",
+      "crc32": "30374681"
     },
     {
-        "name": "Shinobi (World) (Rev A)",
-        "crc32": "30F1C984"
+      "name": "Shinobi (World) (Rev A)",
+      "crc32": "30F1C984"
     },
     {
-        "name": "Shinobi (World) (Rev A) (Virtual Console)",
-        "crc32": "B62D934A"
+      "name": "Shinobi (World) (Rev A) (Virtual Console)",
+      "crc32": "B62D934A"
     },
     {
-        "name": "Shinobi II - The Silent Fury (World)",
-        "crc32": "6201C694"
+      "name": "Shinobi II - The Silent Fury (World)",
+      "crc32": "6201C694"
     },
     {
-        "name": "Side Pocket (USA)",
-        "crc32": "6A603EED"
+      "name": "Side Pocket (USA)",
+      "crc32": "6A603EED"
     },
     {
-        "name": "Simpsons, The - Bart vs. the Space Mutants (USA, Europe)",
-        "crc32": "C0009274"
+      "name": "Simpsons, The - Bart vs. the Space Mutants (USA, Europe)",
+      "crc32": "C0009274"
     },
     {
-        "name": "Simpsons, The - Bart vs. the World (World)",
-        "crc32": "DA7BD5C7"
+      "name": "Simpsons, The - Bart vs. the World (World)",
+      "crc32": "DA7BD5C7"
     },
     {
-        "name": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
-        "crc32": "FFA447A9"
+      "name": "Simpsons, The - Bartman Meets Radioactive Man (USA)",
+      "crc32": "FFA447A9"
     },
     {
-        "name": "Skweek (Japan)",
-        "crc32": "3D9C92C7"
+      "name": "Skweek (Japan)",
+      "crc32": "3D9C92C7"
     },
     {
-        "name": "Slider (USA, Europe)",
-        "crc32": "4DC6F555"
+      "name": "Slider (USA, Europe)",
+      "crc32": "4DC6F555"
     },
     {
-        "name": "Smurfs Travel the World, The (Europe) (En,Fr,De,Es)",
-        "crc32": "3EB337DF"
+      "name": "Smurfs Travel the World, The (Europe) (En,Fr,De,Es)",
+      "crc32": "3EB337DF"
     },
     {
-        "name": "Smurfs, The (Europe) (En,Fr,De,Es)",
-        "crc32": "354E1CBD"
+      "name": "Smurfs, The (Europe) (En,Fr,De,Es)",
+      "crc32": "354E1CBD"
     },
     {
-        "name": "Solitaire FunPak (USA)",
-        "crc32": "F6F24B75"
+      "name": "Solitaire FunPak (USA)",
+      "crc32": "F6F24B75"
     },
     {
-        "name": "Solitaire Poker (USA, Europe)",
-        "crc32": "06F2FC46"
+      "name": "Solitaire Poker (USA, Europe)",
+      "crc32": "06F2FC46"
     },
     {
-        "name": "Sonic & Tails (Japan) (En)",
-        "crc32": "8AC0DADE"
+      "name": "Sonic & Tails (Japan) (En)",
+      "crc32": "8AC0DADE"
     },
     {
-        "name": "Sonic & Tails (Japan) (En) (Sample)",
-        "crc32": "E0E3FB6A"
+      "name": "Sonic & Tails (Japan) (En) (Sample)",
+      "crc32": "E0E3FB6A"
     },
     {
-        "name": "Sonic & Tails 2 (Japan)",
-        "crc32": "496BCE64"
+      "name": "Sonic & Tails 2 (Japan)",
+      "crc32": "496BCE64"
     },
     {
-        "name": "Sonic Blast (World)",
-        "crc32": "031B9DA9"
+      "name": "Sonic Blast (World)",
+      "crc32": "031B9DA9"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-05-31)",
-        "crc32": "C09EF45B"
+      "name": "Sonic Blast (World) (Beta) (1996-05-31)",
+      "crc32": "C09EF45B"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-07-04)",
-        "crc32": "362B186D"
+      "name": "Sonic Blast (World) (Beta) (1996-07-04)",
+      "crc32": "362B186D"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-08-06)",
-        "crc32": "19DAD067"
+      "name": "Sonic Blast (World) (Beta) (1996-08-06)",
+      "crc32": "19DAD067"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-08-21)",
-        "crc32": "5EECB549"
+      "name": "Sonic Blast (World) (Beta) (1996-08-21)",
+      "crc32": "5EECB549"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-08-27)",
-        "crc32": "E6847AC0"
+      "name": "Sonic Blast (World) (Beta) (1996-08-27)",
+      "crc32": "E6847AC0"
     },
     {
-        "name": "Sonic Blast (World) (Beta) (1996-09-02)",
-        "crc32": "2F22A352"
+      "name": "Sonic Blast (World) (Beta) (1996-09-02)",
+      "crc32": "2F22A352"
     },
     {
-        "name": "Sonic Chaos (USA, Europe, Brazil) (En)",
-        "crc32": "663F2ABB"
+      "name": "Sonic Chaos (USA, Europe, Brazil) (En)",
+      "crc32": "663F2ABB"
     },
     {
-        "name": "Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17)",
-        "crc32": "F95BBD91"
+      "name": "Sonic Chaos (USA, Europe, Brazil) (En) (Beta) (1993-05-17)",
+      "crc32": "F95BBD91"
     },
     {
-        "name": "Sonic Drift (Japan) (En)",
-        "crc32": "68F0A776"
+      "name": "Sonic Drift (Japan) (En)",
+      "crc32": "68F0A776"
     },
     {
-        "name": "Sonic Drift (Japan) (En) (Demo)",
-        "crc32": "BAAC1FC0"
+      "name": "Sonic Drift (Japan) (En) (Demo)",
+      "crc32": "BAAC1FC0"
     },
     {
-        "name": "Sonic Drift 2 (World)",
-        "crc32": "D6E8A305"
+      "name": "Sonic Drift 2 (World)",
+      "crc32": "D6E8A305"
     },
     {
-        "name": "Sonic Labyrinth (USA, Europe) (Virtual Console)",
-        "crc32": "B531A09E"
+      "name": "Sonic Labyrinth (USA, Europe) (Virtual Console)",
+      "crc32": "B531A09E"
     },
     {
-        "name": "Sonic Labyrinth (World)",
-        "crc32": "5550173B"
+      "name": "Sonic Labyrinth (World)",
+      "crc32": "5550173B"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En)",
-        "crc32": "A9210434"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En)",
+      "crc32": "A9210434"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-07)",
-        "crc32": "3283580D"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-07)",
+      "crc32": "3283580D"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-10)",
-        "crc32": "1A736612"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-10)",
+      "crc32": "1A736612"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-11)",
-        "crc32": "1AED8F62"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-11)",
+      "crc32": "1AED8F62"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-21)",
-        "crc32": "46657B4E"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-21)",
+      "crc32": "46657B4E"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-28)",
-        "crc32": "1233C3E3"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-28)",
+      "crc32": "1233C3E3"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-29)",
-        "crc32": "AA7AEDB0"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-29)",
+      "crc32": "AA7AEDB0"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-30)",
-        "crc32": "2CA34AB2"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-03-30)",
+      "crc32": "2CA34AB2"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-05)",
-        "crc32": "09B913D5"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-05)",
+      "crc32": "09B913D5"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-12)",
-        "crc32": "F8A432F6"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-12)",
+      "crc32": "F8A432F6"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-13)",
-        "crc32": "1F1ABF2C"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-13)",
+      "crc32": "1F1ABF2C"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-15)",
-        "crc32": "E3B5CD1E"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-15)",
+      "crc32": "E3B5CD1E"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-21)",
-        "crc32": "BBAECF7C"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-21)",
+      "crc32": "BBAECF7C"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-27)",
-        "crc32": "07D32244"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-27)",
+      "crc32": "07D32244"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29)",
-        "crc32": "221C4BA4"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29)",
+      "crc32": "221C4BA4"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt)",
-        "crc32": "30A7D062"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-04-29) (Alt)",
+      "crc32": "30A7D062"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-03)",
-        "crc32": "E2FE976A"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-03)",
+      "crc32": "E2FE976A"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-05)",
-        "crc32": "BE76BF30"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-05)",
+      "crc32": "BE76BF30"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-06)",
-        "crc32": "A4833D27"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-06)",
+      "crc32": "A4833D27"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-25)",
-        "crc32": "A035FD5C"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-25)",
+      "crc32": "A035FD5C"
     },
     {
-        "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-30)",
-        "crc32": "6107819D"
+      "name": "Sonic Spinball (USA, Europe, Brazil) (En) (Beta) (1994-05-30)",
+      "crc32": "6107819D"
     },
     {
-        "name": "Sonic The Hedgehog (Japan, Europe, Brazil) (En) (Rev 1)",
-        "crc32": "D163356E"
+      "name": "Sonic The Hedgehog (Japan, Europe, Brazil) (En) (Rev 1)",
+      "crc32": "D163356E"
     },
     {
-        "name": "Sonic The Hedgehog (Japan, USA) (En)",
-        "crc32": "3E31CB8C"
+      "name": "Sonic The Hedgehog (Japan, USA) (En)",
+      "crc32": "3E31CB8C"
     },
     {
-        "name": "Sonic The Hedgehog (Japan, USA) (En) (Beta)",
-        "crc32": "816C0A1E"
+      "name": "Sonic The Hedgehog (Japan, USA) (En) (Beta)",
+      "crc32": "816C0A1E"
     },
     {
-        "name": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)",
-        "crc32": "C2572208"
+      "name": "Sonic The Hedgehog (World) (Rev 1) (Virtual Console)",
+      "crc32": "C2572208"
     },
     {
-        "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)",
-        "crc32": "D23A2A93"
+      "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En)",
+      "crc32": "D23A2A93"
     },
     {
-        "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)",
-        "crc32": "80EB7CFB"
+      "name": "Sonic The Hedgehog - Triple Trouble (USA, Europe, Brazil) (En) (Beta) (1994-08-08)",
+      "crc32": "80EB7CFB"
     },
     {
-        "name": "Sonic The Hedgehog 2 (World)",
-        "crc32": "95A18EC7"
+      "name": "Sonic The Hedgehog 2 (World)",
+      "crc32": "95A18EC7"
     },
     {
-        "name": "Sonic The Hedgehog 2 (World) (Auto Demo)",
-        "crc32": "15AD37A5"
+      "name": "Sonic The Hedgehog 2 (World) (Auto Demo)",
+      "crc32": "15AD37A5"
     },
     {
-        "name": "Sonic The Hedgehog 2 (World) (Virtual Console)",
-        "crc32": "850727A0"
+      "name": "Sonic The Hedgehog 2 (World) (Virtual Console)",
+      "crc32": "850727A0"
     },
     {
-        "name": "Soukoban (Japan)",
-        "crc32": "0F3E3840"
+      "name": "Soukoban (Japan)",
+      "crc32": "0F3E3840"
     },
     {
-        "name": "Space Harrier (World)",
-        "crc32": "600C15B3"
+      "name": "Space Harrier (World)",
+      "crc32": "600C15B3"
     },
     {
-        "name": "Spider-Man (USA, Europe)",
-        "crc32": "2651024E"
+      "name": "Spider-Man (USA, Europe)",
+      "crc32": "2651024E"
     },
     {
-        "name": "Spider-Man - Return of the Sinister Six (USA, Europe)",
-        "crc32": "BC240779"
+      "name": "Spider-Man - Return of the Sinister Six (USA, Europe)",
+      "crc32": "BC240779"
     },
     {
-        "name": "Spider-Man - X-Men - Arcade's Revenge (USA)",
-        "crc32": "742A372B"
+      "name": "Spider-Man - X-Men - Arcade's Revenge (USA)",
+      "crc32": "742A372B"
     },
     {
-        "name": "Spirou (Europe) (Proto)",
-        "crc32": "AB622ADC"
+      "name": "Spirou (Europe) (Proto)",
+      "crc32": "AB622ADC"
     },
     {
-        "name": "Sports Illustrated - Championship Football & Baseball (USA)",
-        "crc32": "920EA193"
+      "name": "Sports Illustrated - Championship Football & Baseball (USA)",
+      "crc32": "920EA193"
     },
     {
-        "name": "Sports Trivia (USA)",
-        "crc32": "A7AF7CA9"
+      "name": "Sports Trivia (USA)",
+      "crc32": "A7AF7CA9"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-03-08)",
-        "crc32": "C38D41C3"
+      "name": "Sports Trivia (USA) (Beta) (1995-03-08)",
+      "crc32": "C38D41C3"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-03-09)",
-        "crc32": "34407FE9"
+      "name": "Sports Trivia (USA) (Beta) (1995-03-09)",
+      "crc32": "34407FE9"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-03-16)",
-        "crc32": "464F1B51"
+      "name": "Sports Trivia (USA) (Beta) (1995-03-16)",
+      "crc32": "464F1B51"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-04-25)",
-        "crc32": "7524957C"
+      "name": "Sports Trivia (USA) (Beta) (1995-04-25)",
+      "crc32": "7524957C"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-04-25) (Alt)",
-        "crc32": "895AF58A"
+      "name": "Sports Trivia (USA) (Beta) (1995-04-25) (Alt)",
+      "crc32": "895AF58A"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-04-27)",
-        "crc32": "7898919F"
+      "name": "Sports Trivia (USA) (Beta) (1995-04-27)",
+      "crc32": "7898919F"
     },
     {
-        "name": "Sports Trivia (USA) (Beta) (1995-05-04)",
-        "crc32": "BBA4CF7B"
+      "name": "Sports Trivia (USA) (Beta) (1995-05-04)",
+      "crc32": "BBA4CF7B"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA)",
-        "crc32": "15E7E261"
+      "name": "Sports Trivia - Championship Edition (USA)",
+      "crc32": "15E7E261"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)",
-        "crc32": "A8D1AC51"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-13)",
+      "crc32": "A8D1AC51"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)",
-        "crc32": "CAF87D8B"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-16)",
+      "crc32": "CAF87D8B"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)",
-        "crc32": "43BB6B10"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-17)",
+      "crc32": "43BB6B10"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)",
-        "crc32": "E7AFF566"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20)",
+      "crc32": "E7AFF566"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)",
-        "crc32": "A3E57816"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-20) (Alt)",
+      "crc32": "A3E57816"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)",
-        "crc32": "18CF6145"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-21)",
+      "crc32": "18CF6145"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)",
-        "crc32": "27816C09"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23)",
+      "crc32": "27816C09"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)",
-        "crc32": "9A8AD5CA"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt 2)",
+      "crc32": "9A8AD5CA"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt)",
-        "crc32": "ACB7E580"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-23) (Alt)",
+      "crc32": "ACB7E580"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)",
-        "crc32": "517BD817"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27)",
+      "crc32": "517BD817"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt)",
-        "crc32": "511B1D24"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-27) (Alt)",
+      "crc32": "511B1D24"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)",
-        "crc32": "E906FBD8"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29)",
+      "crc32": "E906FBD8"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)",
-        "crc32": "E80459B3"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt 2)",
+      "crc32": "E80459B3"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt)",
-        "crc32": "05047357"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-29) (Alt)",
+      "crc32": "05047357"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)",
-        "crc32": "302B9B36"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30)",
+      "crc32": "302B9B36"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt)",
-        "crc32": "F3F9A87B"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-03-30) (Alt)",
+      "crc32": "F3F9A87B"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)",
-        "crc32": "3E3D6728"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-03)",
+      "crc32": "3E3D6728"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)",
-        "crc32": "D61A366F"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04)",
+      "crc32": "D61A366F"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt)",
-        "crc32": "C68762E6"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-04) (Alt)",
+      "crc32": "C68762E6"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)",
-        "crc32": "F88A55F4"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05)",
+      "crc32": "F88A55F4"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)",
-        "crc32": "93B98F19"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt 2)",
+      "crc32": "93B98F19"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt)",
-        "crc32": "818EC54C"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-05) (Alt)",
+      "crc32": "818EC54C"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)",
-        "crc32": "CAB74070"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-06)",
+      "crc32": "CAB74070"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)",
-        "crc32": "352E8B8C"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07)",
+      "crc32": "352E8B8C"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)",
-        "crc32": "961AE378"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-07) (Alt)",
+      "crc32": "961AE378"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)",
-        "crc32": "8BDB184D"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-11)",
+      "crc32": "8BDB184D"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)",
-        "crc32": "1E360A20"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-12)",
+      "crc32": "1E360A20"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)",
-        "crc32": "5B5DE94D"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-13)",
+      "crc32": "5B5DE94D"
     },
     {
-        "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)",
-        "crc32": "26470D2B"
+      "name": "Sports Trivia - Championship Edition (USA) (Beta) (1995-04-28)",
+      "crc32": "26470D2B"
     },
     {
-        "name": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
-        "crc32": "80156323"
+      "name": "Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA)",
+      "crc32": "80156323"
     },
     {
-        "name": "Star Trek Generations - Beyond the Nexus (USA)",
-        "crc32": "087FC5F0"
+      "name": "Star Trek Generations - Beyond the Nexus (USA)",
+      "crc32": "087FC5F0"
     },
     {
-        "name": "Star Wars (Europe)",
-        "crc32": "0228769C"
+      "name": "Star Wars (Europe)",
+      "crc32": "0228769C"
     },
     {
-        "name": "Star Wars (USA, Europe)",
-        "crc32": "DB9BC599"
+      "name": "Star Wars (USA, Europe)",
+      "crc32": "DB9BC599"
     },
     {
-        "name": "Stargate (World)",
-        "crc32": "FC7C64E4"
+      "name": "Stargate (World)",
+      "crc32": "FC7C64E4"
     },
     {
-        "name": "Street Battle (USA) (Proto) (Unl)",
-        "crc32": "01A2D595"
+      "name": "Street Battle (USA) (Proto) (Unl)",
+      "crc32": "01A2D595"
     },
     {
-        "name": "Street Hero (USA) (Proto 1)",
-        "crc32": "9FA727A0"
+      "name": "Street Hero (USA) (Proto 1)",
+      "crc32": "9FA727A0"
     },
     {
-        "name": "Street Hero (USA) (Proto 2)",
-        "crc32": "FB481971"
+      "name": "Street Hero (USA) (Proto 2)",
+      "crc32": "FB481971"
     },
     {
-        "name": "Streets of Rage (World)",
-        "crc32": "3D8BCF1D"
+      "name": "Streets of Rage (World)",
+      "crc32": "3D8BCF1D"
     },
     {
-        "name": "Streets of Rage 2 (World)",
-        "crc32": "0B618409"
+      "name": "Streets of Rage 2 (World)",
+      "crc32": "0B618409"
     },
     {
-        "name": "Streets of Rage 2 (World) (Beta)",
-        "crc32": "6C395A69"
+      "name": "Streets of Rage 2 (World) (Beta)",
+      "crc32": "6C395A69"
     },
     {
-        "name": "Striker (Europe) (En,Fr,De,Es,It)",
-        "crc32": "B421C057"
+      "name": "Striker (Europe) (En,Fr,De,Es,It)",
+      "crc32": "B421C057"
     },
     {
-        "name": "Super Battletank (USA)",
-        "crc32": "73D6745A"
+      "name": "Super Battletank (USA)",
+      "crc32": "73D6745A"
     },
     {
-        "name": "Super Columns (Japan)",
-        "crc32": "2A100717"
+      "name": "Super Columns (Japan)",
+      "crc32": "2A100717"
     },
     {
-        "name": "Super Columns (USA, Europe)",
-        "crc32": "8BA43AF3"
+      "name": "Super Columns (USA, Europe)",
+      "crc32": "8BA43AF3"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-11-11)",
-        "crc32": "F28F89D1"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-11-11)",
+      "crc32": "F28F89D1"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-12-01)",
-        "crc32": "56CF1D4F"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-12-01)",
+      "crc32": "56CF1D4F"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-12-15)",
-        "crc32": "ABE92434"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-12-15)",
+      "crc32": "ABE92434"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-12-21)",
-        "crc32": "81451FC0"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-12-21)",
+      "crc32": "81451FC0"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-12-26)",
-        "crc32": "5C4C633D"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-12-26)",
+      "crc32": "5C4C633D"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1994-12-28)",
-        "crc32": "3D931952"
+      "name": "Super Columns (USA, Europe) (Beta) (1994-12-28)",
+      "crc32": "3D931952"
     },
     {
-        "name": "Super Columns (USA, Europe) (Beta) (1995-01-06)",
-        "crc32": "096F4FF5"
+      "name": "Super Columns (USA, Europe) (Beta) (1995-01-06)",
+      "crc32": "096F4FF5"
     },
     {
-        "name": "Super Golf (Japan)",
-        "crc32": "528CBBCE"
+      "name": "Super Golf (Japan)",
+      "crc32": "528CBBCE"
     },
     {
-        "name": "Super Golf (USA)",
-        "crc32": "E9570F36"
+      "name": "Super Golf (USA)",
+      "crc32": "E9570F36"
     },
     {
-        "name": "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
-        "crc32": "10DBBEF4"
+      "name": "Super Kick Off (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "crc32": "10DBBEF4"
     },
     {
-        "name": "Super Momotarou Dentetsu III (Japan)",
-        "crc32": "B731BB80"
+      "name": "Super Momotarou Dentetsu III (Japan)",
+      "crc32": "B731BB80"
     },
     {
-        "name": "Super Monaco GP (Japan, Korea) (Ja)",
-        "crc32": "4F686C4A"
+      "name": "Super Monaco GP (Japan, Korea) (Ja)",
+      "crc32": "4F686C4A"
     },
     {
-        "name": "Super Monaco GP (USA, Europe, Brazil) (En)",
-        "crc32": "FCF12547"
+      "name": "Super Monaco GP (USA, Europe, Brazil) (En)",
+      "crc32": "FCF12547"
     },
     {
-        "name": "Super Off Road (USA, Europe)",
-        "crc32": "E8B42B1F"
+      "name": "Super Off Road (USA, Europe)",
+      "crc32": "E8B42B1F"
     },
     {
-        "name": "Super Off Road (USA, Europe) (Beta)",
-        "crc32": "A1160814"
+      "name": "Super Off Road (USA, Europe) (Beta)",
+      "crc32": "A1160814"
     },
     {
-        "name": "Super Smash T.V. (World)",
-        "crc32": "1006E4E3"
+      "name": "Super Smash T.V. (World)",
+      "crc32": "1006E4E3"
     },
     {
-        "name": "Super Space Invaders (USA, Europe)",
-        "crc32": "DFE38E24"
+      "name": "Super Space Invaders (USA, Europe)",
+      "crc32": "DFE38E24"
     },
     {
-        "name": "Super Star Wars - Return of the Jedi (USA, Europe)",
-        "crc32": "4A38B6B6"
+      "name": "Super Star Wars - Return of the Jedi (USA, Europe)",
+      "crc32": "4A38B6B6"
     },
     {
-        "name": "Superman - The Man of Steel (Europe)",
-        "crc32": "73DF5A15"
+      "name": "Superman - The Man of Steel (Europe)",
+      "crc32": "73DF5A15"
     },
     {
-        "name": "Superman - The Man of Steel (Europe) (Beta)",
-        "crc32": "AA3F2172"
+      "name": "Superman - The Man of Steel (Europe) (Beta)",
+      "crc32": "AA3F2172"
     },
     {
-        "name": "Surf Ninjas (USA, Europe, Brazil) (En)",
-        "crc32": "284482A8"
+      "name": "Surf Ninjas (USA, Europe, Brazil) (En)",
+      "crc32": "284482A8"
     },
     {
-        "name": "Sylvan Tale (Japan)",
-        "crc32": "45EF2062"
+      "name": "Sylvan Tale (Japan)",
+      "crc32": "45EF2062"
     },
     {
-        "name": "T2 - The Arcade Game (Japan) (En)",
-        "crc32": "0B1BA87F"
+      "name": "T2 - The Arcade Game (Japan) (En)",
+      "crc32": "0B1BA87F"
     },
     {
-        "name": "T2 - The Arcade Game (USA, Europe)",
-        "crc32": "9479C83A"
+      "name": "T2 - The Arcade Game (USA, Europe)",
+      "crc32": "9479C83A"
     },
     {
-        "name": "Tails Adventure (World) (En,Ja)",
-        "crc32": "5BB6E5D6"
+      "name": "Tails Adventure (World) (En,Ja)",
+      "crc32": "5BB6E5D6"
     },
     {
-        "name": "Tails Adventure (World) (En,Ja) (Virtual Console)",
-        "crc32": "A354EA49"
+      "name": "Tails Adventure (World) (En,Ja) (Virtual Console)",
+      "crc32": "A354EA49"
     },
     {
-        "name": "Tails no Skypatrol (Japan)",
-        "crc32": "88618AFA"
+      "name": "Tails no Skypatrol (Japan)",
+      "crc32": "88618AFA"
     },
     {
-        "name": "Taisen Mahjong HaoPai (Japan)",
-        "crc32": "CF9C607C"
+      "name": "Taisen Mahjong HaoPai (Japan)",
+      "crc32": "CF9C607C"
     },
     {
-        "name": "Taisen Mahjong HaoPai 2 (Japan)",
-        "crc32": "20527530"
+      "name": "Taisen Mahjong HaoPai 2 (Japan)",
+      "crc32": "20527530"
     },
     {
-        "name": "Taisen-gata Daisenryaku G (Japan)",
-        "crc32": "7B7717B8"
+      "name": "Taisen-gata Daisenryaku G (Japan)",
+      "crc32": "7B7717B8"
     },
     {
-        "name": "Taito Chase H.Q. (Japan)",
-        "crc32": "7BB81E3D"
+      "name": "Taito Chase H.Q. (Japan)",
+      "crc32": "7BB81E3D"
     },
     {
-        "name": "TaleSpin (USA, Europe, Brazil) (En)",
-        "crc32": "F1732FFE"
+      "name": "TaleSpin (USA, Europe, Brazil) (En)",
+      "crc32": "F1732FFE"
     },
     {
-        "name": "Tama & Friends - 3 Choume Kouen Tamalympic (Japan)",
-        "crc32": "DD1D2EBF"
+      "name": "Tama & Friends - 3 Choume Kouen Tamalympic (Japan)",
+      "crc32": "DD1D2EBF"
     },
     {
-        "name": "Tarot no Yakata (Japan)",
-        "crc32": "57834C03"
+      "name": "Tarot no Yakata (Japan)",
+      "crc32": "57834C03"
     },
     {
-        "name": "Tarzan - Lord of the Jungle (Europe)",
-        "crc32": "EF3AFE8B"
+      "name": "Tarzan - Lord of the Jungle (Europe)",
+      "crc32": "EF3AFE8B"
     },
     {
-        "name": "Tatakae! Pro Yakyuu Twin League (Japan)",
-        "crc32": "BEC57602"
+      "name": "Tatakae! Pro Yakyuu Twin League (Japan)",
+      "crc32": "BEC57602"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En)",
-        "crc32": "EEBAD66B"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En)",
+      "crc32": "EEBAD66B"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)",
-        "crc32": "030F396A"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-05-11)",
+      "crc32": "030F396A"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-10)",
-        "crc32": "92388016"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-10)",
+      "crc32": "92388016"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-14)",
-        "crc32": "9267D968"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-14)",
+      "crc32": "9267D968"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-19)",
-        "crc32": "57747640"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-19)",
+      "crc32": "57747640"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-21)",
-        "crc32": "A43FDFAD"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-21)",
+      "crc32": "A43FDFAD"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-23)",
-        "crc32": "6CD0FD78"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-23)",
+      "crc32": "6CD0FD78"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-29)",
-        "crc32": "3C03919D"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-29)",
+      "crc32": "3C03919D"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-30)",
-        "crc32": "09679B89"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-08-30)",
+      "crc32": "09679B89"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02)",
-        "crc32": "18913D93"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-02)",
+      "crc32": "18913D93"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05)",
-        "crc32": "61330A58"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05)",
+      "crc32": "61330A58"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)",
-        "crc32": "D84A631C"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-05) (Alt)",
+      "crc32": "D84A631C"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06)",
-        "crc32": "1F040BCA"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-06)",
+      "crc32": "1F040BCA"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-09)",
-        "crc32": "C867DA05"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-09)",
+      "crc32": "C867DA05"
     },
     {
-        "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10)",
-        "crc32": "FAF4BEC0"
+      "name": "Taz in Escape from Mars (USA, Europe, Brazil) (En) (Beta) (1994-09-10)",
+      "crc32": "FAF4BEC0"
     },
     {
-        "name": "Taz-Mania (USA, Europe, Brazil) (En)",
-        "crc32": "36040C24"
+      "name": "Taz-Mania (USA, Europe, Brazil) (En)",
+      "crc32": "36040C24"
     },
     {
-        "name": "Tempo Jr. (World)",
-        "crc32": "DE466796"
+      "name": "Tempo Jr. (World)",
+      "crc32": "DE466796"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1994-11-28)",
-        "crc32": "A33B5B92"
+      "name": "Tempo Jr. (World) (Beta) (1994-11-28)",
+      "crc32": "A33B5B92"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1994-12-05)",
-        "crc32": "3475D48E"
+      "name": "Tempo Jr. (World) (Beta) (1994-12-05)",
+      "crc32": "3475D48E"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1994-12-12)",
-        "crc32": "FB9A5885"
+      "name": "Tempo Jr. (World) (Beta) (1994-12-12)",
+      "crc32": "FB9A5885"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1994-12-26)",
-        "crc32": "E484E41C"
+      "name": "Tempo Jr. (World) (Beta) (1994-12-26)",
+      "crc32": "E484E41C"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1995-01-17)",
-        "crc32": "AB6DC88C"
+      "name": "Tempo Jr. (World) (Beta) (1995-01-17)",
+      "crc32": "AB6DC88C"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1995-01-20)",
-        "crc32": "96D64B16"
+      "name": "Tempo Jr. (World) (Beta) (1995-01-20)",
+      "crc32": "96D64B16"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1995-01-31)",
-        "crc32": "7AFEDF36"
+      "name": "Tempo Jr. (World) (Beta) (1995-01-31)",
+      "crc32": "7AFEDF36"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1995-02-06)",
-        "crc32": "3EF6551C"
+      "name": "Tempo Jr. (World) (Beta) (1995-02-06)",
+      "crc32": "3EF6551C"
     },
     {
-        "name": "Tempo Jr. (World) (Beta) (1995-02-15)",
-        "crc32": "79E83D67"
+      "name": "Tempo Jr. (World) (Beta) (1995-02-15)",
+      "crc32": "79E83D67"
     },
     {
-        "name": "Tengen World Cup Soccer (USA, Europe)",
-        "crc32": "DD6D2E34"
+      "name": "Tengen World Cup Soccer (USA, Europe)",
+      "crc32": "DD6D2E34"
     },
     {
-        "name": "Tengen World Cup Soccer (USA, Europe) (Beta)",
-        "crc32": "8E6818AE"
+      "name": "Tengen World Cup Soccer (USA, Europe) (Beta)",
+      "crc32": "8E6818AE"
     },
     {
-        "name": "Terminator 2 - Judgment Day (World)",
-        "crc32": "1BD15773"
+      "name": "Terminator 2 - Judgment Day (World)",
+      "crc32": "1BD15773"
     },
     {
-        "name": "Terminator, The (USA, Europe)",
-        "crc32": "C029A5FD"
+      "name": "Terminator, The (USA, Europe)",
+      "crc32": "C029A5FD"
     },
     {
-        "name": "Tesserae (USA)",
-        "crc32": "BF696F94"
+      "name": "Tesserae (USA)",
+      "crc32": "BF696F94"
     },
     {
-        "name": "Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)",
-        "crc32": "969CF389"
+      "name": "Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)",
+      "crc32": "969CF389"
     },
     {
-        "name": "Tom and Jerry - The Movie (Japan, Brazil) (Ja)",
-        "crc32": "A1453EFA"
+      "name": "Tom and Jerry - The Movie (Japan, Brazil) (Ja)",
+      "crc32": "A1453EFA"
     },
     {
-        "name": "Tom and Jerry - The Movie (USA, Europe)",
-        "crc32": "5CD33FF2"
+      "name": "Tom and Jerry - The Movie (USA, Europe)",
+      "crc32": "5CD33FF2"
     },
     {
-        "name": "Torarete Tamaruka (Japan)",
-        "crc32": "5BCF9B97"
+      "name": "Torarete Tamaruka (Japan)",
+      "crc32": "5BCF9B97"
     },
     {
-        "name": "True Lies (World)",
-        "crc32": "5173B02A"
+      "name": "True Lies (World)",
+      "crc32": "5173B02A"
     },
     {
-        "name": "Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)",
-        "crc32": "820965A3"
+      "name": "Ultimate Soccer (Japan, Europe, Brazil) (En,Fr,De,Es,It)",
+      "crc32": "820965A3"
     },
     {
-        "name": "Urban Strike (USA)",
-        "crc32": "185E9FC1"
+      "name": "Urban Strike (USA)",
+      "crc32": "185E9FC1"
     },
     {
-        "name": "VR Troopers (USA, Europe, Brazil) (En)",
-        "crc32": "B0F22745"
+      "name": "VR Troopers (USA, Europe, Brazil) (En)",
+      "crc32": "B0F22745"
     },
     {
-        "name": "Vampire - Master of Darkness (USA)",
-        "crc32": "7EC64025"
+      "name": "Vampire - Master of Darkness (USA)",
+      "crc32": "7EC64025"
     },
     {
-        "name": "Vampire - Master of Darkness (USA) (Virtual Console)",
-        "crc32": "5856849C"
+      "name": "Vampire - Master of Darkness (USA) (Virtual Console)",
+      "crc32": "5856849C"
     },
     {
-        "name": "Virtua Fighter Animation (USA, Europe)",
-        "crc32": "D431C452"
+      "name": "Virtua Fighter Animation (USA, Europe)",
+      "crc32": "D431C452"
     },
     {
-        "name": "Virtua Fighter Mini (Japan)",
-        "crc32": "C05657F8"
+      "name": "Virtua Fighter Mini (Japan)",
+      "crc32": "C05657F8"
     },
     {
-        "name": "WWF Raw (USA, Europe)",
-        "crc32": "8DC68D92"
+      "name": "WWF Raw (USA, Europe)",
+      "crc32": "8DC68D92"
     },
     {
-        "name": "WWF Wrestlemania - Steel Cage Challenge (USA, Europe)",
-        "crc32": "DA8E95A9"
+      "name": "WWF Wrestlemania - Steel Cage Challenge (USA, Europe)",
+      "crc32": "DA8E95A9"
     },
     {
-        "name": "Wagyan Land (Japan)",
-        "crc32": "29E697B2"
+      "name": "Wagyan Land (Japan)",
+      "crc32": "29E697B2"
     },
     {
-        "name": "Waternet (World) (Aftermarket) (Homebrew)",
-        "crc32": "6BB36DFC"
+      "name": "Waternet (World) (Aftermarket) (Homebrew)",
+      "crc32": "6BB36DFC"
     },
     {
-        "name": "Wheel of Fortune (USA)",
-        "crc32": "E91CDB2A"
+      "name": "Wheel of Fortune (USA)",
+      "crc32": "E91CDB2A"
     },
     {
-        "name": "WildSnake (USA) (Proto)",
-        "crc32": "D460CC7F"
+      "name": "WildSnake (USA) (Proto)",
+      "crc32": "D460CC7F"
     },
     {
-        "name": "Wimbledon (World)",
-        "crc32": "CE1108FD"
+      "name": "Wimbledon (World)",
+      "crc32": "CE1108FD"
     },
     {
-        "name": "Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)",
-        "crc32": "D5195A39"
+      "name": "Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "crc32": "D5195A39"
     },
     {
-        "name": "Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
-        "crc32": "D15D335B"
+      "name": "Winter Olympics (USA, Europe) (En,Fr,De,Es,It,Pt,Sv,No)",
+      "crc32": "D15D335B"
     },
     {
-        "name": "Wizard Pinball (Europe)",
-        "crc32": "9E03F96C"
+      "name": "Wizard Pinball (Europe)",
+      "crc32": "9E03F96C"
     },
     {
-        "name": "Wolfchild (Europe)",
-        "crc32": "840A8F8E"
+      "name": "Wolfchild (Europe)",
+      "crc32": "840A8F8E"
     },
     {
-        "name": "Wonder Boy (Europe)",
-        "crc32": "EA2DD3A7"
+      "name": "Wonder Boy (Europe)",
+      "crc32": "EA2DD3A7"
     },
     {
-        "name": "Wonder Boy (Japan)",
-        "crc32": "9977FCB3"
+      "name": "Wonder Boy (Japan)",
+      "crc32": "9977FCB3"
     },
     {
-        "name": "Wonder Boy - The Dragon's Trap (Europe)",
-        "crc32": "A74C97A7"
+      "name": "Wonder Boy - The Dragon's Trap (Europe)",
+      "crc32": "A74C97A7"
     },
     {
-        "name": "Wonder Boy III - The Dragon's Trap (Europe) (Beta)",
-        "crc32": "DB1B5B44"
+      "name": "Wonder Boy III - The Dragon's Trap (Europe) (Beta)",
+      "crc32": "DB1B5B44"
     },
     {
-        "name": "Woody Pop (Japan) (En)",
-        "crc32": "9C0E5A04"
+      "name": "Woody Pop (Japan) (En)",
+      "crc32": "9C0E5A04"
     },
     {
-        "name": "Woody Pop (USA, Europe, Brazil) (En)",
-        "crc32": "B74F3A4F"
+      "name": "Woody Pop (USA, Europe, Brazil) (En)",
+      "crc32": "B74F3A4F"
     },
     {
-        "name": "World Class Leaderboard (USA, Europe)",
-        "crc32": "868FE528"
+      "name": "World Class Leaderboard (USA, Europe)",
+      "crc32": "868FE528"
     },
     {
-        "name": "World Cup USA 94 (USA, Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)",
-        "crc32": "D2BB3690"
+      "name": "World Cup USA 94 (USA, Europe, Brazil) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+      "crc32": "D2BB3690"
     },
     {
-        "name": "World Derby (Japan)",
-        "crc32": "1E81861F"
+      "name": "World Derby (Japan)",
+      "crc32": "1E81861F"
     },
     {
-        "name": "World Series Baseball '95 (USA)",
-        "crc32": "578A8A38"
+      "name": "World Series Baseball '95 (USA)",
+      "crc32": "578A8A38"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-06-29)",
-        "crc32": "496515A6"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-06-29)",
+      "crc32": "496515A6"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-07-09)",
-        "crc32": "410F1CA0"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-07-09)",
+      "crc32": "410F1CA0"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-07-19)",
-        "crc32": "5F7CCA5F"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-07-19)",
+      "crc32": "5F7CCA5F"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-07-22)",
-        "crc32": "6073CD59"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-07-22)",
+      "crc32": "6073CD59"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-07-28)",
-        "crc32": "4190AD97"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-07-28)",
+      "crc32": "4190AD97"
     },
     {
-        "name": "World Series Baseball '95 (USA) (Beta) (1994-07-29)",
-        "crc32": "F1987DE6"
+      "name": "World Series Baseball '95 (USA) (Beta) (1994-07-29)",
+      "crc32": "F1987DE6"
     },
     {
-        "name": "World Series Baseball (USA)",
-        "crc32": "3D8D0DD6"
+      "name": "World Series Baseball (USA)",
+      "crc32": "3D8D0DD6"
     },
     {
-        "name": "World Series Baseball (USA) (Rev 1)",
-        "crc32": "BB38CFD7"
+      "name": "World Series Baseball (USA) (Rev 1)",
+      "crc32": "BB38CFD7"
     },
     {
-        "name": "X-Men (USA)",
-        "crc32": "567A5EE6"
+      "name": "X-Men (USA)",
+      "crc32": "567A5EE6"
     },
     {
-        "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)",
-        "crc32": "66CC4034"
+      "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-10)",
+      "crc32": "66CC4034"
     },
     {
-        "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)",
-        "crc32": "271A0A1D"
+      "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-08-31)",
+      "crc32": "271A0A1D"
     },
     {
-        "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)",
-        "crc32": "A3CF94BA"
+      "name": "X-Men - GameMaster's Legacy (USA, Europe) (Beta) (1994-09-06)",
+      "crc32": "A3CF94BA"
     },
     {
-        "name": "X-Men - Gamemaster's Legacy (USA, Europe)",
-        "crc32": "C169C344"
+      "name": "X-Men - Gamemaster's Legacy (USA, Europe)",
+      "crc32": "C169C344"
     },
     {
-        "name": "X-Men - Mojo World (USA)",
-        "crc32": "C2CBA9D7"
+      "name": "X-Men - Mojo World (USA)",
+      "crc32": "C2CBA9D7"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-05)",
-        "crc32": "626F9987"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-05)",
+      "crc32": "626F9987"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-13)",
-        "crc32": "C4F3CED4"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-13)",
+      "crc32": "C4F3CED4"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-24)",
-        "crc32": "78001A5D"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-24)",
+      "crc32": "78001A5D"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-25)",
-        "crc32": "D4D2F077"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-25)",
+      "crc32": "D4D2F077"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-27)",
-        "crc32": "425AC73F"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-27)",
+      "crc32": "425AC73F"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-28)",
-        "crc32": "D44925EA"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-28)",
+      "crc32": "D44925EA"
     },
     {
-        "name": "X-Men - Mojo World (USA) (Beta) (1996-06-29)",
-        "crc32": "BA71DA19"
+      "name": "X-Men - Mojo World (USA) (Beta) (1996-06-29)",
+      "crc32": "BA71DA19"
     },
     {
-        "name": "X-Terminator (Europe) (v2.1) (Program) (Unl)",
-        "crc32": "0F448220"
+      "name": "X-Terminator (Europe) (v2.1) (Program) (Unl)",
+      "crc32": "0F448220"
     },
     {
-        "name": "X-Terminator (Japan) (v2.1) (Program) (Unl)",
-        "crc32": "E498090D"
+      "name": "X-Terminator (Japan) (v2.1) (Program) (Unl)",
+      "crc32": "E498090D"
     },
     {
-        "name": "Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)",
-        "crc32": "E678F264"
+      "name": "Yogi Bear in Yogi Bear's Goldrush (Europe) (Proto)",
+      "crc32": "E678F264"
     },
     {
-        "name": "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)",
-        "crc32": "88EBBF9E"
+      "name": "Yu Yu Hakusho - Horobishimono no Gyakushuu (Japan)",
+      "crc32": "88EBBF9E"
     },
     {
-        "name": "Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)",
-        "crc32": "46AE9159"
+      "name": "Yu Yu Hakusho II - Gekitou! Nanakyou no Tatakai (Japan)",
+      "crc32": "46AE9159"
     },
     {
-        "name": "Zan Gear (Japan)",
-        "crc32": "141AAF96"
+      "name": "Zan Gear (Japan)",
+      "crc32": "141AAF96"
     },
     {
-        "name": "Zool - Ninja of the 'Nth' Dimension (Europe)",
-        "crc32": "23904898"
+      "name": "Zool - Ninja of the 'Nth' Dimension (Europe)",
+      "crc32": "23904898"
     },
     {
-        "name": "Zool - Ninja of the 'Nth' Dimension (USA)",
-        "crc32": "B287C695"
+      "name": "Zool - Ninja of the 'Nth' Dimension (USA)",
+      "crc32": "B287C695"
     },
     {
-        "name": "Zool no Yume Bouken (Japan)",
-        "crc32": "E35EF7ED"
+      "name": "Zool no Yume Bouken (Japan)",
+      "crc32": "E35EF7ED"
     },
     {
-        "name": "Zoop (USA)",
-        "crc32": "3247FF8B"
+      "name": "Zoop (USA)",
+      "crc32": "3247FF8B"
     },
     {
-        "name": "Zoop (USA) (Beta) (1995-08-11)",
-        "crc32": "F397F041"
+      "name": "Zoop (USA) (Beta) (1995-08-11)",
+      "crc32": "F397F041"
     },
     {
-        "name": "[BIOS] Sega Game Gear (USA) (Majesco)",
-        "crc32": "0EBEA9D4"
+      "name": "[BIOS] Sega Game Gear (USA) (Majesco)",
+      "crc32": "0EBEA9D4"
     }
-]
+  ]
+}

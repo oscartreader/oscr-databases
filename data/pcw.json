@@ -1,322 +1,337 @@
-[
+{
+  "outfile": "pcw",
+  "system": "PCW",
+  "pio": "pcw",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/a100name",
+    "php": "Na100",
+    "python": ">L100s"
+  },
+  "order": {
+    "crc32": "int",
+    "name": "string"
+  },
+  "records": [
     {
-        "name": "Eiken Jun 2-kyuu + 3-kyuu (Japan) (2BK922)",
-        "crc32": "1BE3A77A"
+      "name": "Eiken Jun 2-kyuu + 3-kyuu (Japan) (2BK922)",
+      "crc32": "1BE3A77A"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB111NH)",
-        "crc32": "55AB157D"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB111NH)",
+      "crc32": "55AB157D"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB112SS)",
-        "crc32": "7F7AAF5B"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB112SS)",
+      "crc32": "7F7AAF5B"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB113NC)",
-        "crc32": "1A3716EC"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB113NC)",
+      "crc32": "1A3716EC"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB211NH)",
-        "crc32": "505F954E"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB211NH)",
+      "crc32": "505F954E"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB212SS)",
-        "crc32": "FF3E9B62"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB212SS)",
+      "crc32": "FF3E9B62"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB215OW)",
-        "crc32": "E07172BD"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 2 Eigo (Japan) (5BB215OW)",
+      "crc32": "E07172BD"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 3 Eigo (Japan) (6BB311NH)",
-        "crc32": "3CE2760D"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuu 3 Eigo (Japan) (6BB311NH)",
+      "crc32": "3CE2760D"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410)",
-        "crc32": "AD5136AE"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410)",
+      "crc32": "AD5136AE"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt 2)",
-        "crc32": "F8BB9D68"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt 2)",
+      "crc32": "F8BB9D68"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt)",
-        "crc32": "32A902B8"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt)",
+      "crc32": "32A902B8"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Koumin (Japan) (6BE310)",
-        "crc32": "0AF098CA"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Koumin (Japan) (6BE310)",
+      "crc32": "0AF098CA"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410)",
-        "crc32": "7865BE62"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410)",
+      "crc32": "7865BE62"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt 2)",
-        "crc32": "A5EEC22E"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt 2)",
+      "crc32": "A5EEC22E"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt)",
-        "crc32": "44AFEBAD"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Chuugaku Rekishi (Japan) (5BC410) (Alt)",
+      "crc32": "44AFEBAD"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Ei - Sha - Ri) (Japan) (6BI711)",
-        "crc32": "B9831924"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Ei - Sha - Ri) (Japan) (6BI711)",
+      "crc32": "B9831924"
     },
     {
-        "name": "Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Koku - Suu) (Japan) (6BI712)",
-        "crc32": "AEEC5776"
+      "name": "Shinkenzemi 'Chuugaku Kouza' - Koukou Juken (Koku - Suu) (Japan) (6BI712)",
+      "crc32": "AEEC5776"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB111NH - 7BB111NH)",
-        "crc32": "BE0CFA07"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB111NH - 7BB111NH)",
+      "crc32": "BE0CFA07"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB112SS - 7BB112SS)",
-        "crc32": "742C17C3"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB112SS - 7BB112SS)",
+      "crc32": "742C17C3"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB113NC - 7BB113NC)",
-        "crc32": "775E1A65"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (0BB113NC - 7BB113NC)",
+      "crc32": "775E1A65"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (7BB115OW)",
-        "crc32": "2CB93051"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Eigo (Japan) (7BB115OW)",
+      "crc32": "2CB93051"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111)",
-        "crc32": "5DB9B999"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 1 Suugaku (Japan) (1BM111)",
+      "crc32": "5DB9B999"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB211NH - 7BB211NH)",
-        "crc32": "5138519C"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB211NH - 7BB211NH)",
+      "crc32": "5138519C"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB215OW - 7BB215OW)",
-        "crc32": "370CFF2F"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (0BB215OW - 7BB215OW)",
+      "crc32": "370CFF2F"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB212SS)",
-        "crc32": "31E9E8CC"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB212SS)",
+      "crc32": "31E9E8CC"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB213NC)",
-        "crc32": "9C279B5A"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB213NC)",
+      "crc32": "9C279B5A"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB214TE)",
-        "crc32": "3C08E0DA"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (Japan) (7BB214TE)",
+      "crc32": "3C08E0DA"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (New Horizon, Columbus 21) (Japan) (2BB211)",
-        "crc32": "0B20B2D4"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 2 Eigo (New Horizon, Columbus 21) (Japan) (2BB211)",
+      "crc32": "0B20B2D4"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB311NH - 7BB311NH)",
-        "crc32": "A18685A5"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB311NH - 7BB311NH)",
+      "crc32": "A18685A5"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB313NC - 7BB313NC)",
-        "crc32": "DDE96468"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB313NC - 7BB313NC)",
+      "crc32": "DDE96468"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB314TE)",
-        "crc32": "D87A661F"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB314TE)",
+      "crc32": "D87A661F"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB315OW - 7BB315OW)",
-        "crc32": "AE06430D"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (0BB315OW - 7BB315OW)",
+      "crc32": "AE06430D"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB312SS)",
-        "crc32": "C4676FC9"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB312SS)",
+      "crc32": "C4676FC9"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB317CB)",
-        "crc32": "149501FB"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Japan) (7BB317CB)",
+      "crc32": "149501FB"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Crown, Total English) (Japan) (2BB314)",
-        "crc32": "63CD8224"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Crown, Total English) (Japan) (2BB314)",
+      "crc32": "63CD8224"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Horizon, Columbus 21) (Japan) (2BB311)",
-        "crc32": "919279ED"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (New Horizon, Columbus 21) (Japan) (2BB311)",
+      "crc32": "919279ED"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Sunshine, One World) (Japan) (2BB312)",
-        "crc32": "9F05CFE4"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuu 3 Eigo (Sunshine, One World) (Japan) (2BB312)",
+      "crc32": "9F05CFE4"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (0BD410)",
-        "crc32": "AC87B035"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (0BD410)",
+      "crc32": "AC87B035"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (1BD411)",
-        "crc32": "22E0A9B1"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (1BD411)",
+      "crc32": "22E0A9B1"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (7BD410)",
-        "crc32": "8DE1ED5A"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (7BD410)",
+      "crc32": "8DE1ED5A"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (9BD410 - 9BD411)",
-        "crc32": "A1B3C2C9"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri (Japan) (9BD410 - 9BD411)",
+      "crc32": "A1B3C2C9"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (0BD400)",
-        "crc32": "5601F35C"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (0BD400)",
+      "crc32": "5601F35C"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (0BD400) (Alt)",
-        "crc32": "660E84A5"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (0BD400) (Alt)",
+      "crc32": "660E84A5"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (8BD400)",
-        "crc32": "F27575FE"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Chiri - Rekishi Pack (Japan) (8BD400)",
+      "crc32": "F27575FE"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401)",
-        "crc32": "B0444C88"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401)",
+      "crc32": "B0444C88"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401) (Alt)",
-        "crc32": "7A5EF3D5"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Kokugo - Hyakunin Isshu (Japan) (1BK401) (Alt)",
+      "crc32": "7A5EF3D5"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE310 - 7BE310)",
-        "crc32": "EFEF730E"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE310 - 7BE310)",
+      "crc32": "EFEF730E"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE311)",
-        "crc32": "BF9DA3EA"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (0BE311)",
+      "crc32": "BF9DA3EA"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (2BE310)",
-        "crc32": "48A3B1B7"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Koumin (Japan) (2BE310)",
+      "crc32": "48A3B1B7"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (0BC410)",
-        "crc32": "D0FD58EE"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (0BC410)",
+      "crc32": "D0FD58EE"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (7BC410)",
-        "crc32": "2EB6506E"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rekishi (Japan) (7BC410)",
+      "crc32": "2EB6506E"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (0BF411)",
-        "crc32": "83883CB6"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (0BF411)",
+      "crc32": "83883CB6"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (1BF411)",
-        "crc32": "1B2B5622"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (1BF411)",
+      "crc32": "1B2B5622"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (7BF411)",
-        "crc32": "BDC7847D"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (7BF411)",
+      "crc32": "BDC7847D"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (Rev 1) (7BF411)",
-        "crc32": "0C80EC13"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (1-bunya) (Japan) (Rev 1) (7BF411)",
+      "crc32": "0C80EC13"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (0BF412)",
-        "crc32": "B820F013"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (0BF412)",
+      "crc32": "B820F013"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (1BF412)",
-        "crc32": "CAD91342"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (1BF412)",
+      "crc32": "CAD91342"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (7BF412)",
-        "crc32": "A6E409E8"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (7BF412)",
+      "crc32": "A6E409E8"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (Rev 1) (7BF412)",
-        "crc32": "336289BC"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika (2-bunya) (Japan) (Rev 1) (7BF412)",
+      "crc32": "336289BC"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (0BF400)",
-        "crc32": "50016928"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (0BF400)",
+      "crc32": "50016928"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (1BF400)",
-        "crc32": "6205144B"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (1BF400)",
+      "crc32": "6205144B"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (8BF400 - 9BF400)",
-        "crc32": "D35A38DA"
+      "name": "Shinkenzemi Chuugaku Kouza - Chuugaku Rika Pack (Japan) (8BF400 - 9BF400)",
+      "crc32": "D35A38DA"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (8BCD02)",
-        "crc32": "68BC5E95"
+      "name": "Shinkenzemi Chuugaku Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (8BCD02)",
+      "crc32": "68BC5E95"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (8BCD01)",
-        "crc32": "38384AD4"
+      "name": "Shinkenzemi Chuugaku Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (8BCD01)",
+      "crc32": "38384AD4"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (9BG410)",
-        "crc32": "E34787BB"
+      "name": "Shinkenzemi Chuugaku Kouza - Jitsugi 4-kyouka (Gijutsu Katei, Hoken Taiiku, Ongaku, Bijutsu) (Japan) (9BG410)",
+      "crc32": "E34787BB"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (0BI711)",
-        "crc32": "7F23D0D6"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (0BI711)",
+      "crc32": "7F23D0D6"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (1BI711)",
-        "crc32": "CADEA841"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (1BI711)",
+      "crc32": "CADEA841"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (7BI711)",
-        "crc32": "53C2FF43"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (7BI711)",
+      "crc32": "53C2FF43"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (9BI711)",
-        "crc32": "61F2A31B"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Ei - Sha - Ri) (Japan) (9BI711)",
+      "crc32": "61F2A31B"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (7BI712)",
-        "crc32": "410BAC94"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (7BI712)",
+      "crc32": "410BAC94"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712)",
-        "crc32": "0FCDC311"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712)",
+      "crc32": "0FCDC311"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712) (Alt)",
-        "crc32": "C35A53A4"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken (Koku - Suu) (Japan) (9BI712) (Alt)",
+      "crc32": "C35A53A4"
     },
     {
-        "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Yuugou - Shiryou Mondai Kouryaku) Rika Shakai (Japan) (3BI710)",
-        "crc32": "588F8570"
+      "name": "Shinkenzemi Chuugaku Kouza - Koukou Juken EX (Yuugou - Shiryou Mondai Kouryaku) Rika Shakai (Japan) (3BI710)",
+      "crc32": "588F8570"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eijukugo (Japan) (7BBD02)",
-        "crc32": "C3DB01F2"
+      "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eijukugo (Japan) (7BBD02)",
+      "crc32": "C3DB01F2"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango (Japan) (7BBD01)",
-        "crc32": "2BAD015C"
+      "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Hinshutsu Eitango (Japan) (7BBD01)",
+      "crc32": "2BAD015C"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun (Japan) (7BBD03)",
-        "crc32": "9C9C0426"
+      "name": "Shinkenzemi Koukou Kouza - Daigaku Juken Series - Juuyou Eigo Koubun (Japan) (7BBD03)",
+      "crc32": "9C9C0426"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (9BCD02)",
-        "crc32": "7911AEC2"
+      "name": "Shinkenzemi Koukou Kouza - Hinshutsu Nihonshi Kouryaku (Japan) (9BCD02)",
+      "crc32": "7911AEC2"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (9BCD01)",
-        "crc32": "9E274AC9"
+      "name": "Shinkenzemi Koukou Kouza - Hinshutsu Sekaishi Kouryaku (Japan) (9BCD01)",
+      "crc32": "9E274AC9"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (0BKD01)",
-        "crc32": "C6157409"
+      "name": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (0BKD01)",
+      "crc32": "C6157409"
     },
     {
-        "name": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (8BKD01)",
-        "crc32": "F5DF48F5"
+      "name": "Shinkenzemi Koukou Kouza - Juuyou Kobun Kouryaku (Japan) (8BKD01)",
+      "crc32": "F5DF48F5"
     }
-]
+  ]
+}

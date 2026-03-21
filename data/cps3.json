@@ -1,560 +1,583 @@
-[
+{
+  "outfile": "cps3",
+  "system": "CPS3",
+  "pio": "cps3",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nregion/NofNoCD/nP0/nP1/Cmc/nmcP0/nmcP1/C8regData/a100name",
+    "php": "NNNnnCnnC8a100",
+    "python": ">LLLHHBHH8B100s"
+  },
+  "order": {
+    "crc32": "int",
+    "regionOffset": "int",
+    "offsetNoCD": "int",
+    "patch0": "int",
+    "patch1": "int",
+    "multiCart": "int",
+    "multiCartPatch0": "int",
+    "multiCartPatch1": "int",
+    "regionData": "bin:8",
+    "name": "string"
+  },
+  "records": [
     {
-        "crc32": "02778F60",
-        "regionOffset": 130763,
-        "regionData": [
-            12,
-            15,
-            14,
-            9,
-            8,
-            11,
-            10,
-            5
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 180,
-        "patch1": 181,
-        "name": "JoJo no Kimyou na Bouken (Japan)"
+      "crc32": "02778F60",
+      "regionOffset": 130763,
+      "regionData": [
+        12,
+        15,
+        14,
+        9,
+        8,
+        11,
+        10,
+        5
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 180,
+      "patch1": 181,
+      "name": "JoJo no Kimyou na Bouken (Japan)"
     },
     {
-        "crc32": "3085478C",
-        "regionOffset": 130763,
-        "regionData": [
-            43,
-            40,
-            41,
-            46,
-            47,
-            44,
-            45,
-            34
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 107,
-        "patch1": 106,
-        "name": "JoJo no Kimyou na Bouken Mirai e no Isan (Japan)"
+      "crc32": "3085478C",
+      "regionOffset": 130763,
+      "regionData": [
+        43,
+        40,
+        41,
+        46,
+        47,
+        44,
+        45,
+        34
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 107,
+      "patch1": 106,
+      "name": "JoJo no Kimyou na Bouken Mirai e no Isan (Japan)"
     },
     {
-        "crc32": "4DAB19F5",
-        "regionOffset": 130763,
-        "regionData": [
-            43,
-            40,
-            41,
-            46,
-            47,
-            44,
-            45,
-            34
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 107,
-        "patch1": 106,
-        "name": "JoJo no Kimyou na Bouken Mirai e no Isan (Japan, NO CD)"
+      "crc32": "4DAB19F5",
+      "regionOffset": 130763,
+      "regionData": [
+        43,
+        40,
+        41,
+        46,
+        47,
+        44,
+        45,
+        34
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 107,
+      "patch1": 106,
+      "name": "JoJo no Kimyou na Bouken Mirai e no Isan (Japan, NO CD)"
     },
     {
-        "crc32": "63CC8800",
-        "regionOffset": 130763,
-        "regionData": [
-            43,
-            40,
-            41,
-            46,
-            47,
-            44,
-            45,
-            34
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 107,
-        "patch1": 106,
-        "name": "JoJo's Bizarre Adventure (Europe)"
+      "crc32": "63CC8800",
+      "regionOffset": 130763,
+      "regionData": [
+        43,
+        40,
+        41,
+        46,
+        47,
+        44,
+        45,
+        34
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 107,
+      "patch1": 106,
+      "name": "JoJo's Bizarre Adventure (Europe)"
     },
     {
-        "crc32": "1EE2D679",
-        "regionOffset": 130763,
-        "regionData": [
-            43,
-            40,
-            41,
-            46,
-            47,
-            44,
-            45,
-            34
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 107,
-        "patch1": 106,
-        "name": "JoJo's Bizarre Adventure (Europe, NO CD)"
+      "crc32": "1EE2D679",
+      "regionOffset": 130763,
+      "regionData": [
+        43,
+        40,
+        41,
+        46,
+        47,
+        44,
+        45,
+        34
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 107,
+      "patch1": 106,
+      "name": "JoJo's Bizarre Adventure (Europe, NO CD)"
     },
     {
-        "crc32": "789AA72A",
-        "regionOffset": 130763,
-        "regionData": [
-            12,
-            15,
-            14,
-            9,
-            8,
-            11,
-            10,
-            5
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 180,
-        "patch1": 181,
-        "name": "JoJo's Venture (Asia)"
+      "crc32": "789AA72A",
+      "regionOffset": 130763,
+      "regionData": [
+        12,
+        15,
+        14,
+        9,
+        8,
+        11,
+        10,
+        5
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 180,
+      "patch1": 181,
+      "name": "JoJo's Venture (Asia)"
     },
     {
-        "crc32": "05B4F953",
-        "regionOffset": 130763,
-        "regionData": [
-            12,
-            15,
-            14,
-            9,
-            8,
-            11,
-            10,
-            5
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 180,
-        "patch1": 181,
-        "name": "JoJo's Venture (Asia, NO CD)"
+      "crc32": "05B4F953",
+      "regionOffset": 130763,
+      "regionData": [
+        12,
+        15,
+        14,
+        9,
+        8,
+        11,
+        10,
+        5
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 180,
+      "patch1": 181,
+      "name": "JoJo's Venture (Asia, NO CD)"
     },
     {
-        "crc32": "513E40EC",
-        "regionOffset": 130763,
-        "regionData": [
-            12,
-            15,
-            14,
-            9,
-            8,
-            11,
-            10,
-            5
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 180,
-        "patch1": 181,
-        "name": "JoJo's Venture (Europe)"
+      "crc32": "513E40EC",
+      "regionOffset": 130763,
+      "regionData": [
+        12,
+        15,
+        14,
+        9,
+        8,
+        11,
+        10,
+        5
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 180,
+      "patch1": 181,
+      "name": "JoJo's Venture (Europe)"
     },
     {
-        "crc32": "8D40F7BE",
-        "regionOffset": 130763,
-        "regionData": [
-            12,
-            15,
-            14,
-            9,
-            8,
-            11,
-            10,
-            5
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 180,
-        "patch1": 181,
-        "name": "JoJo's Venture (USA)"
+      "crc32": "8D40F7BE",
+      "regionOffset": 130763,
+      "regionData": [
+        12,
+        15,
+        14,
+        9,
+        8,
+        11,
+        10,
+        5
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 180,
+      "patch1": 181,
+      "name": "JoJo's Venture (USA)"
     },
     {
-        "crc32": "7A4F0851",
-        "regionData": [
-            134,
-            133,
-            132,
-            131,
-            130,
-            129,
-            128,
-            143
-        ],
-        "name": "Red Earth (Asia, NO CD)"
+      "crc32": "7A4F0851",
+      "regionData": [
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        143
+      ],
+      "name": "Red Earth (Asia, NO CD)"
     },
     {
-        "crc32": "02E0F336",
-        "regionOffset": 130779,
-        "regionData": [
-            134,
-            133,
-            132,
-            131,
-            130,
-            129,
-            128,
-            143
-        ],
-        "name": "Red Earth (Europe)"
+      "crc32": "02E0F336",
+      "regionOffset": 130779,
+      "regionData": [
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        143
+      ],
+      "name": "Red Earth (Europe)"
     },
     {
-        "crc32": "FD297C0D",
-        "regionOffset": 130763,
-        "regionData": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            160
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "name": "Street Fighter III 2nd Impact Giant Attack (Asia, NO CD)"
+      "crc32": "FD297C0D",
+      "regionOffset": 130763,
+      "regionData": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        160
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "name": "Street Fighter III 2nd Impact Giant Attack (Asia, NO CD)"
     },
     {
-        "crc32": "5C799526",
-        "regionOffset": 130763,
-        "regionData": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            160
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "name": "Street Fighter III 2nd Impact Giant Attack (Hispanic)"
+      "crc32": "5C799526",
+      "regionOffset": 130763,
+      "regionData": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        160
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "name": "Street Fighter III 2nd Impact Giant Attack (Hispanic)"
     },
     {
-        "crc32": "FAEA0A3E",
-        "regionOffset": 130763,
-        "regionData": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            160
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "name": "Street Fighter III 2nd Impact Giant Attack (Japan)"
+      "crc32": "FAEA0A3E",
+      "regionOffset": 130763,
+      "regionData": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        160
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "name": "Street Fighter III 2nd Impact Giant Attack (Japan)"
     },
     {
-        "crc32": "75DD72E0",
-        "regionOffset": 130763,
-        "regionData": [
-            169,
-            170,
-            171,
-            172,
-            173,
-            174,
-            175,
-            160
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "name": "Street Fighter III 2nd Impact Giant Attack (USA)"
+      "crc32": "75DD72E0",
+      "regionOffset": 130763,
+      "regionData": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        160
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "name": "Street Fighter III 2nd Impact Giant Attack (USA)"
     },
     {
-        "crc32": "30BBF293",
-        "regionOffset": 130763,
-        "regionData": [
-            96,
-            99,
-            98,
-            101,
-            100,
-            103,
-            102,
-            105
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 48,
-        "patch1": 49,
-        "name": "Street Fighter III 3rd Strike Fight for the Future (Europe)"
+      "crc32": "30BBF293",
+      "regionOffset": 130763,
+      "regionData": [
+        96,
+        99,
+        98,
+        101,
+        100,
+        103,
+        102,
+        105
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 48,
+      "patch1": 49,
+      "name": "Street Fighter III 3rd Strike Fight for the Future (Europe)"
     },
     {
-        "crc32": "63F23D1F",
-        "regionOffset": 130763,
-        "regionData": [
-            96,
-            99,
-            98,
-            101,
-            100,
-            103,
-            102,
-            105
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 48,
-        "patch1": 49,
-        "name": "Street Fighter III 3rd Strike Fight for the Future (Japan)"
+      "crc32": "63F23D1F",
+      "regionOffset": 130763,
+      "regionData": [
+        96,
+        99,
+        98,
+        101,
+        100,
+        103,
+        102,
+        105
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 48,
+      "patch1": 49,
+      "name": "Street Fighter III 3rd Strike Fight for the Future (Japan)"
     },
     {
-        "crc32": "1EDC6366",
-        "regionOffset": 130763,
-        "regionData": [
-            96,
-            99,
-            98,
-            101,
-            100,
-            103,
-            102,
-            105
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 48,
-        "patch1": 49,
-        "name": "Street Fighter III 3rd Strike Fight for the Future (Japan, NO CD)"
+      "crc32": "1EDC6366",
+      "regionOffset": 130763,
+      "regionData": [
+        96,
+        99,
+        98,
+        101,
+        100,
+        103,
+        102,
+        105
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 48,
+      "patch1": 49,
+      "name": "Street Fighter III 3rd Strike Fight for the Future (Japan, NO CD)"
     },
     {
-        "crc32": "ECC545C1",
-        "regionOffset": 130763,
-        "regionData": [
-            96,
-            99,
-            98,
-            101,
-            100,
-            103,
-            102,
-            105
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 48,
-        "patch1": 49,
-        "name": "Street Fighter III 3rd Strike Fight for the Future (USA)"
+      "crc32": "ECC545C1",
+      "regionOffset": 130763,
+      "regionData": [
+        96,
+        99,
+        98,
+        101,
+        100,
+        103,
+        102,
+        105
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 48,
+      "patch1": 49,
+      "name": "Street Fighter III 3rd Strike Fight for the Future (USA)"
     },
     {
-        "crc32": "CBD28DE7",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Asia)"
+      "crc32": "CBD28DE7",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Asia)"
     },
     {
-        "crc32": "CA2B715F",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Asia, NO CD, Set 1)"
+      "crc32": "CA2B715F",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Asia, NO CD, Set 1)"
     },
     {
-        "crc32": "73E32463",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Asia, NO CD, Set 2)"
+      "crc32": "73E32463",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Asia, NO CD, Set 2)"
     },
     {
-        "crc32": "27699DDC",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Europe)"
+      "crc32": "27699DDC",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Europe)"
     },
     {
-        "crc32": "D2B3CD48",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Hispanic)"
+      "crc32": "D2B3CD48",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Hispanic)"
     },
     {
-        "crc32": "74205250",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (Japan)"
+      "crc32": "74205250",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (Japan)"
     },
     {
-        "crc32": "FB172A8E",
-        "regionOffset": 130763,
-        "regionData": [
-            180,
-            183,
-            182,
-            177,
-            176,
-            179,
-            178,
-            189
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 210,
-        "patch1": 211,
-        "name": "Street Fighter III New Generation (USA)"
+      "crc32": "FB172A8E",
+      "regionOffset": 130763,
+      "regionData": [
+        180,
+        183,
+        182,
+        177,
+        176,
+        179,
+        178,
+        189
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 210,
+      "patch1": 211,
+      "name": "Street Fighter III New Generation (USA)"
     },
     {
-        "crc32": "4D938388",
-        "regionOffset": 132915,
-        "regionData": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "multiCart": 1,
-        "multiCartPatch0": 31,
-        "multiCartPatch1": 197,
-        "name": "UltraBIOS for custom SH2 AUTOSELECT v1.0 CD"
+      "crc32": "4D938388",
+      "regionOffset": 132915,
+      "regionData": [
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "multiCart": 1,
+      "multiCartPatch0": 31,
+      "multiCartPatch1": 197,
+      "name": "UltraBIOS for custom SH2 AUTOSELECT v1.0 CD"
     },
     {
-        "crc32": "30BDDDF1",
-        "regionOffset": 132915,
-        "regionData": [
-            177,
-            178,
-            179,
-            180,
-            181,
-            182,
-            183,
-            184
-        ],
-        "offsetNoCD": 130764,
-        "patch0": 188,
-        "patch1": 189,
-        "multiCart": 1,
-        "multiCartPatch0": 31,
-        "multiCartPatch1": 197,
-        "name": "UltraBIOS for custom SH2 AUTOSELECT v1.0 NOCD"
+      "crc32": "30BDDDF1",
+      "regionOffset": 132915,
+      "regionData": [
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "offsetNoCD": 130764,
+      "patch0": 188,
+      "patch1": 189,
+      "multiCart": 1,
+      "multiCartPatch0": 31,
+      "multiCartPatch1": 197,
+      "name": "UltraBIOS for custom SH2 AUTOSELECT v1.0 NOCD"
     },
     {
-        "crc32": "89DD398B",
-        "regionOffset": 132915,
-        "regionData": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-        ],
-        "offsetNoCD": 130764,
-        "patch1": 1,
-        "multiCart": 1,
-        "multiCartPatch0": 48,
-        "multiCartPatch1": 137,
-        "name": "UltraBIOS for standard SH2 AUTOSELECT v1.0 CD"
+      "crc32": "89DD398B",
+      "regionOffset": 132915,
+      "regionData": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "offsetNoCD": 130764,
+      "patch1": 1,
+      "multiCart": 1,
+      "multiCartPatch0": 48,
+      "multiCartPatch1": 137,
+      "name": "UltraBIOS for standard SH2 AUTOSELECT v1.0 CD"
     },
     {
-        "crc32": "F4F367F2",
-        "regionOffset": 132915,
-        "regionData": [
-            1,
-            2,
-            3,
-            4,
-            5,
-            6,
-            7,
-            8
-        ],
-        "offsetNoCD": 130764,
-        "patch1": 1,
-        "multiCart": 1,
-        "multiCartPatch0": 48,
-        "multiCartPatch1": 137,
-        "name": "UltraBIOS for standard SH2 AUTOSELECT v1.0 CD"
+      "crc32": "F4F367F2",
+      "regionOffset": 132915,
+      "regionData": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "offsetNoCD": 130764,
+      "patch1": 1,
+      "multiCart": 1,
+      "multiCartPatch0": 48,
+      "multiCartPatch1": 137,
+      "name": "UltraBIOS for standard SH2 AUTOSELECT v1.0 CD"
     },
     {
-        "crc32": "F8E2F0C6",
-        "regionOffset": 130779,
-        "regionData": [
-            134,
-            133,
-            132,
-            131,
-            130,
-            129,
-            128,
-            143
-        ],
-        "name": "Warzard (Japan)"
+      "crc32": "F8E2F0C6",
+      "regionOffset": 130779,
+      "regionData": [
+        134,
+        133,
+        132,
+        131,
+        130,
+        129,
+        128,
+        143
+      ],
+      "name": "Warzard (Japan)"
     }
-]
+  ]
+}

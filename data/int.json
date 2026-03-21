@@ -1,1546 +1,1565 @@
-[
-    {
-        "name": "ABPA Backgammon ~ Backgammon (USA, Europe)",
-        "crc32": "A60E25FC",
-        "id32": "C36165EC",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Advanced Dungeons & Dragons (USA, Europe)",
-        "crc32": "9D4355AA",
-        "id32": "E1F0B155",
-        "mapper": 0,
-        "size": 12,
-        "save": 0
-    },
-    {
-        "name": "Advanced Dungeons & Dragons - Treasure of Tarmin (USA)",
-        "crc32": "16C3B62F",
-        "id32": "95A8ADB2",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Adventure (USA, Europe)",
-        "crc32": "11C3BCFA",
-        "id32": "14A044B2",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Air Strike (USA) (Proto)",
-        "crc32": "2C668249",
-        "id32": "1BB8CBB9",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "All-Star Major League Baseball (USA) (Beta)",
-        "crc32": "B45633CF",
-        "id32": "154D6C18",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Armor Battle (USA, Europe)",
-        "crc32": "6F91FBC1",
-        "id32": "C8512074",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Astrosmash (USA, Europe)",
-        "crc32": "FAB2992C",
-        "id32": "ACF729A9",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Atlantis (USA, Europe)",
-        "crc32": "13FF363C",
-        "id32": "5FA1ADEE",
-        "mapper": 7,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Auto Racing (USA, Europe)",
-        "crc32": "B35C1101",
-        "id32": "C69AE3EC",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "B-17 Bomber (USA, Europe)",
-        "crc32": "8AD19AB3",
-        "id32": "AB263A2B",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "BattleTanks (USA)",
-        "crc32": "22A1F245",
-        "id32": "51237146",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Beamrider (USA, Europe)",
-        "crc32": "EAF650CC",
-        "id32": "808DA491",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Beauty & the Beast (USA, Europe)",
-        "crc32": "C047D487",
-        "id32": "342895CD",
-        "mapper": 7,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Biplanes (USA)",
-        "crc32": "44519F2D",
-        "id32": "20E177E5",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Blockade Runner (USA)",
-        "crc32": "B03F739B",
-        "id32": "666EBB72",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Body Slam! - Super Pro Wrestling (USA)",
-        "crc32": "515E1D7E",
-        "id32": "8D929130",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Bomb Squad (USA)",
-        "crc32": "32697B72",
-        "id32": "D2EC7D12",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Boxing (USA, Europe)",
-        "crc32": "AB87C16F",
-        "id32": "882D9CE0",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Brickout! (USA) (Proto)",
-        "crc32": "9F85015B",
-        "id32": "BC12378E",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Bump 'n' Jump (USA)",
-        "crc32": "999CCEED",
-        "id32": "81DA458C",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "BurgerTime (USA, Europe)",
-        "crc32": "43806375",
-        "id32": "6C79BAD3",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Buzz Bombers (USA, Europe)",
-        "crc32": "FA492BBD",
-        "id32": "DA291698",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Buzz Bombers (USA, Europe) (Alt)",
-        "crc32": "2A1E0C1C",
-        "id32": "DA291698",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Carnival (USA, Europe)",
-        "crc32": "43870908",
-        "id32": "185D7B3A",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Centipede (USA)",
-        "crc32": "D5363B8C",
-        "id32": "16881D87",
-        "mapper": 6,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Championship Tennis (Europe)",
-        "crc32": "4CC46A04",
-        "id32": "DCF67785",
-        "mapper": 1,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Checkers ~ Draughts (USA, Europe)",
-        "crc32": "36E1D858",
-        "id32": "477D5860",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Chip Shot - Super Pro Golf (USA)",
-        "crc32": "0BF464C6",
-        "id32": "EF1019FF",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Commando (USA)",
-        "crc32": "3289C8BA",
-        "id32": "3FFF5609",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Congo Bongo (USA)",
-        "crc32": "4B23A757",
-        "id32": "560927CA",
-        "mapper": 5,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Crazy Clones (USA) (Proto)",
-        "crc32": "E1EE408F",
-        "id32": "102B6DE1",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Crosswords (USA)",
-        "crc32": "32162105",
-        "id32": "9B61C8C1",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Deadly Dogs (USA, Europe) (Beta)",
-        "crc32": "CDC14ED8",
-        "id32": "4ABB962D",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Deep Pockets - Super Pro Pool & Billiards (USA) (Proto)",
-        "crc32": "6802B191",
-        "id32": "C6724EE0",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Defender (USA)",
-        "crc32": "D8F99AA2",
-        "id32": "056F30A3",
-        "mapper": 5,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Demon Attack (USA, Europe)",
-        "crc32": "5E6A8CD8",
-        "id32": "25554AAB",
-        "mapper": 7,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Demonstration Cartridge - Blue (USA)",
-        "crc32": "C99E7554",
-        "id32": "78C428C7",
-        "mapper": 0,
-        "size": 12,
-        "save": 0
-    },
-    {
-        "name": "Demonstration Cartridge - Green (USA)",
-        "crc32": "A3ACD160",
-        "id32": "3BC5456A",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Demonstration Cartridge - Red (USA)",
-        "crc32": "0487675C",
-        "id32": "DD3C5CC9",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Dig Dug (USA)",
-        "crc32": "159AF7F7",
-        "id32": "FE382C98",
-        "mapper": 5,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Diner (USA)",
-        "crc32": "13EE56F1",
-        "id32": "B04CAD24",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Donkey Kong (USA, Europe)",
-        "crc32": "C30F61C0",
-        "id32": "67DFAA6A",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Donkey Kong Junior (USA, Europe)",
-        "crc32": "6DF61A9F",
-        "id32": "C387455F",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Dracula (USA, Europe)",
-        "crc32": "84BEDCC1",
-        "id32": "C9BD95C8",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Dragonfire (USA, Europe)",
-        "crc32": "AF8718A1",
-        "id32": "44A6B99C",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Dreadnaught Factor, The (USA)",
-        "crc32": "3B99B889",
-        "id32": "3D384683",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Dreadnaught Factor, The (USA) (Beta)",
-        "crc32": "BF4D0E9B",
-        "id32": "7B46960A",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Duncan's Thin Ice (USA)",
-        "crc32": "F3DF94E0",
-        "id32": "BDB66897",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Electric Company, The - Math Fun (USA, Europe)",
-        "crc32": "54A3FC11",
-        "id32": "5A83A949",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Electric Company, The - Word Fun (USA, Europe)",
-        "crc32": "C9EAACAB",
-        "id32": "58D0067F",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Factor Fun (USA)",
-        "crc32": "F3AE29EA",
-        "id32": "09F657FA",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Fathom (USA, Europe)",
-        "crc32": "4221EDE7",
-        "id32": "88A1F92B",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Frog Bog (USA, Europe)",
-        "crc32": "37222762",
-        "id32": "621DE7FB",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Frogger (USA, Europe)",
-        "crc32": "D27495E9",
-        "id32": "44F825D6",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Game Factory (USA) (Proto)",
-        "crc32": "CE8FC699",
-        "id32": "8CB87C57",
-        "mapper": 0,
-        "size": 48,
-        "save": 0
-    },
-    {
-        "name": "Go for the Gold (USA) (Proto)",
-        "crc32": "DBCA82C5",
-        "id32": "F3FA5716",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Grid Shock (USA) (Proto)",
-        "crc32": "291AC826",
-        "id32": "5AA83F48",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Happy Holidays - Easter Eggcitement (USA) (Proto)",
-        "crc32": "20ACE89D",
-        "id32": "1C4B3CDE",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Happy Holidays - Santa's Helper (USA) (Proto)",
-        "crc32": "E221808C",
-        "id32": "08238550",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Happy Trails (USA, Europe)",
-        "crc32": "4B8C5932",
-        "id32": "7095EA8D",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Horse Racing (USA, Europe)",
-        "crc32": "B5C7F25D",
-        "id32": "A505F4C6",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Hover Force (USA)",
-        "crc32": "FF83FF80",
-        "id32": "624785F2",
-        "mapper": 2,
-        "size": 48,
-        "save": 0
-    },
-    {
-        "name": "Hypnotic Lights (USA) (Proto)",
-        "crc32": "A3147630",
-        "id32": "7DEB5F26",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "IMI Test Cartridge (USA)",
-        "crc32": "7217CA7B",
-        "id32": "2DB4CB7F",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Ice Trek (USA, Europe)",
-        "crc32": "4F3E3F69",
-        "id32": "98DB94E0",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Illusions (USA) (Proto)",
-        "crc32": "851F3CCB",
-        "id32": "6844341D",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "International Demonstration Cartridge (World)",
-        "crc32": "6A02C7E8",
-        "id32": "58C6EDBE",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Jetsons' Ways with Words, The (USA)",
-        "crc32": "EE5F1BE2",
-        "id32": "8368BCD1",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "King of the Mountain (USA) (Proto)",
-        "crc32": "4422868E",
-        "id32": "D66A374F",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Kool-Aid Man (USA)",
-        "crc32": "8C9819A2",
-        "id32": "D9947031",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Lady Bug (USA, Europe)",
-        "crc32": "A6840736",
-        "id32": "A6EC87AB",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Land Battle (USA) (Proto)",
-        "crc32": "3825C25B",
-        "id32": "29566141",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Las Vegas Poker & Blackjack (USA, Europe)",
-        "crc32": "604611C0",
-        "id32": "32858BA8",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Las Vegas Roulette (USA, Europe)",
-        "crc32": "48D74D3C",
-        "id32": "82DACC08",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "League of Light (USA) (Proto)",
-        "crc32": "B4287B95",
-        "id32": "51BDCF67",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Learning Fun I - Math Master, Factor Fun (USA)",
-        "crc32": "2C5FD5FA",
-        "id32": "09F657FA",
-        "mapper": 2,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Learning Fun II - Word Wizard, Memory Fun (USA)",
-        "crc32": "632F6ADF",
-        "id32": "26B6387C",
-        "mapper": 2,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Lock 'N' Chase (USA, Europe)",
-        "crc32": "04977992",
-        "id32": "DCC7DDF1",
-        "mapper": 0,
-        "size": 12,
-        "save": 0
-    },
-    {
-        "name": "Lock 'N' Chase (USA, Europe) (Rev 1)",
-        "crc32": "5C7E9848",
-        "id32": "E48B1C19",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Loco-Motion (USA)",
-        "crc32": "6B6E80EE",
-        "id32": "DF82461E",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "MTE201 Intellivision Test Cartridge (USA)",
-        "crc32": "C83EEA4C",
-        "id32": "F14AA2C0",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Magic Carousel (USA) (Proto)",
-        "crc32": "F3B0C759",
-        "id32": "7F5828FC",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Magic Carousel (USA) (Proto) (Alt)",
-        "crc32": "B25B22CB",
-        "id32": "AB318052",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Major League Baseball ~ Big League Baseball ~ Baseball (USA, Europe)",
-        "crc32": "DAB36628",
-        "id32": "F14AA2C0",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Masters of the Universe - The Power of He-Man (USA, Europe)",
-        "crc32": "573B9B6D",
-        "id32": "BB865611",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Math Master (USA)",
-        "crc32": "662E2812",
-        "id32": "09F657FA",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Melody Blaster (USA, Europe)",
-        "crc32": "FF68AA22",
-        "id32": "9713E1EB",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Memory Fun (USA)",
-        "crc32": "96E000EB",
-        "id32": "DACB7978",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Meteor (USA, Europe) (Beta)",
-        "crc32": "00BE8BBA",
-        "id32": "DE0507CA",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Microsurgeon (USA, Europe)",
-        "crc32": "E806AD91",
-        "id32": "AA0B1043",
-        "mapper": 7,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Mind Strike (USA, Europe)",
-        "crc32": "9D57498F",
-        "id32": "0F004AFA",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Minotaur (USA)",
-        "crc32": "BD731E3C",
-        "id32": "443899D8",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Mission X (USA, Europe)",
-        "crc32": "11FB9974",
-        "id32": "87E900F4",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Motocross (USA)",
-        "crc32": "5F6E1AF6",
-        "id32": "40DB7B64",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Mountain Madness - Super Pro Skiing (USA)",
-        "crc32": "6B5EA9C4",
-        "id32": "DD19D34B",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Mouse Trap (USA, Europe)",
-        "crc32": "598662F2",
-        "id32": "DA94B747",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Mr. BASIC Meets Bits 'N Bytes (USA)",
-        "crc32": "BEF0B0C7",
-        "id32": "37088E19",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "NASL Soccer ~ Soccer (USA, Europe)",
-        "crc32": "DBAB54CA",
-        "id32": "2D07627A",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "NBA Basketball ~ Basketball (USA, Europe)",
-        "crc32": "81E7FB8C",
-        "id32": "9576C2F9",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "NFL Football ~ Football (USA, Europe)",
-        "crc32": "4B91CF16",
-        "id32": "E0AD6B4A",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "NHL Hockey ~ Hockey (USA, Europe)",
-        "crc32": "76564A13",
-        "id32": "04F4C137",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Night Stalker (USA, Europe)",
-        "crc32": "7334CD44",
-        "id32": "73C43D56",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Nova Blast (USA, Europe)",
-        "crc32": "5EE2CC2A",
-        "id32": "730B4F52",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Number Jumble (USA) (Proto)",
-        "crc32": "E5D1A8D2",
-        "id32": "E2D7EB41",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Number Jumble (USA) (Proto) (Alt)",
-        "crc32": "0E4920C1",
-        "id32": "E2D7EB41",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "PBA Bowling ~ Bowling (USA, Europe)",
-        "crc32": "169E3584",
-        "id32": "92A5CC45",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "PGA Golf ~ Golf (USA, Europe)",
-        "crc32": "FF87FAEC",
-        "id32": "6AB812CC",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Pac-Man (USA) (Atarisoft)",
-        "crc32": "A21C31C3",
-        "id32": "784C5852",
-        "mapper": 5,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Pac-Man (USA) (INTV Corp.)",
-        "crc32": "6E4E8EB4",
-        "id32": "784C5852",
-        "mapper": 5,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Party Line - Blow Out (USA) (Proto)",
-        "crc32": "A63AA3D8",
-        "id32": "12A4B8AC",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Party Line - Hard Hat (USA) (Proto)",
-        "crc32": "B6A3D4DE",
-        "id32": "015DA141",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Party Line - Space Cadet (USA) (Proto)",
-        "crc32": "F8EF3E5A",
-        "id32": "916BC680",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Party Line - Space Cadet (USA) (Proto) (Alt)",
-        "crc32": "4B88FA8E",
-        "id32": "24DB7D78",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Pinball (USA)",
-        "crc32": "D7C5849C",
-        "id32": "B4EAAD8E",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Pitfall! (USA, Europe)",
-        "crc32": "9C75EFCC",
-        "id32": "7A686C7A",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Pole Position (USA)",
-        "crc32": "BB939881",
-        "id32": "099FBB17",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Popeye (USA, Europe)",
-        "crc32": "C51464E0",
-        "id32": "F82CB303",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Q-bert (USA, Europe)",
-        "crc32": "D8C9856A",
-        "id32": "2AF7CB8E",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Racing Cars (USA)",
-        "crc32": "156A5645",
-        "id32": "47D4FDE8",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Reversi (USA, Europe)",
-        "crc32": "C7BB1B0E",
-        "id32": "007A3CFA",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "River Raid (USA, Europe)",
-        "crc32": "8910C37A",
-        "id32": "C602EFD5",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "River Raid (USA, Europe) (Beta)",
-        "crc32": "95466AD3",
-        "id32": "9A3BB87D",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Robot Rubble (USA) (Proto 1)",
-        "crc32": "7473916D",
-        "id32": "8223FE20",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Robot Rubble (USA) (Proto 2)",
-        "crc32": "A5E28783",
-        "id32": "9CD166A3",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Robot Rubble (USA) (Proto 3)",
-        "crc32": "243B0812",
-        "id32": "B7EF0D22",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Rocky & Bullwinckle (USA) (Proto)",
-        "crc32": "867F1941",
-        "id32": "5897B25B",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Royal Dealer (USA, Europe)",
-        "crc32": "0458A491",
-        "id32": "9E0D5725",
-        "mapper": 0,
-        "size": 12,
-        "save": 0
-    },
-    {
-        "name": "SNAFU (USA, Europe)",
-        "crc32": "8F959A6E",
-        "id32": "A8D4F530",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Safecracker (USA, Europe)",
-        "crc32": "47AA7977",
-        "id32": "D8A856C3",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Scarfinger (USA) (Proto)",
-        "crc32": "23DC808D",
-        "id32": "F9459608",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Scooby Doo's Maze Chase (USA, Europe)",
-        "crc32": "E9E3F60D",
-        "id32": "32BA11D5",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Sea Battle (USA, Europe)",
-        "crc32": "99AE29A9",
-        "id32": "3E9C2F57",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Sewer Sam (USA)",
-        "crc32": "E0F0D3DA",
-        "id32": "547255AE",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Shark! Shark! (USA, Europe)",
-        "crc32": "2A4C761D",
-        "id32": "FAD18815",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Sharp Shot (USA, Europe)",
-        "crc32": "FF7CB79E",
-        "id32": "D3755257",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Slam Dunk - Super Pro Basketball (USA)",
-        "crc32": "800B572F",
-        "id32": "73E1B160",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Slap Shot - Super Pro Hockey (USA)",
-        "crc32": "BA68FF28",
-        "id32": "28E12B2A",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Space Armada (USA, Europe)",
-        "crc32": "E8B8EBA5",
-        "id32": "37448F0E",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Space Battle (USA, Europe)",
-        "crc32": "F95504E0",
-        "id32": "4B01266E",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Space Hawk (USA, Europe)",
-        "crc32": "39D3B895",
-        "id32": "98C36FD6",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Space Spartans (USA, Europe)",
-        "crc32": "3784DC52",
-        "id32": "ABEC143B",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Spiker - Super Pro Volleyball (USA)",
-        "crc32": "A95021FC",
-        "id32": "9863F705",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Stadium Mud Buggies (USA)",
-        "crc32": "B745C1CA",
-        "id32": "05C25ADA",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Stampede (USA, Europe)",
-        "crc32": "2DEACD15",
-        "id32": "70EA291B",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Star Strike (USA, Europe)",
-        "crc32": "72E11FCA",
-        "id32": "03BC8D15",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Star Wars - The Empire Strikes Back (USA, Europe)",
-        "crc32": "D5B0135A",
-        "id32": "D4F28D1E",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Street ~ Happy Holidays - Trick or Treat (USA) (Proto)",
-        "crc32": "4830F720",
-        "id32": "73C73B20",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Sub Hunt (USA, Europe)",
-        "crc32": "3D9949EA",
-        "id32": "EA26DB5E",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Super Cobra (Europe, Canada)",
-        "crc32": "7C32C9B8",
-        "id32": "8683587D",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Super Masters! (USA) (Proto)",
-        "crc32": "BAB638F2",
-        "id32": "AC5708E7",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Super NFL Footbal (USA) (Proto)",
-        "crc32": "BE4D7996",
-        "id32": "099E7ED0",
-        "mapper": 0,
-        "size": 48,
-        "save": 0
-    },
-    {
-        "name": "Super Pro Decathlon (USA)",
-        "crc32": "16BFB8EB",
-        "id32": "1BDEA222",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Super Pro Football (USA)",
-        "crc32": "32076E9D",
-        "id32": "8EB44B60",
-        "mapper": 2,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Super Soccer (USA) (Proto)",
-        "crc32": "51B82EB7",
-        "id32": "956E56B2",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Swords & Serpents (USA, Europe)",
-        "crc32": "15E88FCE",
-        "id32": "F1083D3F",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "TRON (USA) (Proto)",
-        "crc32": "5A144835",
-        "id32": "695A7D09",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "TRON Deadly Discs (USA, Europe)",
-        "crc32": "CA447BBD",
-        "id32": "C1E344F4",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "TRON Maze-A-Tron (USA, Europe)",
-        "crc32": "7A558CF5",
-        "id32": "116665E4",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "TRON Solar Sailer (USA, Europe)",
-        "crc32": "07FB9435",
-        "id32": "6E89D53D",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Takeover (USA) (Proto)",
-        "crc32": "1F584A69",
-        "id32": "B1893993",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Tennis (USA, Europe)",
-        "crc32": "03E9E62E",
-        "id32": "7AFAD623",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Thin Ice (USA)",
-        "crc32": "975AE6DF",
-        "id32": "683F4AAE",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Thin Ice (USA) (Beta)",
-        "crc32": "D6495910",
-        "id32": "C1201C5A",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Thunder Castle (USA)",
-        "crc32": "C1F1CA74",
-        "id32": "0C13E05A",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Tower of Doom (USA)",
-        "crc32": "D1D352A0",
-        "id32": "003BCCB5",
-        "mapper": 3,
-        "size": 48,
-        "save": 0
-    },
-    {
-        "name": "Triple Action (USA)",
-        "crc32": "1AC989E2",
-        "id32": "09BE6581",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Triple Challenge - Chess, Checkers, Backgammon (USA)",
-        "crc32": "095638C0",
-        "id32": "D324817A",
-        "mapper": 9,
-        "size": 44,
-        "save": 2
-    },
-    {
-        "name": "Tropical Trouble (USA, Europe)",
-        "crc32": "6F23A741",
-        "id32": "294930FB",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Truckin' (USA)",
-        "crc32": "734F3260",
-        "id32": "E331CF32",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Turbo (USA, Europe)",
-        "crc32": "275F3512",
-        "id32": "161559AC",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Tutankham (Europe)",
-        "crc32": "6FA698B3",
-        "id32": "C62F1AE6",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "US Ski Team Skiing ~ Skiing (USA, Europe)",
-        "crc32": "F093E801",
-        "id32": "E6451829",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "USCF Chess ~ Chess (USA, Europe)",
-        "crc32": "752FD927",
-        "id32": "BB6E44A4",
-        "mapper": 4,
-        "size": 16,
-        "save": 1
-    },
-    {
-        "name": "Utopia (USA, Europe)",
-        "crc32": "F9E0789E",
-        "id32": "AA5E9866",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Vectron (USA, Europe)",
-        "crc32": "A4A20354",
-        "id32": "3423D224",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Vectron (USA, Europe) (Alt)",
-        "crc32": "8F48030F",
-        "id32": "A04A5320",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "Venture (USA, Europe)",
-        "crc32": "6EFA67B2",
-        "id32": "1633E494",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "White Water! (USA, Europe)",
-        "crc32": "F1ED7D27",
-        "id32": "2879662D",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Word Hunt (USA)",
-        "crc32": "B8AE7E3B",
-        "id32": "3B4664D4",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Word Rockets (USA)",
-        "crc32": "4B35D11D",
-        "id32": "9178C542",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "World Championship Baseball (USA)",
-        "crc32": "10D64E48",
-        "id32": "154D6C18",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "World Cup Football (Europe)",
-        "crc32": "15D9D27A",
-        "id32": "D6E2244E",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "World Series Major League Baseball (USA)",
-        "crc32": "C2063C08",
-        "id32": "61769915",
-        "mapper": 1,
-        "size": 48,
-        "save": 0
-    },
-    {
-        "name": "Worm Whomper (USA, Europe)",
-        "crc32": "24B667B9",
-        "id32": "D4F8C427",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "Yogi's Frustration (USA) (Proto)",
-        "crc32": "752B73DD",
-        "id32": "D9D9F880",
-        "mapper": 0,
-        "size": 32,
-        "save": 0
-    },
-    {
-        "name": "Zaxxon (USA, Europe)",
-        "crc32": "15C65DC5",
-        "id32": "6E360908",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "Zzzz! Spina the Bee (Europe) (Proto)",
-        "crc32": "01EFA214",
-        "id32": "F042D89F",
-        "mapper": 0,
-        "size": 16,
-        "save": 0
-    },
-    {
-        "name": "[BIOS] Entertainment Computer System EXEC-BASIC (USA, Europe)",
-        "crc32": "EA790A06",
-        "id32": "ED1875C1",
-        "mapper": 0,
-        "size": 24,
-        "save": 0
-    },
-    {
-        "name": "[BIOS] Intellivision Executive ROM (World)",
-        "crc32": "CBCE86F7",
-        "id32": "99A84E42",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
-    },
-    {
-        "name": "[BIOS] Intellivision Graphic ROM (World)",
-        "crc32": "683A4158",
-        "id32": "CA1FBEEA",
-        "mapper": 0,
-        "size": 2,
-        "save": 0
-    },
-    {
-        "name": "[BIOS] Intellivoice (USA, Europe)",
-        "crc32": "0DE7579D",
-        "id32": "7184B7ED",
-        "mapper": 0,
-        "size": 2,
-        "save": 0
-    },
-    {
-        "name": "[BIOS] Sears Super Video Arcade (USA, Europe)",
-        "crc32": "EA552A22",
-        "id32": "C8F183A2",
-        "mapper": 0,
-        "size": 8,
-        "save": 0
+{
+  "outfile": "int",
+  "system": "INTV",
+  "pio": "intv",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/Nid32/Nmapper/Nsize/Nsave/a100name",
+    "php": "NNNNNa100",
+    "python": ">LLLLL100s"
+  },
+  "order": {
+    "crc32": "int",
+    "id32": "int",
+    "mapper": "int",
+    "size": "int",
+    "save": "int",
+    "name": "string"
+  },
+  "records": [
+    {
+      "name": "ABPA Backgammon ~ Backgammon (USA, Europe)",
+      "crc32": "A60E25FC",
+      "id32": "C36165EC",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Advanced Dungeons & Dragons (USA, Europe)",
+      "crc32": "9D4355AA",
+      "id32": "E1F0B155",
+      "mapper": 0,
+      "size": 12,
+      "save": 0
+    },
+    {
+      "name": "Advanced Dungeons & Dragons - Treasure of Tarmin (USA)",
+      "crc32": "16C3B62F",
+      "id32": "95A8ADB2",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Adventure (USA, Europe)",
+      "crc32": "11C3BCFA",
+      "id32": "14A044B2",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Air Strike (USA) (Proto)",
+      "crc32": "2C668249",
+      "id32": "1BB8CBB9",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "All-Star Major League Baseball (USA) (Beta)",
+      "crc32": "B45633CF",
+      "id32": "154D6C18",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Armor Battle (USA, Europe)",
+      "crc32": "6F91FBC1",
+      "id32": "C8512074",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Astrosmash (USA, Europe)",
+      "crc32": "FAB2992C",
+      "id32": "ACF729A9",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Atlantis (USA, Europe)",
+      "crc32": "13FF363C",
+      "id32": "5FA1ADEE",
+      "mapper": 7,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Auto Racing (USA, Europe)",
+      "crc32": "B35C1101",
+      "id32": "C69AE3EC",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "B-17 Bomber (USA, Europe)",
+      "crc32": "8AD19AB3",
+      "id32": "AB263A2B",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "BattleTanks (USA)",
+      "crc32": "22A1F245",
+      "id32": "51237146",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Beamrider (USA, Europe)",
+      "crc32": "EAF650CC",
+      "id32": "808DA491",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Beauty & the Beast (USA, Europe)",
+      "crc32": "C047D487",
+      "id32": "342895CD",
+      "mapper": 7,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Biplanes (USA)",
+      "crc32": "44519F2D",
+      "id32": "20E177E5",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Blockade Runner (USA)",
+      "crc32": "B03F739B",
+      "id32": "666EBB72",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Body Slam! - Super Pro Wrestling (USA)",
+      "crc32": "515E1D7E",
+      "id32": "8D929130",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Bomb Squad (USA)",
+      "crc32": "32697B72",
+      "id32": "D2EC7D12",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Boxing (USA, Europe)",
+      "crc32": "AB87C16F",
+      "id32": "882D9CE0",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Brickout! (USA) (Proto)",
+      "crc32": "9F85015B",
+      "id32": "BC12378E",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Bump 'n' Jump (USA)",
+      "crc32": "999CCEED",
+      "id32": "81DA458C",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "BurgerTime (USA, Europe)",
+      "crc32": "43806375",
+      "id32": "6C79BAD3",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Buzz Bombers (USA, Europe)",
+      "crc32": "FA492BBD",
+      "id32": "DA291698",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Buzz Bombers (USA, Europe) (Alt)",
+      "crc32": "2A1E0C1C",
+      "id32": "DA291698",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Carnival (USA, Europe)",
+      "crc32": "43870908",
+      "id32": "185D7B3A",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Centipede (USA)",
+      "crc32": "D5363B8C",
+      "id32": "16881D87",
+      "mapper": 6,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Championship Tennis (Europe)",
+      "crc32": "4CC46A04",
+      "id32": "DCF67785",
+      "mapper": 1,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Checkers ~ Draughts (USA, Europe)",
+      "crc32": "36E1D858",
+      "id32": "477D5860",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Chip Shot - Super Pro Golf (USA)",
+      "crc32": "0BF464C6",
+      "id32": "EF1019FF",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Commando (USA)",
+      "crc32": "3289C8BA",
+      "id32": "3FFF5609",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Congo Bongo (USA)",
+      "crc32": "4B23A757",
+      "id32": "560927CA",
+      "mapper": 5,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Crazy Clones (USA) (Proto)",
+      "crc32": "E1EE408F",
+      "id32": "102B6DE1",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Crosswords (USA)",
+      "crc32": "32162105",
+      "id32": "9B61C8C1",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Deadly Dogs (USA, Europe) (Beta)",
+      "crc32": "CDC14ED8",
+      "id32": "4ABB962D",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Deep Pockets - Super Pro Pool & Billiards (USA) (Proto)",
+      "crc32": "6802B191",
+      "id32": "C6724EE0",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Defender (USA)",
+      "crc32": "D8F99AA2",
+      "id32": "056F30A3",
+      "mapper": 5,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Demon Attack (USA, Europe)",
+      "crc32": "5E6A8CD8",
+      "id32": "25554AAB",
+      "mapper": 7,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Demonstration Cartridge - Blue (USA)",
+      "crc32": "C99E7554",
+      "id32": "78C428C7",
+      "mapper": 0,
+      "size": 12,
+      "save": 0
+    },
+    {
+      "name": "Demonstration Cartridge - Green (USA)",
+      "crc32": "A3ACD160",
+      "id32": "3BC5456A",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Demonstration Cartridge - Red (USA)",
+      "crc32": "0487675C",
+      "id32": "DD3C5CC9",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Dig Dug (USA)",
+      "crc32": "159AF7F7",
+      "id32": "FE382C98",
+      "mapper": 5,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Diner (USA)",
+      "crc32": "13EE56F1",
+      "id32": "B04CAD24",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Donkey Kong (USA, Europe)",
+      "crc32": "C30F61C0",
+      "id32": "67DFAA6A",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Donkey Kong Junior (USA, Europe)",
+      "crc32": "6DF61A9F",
+      "id32": "C387455F",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Dracula (USA, Europe)",
+      "crc32": "84BEDCC1",
+      "id32": "C9BD95C8",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Dragonfire (USA, Europe)",
+      "crc32": "AF8718A1",
+      "id32": "44A6B99C",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Dreadnaught Factor, The (USA)",
+      "crc32": "3B99B889",
+      "id32": "3D384683",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Dreadnaught Factor, The (USA) (Beta)",
+      "crc32": "BF4D0E9B",
+      "id32": "7B46960A",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Duncan's Thin Ice (USA)",
+      "crc32": "F3DF94E0",
+      "id32": "BDB66897",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Electric Company, The - Math Fun (USA, Europe)",
+      "crc32": "54A3FC11",
+      "id32": "5A83A949",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Electric Company, The - Word Fun (USA, Europe)",
+      "crc32": "C9EAACAB",
+      "id32": "58D0067F",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Factor Fun (USA)",
+      "crc32": "F3AE29EA",
+      "id32": "09F657FA",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Fathom (USA, Europe)",
+      "crc32": "4221EDE7",
+      "id32": "88A1F92B",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Frog Bog (USA, Europe)",
+      "crc32": "37222762",
+      "id32": "621DE7FB",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Frogger (USA, Europe)",
+      "crc32": "D27495E9",
+      "id32": "44F825D6",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Game Factory (USA) (Proto)",
+      "crc32": "CE8FC699",
+      "id32": "8CB87C57",
+      "mapper": 0,
+      "size": 48,
+      "save": 0
+    },
+    {
+      "name": "Go for the Gold (USA) (Proto)",
+      "crc32": "DBCA82C5",
+      "id32": "F3FA5716",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Grid Shock (USA) (Proto)",
+      "crc32": "291AC826",
+      "id32": "5AA83F48",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Happy Holidays - Easter Eggcitement (USA) (Proto)",
+      "crc32": "20ACE89D",
+      "id32": "1C4B3CDE",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Happy Holidays - Santa's Helper (USA) (Proto)",
+      "crc32": "E221808C",
+      "id32": "08238550",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Happy Trails (USA, Europe)",
+      "crc32": "4B8C5932",
+      "id32": "7095EA8D",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Horse Racing (USA, Europe)",
+      "crc32": "B5C7F25D",
+      "id32": "A505F4C6",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Hover Force (USA)",
+      "crc32": "FF83FF80",
+      "id32": "624785F2",
+      "mapper": 2,
+      "size": 48,
+      "save": 0
+    },
+    {
+      "name": "Hypnotic Lights (USA) (Proto)",
+      "crc32": "A3147630",
+      "id32": "7DEB5F26",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "IMI Test Cartridge (USA)",
+      "crc32": "7217CA7B",
+      "id32": "2DB4CB7F",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Ice Trek (USA, Europe)",
+      "crc32": "4F3E3F69",
+      "id32": "98DB94E0",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Illusions (USA) (Proto)",
+      "crc32": "851F3CCB",
+      "id32": "6844341D",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "International Demonstration Cartridge (World)",
+      "crc32": "6A02C7E8",
+      "id32": "58C6EDBE",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Jetsons' Ways with Words, The (USA)",
+      "crc32": "EE5F1BE2",
+      "id32": "8368BCD1",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "King of the Mountain (USA) (Proto)",
+      "crc32": "4422868E",
+      "id32": "D66A374F",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Kool-Aid Man (USA)",
+      "crc32": "8C9819A2",
+      "id32": "D9947031",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Lady Bug (USA, Europe)",
+      "crc32": "A6840736",
+      "id32": "A6EC87AB",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Land Battle (USA) (Proto)",
+      "crc32": "3825C25B",
+      "id32": "29566141",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Las Vegas Poker & Blackjack (USA, Europe)",
+      "crc32": "604611C0",
+      "id32": "32858BA8",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Las Vegas Roulette (USA, Europe)",
+      "crc32": "48D74D3C",
+      "id32": "82DACC08",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "League of Light (USA) (Proto)",
+      "crc32": "B4287B95",
+      "id32": "51BDCF67",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Learning Fun I - Math Master, Factor Fun (USA)",
+      "crc32": "2C5FD5FA",
+      "id32": "09F657FA",
+      "mapper": 2,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Learning Fun II - Word Wizard, Memory Fun (USA)",
+      "crc32": "632F6ADF",
+      "id32": "26B6387C",
+      "mapper": 2,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Lock 'N' Chase (USA, Europe)",
+      "crc32": "04977992",
+      "id32": "DCC7DDF1",
+      "mapper": 0,
+      "size": 12,
+      "save": 0
+    },
+    {
+      "name": "Lock 'N' Chase (USA, Europe) (Rev 1)",
+      "crc32": "5C7E9848",
+      "id32": "E48B1C19",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Loco-Motion (USA)",
+      "crc32": "6B6E80EE",
+      "id32": "DF82461E",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "MTE201 Intellivision Test Cartridge (USA)",
+      "crc32": "C83EEA4C",
+      "id32": "F14AA2C0",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Magic Carousel (USA) (Proto)",
+      "crc32": "F3B0C759",
+      "id32": "7F5828FC",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Magic Carousel (USA) (Proto) (Alt)",
+      "crc32": "B25B22CB",
+      "id32": "AB318052",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Major League Baseball ~ Big League Baseball ~ Baseball (USA, Europe)",
+      "crc32": "DAB36628",
+      "id32": "F14AA2C0",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Masters of the Universe - The Power of He-Man (USA, Europe)",
+      "crc32": "573B9B6D",
+      "id32": "BB865611",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Math Master (USA)",
+      "crc32": "662E2812",
+      "id32": "09F657FA",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Melody Blaster (USA, Europe)",
+      "crc32": "FF68AA22",
+      "id32": "9713E1EB",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Memory Fun (USA)",
+      "crc32": "96E000EB",
+      "id32": "DACB7978",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Meteor (USA, Europe) (Beta)",
+      "crc32": "00BE8BBA",
+      "id32": "DE0507CA",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Microsurgeon (USA, Europe)",
+      "crc32": "E806AD91",
+      "id32": "AA0B1043",
+      "mapper": 7,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Mind Strike (USA, Europe)",
+      "crc32": "9D57498F",
+      "id32": "0F004AFA",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Minotaur (USA)",
+      "crc32": "BD731E3C",
+      "id32": "443899D8",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Mission X (USA, Europe)",
+      "crc32": "11FB9974",
+      "id32": "87E900F4",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Motocross (USA)",
+      "crc32": "5F6E1AF6",
+      "id32": "40DB7B64",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Mountain Madness - Super Pro Skiing (USA)",
+      "crc32": "6B5EA9C4",
+      "id32": "DD19D34B",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Mouse Trap (USA, Europe)",
+      "crc32": "598662F2",
+      "id32": "DA94B747",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Mr. BASIC Meets Bits 'N Bytes (USA)",
+      "crc32": "BEF0B0C7",
+      "id32": "37088E19",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "NASL Soccer ~ Soccer (USA, Europe)",
+      "crc32": "DBAB54CA",
+      "id32": "2D07627A",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "NBA Basketball ~ Basketball (USA, Europe)",
+      "crc32": "81E7FB8C",
+      "id32": "9576C2F9",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "NFL Football ~ Football (USA, Europe)",
+      "crc32": "4B91CF16",
+      "id32": "E0AD6B4A",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "NHL Hockey ~ Hockey (USA, Europe)",
+      "crc32": "76564A13",
+      "id32": "04F4C137",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Night Stalker (USA, Europe)",
+      "crc32": "7334CD44",
+      "id32": "73C43D56",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Nova Blast (USA, Europe)",
+      "crc32": "5EE2CC2A",
+      "id32": "730B4F52",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Number Jumble (USA) (Proto)",
+      "crc32": "E5D1A8D2",
+      "id32": "E2D7EB41",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Number Jumble (USA) (Proto) (Alt)",
+      "crc32": "0E4920C1",
+      "id32": "E2D7EB41",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "PBA Bowling ~ Bowling (USA, Europe)",
+      "crc32": "169E3584",
+      "id32": "92A5CC45",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "PGA Golf ~ Golf (USA, Europe)",
+      "crc32": "FF87FAEC",
+      "id32": "6AB812CC",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Pac-Man (USA) (Atarisoft)",
+      "crc32": "A21C31C3",
+      "id32": "784C5852",
+      "mapper": 5,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Pac-Man (USA) (INTV Corp.)",
+      "crc32": "6E4E8EB4",
+      "id32": "784C5852",
+      "mapper": 5,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Party Line - Blow Out (USA) (Proto)",
+      "crc32": "A63AA3D8",
+      "id32": "12A4B8AC",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Party Line - Hard Hat (USA) (Proto)",
+      "crc32": "B6A3D4DE",
+      "id32": "015DA141",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Party Line - Space Cadet (USA) (Proto)",
+      "crc32": "F8EF3E5A",
+      "id32": "916BC680",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Party Line - Space Cadet (USA) (Proto) (Alt)",
+      "crc32": "4B88FA8E",
+      "id32": "24DB7D78",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Pinball (USA)",
+      "crc32": "D7C5849C",
+      "id32": "B4EAAD8E",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Pitfall! (USA, Europe)",
+      "crc32": "9C75EFCC",
+      "id32": "7A686C7A",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Pole Position (USA)",
+      "crc32": "BB939881",
+      "id32": "099FBB17",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Popeye (USA, Europe)",
+      "crc32": "C51464E0",
+      "id32": "F82CB303",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Q-bert (USA, Europe)",
+      "crc32": "D8C9856A",
+      "id32": "2AF7CB8E",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Racing Cars (USA)",
+      "crc32": "156A5645",
+      "id32": "47D4FDE8",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Reversi (USA, Europe)",
+      "crc32": "C7BB1B0E",
+      "id32": "007A3CFA",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "River Raid (USA, Europe)",
+      "crc32": "8910C37A",
+      "id32": "C602EFD5",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "River Raid (USA, Europe) (Beta)",
+      "crc32": "95466AD3",
+      "id32": "9A3BB87D",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Robot Rubble (USA) (Proto 1)",
+      "crc32": "7473916D",
+      "id32": "8223FE20",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Robot Rubble (USA) (Proto 2)",
+      "crc32": "A5E28783",
+      "id32": "9CD166A3",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Robot Rubble (USA) (Proto 3)",
+      "crc32": "243B0812",
+      "id32": "B7EF0D22",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Rocky & Bullwinckle (USA) (Proto)",
+      "crc32": "867F1941",
+      "id32": "5897B25B",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Royal Dealer (USA, Europe)",
+      "crc32": "0458A491",
+      "id32": "9E0D5725",
+      "mapper": 0,
+      "size": 12,
+      "save": 0
+    },
+    {
+      "name": "SNAFU (USA, Europe)",
+      "crc32": "8F959A6E",
+      "id32": "A8D4F530",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Safecracker (USA, Europe)",
+      "crc32": "47AA7977",
+      "id32": "D8A856C3",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Scarfinger (USA) (Proto)",
+      "crc32": "23DC808D",
+      "id32": "F9459608",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Scooby Doo's Maze Chase (USA, Europe)",
+      "crc32": "E9E3F60D",
+      "id32": "32BA11D5",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Sea Battle (USA, Europe)",
+      "crc32": "99AE29A9",
+      "id32": "3E9C2F57",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Sewer Sam (USA)",
+      "crc32": "E0F0D3DA",
+      "id32": "547255AE",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Shark! Shark! (USA, Europe)",
+      "crc32": "2A4C761D",
+      "id32": "FAD18815",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Sharp Shot (USA, Europe)",
+      "crc32": "FF7CB79E",
+      "id32": "D3755257",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Slam Dunk - Super Pro Basketball (USA)",
+      "crc32": "800B572F",
+      "id32": "73E1B160",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Slap Shot - Super Pro Hockey (USA)",
+      "crc32": "BA68FF28",
+      "id32": "28E12B2A",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Space Armada (USA, Europe)",
+      "crc32": "E8B8EBA5",
+      "id32": "37448F0E",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Space Battle (USA, Europe)",
+      "crc32": "F95504E0",
+      "id32": "4B01266E",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Space Hawk (USA, Europe)",
+      "crc32": "39D3B895",
+      "id32": "98C36FD6",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Space Spartans (USA, Europe)",
+      "crc32": "3784DC52",
+      "id32": "ABEC143B",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Spiker - Super Pro Volleyball (USA)",
+      "crc32": "A95021FC",
+      "id32": "9863F705",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Stadium Mud Buggies (USA)",
+      "crc32": "B745C1CA",
+      "id32": "05C25ADA",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Stampede (USA, Europe)",
+      "crc32": "2DEACD15",
+      "id32": "70EA291B",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Star Strike (USA, Europe)",
+      "crc32": "72E11FCA",
+      "id32": "03BC8D15",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Star Wars - The Empire Strikes Back (USA, Europe)",
+      "crc32": "D5B0135A",
+      "id32": "D4F28D1E",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Street ~ Happy Holidays - Trick or Treat (USA) (Proto)",
+      "crc32": "4830F720",
+      "id32": "73C73B20",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Sub Hunt (USA, Europe)",
+      "crc32": "3D9949EA",
+      "id32": "EA26DB5E",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Super Cobra (Europe, Canada)",
+      "crc32": "7C32C9B8",
+      "id32": "8683587D",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Super Masters! (USA) (Proto)",
+      "crc32": "BAB638F2",
+      "id32": "AC5708E7",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Super NFL Footbal (USA) (Proto)",
+      "crc32": "BE4D7996",
+      "id32": "099E7ED0",
+      "mapper": 0,
+      "size": 48,
+      "save": 0
+    },
+    {
+      "name": "Super Pro Decathlon (USA)",
+      "crc32": "16BFB8EB",
+      "id32": "1BDEA222",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Super Pro Football (USA)",
+      "crc32": "32076E9D",
+      "id32": "8EB44B60",
+      "mapper": 2,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Super Soccer (USA) (Proto)",
+      "crc32": "51B82EB7",
+      "id32": "956E56B2",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Swords & Serpents (USA, Europe)",
+      "crc32": "15E88FCE",
+      "id32": "F1083D3F",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "TRON (USA) (Proto)",
+      "crc32": "5A144835",
+      "id32": "695A7D09",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "TRON Deadly Discs (USA, Europe)",
+      "crc32": "CA447BBD",
+      "id32": "C1E344F4",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "TRON Maze-A-Tron (USA, Europe)",
+      "crc32": "7A558CF5",
+      "id32": "116665E4",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "TRON Solar Sailer (USA, Europe)",
+      "crc32": "07FB9435",
+      "id32": "6E89D53D",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Takeover (USA) (Proto)",
+      "crc32": "1F584A69",
+      "id32": "B1893993",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Tennis (USA, Europe)",
+      "crc32": "03E9E62E",
+      "id32": "7AFAD623",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Thin Ice (USA)",
+      "crc32": "975AE6DF",
+      "id32": "683F4AAE",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Thin Ice (USA) (Beta)",
+      "crc32": "D6495910",
+      "id32": "C1201C5A",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Thunder Castle (USA)",
+      "crc32": "C1F1CA74",
+      "id32": "0C13E05A",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Tower of Doom (USA)",
+      "crc32": "D1D352A0",
+      "id32": "003BCCB5",
+      "mapper": 3,
+      "size": 48,
+      "save": 0
+    },
+    {
+      "name": "Triple Action (USA)",
+      "crc32": "1AC989E2",
+      "id32": "09BE6581",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Triple Challenge - Chess, Checkers, Backgammon (USA)",
+      "crc32": "095638C0",
+      "id32": "D324817A",
+      "mapper": 9,
+      "size": 44,
+      "save": 2
+    },
+    {
+      "name": "Tropical Trouble (USA, Europe)",
+      "crc32": "6F23A741",
+      "id32": "294930FB",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Truckin' (USA)",
+      "crc32": "734F3260",
+      "id32": "E331CF32",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Turbo (USA, Europe)",
+      "crc32": "275F3512",
+      "id32": "161559AC",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Tutankham (Europe)",
+      "crc32": "6FA698B3",
+      "id32": "C62F1AE6",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "US Ski Team Skiing ~ Skiing (USA, Europe)",
+      "crc32": "F093E801",
+      "id32": "E6451829",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "USCF Chess ~ Chess (USA, Europe)",
+      "crc32": "752FD927",
+      "id32": "BB6E44A4",
+      "mapper": 4,
+      "size": 16,
+      "save": 1
+    },
+    {
+      "name": "Utopia (USA, Europe)",
+      "crc32": "F9E0789E",
+      "id32": "AA5E9866",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Vectron (USA, Europe)",
+      "crc32": "A4A20354",
+      "id32": "3423D224",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Vectron (USA, Europe) (Alt)",
+      "crc32": "8F48030F",
+      "id32": "A04A5320",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "Venture (USA, Europe)",
+      "crc32": "6EFA67B2",
+      "id32": "1633E494",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "White Water! (USA, Europe)",
+      "crc32": "F1ED7D27",
+      "id32": "2879662D",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Word Hunt (USA)",
+      "crc32": "B8AE7E3B",
+      "id32": "3B4664D4",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Word Rockets (USA)",
+      "crc32": "4B35D11D",
+      "id32": "9178C542",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "World Championship Baseball (USA)",
+      "crc32": "10D64E48",
+      "id32": "154D6C18",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "World Cup Football (Europe)",
+      "crc32": "15D9D27A",
+      "id32": "D6E2244E",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "World Series Major League Baseball (USA)",
+      "crc32": "C2063C08",
+      "id32": "61769915",
+      "mapper": 1,
+      "size": 48,
+      "save": 0
+    },
+    {
+      "name": "Worm Whomper (USA, Europe)",
+      "crc32": "24B667B9",
+      "id32": "D4F8C427",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "Yogi's Frustration (USA) (Proto)",
+      "crc32": "752B73DD",
+      "id32": "D9D9F880",
+      "mapper": 0,
+      "size": 32,
+      "save": 0
+    },
+    {
+      "name": "Zaxxon (USA, Europe)",
+      "crc32": "15C65DC5",
+      "id32": "6E360908",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "Zzzz! Spina the Bee (Europe) (Proto)",
+      "crc32": "01EFA214",
+      "id32": "F042D89F",
+      "mapper": 0,
+      "size": 16,
+      "save": 0
+    },
+    {
+      "name": "[BIOS] Entertainment Computer System EXEC-BASIC (USA, Europe)",
+      "crc32": "EA790A06",
+      "id32": "ED1875C1",
+      "mapper": 0,
+      "size": 24,
+      "save": 0
+    },
+    {
+      "name": "[BIOS] Intellivision Executive ROM (World)",
+      "crc32": "CBCE86F7",
+      "id32": "99A84E42",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
+    },
+    {
+      "name": "[BIOS] Intellivision Graphic ROM (World)",
+      "crc32": "683A4158",
+      "id32": "CA1FBEEA",
+      "mapper": 0,
+      "size": 2,
+      "save": 0
+    },
+    {
+      "name": "[BIOS] Intellivoice (USA, Europe)",
+      "crc32": "0DE7579D",
+      "id32": "7184B7ED",
+      "mapper": 0,
+      "size": 2,
+      "save": 0
+    },
+    {
+      "name": "[BIOS] Sears Super Video Arcade (USA, Europe)",
+      "crc32": "EA552A22",
+      "id32": "C8F183A2",
+      "mapper": 0,
+      "size": 8,
+      "save": 0
     }
-]
+  ]
+}
