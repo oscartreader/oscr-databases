@@ -31,7 +31,7 @@ for coreName in crdb.cores:
     core = crdb.getCore(coreName)
 
     filename = core.outfile
-    enabled = config.get("oscr", "core." + core.confKey)
+    enabled = config.get("cores", core.confKey)
 
     if verbose:
         print(" + " + filename + " ... ", end='')

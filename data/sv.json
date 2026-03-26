@@ -1,7 +1,7 @@
 {
   "outfile": "sv",
   "system": "SV",
-  "pio": "sv",
+  "pio": "supervision",
   "type": "CART",
   "formats": {
     "crdb": "Ncrc/Nid32/Nmapper/Nsize/Nsave/a100name",
