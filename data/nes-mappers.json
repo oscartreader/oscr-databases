@@ -6,7 +6,7 @@
   "formats": {
     "crdb": "Nmapper/Nsubmapper/Nprglo/Nprghi/Nchrlo/Nchrhi/Nramlo/Nramhi",
     "php": "NNNNNNNN@100",
-    "python": ">LLLLLLLL"
+    "python": ">LLLLLLLL68x"
   },
   "order": {
     "mapper": "int",
