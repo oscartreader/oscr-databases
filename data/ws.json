@@ -1,0 +1,2041 @@
+{
+  "outfile": "ws",
+  "system": "WS+WSC",
+  "pio": "wonderswan",
+  "type": "CART",
+  "formats": {
+    "crdb": "Ncrc/a100name",
+    "php": "Na100",
+    "python": ">L100s"
+  },
+  "order": {
+    "crc32": "int",
+    "name": "string"
+  },
+  "records": [
+    {
+      "name": "12 Dots Text Viewer (World) (v0.55) (WonderWitch) (Program) (Unl)",
+      "crc32": "BB52342C"
+    },
+    {
+      "name": "15 Game (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "095900C4"
+    },
+    {
+      "name": "15 Puzzle (World) (WonderWitch) (Unl)",
+      "crc32": "38407674"
+    },
+    {
+      "name": "15 Puzzle for WW (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "71A16583"
+    },
+    {
+      "name": "3D Mapping Tool (World) (v1.10) (WonderWitch) (Program) (Unl)",
+      "crc32": "4152FC4A"
+    },
+    {
+      "name": "3D Othello (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "A6A6EC51"
+    },
+    {
+      "name": "4 Koma TV (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B0A64ACE"
+    },
+    {
+      "name": "50 Oto Nyouryoku (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "C463C126"
+    },
+    {
+      "name": "7 Days Left (World) (Ja) (v1.00) (WonderWitch) (WWGP2002) (Unl)",
+      "crc32": "ABD2BD16"
+    },
+    {
+      "name": "7 Days Left (World) (Ja) (v1.01) (WonderWitch) (Unl)",
+      "crc32": "553B1D62"
+    },
+    {
+      "name": "Alchemist Marie & Elie - Futari no Atelier (Japan)",
+      "crc32": "B18CDC0D"
+    },
+    {
+      "name": "Alchemist Marie & Elie - Futari no Atelier (Japan) (Demo) (WonderWitch)",
+      "crc32": "30EF908E"
+    },
+    {
+      "name": "Anchorz Field (Japan)",
+      "crc32": "425EB893"
+    },
+    {
+      "name": "Another Heaven - Memory of those Days (Japan)",
+      "crc32": "D7A0AB74"
+    },
+    {
+      "name": "Arc the Lad - Kishin Fukkatsu (Japan)",
+      "crc32": "E2317345"
+    },
+    {
+      "name": "Arial (World) (v0.21) (Proto) (WonderWitch) (Unl)",
+      "crc32": "37F78F4B"
+    },
+    {
+      "name": "Armored Unit (Japan)",
+      "crc32": "04366D92"
+    },
+    {
+      "name": "Artisan (World) (WonderWitch) (Unl)",
+      "crc32": "4567FB44"
+    },
+    {
+      "name": "Arubi (World) (Ja) (v0.08) (Proto) (WonderWitch) (Unl)",
+      "crc32": "758299F9"
+    },
+    {
+      "name": "Atakshii (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "23392AB9"
+    },
+    {
+      "name": "Atchi Muite Hoitsu! (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "C1CE966F"
+    },
+    {
+      "name": "Atodashi (World) (WonderWitch) (Unl)",
+      "crc32": "1630D75E"
+    },
+    {
+      "name": "Atop the Witch's Tower (World) (v1.1) (Aftermarket) (Unl)",
+      "crc32": "23E814CC"
+    },
+    {
+      "name": "B.A.F. (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "EEFB1773"
+    },
+    {
+      "name": "BANDAI Default Splash Screen (Japan) (Program)",
+      "crc32": "9DA44185"
+    },
+    {
+      "name": "BNU (World) (v1.1) (WonderWitch) (Unl)",
+      "crc32": "E0021D6B"
+    },
+    {
+      "name": "BOM Danna (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "930D66AA"
+    },
+    {
+      "name": "Bakusou Dekotora Densetsu for WonderSwan (Japan)",
+      "crc32": "392DD813"
+    },
+    {
+      "name": "Ball and Block (World) (WonderWitch) (Unl)",
+      "crc32": "1E87BE36"
+    },
+    {
+      "name": "Balloon (World) (WonderWitch) (Unl)",
+      "crc32": "CEAEB5D3"
+    },
+    {
+      "name": "Battle Mosquito (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B4790749"
+    },
+    {
+      "name": "Battle Spirit - Digimon Frontier (Japan)",
+      "crc32": "A28D3DC5"
+    },
+    {
+      "name": "Battle Spirit - Digimon Frontier (Japan) (Rev 1)",
+      "crc32": "8BA49DAB"
+    },
+    {
+      "name": "Beem (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "038D2CDB"
+    },
+    {
+      "name": "Bio Worms (World) (WonderWitch) (Unl)",
+      "crc32": "60C6B1A6"
+    },
+    {
+      "name": "Biorhythm for WonderWitch (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "A5F52B59"
+    },
+    {
+      "name": "BloodStorm (World) (WonderWitch) (Unl)",
+      "crc32": "3DB4BAB8"
+    },
+    {
+      "name": "Blue Wing Blitz (Japan)",
+      "crc32": "99027238"
+    },
+    {
+      "name": "Broom (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "7DD96405"
+    },
+    {
+      "name": "Buffers Evolution (Japan)",
+      "crc32": "B25A0635"
+    },
+    {
+      "name": "Buro (World) (WonderWitch) (Unl)",
+      "crc32": "0FC80E7F"
+    },
+    {
+      "name": "Bury (World) (WonderWitch) (Unl)",
+      "crc32": "43167BF8"
+    },
+    {
+      "name": "C-Man (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "ADB27977"
+    },
+    {
+      "name": "CNLink (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B9C79859"
+    },
+    {
+      "name": "Canon Hockey (World) (WonderWitch) (Unl)",
+      "crc32": "37738113"
+    },
+    {
+      "name": "Cardcaptor Sakura - Sakura to Fushigi na Clow Card (Japan)",
+      "crc32": "7F3A14C0"
+    },
+    {
+      "name": "Cardinal Sins - Recycle Edition (World) (Ja) (v1.00) (WonderWitch) (Aftermarket) (Unl)",
+      "crc32": "4FE0C856"
+    },
+    {
+      "name": "Cardinal Sins - Recycle Edition (World) (Ja) (v1.01) (WonderWitch) (Aftermarket) (Unl)",
+      "crc32": "990E0749"
+    },
+    {
+      "name": "Cardinal Sins - Recycle Edition (World) (Ja) (v1.02) (WonderWitch) (Aftermarket) (Unl)",
+      "crc32": "DEAEC59B"
+    },
+    {
+      "name": "Castle (World) (WonderWitch) (Unl)",
+      "crc32": "4AC2E602"
+    },
+    {
+      "name": "Cave Flyer (World) (Proto 1) (WonderWitch) (Unl)",
+      "crc32": "98D6FB9E"
+    },
+    {
+      "name": "Cave Flyer (World) (Proto 2) (WonderWitch) (WWGP2001) (Unl)",
+      "crc32": "AC62A425"
+    },
+    {
+      "name": "Chains (World) (WonderWitch) (Unl)",
+      "crc32": "8CA7BB6A"
+    },
+    {
+      "name": "Chaos Gear - Michibikareshi Mono (Japan)",
+      "crc32": "27B3CC18"
+    },
+    {
+      "name": "Charaga (World) (WonderWitch) (Unl)",
+      "crc32": "DEB9AD0F"
+    },
+    {
+      "name": "Chikyou o Mamore Ozon-sou (World) (Ja) (Proto) (WonderWitch) (Unl)",
+      "crc32": "8FE6EFF8"
+    },
+    {
+      "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 1)",
+      "crc32": "A607A350"
+    },
+    {
+      "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 2)",
+      "crc32": "CCAA4853"
+    },
+    {
+      "name": "Chocobo no Fushigi na Dungeon for WonderSwan (Japan) (Rev 3)",
+      "crc32": "AA53971D"
+    },
+    {
+      "name": "Chou Aniki - Otoko no Tamafuda (Japan) (Rev 4)",
+      "crc32": "7FFF2520"
+    },
+    {
+      "name": "Chou Denki Card Battle - Youfu Makai (Japan) (Rev 3)",
+      "crc32": "56E2C069"
+    },
+    {
+      "name": "Chuuka Taisen (World) (WonderWitch) (Unl)",
+      "crc32": "D53161B2"
+    },
+    {
+      "name": "Clock Tower for WonderSwan (Japan) (Rev 1)",
+      "crc32": "4E8909D1"
+    },
+    {
+      "name": "Coar Crashers (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "09E82F48"
+    },
+    {
+      "name": "Course Out (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl)",
+      "crc32": "5635E2D6"
+    },
+    {
+      "name": "Course Out 2 (World) (Ja) (v0.0.1) (WonderWitch) (Unl)",
+      "crc32": "4995EB60"
+    },
+    {
+      "name": "Course Out 3 (World) (Ja) (v0.0.1) (Proto) (WonderWitch) (Unl)",
+      "crc32": "1143A561"
+    },
+    {
+      "name": "Crazy Climber (Japan)",
+      "crc32": "0CB57376"
+    },
+    {
+      "name": "D's Garage 21 Koubo Game - Tane o Maku Tori (Japan)",
+      "crc32": "B1CAEC06"
+    },
+    {
+      "name": "Dai Meikyuu (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "A8B42C3A"
+    },
+    {
+      "name": "Dark Eyes - Battle Gate (Japan)",
+      "crc32": "12AE932C"
+    },
+    {
+      "name": "Darkhero Figment - Calibur Edition (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "1E2B5421"
+    },
+    {
+      "name": "Darkhero Figment - Doris Edition (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B518B51C"
+    },
+    {
+      "name": "Darkhero Figment 2 (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "3951D2D0"
+    },
+    {
+      "name": "Dash Straight (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "12CEFB60"
+    },
+    {
+      "name": "Datchuchu (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "6B73ECED"
+    },
+    {
+      "name": "Denkou Keijiki (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "78516E13"
+    },
+    {
+      "name": "Densha de Go! (Japan) (Rev 1)",
+      "crc32": "B62E5DD0"
+    },
+    {
+      "name": "Densha de Go! 2 (Japan)",
+      "crc32": "AF9D8F42"
+    },
+    {
+      "name": "Dexten (World) (WonderWitch) (Unl)",
+      "crc32": "F343326E"
+    },
+    {
+      "name": "Dicing Knight (Japan) (En)",
+      "crc32": "D451AD81"
+    },
+    {
+      "name": "Dicing Knight. (Japan)",
+      "crc32": "1887389C"
+    },
+    {
+      "name": "DicingKnight Legion (World) (v2.1) (Demo) (WonderWitch) (Unl)",
+      "crc32": "FB54C583"
+    },
+    {
+      "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Hong Kong) (En)",
+      "crc32": "77689273"
+    },
+    {
+      "name": "Digimon - Anode Tamer & Cathode Tamer - Veedramon Version (Korea) (En)",
+      "crc32": "7B2A02E3"
+    },
+    {
+      "name": "Digimon - Ver. WonderSwan (Hong Kong) (En)",
+      "crc32": "94EA6FFC"
+    },
+    {
+      "name": "Digimon Adventure - Anode Tamer (Japan)",
+      "crc32": "FC6946F0"
+    },
+    {
+      "name": "Digimon Adventure - Anode Tamer (Japan) (Rev 1)",
+      "crc32": "6E9DD148"
+    },
+    {
+      "name": "Digimon Adventure - Cathode Tamer (Japan)",
+      "crc32": "42AD238B"
+    },
+    {
+      "name": "Digimon Adventure 02 - D1 Tamers (Japan)",
+      "crc32": "4D28637E"
+    },
+    {
+      "name": "Digimon Adventure 02 - D1 Tamers (Japan) (Rev 1)",
+      "crc32": "62F4E4B4"
+    },
+    {
+      "name": "Digimon Adventure 02 - Tag Tamers (Japan)",
+      "crc32": "56CE1BC5"
+    },
+    {
+      "name": "Digimon Adventure 02 - Tag Tamers (Japan) (Rev 1)",
+      "crc32": "6EDEDAF8"
+    },
+    {
+      "name": "Digimon Tamers - Battle Spirit (Japan, Korea) (En,Ja)",
+      "crc32": "C927BFCB"
+    },
+    {
+      "name": "Digimon Tamers - Battle Spirit Ver. 1.5 (Japan)",
+      "crc32": "6CAAD4A2"
+    },
+    {
+      "name": "Digimon Tamers - Brave Tamer (Japan) (Rev 1)",
+      "crc32": "F1F4D41F"
+    },
+    {
+      "name": "Digimon Tamers - Digimon Medley (Japan)",
+      "crc32": "FA92418D"
+    },
+    {
+      "name": "Digimon Tamers - Digimon Medley (Japan) (Rev 1)",
+      "crc32": "84A46949"
+    },
+    {
+      "name": "Digital Monster - D-Project (Japan)",
+      "crc32": "FAAEFBCB"
+    },
+    {
+      "name": "Digital Monster - D-Project (Japan) (Rev 2)",
+      "crc32": "0E40829C"
+    },
+    {
+      "name": "Digital Monster - Ver. WonderSwan (Japan) (Rev 1)",
+      "crc32": "AB59DE2E"
+    },
+    {
+      "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan)",
+      "crc32": "603CB5E6"
+    },
+    {
+      "name": "Digital Monster Card Game - Ver. WonderSwan Color (Japan) (Rev 2)",
+      "crc32": "1E760C41"
+    },
+    {
+      "name": "Digital Partner (Japan)",
+      "crc32": "B5E675AE"
+    },
+    {
+      "name": "Disc Upper (World) (WonderWitch) (Unl)",
+      "crc32": "3FFF34BA"
+    },
+    {
+      "name": "Dokodemo Hamster (Japan)",
+      "crc32": "89E7D950"
+    },
+    {
+      "name": "Dokodemo Hamster 3 - Odekake Saffron (Japan) (Rev 2)",
+      "crc32": "93E19F13"
+    },
+    {
+      "name": "Dolls (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "C3E6DEFE"
+    },
+    {
+      "name": "Doukutsu Tantei Oke (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "4C580C60"
+    },
+    {
+      "name": "Doukyuu Tantei Oke Solo (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "65334388"
+    },
+    {
+      "name": "Dragon Ball (Japan)",
+      "crc32": "067238D1"
+    },
+    {
+      "name": "EF-Cribbage (World) (Ja) (v0.28) (Proto) (WonderWitch) (Unl)",
+      "crc32": "A1722E79"
+    },
+    {
+      "name": "Engacho! for WonderSwan (Japan)",
+      "crc32": "4E467626"
+    },
+    {
+      "name": "Es=Loss Zero Side (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "2B2835B3"
+    },
+    {
+      "name": "Evil Dragon (World) (WonderWitch) (Unl)",
+      "crc32": "AE2864D9"
+    },
+    {
+      "name": "Exnos (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "1FBA3FCC"
+    },
+    {
+      "name": "Features (World) (WonderWitch) (Unl)",
+      "crc32": "3C995A4B"
+    },
+    {
+      "name": "Features (World) (v2.001) (WonderWitch) (Unl)",
+      "crc32": "F6569CC8"
+    },
+    {
+      "name": "Fever - Sankyo Koushiki Pachinko Simulation for WonderSwan (Japan)",
+      "crc32": "8922DD0B"
+    },
+    {
+      "name": "Final Fantasy (Japan)",
+      "crc32": "B7243E88"
+    },
+    {
+      "name": "Final Fantasy II (Japan)",
+      "crc32": "F09E752F"
+    },
+    {
+      "name": "Final Fantasy IV (Japan)",
+      "crc32": "F699D6D1"
+    },
+    {
+      "name": "Final Lap 2000 (Japan)",
+      "crc32": "CE2F1A1D"
+    },
+    {
+      "name": "Final Lap Special - GT & Formula Machine (Japan)",
+      "crc32": "B07E6A56"
+    },
+    {
+      "name": "Fire Lancer (USA) (Demo) (2018-12-25) (Aftermarket) (Unl)",
+      "crc32": "02882FFE"
+    },
+    {
+      "name": "Fire Lancer (USA) (Demo) (2019-01-03) (Aftermarket) (Unl)",
+      "crc32": "2399F778"
+    },
+    {
+      "name": "Fire Pro Wrestling for WonderSwan (Japan) (Rev 5)",
+      "crc32": "F246A68E"
+    },
+    {
+      "name": "Fishing Freaks - Bass Rise for WonderSwan (Japan)",
+      "crc32": "A1FB16FC"
+    },
+    {
+      "name": "Flash Koibito-kun (Japan)",
+      "crc32": "69D8D433"
+    },
+    {
+      "name": "Flip (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "8111A9B1"
+    },
+    {
+      "name": "From TV Animation One Piece - Chopper no Daibouken (Japan)",
+      "crc32": "8E120B5A"
+    },
+    {
+      "name": "From TV Animation One Piece - Grand Battle Swan Colosseum (Japan)",
+      "crc32": "F8A1DD2B"
+    },
+    {
+      "name": "From TV Animation One Piece - Grand Battle Swan Colosseum (Japan) (Sample)",
+      "crc32": "23853305"
+    },
+    {
+      "name": "From TV Animation One Piece - Mezase Kaizoku Ou! (Japan)",
+      "crc32": "F2E362B8"
+    },
+    {
+      "name": "From TV Animation One Piece - Niji no Shima Densetsu (Japan)",
+      "crc32": "427056C4"
+    },
+    {
+      "name": "From TV Animation One Piece - Treasure Wars (Japan)",
+      "crc32": "205503C3"
+    },
+    {
+      "name": "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)",
+      "crc32": "3DF3E34C"
+    },
+    {
+      "name": "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)",
+      "crc32": "0D1048F0"
+    },
+    {
+      "name": "Front Mission (Japan)",
+      "crc32": "2F9E2560"
+    },
+    {
+      "name": "Frontier (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "774E1875"
+    },
+    {
+      "name": "GB Yu-Gi-Oh Database (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "BB90306F"
+    },
+    {
+      "name": "GPS TOOL for WonderSwan (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "982F57F7"
+    },
+    {
+      "name": "Gachagacha Nyouryoku (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "7B1CC2AB"
+    },
+    {
+      "name": "Gansaku Shuu Watch (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "C9C7BA79"
+    },
+    {
+      "name": "Ganso Jajamaru-kun (Japan)",
+      "crc32": "A193458C"
+    },
+    {
+      "name": "Gekitou! Crash Gear Turbo - Gear Champion League (Japan)",
+      "crc32": "8A8B827C"
+    },
+    {
+      "name": "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)",
+      "crc32": "446E2581"
+    },
+    {
+      "name": "Glocal Hexcite (Japan)",
+      "crc32": "4AED3911"
+    },
+    {
+      "name": "Golden Axe (Japan)",
+      "crc32": "BC944A98"
+    },
+    {
+      "name": "Gomoku Narabe & Reversi - Touryuumon (Japan)",
+      "crc32": "A9F11523"
+    },
+    {
+      "name": "Goraku Ou Tango! (Japan) (Rev 2)",
+      "crc32": "00137E86"
+    },
+    {
+      "name": "Gransta Chronicle (Japan)",
+      "crc32": "AF24F95C"
+    },
+    {
+      "name": "Guilty Gear Petit (Japan)",
+      "crc32": "9750BC2A"
+    },
+    {
+      "name": "Guilty Gear Petit 2 (Japan)",
+      "crc32": "D7A12BD5"
+    },
+    {
+      "name": "GunPey (Japan)",
+      "crc32": "A1656BBB"
+    },
+    {
+      "name": "GunPey EX (Japan)",
+      "crc32": "0C9CB12C"
+    },
+    {
+      "name": "Guruguru Ringuru (World) (WonderWitch) (Unl)",
+      "crc32": "11DB7BE0"
+    },
+    {
+      "name": "HG-voice-player + Sound Sample (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "A465B49B"
+    },
+    {
+      "name": "Hanabi (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "C2F1A2EE"
+    },
+    {
+      "name": "Hanafuda Shiyouyo (Japan)",
+      "crc32": "4B22270D"
+    },
+    {
+      "name": "Hanjuku Hero - Ah, Sekai yo Hanjuku Nare...!! (Japan) (Rev 1)",
+      "crc32": "31E09BED"
+    },
+    {
+      "name": "Harobots (Japan)",
+      "crc32": "AA525C04"
+    },
+    {
+      "name": "Harobots (Japan) (Rev 1)",
+      "crc32": "F75CE82C"
+    },
+    {
+      "name": "Hashire! Taiboku! (World) (v0.5) (Proto) (WonderWitch) (Unl)",
+      "crc32": "6498F0B2"
+    },
+    {
+      "name": "Hataraku Chocobo (Japan)",
+      "crc32": "7A29E9A6"
+    },
+    {
+      "name": "Hayauchi! (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "016F0191"
+    },
+    {
+      "name": "Hebi (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "11A3209E"
+    },
+    {
+      "name": "Hex Calculator (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "38EE72D7"
+    },
+    {
+      "name": "Hima Tsubushi (World) (WonderWitch) (Unl)",
+      "crc32": "A70E38E3"
+    },
+    {
+      "name": "Hirotte, Yokete!! (World) (WonderWitch) (Unl)",
+      "crc32": "66DC64AC"
+    },
+    {
+      "name": "Hito (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "BA051D69"
+    },
+    {
+      "name": "Hoippuru for WonderSwan (World) (Ja) (v1.00) (WonderWitch) (Unl)",
+      "crc32": "5B9D3A42"
+    },
+    {
+      "name": "Hoippuru for WonderSwan (World) (Ja) (v2.00) (WonderWitch) (Unl)",
+      "crc32": "D9C701A4"
+    },
+    {
+      "name": "Honey (World) (Ja) (v0.4) (WonderWitch) (Program) (Unl)",
+      "crc32": "5B892C30"
+    },
+    {
+      "name": "House Keeper (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "73AE8016"
+    },
+    {
+      "name": "House Keeper - 1.5 Generation (World) (Ja) (Proto) (WonderWitch) (Unl)",
+      "crc32": "8393480D"
+    },
+    {
+      "name": "Hunter X Hunter - Greed Island (Japan)",
+      "crc32": "A487B7A8"
+    },
+    {
+      "name": "Hunter X Hunter - Greed Island (Japan) (Rev 1)",
+      "crc32": "130AF567"
+    },
+    {
+      "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 1)",
+      "crc32": "BD6FC68A"
+    },
+    {
+      "name": "Hunter X Hunter - Ishi o Tsugu Mono (Japan) (Rev 2)",
+      "crc32": "70AA800E"
+    },
+    {
+      "name": "Hunter X Hunter - Michibikareshi Mono (Japan)",
+      "crc32": "9402BCA9"
+    },
+    {
+      "name": "Hunter X Hunter - Sorezore no Ketsui (Japan)",
+      "crc32": "D0B20C5A"
+    },
+    {
+      "name": "Hurry Up! (World) (WonderWitch) (Unl)",
+      "crc32": "84CA6856"
+    },
+    {
+      "name": "Ice Cream Shop (World) (WonderWitch) (Unl)",
+      "crc32": "5E383EC0"
+    },
+    {
+      "name": "Illusion Garden (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "1FBD22DD"
+    },
+    {
+      "name": "Inu Renda (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "1F3E9D0D"
+    },
+    {
+      "name": "Inu Renda 2 (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "CCA71DCE"
+    },
+    {
+      "name": "Inuyasha - Fuuun Emaki (Japan)",
+      "crc32": "3FF5791F"
+    },
+    {
+      "name": "Inuyasha - Kagome no Sengoku Nikki (Japan)",
+      "crc32": "0C23D551"
+    },
+    {
+      "name": "Inuyasha - Kagome no Yume Nikki (Japan)",
+      "crc32": "44453234"
+    },
+    {
+      "name": "Invader DX & Boss DX (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "106CBD97"
+    },
+    {
+      "name": "Ishikari (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "8240AD86"
+    },
+    {
+      "name": "Isigarki (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "FFE8CEE7"
+    },
+    {
+      "name": "Isomon - Get Oh No!! (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "3884DD9F"
+    },
+    {
+      "name": "Jiban Ryuoki - WonderSwan Edition (World) (WonderWitch) (Unl)",
+      "crc32": "E0316605"
+    },
+    {
+      "name": "Judgement Silversword (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B2DFE2B6"
+    },
+    {
+      "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 4321)",
+      "crc32": "AA13E9DE"
+    },
+    {
+      "name": "Judgement Silversword - Rebirth Edition (Japan) (Rev 5C21)",
+      "crc32": "85C4C9A1"
+    },
+    {
+      "name": "Juicy Crew (World) (WonderWitch) (Unl)",
+      "crc32": "858AC811"
+    },
+    {
+      "name": "Jump on Step (World) (WonderWitch) (Unl)",
+      "crc32": "54705B16"
+    },
+    {
+      "name": "Kaihi Tantei Oke (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "96861AF9"
+    },
+    {
+      "name": "Kaikon (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "F3E39740"
+    },
+    {
+      "name": "Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan)",
+      "crc32": "4D103236"
+    },
+    {
+      "name": "Kana (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B048E00B"
+    },
+    {
+      "name": "Kanain (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "0B24A1CD"
+    },
+    {
+      "name": "Kasanegasane (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "EFA0D4B1"
+    },
+    {
+      "name": "Kaze no Klonoa - Moonlight Museum (Japan)",
+      "crc32": "80C6EF12"
+    },
+    {
+      "name": "Keiba Yosou Shien Soft - Yosou Shinkaron (Japan)",
+      "crc32": "517F962E"
+    },
+    {
+      "name": "Kidou Senshi Gundam - Giren no Yabou - Tokubetsu Hen - Aoki Hoshi no Hasha (Japan)",
+      "crc32": "D4061551"
+    },
+    {
+      "name": "Kidou Senshi Gundam Seed (Japan)",
+      "crc32": "BCE15137"
+    },
+    {
+      "name": "Kidou Senshi Gundam Vol. 1 - Side 7 (Japan)",
+      "crc32": "08C0247B"
+    },
+    {
+      "name": "Kidou Senshi Gundam Vol. 2 - Jaburo (Japan)",
+      "crc32": "39A1391A"
+    },
+    {
+      "name": "Kidou Senshi Gundam Vol. 3 - A Baoa Qu (Japan)",
+      "crc32": "A9F5BF54"
+    },
+    {
+      "name": "Kinnikuman II-Sei - Choujin Seisenshi (Japan)",
+      "crc32": "6142FD9D"
+    },
+    {
+      "name": "Kinnikuman II-Sei - Dream Tag Match (Japan)",
+      "crc32": "462F9275"
+    },
+    {
+      "name": "Kirin Editor + Kuro Pad (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "0B006D79"
+    },
+    {
+      "name": "Kiss Communication (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "ACC09417"
+    },
+    {
+      "name": "Kiss Yori... - Seaside Serenade (Japan) (Rev 2)",
+      "crc32": "3B4C60C6"
+    },
+    {
+      "name": "Kosodate Quiz - Dokodemo My Angel (Japan)",
+      "crc32": "4C48624C"
+    },
+    {
+      "name": "Kurupara! (Japan) (Rev 1)",
+      "crc32": "274719F5"
+    },
+    {
+      "name": "Kuttsuke Su (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "09A94F00"
+    },
+    {
+      "name": "Kyousouba Ikusei Simulation - Keiba (Japan) (Rev 1)",
+      "crc32": "ECFBCB1D"
+    },
+    {
+      "name": "LNPUT (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "17A5DBA3"
+    },
+    {
+      "name": "Langrisser Millennium WS - The Last Century (Japan) (Rev 1)",
+      "crc32": "9E0854E2"
+    },
+    {
+      "name": "Last Alive (Japan)",
+      "crc32": "DA4479BF"
+    },
+    {
+      "name": "Last Stand (Japan)",
+      "crc32": "CCCAF8A1"
+    },
+    {
+      "name": "LifeGame for WonderWitch (World) (WonderWitch) (Unl)",
+      "crc32": "D52EE0DB"
+    },
+    {
+      "name": "Lode Runner for WonderSwan (Japan)",
+      "crc32": "21279E82"
+    },
+    {
+      "name": "Lolita Queen (World) (WonderWitch) (Unl)",
+      "crc32": "A1818B41"
+    },
+    {
+      "name": "Long Vowel, The (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "4D27989B"
+    },
+    {
+      "name": "Mac the Speed Shooter (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "C7493525"
+    },
+    {
+      "name": "Macross - True Love Song (Japan)",
+      "crc32": "62D419CD"
+    },
+    {
+      "name": "Magical Drop for WonderSwan (Japan)",
+      "crc32": "637ADA93"
+    },
+    {
+      "name": "Magical Harvest (World) (v0.99) (WonderWitch) (Unl)",
+      "crc32": "6E1513B4"
+    },
+    {
+      "name": "Magical Harvest (World) (v1.00) (WonderWitch) (WWGP2001) (Unl)",
+      "crc32": "647F7637"
+    },
+    {
+      "name": "Mahha de Tsuugaku!! (World) (WonderWitch) (Unl)",
+      "crc32": "CE84799E"
+    },
+    {
+      "name": "Mahjong Touryuumon (Japan) (Rev 1)",
+      "crc32": "C2ED122E"
+    },
+    {
+      "name": "Mahjong Touryuumon (Japan) (Rev 3)",
+      "crc32": "E7E7FD4C"
+    },
+    {
+      "name": "Makai Toushi Sa-Ga (Japan)",
+      "crc32": "1B6F5F30"
+    },
+    {
+      "name": "Makaimura for WonderSwan (Japan)",
+      "crc32": "00B31FBB"
+    },
+    {
+      "name": "Mawase Mawase WonderSwan Mawase (World) (WonderWitch) (Unl)",
+      "crc32": "858C53BB"
+    },
+    {
+      "name": "Maze Maze (World) (WonderWitch) (Unl)",
+      "crc32": "8C0C49D4"
+    },
+    {
+      "name": "Medarot Perfect Edition - Kabuto Version (Japan)",
+      "crc32": "12FB8B28"
+    },
+    {
+      "name": "Medarot Perfect Edition - Kuwagata Version (Japan)",
+      "crc32": "2B40745D"
+    },
+    {
+      "name": "Meitantei Conan - Majutsushi no Chousenjou! (Japan)",
+      "crc32": "92FBF7FB"
+    },
+    {
+      "name": "Meitantei Conan - Nishi no Meitantei Saidai no Kiki! (Japan)",
+      "crc32": "E226863B"
+    },
+    {
+      "name": "Meitantei Conan - Yuugure no Oujo (Japan)",
+      "crc32": "9F6E3F8D"
+    },
+    {
+      "name": "Melodion (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "17F889EA"
+    },
+    {
+      "name": "Memories Off - Festa (Japan)",
+      "crc32": "8E123373"
+    },
+    {
+      "name": "Metakomi Theraphy - Nee Kiite! (Japan)",
+      "crc32": "A3EAD689"
+    },
+    {
+      "name": "Migi Mawari no Randi (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "C6412766"
+    },
+    {
+      "name": "Mikeneko Holmes - Ghost Panic (Japan)",
+      "crc32": "D75EFFC2"
+    },
+    {
+      "name": "Mingle Magnet (Japan) (En,Ja) (Rev 1)",
+      "crc32": "9BAAC7BB"
+    },
+    {
+      "name": "Mini Tennis (World) (WonderWitch) (Unl)",
+      "crc32": "02A13DF7"
+    },
+    {
+      "name": "Mobile Suit Gundam MSVS (Japan)",
+      "crc32": "53B9FEF8"
+    },
+    {
+      "name": "MobileWonderGate (Japan) (Rev 1)",
+      "crc32": "80DE367D"
+    },
+    {
+      "name": "Moero!! Pro Yakyuu Rookies (Japan)",
+      "crc32": "EB995E86"
+    },
+    {
+      "name": "Mogura Tatake (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "1454110B"
+    },
+    {
+      "name": "Monmon Gunner (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "ACEC2B13"
+    },
+    {
+      "name": "Morita Shougi for WonderSwan (Japan)",
+      "crc32": "D675C265"
+    },
+    {
+      "name": "Moverang (World) (WonderWitch) (Unl)",
+      "crc32": "16566668"
+    },
+    {
+      "name": "Mr. Driller (Japan)",
+      "crc32": "5555D95C"
+    },
+    {
+      "name": "Mr. Oha no Ko Bouken - Sai Shuushou Saraba Aishi no Shooting (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "EF104E2F"
+    },
+    {
+      "name": "Multi-BoaRD (World) (WonderWitch) (Unl)",
+      "crc32": "196FD1CE"
+    },
+    {
+      "name": "NAVI GET 400 Million (Japan) (Version 1.0) (Program)",
+      "crc32": "F79BE3B5"
+    },
+    {
+      "name": "NAVI GET 400 Million (Japan) (Version 2.1) (Program)",
+      "crc32": "0A072698"
+    },
+    {
+      "name": "NAVI GET 400 Million (Japan) (Version 3.0) (Program)",
+      "crc32": "4C6CBDB2"
+    },
+    {
+      "name": "NAVI GET 400 Million (Japan) (Version 9) (Program)",
+      "crc32": "83512340"
+    },
+    {
+      "name": "Namco Super Wars (Japan)",
+      "crc32": "8CE4652F"
+    },
+    {
+      "name": "Nametry (World) (v1.00) (WonderWitch) (WWGP2001) (Unl)",
+      "crc32": "23F6215D"
+    },
+    {
+      "name": "Nametry (World) (v1.01) (WonderWitch) (Unl)",
+      "crc32": "6B87A331"
+    },
+    {
+      "name": "Naruto - Konoha Ninpouchou (Japan)",
+      "crc32": "71556E6A"
+    },
+    {
+      "name": "Nazo Ou Pocket (Japan)",
+      "crc32": "4ED8820C"
+    },
+    {
+      "name": "Neko no Kurubushi (World) (WonderWitch) (Unl)",
+      "crc32": "BDE8E20D"
+    },
+    {
+      "name": "Neko no Me Byua (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "CF9868DA"
+    },
+    {
+      "name": "Neojan (World) (WonderWitch) (Unl)",
+      "crc32": "90B0BFCD"
+    },
+    {
+      "name": "Neon Genesis Evangelion - Shito Ikusei (Japan)",
+      "crc32": "BF8D9212"
+    },
+    {
+      "name": "Nice On (Japan) (Rev 1)",
+      "crc32": "B5DBCF12"
+    },
+    {
+      "name": "Nigero! (World) (WonderWitch) (Unl)",
+      "crc32": "CBD54885"
+    },
+    {
+      "name": "Nihon Pro Mahjong Renmei Kounin - Tetsuman (Japan) (Rev 2)",
+      "crc32": "44B3E67C"
+    },
+    {
+      "name": "Nijiiro Dandodan (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "3F743F54"
+    },
+    {
+      "name": "Nobunaga no Yabou for WonderSwan (Japan)",
+      "crc32": "04531734"
+    },
+    {
+      "name": "Noiz (World) (v0.62) (Proto) (WonderWitch) (Unl)",
+      "crc32": "0C91CA8A"
+    },
+    {
+      "name": "Not Found (World) (WonderWitch) (Unl)",
+      "crc32": "8419E454"
+    },
+    {
+      "name": "Octopus Mahjong, The (World) (Ja) (v0.92) (WonderWitch) (Unl)",
+      "crc32": "420FF6CE"
+    },
+    {
+      "name": "Okiraku Daisakusen (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "B86CABEC"
+    },
+    {
+      "name": "Omiyage o Kaou! (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "22020909"
+    },
+    {
+      "name": "One Dazen Won! (World) (v0.02) (Proto) (WonderWitch) (Unl)",
+      "crc32": "15FFE8BD"
+    },
+    {
+      "name": "One Kiri (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "A2A7AF25"
+    },
+    {
+      "name": "Ore no Kakeibo (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "ED8A7158"
+    },
+    {
+      "name": "Ou-chan no Oekaki Logic (Japan)",
+      "crc32": "631BD97A"
+    },
+    {
+      "name": "Ougon (World) (WonderWitch) (Unl)",
+      "crc32": "01274D5A"
+    },
+    {
+      "name": "Oyogu Kamo (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "0AB76E62"
+    },
+    {
+      "name": "PDA Mini for WonderWitch (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "E2382A31"
+    },
+    {
+      "name": "Panic Wonder (World) (WonderWitch) (Unl)",
+      "crc32": "431F49D6"
+    },
+    {
+      "name": "Panzer Battle 3 (World) (Ja) (v3.00) (WonderWitch) (Unl)",
+      "crc32": "CE510135"
+    },
+    {
+      "name": "Pastel Fantasy Deluxe (World) (WonderWitch) (Unl)",
+      "crc32": "0FCA47C9"
+    },
+    {
+      "name": "Patto Golf (World) (WonderWitch) (Unl)",
+      "crc32": "FA3BE632"
+    },
+    {
+      "name": "Pepperas! (World) (v0.20) (Proto) (WonderWitch) (Unl)",
+      "crc32": "8DDB764A"
+    },
+    {
+      "name": "Pepperas! (World) (v0.40) (Proto) (WonderWitch) (Unl)",
+      "crc32": "B72065F8"
+    },
+    {
+      "name": "Petit Balls (World) (WonderWitch) (Unl)",
+      "crc32": "2F9BAE0A"
+    },
+    {
+      "name": "Petit PazzLe (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "9C0DFCC5"
+    },
+    {
+      "name": "Petit Shooo (World) (WonderWitch) (Unl)",
+      "crc32": "5D6A60E0"
+    },
+    {
+      "name": "Petit SounD (World) (Ja) (WonderWitch) (Program)",
+      "crc32": "BB00FD33"
+    },
+    {
+      "name": "Pianica (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "3E16B1AF"
+    },
+    {
+      "name": "Ping Pong Spy (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "1F5E55DA"
+    },
+    {
+      "name": "Pink Passer (World) (Ja) (v0.01) (Proto) (WonderWitch) (Unl)",
+      "crc32": "588CB4E5"
+    },
+    {
+      "name": "Pittari! (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "85DAFAD7"
+    },
+    {
+      "name": "Pladel (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "8AFD218B"
+    },
+    {
+      "name": "Pladel 2 (World) (WonderWitch) (Unl)",
+      "crc32": "9FDC9413"
+    },
+    {
+      "name": "Pocket Fighter (Japan)",
+      "crc32": "35361250"
+    },
+    {
+      "name": "Pocket Musician (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "C0AE5C27"
+    },
+    {
+      "name": "Pocket no Naka no Doraemon (Japan)",
+      "crc32": "2B61BB2B"
+    },
+    {
+      "name": "Poker (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "727116FC"
+    },
+    {
+      "name": "Potential Taper - Rewoke World 03 (World) (En) (WonderWitch) (Unl)",
+      "crc32": "CF1C007D"
+    },
+    {
+      "name": "Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)",
+      "crc32": "90F7E6D6"
+    },
+    {
+      "name": "Project E-Force (World) (2001-11-10) (Proto) (WonderWitch) (Unl)",
+      "crc32": "7E86E88E"
+    },
+    {
+      "name": "Project E-Force (World) (2002-05-29) (Proto) (WonderWitch) (Unl)",
+      "crc32": "0900B618"
+    },
+    {
+      "name": "Puchipuchi (World) (WonderWitch) (Unl)",
+      "crc32": "79C048F7"
+    },
+    {
+      "name": "Pudding Maker (World) (WonderWitch) (Unl)",
+      "crc32": "F3BCB194"
+    },
+    {
+      "name": "Putipati (World) (v1.11) (WonderWitch) (WWGP2002) (Unl)",
+      "crc32": "F4B6EEF1"
+    },
+    {
+      "name": "Putipati (World) (v1.12) (WonderWitch) (Unl)",
+      "crc32": "A109567E"
+    },
+    {
+      "name": "Puyo Puyo Tsuu (Japan)",
+      "crc32": "5A41A7BA"
+    },
+    {
+      "name": "Puzzle Bobble (Japan)",
+      "crc32": "F504CD84"
+    },
+    {
+      "name": "RUN=DIM - Return to Earth (Japan)",
+      "crc32": "15C4552E"
+    },
+    {
+      "name": "Radius Theta (World) (WonderWitch) (Unl)",
+      "crc32": "21398F12"
+    },
+    {
+      "name": "Rainbow Islands - Putty's Party (Japan)",
+      "crc32": "8F8608AD"
+    },
+    {
+      "name": "Raku Jongg (Japan)",
+      "crc32": "FE4FF701"
+    },
+    {
+      "name": "Rave Hunter (World) (WonderWitch) (Unl)",
+      "crc32": "E912A376"
+    },
+    {
+      "name": "ReSiA System (World) (Ja) (v0.10) (Proto) (WonderWitch) (Unl)",
+      "crc32": "54F597A5"
+    },
+    {
+      "name": "Real Cheese (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "0BEA50DA"
+    },
+    {
+      "name": "Rect for WonderSwan (World) (WonderWitch) (Unl)",
+      "crc32": "322B2DF1"
+    },
+    {
+      "name": "Renda Machine (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "7B9A755E"
+    },
+    {
+      "name": "Reversi (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "525E367B"
+    },
+    {
+      "name": "Rhyme Rider Kerorican (Japan)",
+      "crc32": "60706555"
+    },
+    {
+      "name": "Rhythmin (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "78A07676"
+    },
+    {
+      "name": "Ring Infinity (Japan)",
+      "crc32": "14ADBD4B"
+    },
+    {
+      "name": "Ritual (World) (Ja) (Demo) (WonderWitch) (Program) (Unl)",
+      "crc32": "3115C951"
+    },
+    {
+      "name": "Riviera - Yakusoku no Chi Riviera (Japan)",
+      "crc32": "2460B45A"
+    },
+    {
+      "name": "Riviera - Yakusoku no Chi Riviera (Japan) (Rev 1)",
+      "crc32": "62CB398B"
+    },
+    {
+      "name": "Robot Works (Hong Kong) (En,Ja) (Rev 1)",
+      "crc32": "BE6BE690"
+    },
+    {
+      "name": "Robot Works (Japan)",
+      "crc32": "6ADF0E32"
+    },
+    {
+      "name": "Rockman & Forte - Mirai Kara no Chousensha (Japan)",
+      "crc32": "CD206A9E"
+    },
+    {
+      "name": "Rockman EXE - N1 Battle (Japan) (Rev 1)",
+      "crc32": "1F10CA75"
+    },
+    {
+      "name": "Rockman EXE WS (Japan)",
+      "crc32": "658C4B98"
+    },
+    {
+      "name": "Romancing Sa-Ga (Japan)",
+      "crc32": "9C98D97D"
+    },
+    {
+      "name": "SD Gundam - Emotional Jam (Japan) (Rev 2)",
+      "crc32": "ADFC3048"
+    },
+    {
+      "name": "SD Gundam - Emotional Jam (Japan) (Rev 3)",
+      "crc32": "AE83F873"
+    },
+    {
+      "name": "SD Gundam - Operation U.C. (Japan)",
+      "crc32": "F0ACDA5C"
+    },
+    {
+      "name": "SD Gundam Eiyuu Den - Kishi Densetsu (Japan)",
+      "crc32": "C60E5162"
+    },
+    {
+      "name": "SD Gundam Eiyuu Den - Musha Densetsu (Japan)",
+      "crc32": "18ECFFB8"
+    },
+    {
+      "name": "SD Gundam G Generation - Gather Beat (Japan)",
+      "crc32": "E4EB3AB1"
+    },
+    {
+      "name": "SD Gundam G Generation - Gather Beat 2 (Japan)",
+      "crc32": "4D21A347"
+    },
+    {
+      "name": "SD Gundam G Generation - Mono-Eye Gundams (Japan)",
+      "crc32": "6ACA1F04"
+    },
+    {
+      "name": "SD Gundam G Generation - Mono-Eye Gundams (Japan) (Rev 2)",
+      "crc32": "A3ECC9AC"
+    },
+    {
+      "name": "SD Gundam Gashapon Senki - Episode 1 (Japan)",
+      "crc32": "21EB4C59"
+    },
+    {
+      "name": "SD Gundam Gashapon Senki - Episode 1 (Japan) (Alt)",
+      "crc32": "2EC1E9C8"
+    },
+    {
+      "name": "SE-Tester (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "2735273F"
+    },
+    {
+      "name": "SLG Kyara Idou Sanpuru (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "2AEED79A"
+    },
+    {
+      "name": "SMFPlay (World) (Ja) (v0.1) (WonderWitch) (Program) (Unl)",
+      "crc32": "9A9C45D0"
+    },
+    {
+      "name": "Saint Dagrat Monogatari (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "95C903A8"
+    },
+    {
+      "name": "Saint Seiya - Ougon Densetsu Hen - Perfect Edition (Japan)",
+      "crc32": "6E8A792D"
+    },
+    {
+      "name": "Samegame for WSC (World) (WonderWitch) (Unl)",
+      "crc32": "50DB2635"
+    },
+    {
+      "name": "Samoner (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "C59BF216"
+    },
+    {
+      "name": "Sangokushi II for WonderSwan (Japan)",
+      "crc32": "440B2630"
+    },
+    {
+      "name": "Sangokushi for WonderSwan (Japan)",
+      "crc32": "E385EE88"
+    },
+    {
+      "name": "Saorin Puzzle (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "F32DB2F1"
+    },
+    {
+      "name": "Satori - WonderSwan Remix (World) (WonderWitch) (Unl)",
+      "crc32": "4C85FCAA"
+    },
+    {
+      "name": "Self Produce (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "F1F0A499"
+    },
+    {
+      "name": "Senbetsu (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "A2AEEA26"
+    },
+    {
+      "name": "Senkaiden - TV Animation Senkaiden Houshin Engi Yori (Japan)",
+      "crc32": "07A3DD46"
+    },
+    {
+      "name": "Senkaiden Ni - TV Animation Senkaiden Houshin Engi Yori (Japan)",
+      "crc32": "9F35D00F"
+    },
+    {
+      "name": "Sennou Millennium (Japan)",
+      "crc32": "301436AC"
+    },
+    {
+      "name": "Sensuikan (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "16FCBD64"
+    },
+    {
+      "name": "Shageki Tantei Oke (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "45ED59E0"
+    },
+    {
+      "name": "Shaman King - Asu e no Ishi (Japan)",
+      "crc32": "6C029674"
+    },
+    {
+      "name": "Shaman King - Asu e no Ishi (Japan) (Rev 1)",
+      "crc32": "34908CB4"
+    },
+    {
+      "name": "Shanghai Pocket (Japan)",
+      "crc32": "1C489351"
+    },
+    {
+      "name": "Shin Nihon Pro Wrestling - Toukon Retsuden (Japan) (Rev 1)",
+      "crc32": "5B76F901"
+    },
+    {
+      "name": "Shinobi, The (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "CF087D98"
+    },
+    {
+      "name": "Shokaku 80186 (World) (WonderWitch) (Unl)",
+      "crc32": "E58EF5CB"
+    },
+    {
+      "name": "Shougi Touryuumon (Japan)",
+      "crc32": "3AD194EB"
+    },
+    {
+      "name": "Side Pocket for WonderSwan (Japan)",
+      "crc32": "8655269E"
+    },
+    {
+      "name": "Slipull (World) (WonderWitch) (Unl)",
+      "crc32": "2B122933"
+    },
+    {
+      "name": "Slipull Lite (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "EDBDAED6"
+    },
+    {
+      "name": "Slither Link (Japan)",
+      "crc32": "352A570D"
+    },
+    {
+      "name": "Snake for WonderWitch (World) (WonderWitch) (Unl)",
+      "crc32": "4B8E9EF6"
+    },
+    {
+      "name": "Soccer Yarou! - Challenge the World (Japan)",
+      "crc32": "1263DA65"
+    },
+    {
+      "name": "Solfege (World) (WonderWitch) (Unl)",
+      "crc32": "9EF5C2C9"
+    },
+    {
+      "name": "Sorobang (Japan) (Rev 1)",
+      "crc32": "0E467D97"
+    },
+    {
+      "name": "Sotsugyou for WonderSwan (Japan) (Rev 1)",
+      "crc32": "F016DFE1"
+    },
+    {
+      "name": "Space Invaders (Japan)",
+      "crc32": "8D83014F"
+    },
+    {
+      "name": "Star Hearts - Hoshi to Daichi no Shisha (Japan)",
+      "crc32": "138D1018"
+    },
+    {
+      "name": "Star Hearts - Hoshi to Daichi no Shisha - Taikenban (Japan) (Not For Sale)",
+      "crc32": "9874E9A2"
+    },
+    {
+      "name": "Star Ochi (World) (WonderWitch) (Unl)",
+      "crc32": "0CE861D4"
+    },
+    {
+      "name": "Starlight Waltz (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "B7E179D9"
+    },
+    {
+      "name": "Starship (World) (2004-09-02) (Proto) (Aftermarket) (Unl)",
+      "crc32": "BC2636E8"
+    },
+    {
+      "name": "Super Robot Taisen Compact (Japan)",
+      "crc32": "8A8C5AA8"
+    },
+    {
+      "name": "Super Robot Taisen Compact (Japan) (Rev 1)",
+      "crc32": "7572E478"
+    },
+    {
+      "name": "Super Robot Taisen Compact (Japan) (Rev 2)",
+      "crc32": "7021D54F"
+    },
+    {
+      "name": "Super Robot Taisen Compact 2 - Dai-1-bu - Chijou Gekidou Hen (Japan)",
+      "crc32": "782877BC"
+    },
+    {
+      "name": "Super Robot Taisen Compact 2 - Dai-2-bu - Uchuu Gekishin Hen (Japan) (Rev 4)",
+      "crc32": "ECBB46DE"
+    },
+    {
+      "name": "Super Robot Taisen Compact 2 - Dai-3-bu - Ginga Kessen Hen (Japan) (Rev 2)",
+      "crc32": "0B0F8981"
+    },
+    {
+      "name": "Super Robot Taisen Compact 3 (Japan) (Rev 5)",
+      "crc32": "6918C824"
+    },
+    {
+      "name": "Super Robot Taisen Compact 3 (Japan) (Rev 6)",
+      "crc32": "188CA644"
+    },
+    {
+      "name": "Super Robot Taisen Compact for WonderSwan Color (Japan)",
+      "crc32": "16E0D929"
+    },
+    {
+      "name": "Surround (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "9F98D0C2"
+    },
+    {
+      "name": "Taikyoku Igo - Heisei Kiin (Japan)",
+      "crc32": "5023DB90"
+    },
+    {
+      "name": "Taisen Othello Game (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "18597D3C"
+    },
+    {
+      "name": "Taitoru Moji Koudo-hyo (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "D497C07D"
+    },
+    {
+      "name": "Tanjou Debut for WonderSwan (Japan) (Rev 1)",
+      "crc32": "8B74F59A"
+    },
+    {
+      "name": "Tank Island (World) (WonderWitch) (Unl)",
+      "crc32": "A2E09CCC"
+    },
+    {
+      "name": "Tank Move Color (World) (WonderWitch) (Unl)",
+      "crc32": "EC2E8B11"
+    },
+    {
+      "name": "TankQ! (World) (Proto) (WonderWitch) (Unl)",
+      "crc32": "2E7C2BFA"
+    },
+    {
+      "name": "Tare Panda no GunPey (Japan)",
+      "crc32": "A5643AA3"
+    },
+    {
+      "name": "Tekken Card Challenge (Japan)",
+      "crc32": "E7C608E5"
+    },
+    {
+      "name": "Tenori-on (Japan) (En)",
+      "crc32": "6FE79BB1"
+    },
+    {
+      "name": "Teroteroropa (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "D1F5CD08"
+    },
+    {
+      "name": "Terrors (Japan)",
+      "crc32": "EF5B6B82"
+    },
+    {
+      "name": "Terrors 2 (Japan)",
+      "crc32": "9BD8F08C"
+    },
+    {
+      "name": "Testarossa (World) (WonderWitch) (Unl)",
+      "crc32": "D291B29B"
+    },
+    {
+      "name": "Tetris (Japan)",
+      "crc32": "7B0CAEA9"
+    },
+    {
+      "name": "Tetsujin 28 Gou (Japan)",
+      "crc32": "6F304DCA"
+    },
+    {
+      "name": "Text Putter (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "2A7EE612"
+    },
+    {
+      "name": "Time Bokan Series - Bokan Densetsu - Buta mo Odaterya Doronboo (Japan)",
+      "crc32": "7DA6ACB9"
+    },
+    {
+      "name": "Tokei (World) (Ja) (Demo) (WonderWitch) (Unl)",
+      "crc32": "21530217"
+    },
+    {
+      "name": "Tokyo Majin Gakuen - Fuju Houroku (Japan)",
+      "crc32": "91117D1B"
+    },
+    {
+      "name": "Tonde Stone (World) (WonderWitch) (Unl)",
+      "crc32": "BEA730C6"
+    },
+    {
+      "name": "Tonpuusou (Japan)",
+      "crc32": "47659B2C"
+    },
+    {
+      "name": "Trap Trap (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "2DF069A1"
+    },
+    {
+      "name": "Triangle (World) (WonderWitch) (Unl)",
+      "crc32": "8E1EF5C6"
+    },
+    {
+      "name": "Truchet (World) (WonderWitch) (Unl)",
+      "crc32": "224B58F5"
+    },
+    {
+      "name": "Trump Collection - Bottom-Up Teki Trump Seikatsu (Japan) (Rev 1)",
+      "crc32": "C283EC5F"
+    },
+    {
+      "name": "Trump Collection 2 - Bottom-Up Teki Sekaiisshuu no Tabi (Japan) (Rev 1)",
+      "crc32": "64AAF392"
+    },
+    {
+      "name": "Tsubo Game (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "4BA201F8"
+    },
+    {
+      "name": "Tsunahiki (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "BC3E83AB"
+    },
+    {
+      "name": "Tumble (World) (WonderWitch) (Unl)",
+      "crc32": "04DDF1C0"
+    },
+    {
+      "name": "Turntablist - DJ Battle (Japan)",
+      "crc32": "0D5171F0"
+    },
+    {
+      "name": "Uchuu Senkan Yamato (Japan)",
+      "crc32": "5793BDDA"
+    },
+    {
+      "name": "Ultraman - Hikari no Kuni no Shisha (Japan)",
+      "crc32": "DE2208AB"
+    },
+    {
+      "name": "Umetatte (World) (WonderWitch) (Unl)",
+      "crc32": "10818787"
+    },
+    {
+      "name": "Umizuri ni Ikou! (Japan)",
+      "crc32": "86B56511"
+    },
+    {
+      "name": "UnderBabel (Main Data) (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "776D961C"
+    },
+    {
+      "name": "UnderBabel (Supporting Data) (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "F0B5886C"
+    },
+    {
+      "name": "Uzumaki - Denshi Kaiki Hen (Japan) (Rev 4)",
+      "crc32": "812020EF"
+    },
+    {
+      "name": "Uzumaki - Noroi Simulation (Japan)",
+      "crc32": "CA3F0B00"
+    },
+    {
+      "name": "V-Attacker (World) (WonderWitch) (Unl)",
+      "crc32": "9A521DD8"
+    },
+    {
+      "name": "Vaitz Blade (Japan) (Rev 1)",
+      "crc32": "8FC9E145"
+    },
+    {
+      "name": "Virus (World) (WonderWitch) (Unl)",
+      "crc32": "555DD2BE"
+    },
+    {
+      "name": "Visual Sequencer MUCOS (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "D008C8CC"
+    },
+    {
+      "name": "WWTerm (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "FB7A1439"
+    },
+    {
+      "name": "Wago (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "CB4C5BD1"
+    },
+    {
+      "name": "War Cup (World) (Ja) (Proto) (WonderWitch) (Unl)",
+      "crc32": "BD2A1D58"
+    },
+    {
+      "name": "Wasabi Produce - Street Dancer (Japan)",
+      "crc32": "1860B655"
+    },
+    {
+      "name": "Wave Q (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "AC95CAE2"
+    },
+    {
+      "name": "Wave R (World) (v1.0) (WonderWitch) (WWGP2003) (Unl)",
+      "crc32": "06F6914E"
+    },
+    {
+      "name": "Wave R (World) (v1.1) (WonderWitch) (Unl)",
+      "crc32": "8902B717"
+    },
+    {
+      "name": "Well-being (World) (WonderWitch) (Unl)",
+      "crc32": "FD6767C9"
+    },
+    {
+      "name": "Wild Card (Japan)",
+      "crc32": "D9401F0A"
+    },
+    {
+      "name": "Witch Typing (World) (Ja) (WonderWitch) (Unl)",
+      "crc32": "4180AB58"
+    },
+    {
+      "name": "Witches! (World) (WonderWitch) (Unl)",
+      "crc32": "8B743ABD"
+    },
+    {
+      "name": "With You - Mitsumete Itai (Japan)",
+      "crc32": "E14E9D36"
+    },
+    {
+      "name": "With a Dory (World) (Ja) (Proto) (WonderWitch) (Unl)",
+      "crc32": "8B8CA6EF"
+    },
+    {
+      "name": "Wizardry Scenario 1 - Proving Grounds of the Mad Overlord (Japan)",
+      "crc32": "15E55706"
+    },
+    {
+      "name": "Wonder Classic (Japan)",
+      "crc32": "12F10B27"
+    },
+    {
+      "name": "Wonder Racer (World) (WonderWitch) (Unl)",
+      "crc32": "D993F2D0"
+    },
+    {
+      "name": "Wonder Recorder (World) (Ja) (v1.00) (WonderWitch) (WWGP2001) (Unl)",
+      "crc32": "CEF38366"
+    },
+    {
+      "name": "Wonder Recorder (World) (Ja) (v1.01) (WonderWitch) (Unl)",
+      "crc32": "362F2960"
+    },
+    {
+      "name": "Wonder Stadium '99 (Japan)",
+      "crc32": "E252919D"
+    },
+    {
+      "name": "Wonder Stadium (Japan)",
+      "crc32": "23BC0309"
+    },
+    {
+      "name": "Wonder Su-Zi- (World) (WonderWitch) (Unl)",
+      "crc32": "D62A6AFA"
+    },
+    {
+      "name": "WonderCell (World) (v0.2) (Aftermarket) (Unl)",
+      "crc32": "49B527E4"
+    },
+    {
+      "name": "WonderCell (World) (v0.2) (WonderWitch) (Aftermarket) (Unl)",
+      "crc32": "222710FF"
+    },
+    {
+      "name": "WonderCommand (World) (WonderWitch) (Program)",
+      "crc32": "64A358F5"
+    },
+    {
+      "name": "WonderSwan Handy Sonar (Japan) (Rev 1)",
+      "crc32": "2AB9852D"
+    },
+    {
+      "name": "WonderSwan Handy Sonar (Japan) (Rev 2)",
+      "crc32": "D4188811"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.0.0) (Program)",
+      "crc32": "DC60F640"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.0.2) (Program)",
+      "crc32": "71AA2E39"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.0.3) (Program)",
+      "crc32": "F71EF60C"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.1) (Program)",
+      "crc32": "F8BDF7AB"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.2) (Program)",
+      "crc32": "05C0166E"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.3) (Program)",
+      "crc32": "9303FA7E"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.4) (Program)",
+      "crc32": "E8D001B8"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.5) (Program)",
+      "crc32": "45BA7287"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.1.6b1) (Program)",
+      "crc32": "6480BF70"
+    },
+    {
+      "name": "WonderWitch (Japan) (FreyaOS 1.2.0) (Program)",
+      "crc32": "8E5E9633"
+    },
+    {
+      "name": "WonderWitch EP-NET (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "72DB30FD"
+    },
+    {
+      "name": "X - Card of Fate (Japan)",
+      "crc32": "66B617D5"
+    },
+    {
+      "name": "XI Little (Japan)",
+      "crc32": "25E2BA75"
+    },
+    {
+      "name": "Yoke Bin (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "C724AB72"
+    },
+    {
+      "name": "Yokeru Kamo (World) (v1.0) (WonderWitch) (WWGP2002)",
+      "crc32": "857C1F7A"
+    },
+    {
+      "name": "Yokeru Kamo (World) (v1.1) (WonderWitch) (Unl)",
+      "crc32": "48F14C43"
+    },
+    {
+      "name": "Yoneshichi Note TR2 (World) (Ja) (WonderWitch) (Program) (Unl)",
+      "crc32": "3303640F"
+    },
+    {
+      "name": "Yopparau Game for WonderWitch (World) (WonderWitch) (Unl)",
+      "crc32": "A86880DC"
+    },
+    {
+      "name": "Yuuki Paint (World) (v1.01) (WonderWitch) (WWGP2001) (Unl)",
+      "crc32": "B560F389"
+    },
+    {
+      "name": "Yuuki Paint (World) (v1.20) (WonderWitch) (Unl)",
+      "crc32": "21FA994C"
+    },
+    {
+      "name": "Ze Sound Player + Sample Music (World) (WonderWitch) (Program) (Unl)",
+      "crc32": "5960CCFF"
+    },
+    {
+      "name": "[BIOS] SwanCrystal Boot ROM (Japan) (En)",
+      "crc32": "0B382C81"
+    },
+    {
+      "name": "[BIOS] WonderSwan Boot ROM (Japan) (En)",
+      "crc32": "7F35F890"
+    },
+    {
+      "name": "[BIOS] WonderSwan Color Boot ROM (Japan) (En)",
+      "crc32": "CB06D9C3"
+    },
+    {
+      "name": "beatmania for WonderSwan (Japan)",
+      "crc32": "324622C9"
+    },
+    {
+      "name": "collo (World) (WonderWitch) (Unl)",
+      "crc32": "BDA26417"
+    },
+    {
+      "name": "mama Mitte (Japan) (Program)",
+      "crc32": "F366172E"
+    },
+    {
+      "name": "mama Mitte (Japan) (Rev D) (Program)",
+      "crc32": "867A8A3F"
+    },
+    {
+      "name": "otto (World) (WonderWitch) (Unl)",
+      "crc32": "F0B953D1"
+    },
+    {
+      "name": "vs-shooting (World) (Demo) (WonderWitch) (Unl)",
+      "crc32": "0BC1119E"
+    }
+  ]
+}
