@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "**/data/*.json": "json5",
+  },
+  "editor.tabSize": 2
+}

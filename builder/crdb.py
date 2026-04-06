@@ -1,6 +1,17 @@
-import glob, json, struct, datetime as dt
+import glob, struct, datetime as dt
 from os.path import join, dirname, isdir
 from pathlib import Path
+
+try:
+    import pyjson5
+except ImportError:
+    import json
+    pyjson5 = None
+
+def loadJson(f):
+    if (pyjson5):
+        return pyjson5.decode_io(f)
+    return json.load(f)
 
 class CRDBException(Exception):
     message = ""
@@ -90,7 +101,7 @@ class CRDBCore:
         self.__crdb = crdb
 
         with open(self.__file) as f:
-            data = json.load(f)
+            data = loadJson(f)
             self.__outfile = data['outfile']
             self.__system = data['system']
             self.__confkey = data['pio']
@@ -201,7 +212,7 @@ class CRDB:
         self.__manifest_file = join(self.__dir, ".crdb.json")
 
         with open(self.__manifest_file) as f:
-            self.__manifest = json.load(f)
+            self.__manifest = loadJson(f)
             self.__header_format = self.__manifest['header']['python']
             self.__version = self.__manifest['version']
             self.__make_index()

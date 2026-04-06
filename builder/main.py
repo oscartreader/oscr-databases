@@ -1,7 +1,6 @@
 from os.path import join
 from os import getcwd
 from SCons.Script import DefaultEnvironment, ARGUMENTS # pyright: ignore[reportMissingImports]
-from crdb import CRDB, CRDBException
 
 errored = 0
 errors = []
@@ -9,6 +8,13 @@ env = DefaultEnvironment()
 config = env.GetProjectConfig()
 platform_path = env.PioPlatform().get_dir()
 verbose = int(ARGUMENTS.get("PIOVERBOSE", 0))
+
+try:
+    import pyjson5
+except ImportError:
+    env.Execute("$PYTHONEXE -m pip install pyjson5")
+
+from crdb import CRDB, CRDBException
 
 PROJECT_DIR = getcwd()
 DESTINATION_DIR = join(PROJECT_DIR, 'sd', '.oscr', 'db')
@@ -18,7 +24,7 @@ crdb = CRDB(CRDB_DATA)
 
 print()
 print("--------------------------------------------------------")
-print("         CRDB Python Processor v1.0.0 (CRDB V{})".format(crdb.version))
+print("         CRDB Python Processor v1.0.1 (CRDB V{})".format(crdb.version))
 print("--------------------------------------------------------")
 print()
 
