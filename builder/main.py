@@ -10,7 +10,7 @@ platform_path = env.PioPlatform().get_dir()
 verbose = int(ARGUMENTS.get("PIOVERBOSE", 0))
 
 try:
-    import pyjson5
+    import pyjson5 # pyright: ignore[reportMissingImports]
 except ImportError:
     env.Execute("$PYTHONEXE -m pip install pyjson5")
 
