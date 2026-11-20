@@ -31790,6 +31790,18 @@
       "header": "4E45531A2000E3180000000900000001"
     },
     {
+      "name": "Mario & Yoshi (Europe)",
+      "crc32": "836685C4",
+      "id32a": "29D1D575",
+      "id32b": "9A78A49D",
+      "mapper": 1,
+      "iprg": 8,
+      "prgsize": 3,
+      "ichr": 8,
+      "chrsize": 3,
+      "header": "4E45531A080410080000000001000001"
+    },
+    {
       "name": "Mario 12 (Asia) (Ja) (Pirate)",
       "crc32": "0652445D",
       "id32a": "81BECAA3",
@@ -38674,6 +38686,16 @@
       "iprg": 4,
       "prgsize": 2,
       "header": "4E45531A040083A8000000990200002C"
+    },
+    {
+      "name": "Rad Racer (Europe)",
+      "crc32": "654F4E90",
+      "id32a": "489D9B5D",
+      "id32b": "F94CC110",
+      "mapper": 1,
+      "iprg": 8,
+      "prgsize": 3,
+      "header": "4E45531A08001008000000070100001D"
     },
     {
       "name": "Rad Racket - Deluxe Tennis II (Taiwan) (En) (Unl)",
